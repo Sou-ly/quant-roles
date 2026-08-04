@@ -1,0 +1,89 @@
+{
+  "firm": "Eclipse Trading",
+  "careers_url": "https://www.eclipsetrading.com/careers/",
+  "offices_in_scope_confirmed": ["Hong Kong", "Shanghai"],
+  "offices_checked_not_found": ["London", "Singapore", "Tokyo", "Amsterdam", "Paris", "Dublin"],
+  "roles": [
+    {
+      "location": "Hong Kong",
+      "title": "Low Latency C++ Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/7339999002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of C++ server-side development on Linux (C++ 14 or later desirable)\"; \"University degree in Computer Science or related field\". No graduation-year or student gate. \"Candidates with more experience may be considered as Senior Software Engineer.\"",
+      "requirements": "University degree in Computer Science or related field | 2+ years C++ server-side development on Linux (C++14 or later desirable) | Strong technical design skills | Solid understanding of multithreading, network socket programming and low-latency techniques | Experience developing automated trading systems or exchange connectivity | Excellent spoken and written English",
+      "comp_local": "",
+      "notes": "Team: Low Latency Development (market links + algorithmic trading system) — exchange connectivity, quoting/hedging/arbitrage for listed derivatives and delta one. Posting explicitly states: \"The position is primarily located in Hong Kong; however, we welcome applications from overseas candidates as well. For those qualified candidates who are considering relocating to Hong Kong, we offer relocation assistance and sponsorship for a work visa.\" This is the best fit for the candidate's profile of the whole board. Duties include tier-3 support."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Low Latency C++ Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/7907711002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of C++ server-side development on Linux\"; university degree in CS or related. Seniority \"commensurate with the relevant experience and qualifications of the selected candidate\". No student/graduation-year gate.",
+      "requirements": "University degree in Computer Science or related field | 3+ years C++ server-side development on Linux (C++14 or later desirable) | Multithreading, network socket programming, low-latency techniques | Automated trading systems or exchange connectivity (China exchanges a plus) | Kafka a plus; solid data analysis skills | Excellent communication in spoken and written English",
+      "comp_local": "",
+      "notes": "Posting is bilingual (Chinese intro + English body) but the stated language requirement is \"Excellent communication in spoken and written English\" — no Mandarin requirement is stated, so this looks like an English-tolerant mainland seat. Mandarin is still realistically useful for a Shanghai desk. Same Low Latency Development team as HK; \"Opportunity to travel to our headquarters in Hong Kong\". Bar is one year higher than the HK req (3+ vs 2+ years). Sponsorship not mentioned for Shanghai."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Junior Trading Analyst - Delta One & ETF Trading",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8640162002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-3 years of hands-on experience working on or with a high to mid frequency trading desk that specializes in Delta One and ETF trading\" — experience level fits, but the domain experience is desk-specific and the candidate has none.",
+      "requirements": "1-3 years on/with a high-to-mid-frequency Delta One & ETF desk | ETF pricing and hedging across asset classes, time zones, exchanges | Basket execution optimisation, delta hedging, market microstructure | Cross-border ETF market making systems | Exceptional Python and data-analysis libraries | Strong academic background in a quantitative or engineering discipline",
+      "comp_local": "",
+      "notes": "Onsite; part of the global Quant and Integration team, reports to Senior Trading Analyst. Despite \"Junior\", the requirements are prior ETF/Delta One desk experience, not a generalist quant entry point — realistic stretch for this candidate. Python-first, not C++."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Junior Trading Analyst - Volatility Trading",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/8640163002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-3 years of hands-on experience working on or with a high to mid frequency trading desk that specializes in volatility trading\" — no graduation-year gate, but requires prior vol-desk experience.",
+      "requirements": "1-3 years on/with a high-to-mid-frequency volatility trading desk | Parametric volatility models, smile decomposition, spot-vol correlation | Backtesting/optimising options portfolios (dispersion, vol beta, realized vol forecasting) | Event vol pricing and term structure modelling | Exceptional Python and data-analysis libraries | Strong quantitative/engineering academic background",
+      "comp_local": "",
+      "notes": "Sister posting to the Delta One & ETF analyst role, same team and framing. Requires prior options/vol desk exposure the candidate does not have; ML background is not what is asked for here."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Options Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/7939165002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of options market making experience\" and \"Proven track record of profitability and consistent trading performance in options markets\" — a hard experienced-trader gate; not accessible from a software/ML background.",
+      "requirements": "Bachelor's in Finance, Economics, Mathematics or related | 2+ years options market making experience | Proven P&L track record in options markets | Options pricing models and volatility analysis | Prior experience with electronic trading systems | Good spoken and written English",
+      "comp_local": "",
+      "notes": "Volatility trading team in Hong Kong. Same visa language as the HK C++ role: relocation assistance and work-visa sponsorship offered to qualified overseas candidates. Listed for completeness — the P&L track-record requirement makes it a poor fit for this candidate."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Senior Quant Researcher | High Frequency Delta 1 - Expression of Interest",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/eclipsetrading/jobs/4209233002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Masters or PhD in a quantitative discipline\"; \"5+ years experience in analysing real world data in a first class research environment\"; \"3+ years of financial markets experience working directly with trading desks\". Well above the candidate's ~18 months — a stretch, and it is an evergreen \"Expression of Interest\" pipeline req rather than a specific opening.",
+      "requirements": "MSc or PhD in a quantitative discipline (Stats, Physics, Maths, Signal Processing, ML) | 5+ years analysing real-world data in a first-class research environment | 3+ years financial markets experience working directly with trading desks | High-frequency Delta One (equities or futures) preferred | Low-latency real-time systems experience preferred | Very strong production coding in an OO language, C++ preferred",
+      "comp_local": "",
+      "notes": "Research team is based in the Hong Kong HQ. ML-for-time-series forecasting is explicitly called out (\"Experience in using machine learning to forecast sequence or time series data preferred\") and C++ production coding is preferred, which lines up with the candidate's kernels/C++ background — but the 5+/3+ year bars do not. \"Expression of Interest\" means no confirmed headcount; treat as speculative."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Hong Kong",
+      "existing_title": "C++ Developer",
+      "verdict": "title-changed",
+      "detail": "The Hong Kong office exists (23/F One Hennessy, 1 Hennessy Road, Wan Chai) and a C++ role is live, but the exact posted title is \"Low Latency C++ Engineer\" at https://job-boards.greenhouse.io/eclipsetrading/jobs/7339999002. The row's eligibility claim (\"New-grad OR entry-level req — recent grads accepted; you qualify\") is wrong: the posting requires \"2+ years of C++ server-side development on Linux\" and no new-grad C++ req is on the board. The row's requirement bullets (\"BS/MS in CS, EE, maths or physics\", \"No finance background required\") are not verbatim from this posting. The HKD 1.2-2.0M comp figure is not stated anywhere on the posting or careers site and remains unverified. The visa note is correct: the posting offers relocation assistance and work-visa sponsorship."
+    }
+  ],
+  "notes": "Eclipse Trading's careers page (https://www.eclipsetrading.com/careers/) and /all-jobs page render job listings via an embedded Greenhouse widget (boards.greenhouse.io/embed/job_board/js?for=eclipsetrading), so plain fetches of those pages show no listings. Roles were enumerated from the firm's own Greenhouse board API (https://boards-api.greenhouse.io/v1/boards/eclipsetrading/jobs) — 15 live reqs total on 2026-08-04 — which is the primary source hosted for the firm. Confirmed offices from the firm's own contact page: Hong Kong (HQ), Shanghai, Sydney, Chicago. Only Hong Kong and Shanghai are in scope; there is no London, Singapore, Tokyo or EU office. Out-of-scope-track HK/Shanghai reqs deliberately excluded: Data Systems Team Lead (10+ yrs, data platform leadership), DevOps Team Lead, Network Engineer, Java Software Engineer, Front Office Python Developer, Senior Trading Support Engineer, Recruitment Coordinator. Chicago reqs excluded per geography. No ML Performance / GPU / kernel-engineering role exists anywhere on the board. The careers page describes Graduate Trainee Trader, Graduate Developer and Software Developer Internship programmes, but none are currently posted on the board — and all are student/new-grad gated, so out of fit regardless. No compensation figures are stated on any posting; comp_local left empty throughout rather than extrapolated."
+}

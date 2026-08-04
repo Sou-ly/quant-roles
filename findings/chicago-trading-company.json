@@ -1,0 +1,41 @@
+{
+  "firm": "Chicago Trading Company",
+  "careers_url": "https://www.chicagotrading.com/careers/",
+  "offices_in_scope_confirmed": ["London", "Amsterdam"],
+  "offices_checked_not_found": ["Singapore", "Hong Kong", "Shanghai", "Tokyo", "Paris", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Senior Network Engineer",
+      "track": "C++",
+      "url": "https://www.chicagotrading.com/posting?req=4701940005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Asks for 'extensive experience supporting a large-scale, global Network'; financial trading industry experience preferred. Senior-level — likely more than ~18 months experience expected.",
+      "requirements": "Extensive experience supporting a large-scale, global network, with hands-on low-latency architecture experience | Deep knowledge of low-level network debugging and a track record of solving performance issues | Deep understanding of TCP/IP and Ethernet networking, incl. unicast and multicast routing protocols | Automation to manage the network at scale; monitoring and alerting for network and application performance | Strong problem-solving under pressure, collaborative customer-service mindset | Participation in an on-call rotation",
+      "comp_local": "",
+      "notes": "TRACK CAVEAT: this is a network-engineering / infrastructure-operations role on the UK Technology team, NOT a C++ software-development role. Filed under C++ as the closest of the four tracks (low-latency core infrastructure), but the posting mentions no programming language and the day-to-day is network design, procurement, implementation and on-call support. Posted Jul 23, 2026. Hybrid workplace model (all teams except Trading). Office: 110 Bishopsgate, 16th Floor, London EC2N 4AY. UK HPI visa would be self-sponsored and cost CTC nothing; posting says nothing about sponsorship. This is the ONLY non-campus opening CTC has anywhere in scope."
+    },
+    {
+      "location": "London",
+      "title": "Quant Trading Associate - 2027 Start",
+      "track": "Trader",
+      "url": "https://www.chicagotrading.com/posting?req=4716509005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "GATED — POOR FIT. Verbatim: 'Pursuing a Bachelor's or Master's degree. All majors and concentrations welcome. You will graduate between December 2026-June 2027.' The candidate graduated Feb 2026 and is already employed, so does not meet the graduation window.",
+      "requirements": "Pursuing a Bachelor's or Master's degree, all majors welcome | Graduating December 2026 - June 2027 | Strong quantitative and analytical abilities | Basic programming skills or willingness to learn Python | Demonstrated record of success (academics, awards) | Willing to relocate to London | No prior finance experience necessary",
+      "comp_local": "",
+      "notes": "Entry-level rotational programme in the Trading & Quant organisation, feeding into Quant Trader or Quant Researcher seats. Included only because it is the sole Trader-track opening in an in-scope city; the graduation-year gate excludes this candidate on a literal reading. If interested, the route would be a direct approach to CTC London recruiting for an experienced-hire trading seat rather than the campus pipeline."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Chicago",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "Chicago is out of scope for this pass (US), and separately the row is inaccurate on two counts: (1) CTC has no posting titled 'Quantitative Developer' on its own board as of 2026-08-04 — the nearest live Chicago/New York C++ reqs are 'C++ Senior Engineer - Market Data' (https://www.chicagotrading.com/posting?req=4675190005) and 'C++ Senior Engineer - Options Market Making Execution' (https://www.chicagotrading.com/posting?req=4673730005), both senior; (2) the row's eligibility claim 'New-grad OR entry-level req — recent grads accepted; you qualify' is wrong for CTC's entry-level engineering track, which is 'Associate Engineer - 2027 Start' (https://www.chicagotrading.com/posting?req=4716937005), a campus req gated on graduation year. The '$250-330k' comp figure has no source on any CTC posting — CTC does not publish salary ranges on its own board."
+    }
+  ],
+  "notes": "CTC runs its own job board at https://www.chicagotrading.com/search.php (postings at https://www.chicagotrading.com/posting?req=<id>, Greenhouse-backed; the public boards.greenhouse.io/chicagotradingcompany board 404s, and the only Greenhouse short link on the site, https://grnh.se/bd1da93a5us, is a general talent community). All 22 experienced-hire reqs plus 7 campus reqs were enumerated directly from the HTML on 2026-08-04. Confirmed office footprint from the site footer and about page: Chicago (HQ, 425 S. Financial Place), New York (151 W 42nd St), London (110 Bishopsgate), Amsterdam (Gustav Mahlerplein 28). NO Singapore, Hong Kong, Shanghai or Tokyo office exists — do not add one. Note that 'Options Trader - Asia Hours' (req 4662226005) is a Chicago-based seat covering Asian hours, not an Asia office. Amsterdam has ZERO live openings of any kind. Everything else on the board is Chicago / New York / Miami / 'US' and therefore out of scope. Also live in London but excluded as out of scope: 'Quant Trading Internship - Summer 2027' (https://www.chicagotrading.com/posting?req=4718710005) — 8 weeks (under the 6-month minimum) and gated on graduating December 2027-June 2028. CTC publishes no compensation figures on any posting, so all comp_local fields are empty. Coverage gap: none material — the firm's own board was fully readable and no page was blocked."
+}

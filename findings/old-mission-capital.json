@@ -1,0 +1,71 @@
+{
+  "firm": "Old Mission Capital",
+  "careers_url": "https://www.oldmissioncapital.com/careers/",
+  "offices_in_scope_confirmed": ["London"],
+  "offices_checked_not_found": ["Amsterdam", "Dublin", "Paris", "Frankfurt", "Milan", "Warsaw", "Zurich", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "C++ Software Engineer",
+      "track": "C++",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6515984003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"7+ years of experience developing applications in modern C++\" — no graduation-year gate, but a hard senior experience bar the candidate (~18 months by mid-2027) does not meet on paper.",
+      "requirements": "BS/BA in CS, Engineering or another technical field | 7+ years modern C++ (11/14/17/20), Linux, Python and BASH | In-depth Linux kernel and systems programming knowledge | Low-latency systems; parallel/concurrent/multi-threaded programming | Exchange API / network protocol experience | Prefer low-latency computing and hardware-level design",
+      "comp_local": "",
+      "notes": "Posted by Old Mission Capital LLC for the London office (1 Finsbury Square, EC2A 1AE). Greenhouse metadata lists the hiring teams as Options, Research Infrastructure, Position System, Equity System, Trading Support. Posting first published 2025-03-20, last updated 2026-07-09 — long-running evergreen req. UK: candidate is HPI-visa eligible at no cost to the employer; posting says nothing about sponsorship. The 7+ years bar is the main obstacle; llama.cpp GPU kernel work and production C++ are the strongest counterweights."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=4455441003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1+ years of relevant trading experience\" — experienced-hire req, no student or graduation-year gate. Candidate has no trading experience, so this is the binding constraint.",
+      "requirements": "Undergraduate or advanced degree in a quantitative field (CS, engineering, hard sciences) | Proficiency in at least one of Python, C++, Java, VBA, R, Matlab, Ruby | 1+ years relevant trading experience | Works and solves problems in a team under high pressure | Highest ethical standards | Strong written and verbal communication",
+      "comp_local": "",
+      "notes": "Hiring entity named in the posting is \"Old Mission Europe\", London office. Responsibilities: disciplined decision making, risk management, derivative pricing, researching new opportunities. Oldest live req on the board (first published 2022) — treat as evergreen pipeline rather than a specific open seat."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trader – 2027 Graduate Program (August Start)",
+      "track": "Trader",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "GRADUATE-PROGRAM GATE. Titled \"2027 Graduate Program (August Start)\" and the body refers to \"junior traders\". The listed requirements do not themselves state a graduation year, but the programme framing targets 2027 graduates — a poor fit for someone who graduated Feb 2026 and will have ~18 months of industry experience.",
+      "requirements": "Undergraduate or advanced degree in a quantitative field (CS, engineering, hard sciences) | Proficiency in at least one of Python, C++, VBA, Java, R, Matlab | Team problem-solving in a high-pressure environment | Highest ethical standards | Strong work ethic, adapts quickly | Superior written and verbal communication",
+      "comp_local": "",
+      "notes": "Newly published 2026 for an August 2027 start, which matches the candidate's target start date — but it is the campus track. The experienced Quantitative Trader req above is the better door. Parallel Chicago/New York versions of this programme exist and are out of scope."
+    },
+    {
+      "location": "London",
+      "title": "Python Software Engineer",
+      "track": "C++",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7683739003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A minimum of 3 years of professional Python experience in a production environment\" — no graduation-year gate; candidate will be short of the 3-year bar at a mid-2027 start.",
+      "requirements": "Bachelor's in CS, Mathematics or a related Engineering/Science discipline | 3+ years professional production Python | High proficiency in Python on Linux | Familiarity with relational databases (PostgreSQL, MySQL) | Strong written and verbal communication | Owns and drives projects in a fast-paced environment",
+      "comp_local": "",
+      "notes": "Track is a judgement call — the language is Python, not C++, so it does not cleanly fit the C++ track, but the work is trading-systems engineering (refining trading systems and mission-critical applications, working alongside quants, traders and research) rather than the out-of-scope 'pure Python data eng'. Filed under C++ as the nearest systems/trading-infrastructure track; downgrade or drop if the sheet wants strict language matching. Lowest bar of the four London reqs."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "office-does-not-exist",
+      "detail": "WRONG ROW — DELETE. Old Mission has exactly three offices: Chicago (1 N. Dearborn St), New York (120 Broadway), London (1 Finsbury Square). Confirmed on https://www.oldmissioncapital.com/contact/ and repeated verbatim in the boilerplate of every live posting: \"Our offices in Chicago, New York, and London\". Zero Amsterdam roles on the Greenhouse board (34 live reqs, all Chicago / New York / London). The row's comp figure (€85–130k) and its \"New-grad OR entry-level req — recent grads accepted\" eligibility text are therefore both unsupported inventions. The correct EU-adjacent substitute is London."
+    },
+    {
+      "location": "Chicago",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Out of scope for this pass (US), but for the record: a Chicago req is live and its exact title is \"C++ Software Engineer\", not \"Software Engineer (C++)\" — https://www.oldmissioncapital.com/careers/?gh_jid=5607340003. The row's \"New-grad OR entry-level req\" eligibility claim does not match the London sibling posting, which demands 7+ years; the Chicago 2027 campus track is a separate req titled \"Software Engineer – 2027 Graduate Program (August Start)\". The $280–380k comp figure was not stated anywhere I could see and should be treated as unverified."
+    }
+  ],
+  "notes": "Coverage is complete and primary-sourced. The public careers page at https://www.oldmissioncapital.com/careers/ renders its listings via a JS-embedded Greenhouse board and returns nothing useful to a plain fetch; job-boards.greenhouse.io/oldmissioncapital 302-redirects back to that page. I enumerated all 34 live reqs through the firm's own Greenhouse API (boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs) and read each London posting's full text — this is the same data the firm's own page renders, so I treat it as primary. Location breakdown of the 34: Chicago 21, New York 6, London 4, Chicago-or-New-York 3. Only the 4 London reqs are in scope, and all 4 are captured above (the fourth London req, \"Operations Analyst\", is out of scope). NO in-scope ML Performance or Research roles: every Quantitative Researcher req (ETFs, Fixed Income, Systematic Equities, Ph.D. programme) is Chicago or New York, and there is no ML-infra/GPU/HPC posting anywhere on the board — the firm's ML-adjacent hiring appears to be US-only. No Asia or continental-EU presence of any kind. No compensation figures are stated in any posting; all four comp_local fields are deliberately empty. UK postings carry no sponsorship language either way."
+}

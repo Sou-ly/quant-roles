@@ -1,0 +1,16 @@
+{
+  "firm": "All Options",
+  "careers_url": "https://www.alloptions-international.com/careers/",
+  "offices_in_scope_confirmed": ["Amsterdam"],
+  "offices_checked_not_found": ["London", "Singapore", "Hong Kong", "Shanghai", "Tokyo", "Paris", "Frankfurt", "Dublin"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "The Amsterdam office is real (Kloveniersburgwal 87, 1011 KA Amsterdam, per https://www.alloptions-international.com/), but the firm's own careers page at https://www.alloptions-international.com/careers/ lists zero Amsterdam openings — the 'All Options' (Amsterdam) tab renders 'No data was found', while all six live reqs (Graduate Quantitative Researcher, Graduate Quantitative Trader, Risk Manager - Equity Derivatives, Trading Systems Support Lead, Delta One Trader, Quantitative Trader) are tagged Austin, TX. No 'Quantitative Developer' req exists anywhere on the site as of 2026-08-04, so the row's title, eligibility gate, requirements list and comp band are unverified. The row's source URL https://alloptions.nl/careers/ now 301-redirects to the international domain."
+    }
+  ],
+  "notes": "All Options is an Amsterdam-headquartered proprietary options market maker (~110 people per its own site; third-party aggregators quoting ~777 employees across six continents are unreliable and contradict the firm's own copy). The firm confirms exactly two offices: Amsterdam (HQ) and Austin, TX. No in-scope office outside Amsterdam was found; no evidence of any UK, Singapore, Hong Kong, Shanghai or Tokyo presence. As of 2026-08-04 the careers page carries six live vacancies, all in Austin (out of scope for this pass), and none in Amsterdam — hence roles: []. The careers site is a WordPress/Elementor build with JS-tabbed listings; I fetched the raw HTML directly to confirm the Amsterdam tab is genuinely empty rather than merely unrendered, and enumerated every /vacancies/ link on the page. Amsterdam hiring appears to run in bursts, so it is worth re-checking; the firm also recruits Amsterdam graduate traders via LinkedIn, but nothing was live at time of check. Comp: no figure is stated on any posting. Levels.fyi reports a median Software Engineer package of ~EUR 84.7k in the Netherlands and a single Quantitative Developer L1 datapoint near USD 99k for All Options — reported-secondary, small sample, and not attached to any live req, so no comp_local is claimed. Note also that the two graduate-titled reqs (Quantitative Researcher / Quantitative Trader) would likely carry new-grad framing, but they are Austin-based and therefore out of scope regardless."
+}

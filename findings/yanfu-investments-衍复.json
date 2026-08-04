@@ -1,0 +1,137 @@
+{
+  "firm": "Yanfu Investments (上海衍复投资管理有限公司)",
+  "careers_url": "https://yanfu.jobs.feishu.cn/index",
+  "offices_in_scope_confirmed": ["Shanghai"],
+  "offices_checked_not_found": ["Hong Kong", "Singapore", "Tokyo", "London", "Amsterdam", "Paris", "Dublin"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "策略研究员（可实习） (Strategy Researcher, internship possible)",
+      "track": "Research",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7631023009179928875/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate and no years-of-experience minimum stated. Posting adds '在校生可进行留用实习，暑期实习' (students may do a convert-to-hire or summer internship) — the full-time track is open to experienced candidates.",
+      "requirements": "Degree from a well-known university in maths, physics, economics or CS | Large-scale AI project experience, or behavioural-finance research, is a plus | Very strong programming/implementation ability | Team-oriented | Job scope: find patterns in historical data, build models predicting future asset prices",
+      "comp_local": "",
+      "notes": "This is the closest match to the 'Quantitative Researcher' role in the existing sheet — Yanfu's public portal has no req literally titled 'Quantitative Researcher'. Posting is Chinese-only; interview and day-to-day are Mandarin-first. Onshore Shanghai entity only — a China work permit + residence permit would be needed (routine at this level but slower than HK/SG). Candidate's ICLR/AAAI papers map directly onto the 'large-scale AI project experience' plus."
+    },
+    {
+      "location": "Shanghai",
+      "title": "机器学习（可实习） (Machine Learning, internship possible)",
+      "track": "Research",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7649713491650595082/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "PhD required — '1.PhD毕业于知名院校的数学、物理或计算机等相关专业'. Candidate holds an MSc, so this one is gated out unless Yanfu flexes on the PhD line.",
+      "requirements": "PhD from a well-known university in maths, physics or CS | AI project experience in academic research, deep understanding of the underlying maths | Very strong programming/implementation ability | Team-oriented | Scope: research frontier ML algorithms and apply them to securities price prediction",
+      "comp_local": "",
+      "notes": "Listed as 全职 (full-time) despite the '可实习' tag. Hard PhD gate — flagged because the rest of the profile fits well. Chinese-language posting; Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "数据科学家 (Data Scientist)",
+      "track": "Research",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7649713344740116777/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'博士优先' — PhD preferred, not required. No graduation-year gate.",
+      "requirements": "STEM degree from a well-known Chinese or overseas university, PhD preferred | Deep understanding of model characteristics; practical model-selection and tuning ability | Familiarity with data science applied to quantitative investing (project experience preferred) | Strong self-drive, rigorous logic, collaborative | Fluent with Linux, Python and SQL for analysis and modelling",
+      "comp_local": "",
+      "notes": "Python/SQL-weighted rather than C++ — a weaker fit than the ML-performance reqs below, but it sits in the research org rather than in data engineering. Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "机器学习性能工程师 (Machine Learning Performance Engineer)",
+      "track": "ML Performance",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7644819728029157638/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or above from a well-known Chinese/overseas university, CS-related major. No graduation-year gate and no minimum years of experience stated.",
+      "requirements": "Solid algorithms and maths; familiar with XGBoost/LSTM/Transformer | Proficient in Python and C++, with PyTorch/TensorFlow | Demonstrated model training or inference optimisation ability | Plus: papers at top AI conferences/journals | Plus: LLM internals, training/fine-tuning/deployment experience | Plus: Kaggle/Tianchi top-10, or core contributor to a well-known AI open-source project",
+      "comp_local": "",
+      "notes": "Best single fit on the board for this candidate: the stated pluses are literally top-tier AI publications and core open-source AI contributions (llama.cpp GPU kernels), plus inference-optimisation experience. Chinese-language posting; Mandarin required. Onshore Shanghai only."
+    },
+    {
+      "location": "Shanghai",
+      "title": "机器学习工程师（infra方向） (Machine Learning Engineer, Infrastructure)",
+      "track": "ML Performance",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7631032137852078372/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or above, CS-related major, well-known university. No graduation-year or minimum-experience gate stated.",
+      "requirements": "Solid algorithms and maths; XGBoost/LSTM/Transformer | Proficient Python and C++, PyTorch/TensorFlow | Plus: CUDA, mainstream parallel programming and performance optimisation | Plus: real training/inference acceleration work | Plus: DeepSpeed, Megatron | Plus: Triton and CUTLASS, able to write efficient kernels for business needs",
+      "comp_local": "",
+      "notes": "The kernel-level pluses (CUDA, Triton, CUTLASS, training/inference acceleration) line up almost exactly with the candidate's llama.cpp GPU-kernel work and ISCA workshop paper. Sits alongside the ML Performance Engineer req above — likely the same team, different seniority/angle. Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7633320642795833642/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No degree-level, graduation-year, or years-of-experience gate stated — the requirements are unusually short.",
+      "requirements": "Degree from a well-known university in maths, physics or CS | Very strong learning ability, genuine interest in both engineering and research/investment problems | Strong ownership and communication | Scope: C++ implementation and tuning of strategies | Scope: C++ trading and backtesting system development | Scope: research platform and research-data development; exploring ML across the research stack",
+      "comp_local": "",
+      "notes": "Only req on the board with an English title, but the body is Chinese and there is no English-language track — treat Mandarin as required. Broadest C++ opening; the ML-exploration line makes it the closest C++/ML hybrid seat."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化实现工程师 (Quantitative Implementation Engineer)",
+      "track": "C++",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7644771243107895562/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or above, CS-related major, well-known Chinese or overseas university. No graduation-year or minimum-experience gate.",
+      "requirements": "Strong command of common data structures and algorithms | Proficient in C++ | Strong business understanding, independent problem solving, teamwork | Plus: solid maths, familiar with tree models and neural networks | Plus: GPU experience or low-level library optimisation (CUDA, MKL, OpenBLAS) | Plus: ML platform tooling (k8s, kubeflow, mlflow, automl)",
+      "comp_local": "",
+      "notes": "C++ seat bridging research and platform; the GPU/CUDA plus makes it a strong secondary target alongside the two ML-performance reqs. Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化系统开发工程师 (Quantitative Systems Development Engineer)",
+      "track": "C++",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7629281804352162094/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'5年以内工作经验' — up to 5 years of experience. The candidate's ~18 months by a mid-2027 start sits inside that band; this is a cap, not a floor, and there is no student/graduation-year gate.",
+      "requirements": "CS degree from a well-known Chinese or overseas university | Up to 5 years' experience; big-tech or top international quant firm background preferred | Solid C/C++, algorithms and data structures | TCP/UDP network programming and IPC | Operating systems, data structures, networking fundamentals | Distributed systems, load balancing, DR and HA design; open-source contribution/reading habit preferred",
+      "comp_local": "",
+      "notes": "The mid-level counterpart of the senior HFT req below — same three-line job description, different bar. Best-calibrated C++ seat for someone with under two years of production C++. Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "高频系统开发工程师（资深） (Senior High-Frequency Systems Development Engineer)",
+      "track": "C++",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7629282587261258047/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'拥有3年以上超低延迟量化交易系统开发和落地相关经验' — 3+ years building and shipping ultra-low-latency quant trading systems. The candidate will have ~18 months of general production C++ and no ULL trading background, so this one is gated out.",
+      "requirements": "CS degree from a well-known Chinese or overseas university | Solid Linux, networking, parallel and lock-free programming | Proficient C++ including C++17/C++20 features | 3+ years ultra-low-latency quant trading system development, able to build a system independently | Fluent with performance profiling tools",
+      "comp_local": "",
+      "notes": "Listed for completeness — the experience floor is a real gate. Apply to the non-senior 量化系统开发工程师 instead. Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "数据开发工程师 (Data Development Engineer)",
+      "track": "C++",
+      "url": "https://yanfu.jobs.feishu.cn/index/position/7639627044352477491/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or above in CS, software engineering, maths or financial engineering. No graduation-year or minimum-experience gate.",
+      "requirements": "Proficient in at least one of Python / Java / C++ / Go | Solid CS fundamentals: data structures, algorithms, OS, networking, databases | Relational databases and SQL; data modelling, cleaning, validation | Strong independent debugging of complex engineering problems | Plus: data platform, ETL, warehouse, scheduling experience (Airflow, Dagster, Temporal, Spark, Flink, Kafka, ClickHouse) | Plus: financial/market/trade/alternative data experience",
+      "comp_local": "",
+      "notes": "Marginal for this candidate — it is a data-platform/ETL seat rather than trading-systems C++, and the language list is polyglot. Included because C++ is explicitly named and it is core research infrastructure, but rank it below the other four C++ reqs. Mandarin required."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Shanghai",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "title-changed",
+      "detail": "The Shanghai office is real and confirmed twice — AMAC registry lists 上海衍复投资管理有限公司, manager no. P1070325, registered 2019-11-11, office address 上海市徐汇区瑞平路275号保利西岸C座7楼 (https://gs.amac.org.cn/amac-infodisc/res/pof/manager/index.html), matching the address on the firm's own site. A research req is genuinely open, but no posting is titled 'Quantitative Researcher'; the live equivalent is 策略研究员（可实习）(Strategy Researcher) at https://yanfu.jobs.feishu.cn/index/position/7631023009179928875/detail. Two further problems with the row: the Source/Verify URL 'http://www.yanfuinvest.com/' is not Yanfu's domain (the real site is https://yanfuinvestments.com and the job board is https://yanfu.jobs.feishu.cn/index), and the '¥600k–1.2M' comp figure is not stated on any Yanfu posting or primary source I could reach — treat it as unverified. The 'tiny headcount' rationale is also dated: Wikipedia cites 68 employees and US$7.7bn AUM as of June 2024. The 'Mandarin required' note in the row is correct and, if anything, understated — the entire job board is Chinese-only."
+    }
+  ],
+  "notes": "Careers coverage: Yanfu runs its live job board on Feishu/Lark at https://yanfu.jobs.feishu.cn/index (reached from the 浏览职位 button on https://yanfuinvestments.com/join). The board is a client-rendered SPA and its job-search API returns 405 to plain HTTP clients, so I rendered it in headless Chrome to enumerate reqs; every URL above was loaded and read individually. 19 reqs were live on 2026-08-04, all tagged 上海 (Shanghai) — the board's own city filter offers Shanghai and nothing else. The 9 reqs I did not list are out of scope: 4 internships (销售支持实习, AI agent 开发工程师（可实习）, C++开发实习生, 数据工程开发实习生 — the data one states 3-months-plus, under the 6-month bar), 高级网络工程师 (low-latency trading network engineering, not one of the four tracks, though it is the most adjacent of the excluded set), 基金运营专员（网下打新方向）, 招聘岗（quant方向）, and two 综合管理专员 admin roles.\n\nA stale Beisen recruitment portal also exists at https://yanfuinvestments1.zhiye.com/ but its job API returns zero live reqs — the Feishu board has superseded it. Do not use it.\n\nOffices: Shanghai (Xuhui district) is the only in-scope office, confirmed against both the firm's own site and the AMAC registry. The firm's site mentions a Beijing office opened in 2026 and a 青金计划 3.0 summer internship running in Shanghai and Beijing (applications 13–31 March 2026, now closed) — Beijing is out of scope for this sheet and is a student-gated programme anyway. I found no evidence of a Hong Kong, Singapore, Tokyo or European entity: the AMAC search for '衍复' returns exactly one manager, Wikipedia's article mentions no offshore arm, and a targeted search for an SFC-licensed Yanfu entity turned up nothing. Treat this as an onshore-only, Shanghai-only manager.\n\nMandarin: every posting body is in Chinese, including the one with an English title (Quantitative Developer). The corporate site has a 中/EN toggle but the Feishu careers portal is Chinese-only, and the application form is Chinese-only. There is no evidence of an English-tolerant track. A mainland China work and residence permit would be required — routine at these comp levels but slower than a Hong Kong or Singapore package.\n\nCompensation: no Yanfu posting states a salary band, and the Feishu job schema's 月薪范围 field is not displayed publicly. Aggregator listings (liepin, nowcoder) quote figures like ¥30k–60k/month with 15–18 months for a strategy researcher, but I could not tie those to a Yanfu-controlled source, so every comp_local is left empty.\n\nApplication route: apply through the Feishu portal directly, or email hr@yanfuinvestments.com (the address given on both the firm's site and its recruitment posts). The firm also runs a year-round 'Max α' senior-hire programme advertised on its own site as offering industry-leading compensation, with no posted band."
+}

@@ -1,0 +1,65 @@
+{
+  "firm": "Marshall Wace",
+  "careers_url": "https://www.mwam.com/join-us/",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Singapore", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Zurich", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Register your interest - Quant Associate Programme",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8600515002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Programme page states: \"PhD or Master's degree as a minimum. We also encourage applications from candidates with 2-3 years of relevant industry experience\". Not graduation-year gated - explicitly open to early-career quants already in industry.",
+      "requirements": "PhD or Master's minimum (maths/physics/CS/engineering typical) | Research-scientist mindset: hypothesise, investigate, test | Highly numerate, strong critical thinking | Ability to move seamlessly between projects | Quant Research track = signals and models; Quant Implementation track = production systems for systematic trading",
+      "comp_local": "",
+      "notes": "This is an expression-of-interest req rather than a dated req, hosted on the mw-tech-grad Greenhouse board. Two tracks: Quantitative Research (Research) and Quantitative Implementation (closest thing MW currently advertises to a C++/quant-dev seat). Embedded in a Systematic Investment team from day one. London only. Details page: https://www.mwam.com/quantitative-associate-programme/ . UK HPI visa is self-sponsored so no employer sponsorship burden."
+    },
+    {
+      "location": "London",
+      "title": "Software/Infrastructure Graduate - 2027 - London",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduate programme, start date September 6th 2027, 18-24 months. Posting text does not state an explicit graduation-year cutoff, but it is framed throughout as \"for graduates\" - a poor fit for a candidate with ~18 months of production experience by a mid-2027 start.",
+      "requirements": "18-24 month rotational programme across up to six technology teams | Builds platforms, applications and infrastructure firm-wide | One or two impactful projects at a time | Mentoring, seminars with senior managers | No specific language/stack requirements stated in the posting",
+      "comp_local": "",
+      "notes": "Rotational grad scheme, not a lateral C++ seat; language stack is not specified in the req. Apply to only one role and location - duplicate applications delay processing. Listed here for completeness; the QAP (Quantitative Implementation track) is the better-matched London entry point."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Software/Infrastructure Graduate - 2027 - Hong Kong",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646984002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduate programme, start date September 6th 2027, 18-24 months in the Hong Kong office. Framed as a graduate programme; no explicit graduation-year wording in the posting.",
+      "requirements": "18-24 month rotational programme across up to six technology teams | Exposure to platforms, applications and infrastructure | One or two impactful projects at a time | Mentoring and seminars with senior staff | No specific language/stack requirements stated",
+      "comp_local": "",
+      "notes": "Hong Kong office confirmed on mwam.com (23/F, LHT Tower, 31 Queen's Road Central). Requires sponsorship for an EU/CH national, routine at this level, but the posting says nothing about visa support. Apply to one location only."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software/Infrastructure Graduate -  2027 - Singapore",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8646976002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduate programme, start date September 6th 2027, 18-24 months. Framed as a graduate programme; no explicit graduation-year wording in the posting.",
+      "requirements": "18-24 month rotational programme across up to six technology teams | Platforms, applications and infrastructure work | One or two impactful projects at a time | Personalised mentoring and senior-manager seminars | No specific language/stack requirements stated",
+      "comp_local": "",
+      "notes": "Odd placement: the Singapore graduate req sits on the mwinternshipprogram Greenhouse board rather than mw-tech-grad. Singapore office confirmed on mwam.com (18 Robinson Road). Needs sponsorship for an EU/CH national."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "No Quantitative Developer req is live on any Marshall Wace Greenhouse board as of 2026-08-04. The experienced-hire board https://job-boards.greenhouse.io/marshallwace lists exactly one opening firm-wide (Recruitment Assistant, London, req 761) - verified via the Greenhouse API (boards-api.greenhouse.io/v1/boards/marshallwace/jobs, meta.total = 1). The Quantitative Developer listings circulating on aggregators (startup.jobs, openquant.co) do not resolve to a live MW req. The London office itself is confirmed real (George House, 131 Sloane Street, SW1X 9AT), and the row's C++/quant-dev framing is still the right target - the closest live equivalent is the Quantitative Implementation track of the Quantitative Associate Programme. The existing row's comp figure (GBP 110-170k) has no primary source I could find and should be treated as unverified."
+    }
+  ],
+  "notes": "Marshall Wace runs several separate Greenhouse boards rather than one careers portal; mwam.com/join-us/ is a marketing hub with no job list. I enumerated all of them via the Greenhouse API: marshallwace (experienced hires - 1 role, Recruitment Assistant, out of scope), mw-tech-grad (4 roles), mwinternshipprogram (5 roles), mwnaintern (empty), mwam-imperial-placements (empty). Probed a further eight plausible board tokens (mwam, mwamllp, mwlateral, mwexperienced, etc.) - all 404 except mwam, which returns zero jobs. Conclusion: Marshall Wace is currently advertising essentially no experienced/lateral technology or research hires publicly; lateral hiring appears to run through headhunters and direct contact (https://www.mwam.com/contact/). Excluded from roles[]: Technology Intern reqs for London, Hong Kong, Singapore and New York (summer 2027 internships, under 6 months, out of scope) and all New York reqs (out of scope location). No EU-mainland, Tokyo, or Shanghai technology/research openings exist - Shanghai is a confirmed office (HKRI Center, Tower 1) but has zero live postings on any board; Tokyo is confirmed NOT an MW office (offices listed on mwam.com are London, New York, Hong Kong, Abu Dhabi, Shanghai, Singapore). Compensation: levels.fyi shows a Marshall Wace median of ~USD 348k total and ~USD 202k for Software Engineer (last updated 2026-08-03) but does not break these out by office, so I left comp_local empty rather than attribute a figure to London."
+}

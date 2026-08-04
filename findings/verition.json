@@ -1,0 +1,101 @@
+{
+  "firm": "Verition Fund Management",
+  "careers_url": "https://www.verition.com/open-positions",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Shanghai", "Paris", "Amsterdam", "Dublin", "Zurich", "Geneva", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011276007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 1-3 years experience in Python programming, ideally including libraries relevant to data analysis and machine learning\". Degree in Computer Science or a STEM field preferred. No graduation-year gate; not student-gated.",
+      "requirements": "1-3+ yrs Python, incl. data-analysis / ML libraries | Strong data structures, algorithms and OOP fundamentals | CS or STEM degree preferred | C++ or Java a plus | AWS or equivalent cloud a plus | Build analytical tools, data pipelines and systems for credit, fixed income, arbitrage and equity strategies",
+      "comp_local": "$100,000 - $200,000 USD (range stated on the multi-location req; almost certainly the US-band disclosure, not a London figure)",
+      "notes": "One req is posted simultaneously for Dubai, Greenwich CT, Hong Kong, London, New York, Norwalk CT and Singapore - the same gh_jid covers all, so the London seat is not separately confirmed as a headcount. Despite the 'Quantitative Developer' title this is a Python-first role supporting traders/researchers; C++ is listed only as a 'plus'. It is closer to quant-dev tooling than to low-latency C++ systems work - a weaker fit than the track label suggests. UK: candidate's HPI visa is self-sponsored; the application form asks for sponsorship status."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011276007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 1-3 years experience in Python programming, ideally including libraries relevant to data analysis and machine learning\". CS/STEM degree preferred. No graduation-year gate.",
+      "requirements": "1-3+ yrs Python, incl. data-analysis / ML libraries | Strong data structures, algorithms and OOP fundamentals | CS or STEM degree preferred | C++ or Java a plus | AWS or equivalent cloud a plus",
+      "comp_local": "$100,000 - $200,000 USD (stated on the multi-location req; likely the US-band disclosure)",
+      "notes": "Same shared multi-location req as London/Singapore. Hong Kong office confirmed at Jardine House, 1 Connaught Place, Central. Sponsorship needed for HK. Posting states no language requirement."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011276007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 1-3 years experience in Python programming, ideally including libraries relevant to data analysis and machine learning\". CS/STEM degree preferred. No graduation-year gate.",
+      "requirements": "1-3+ yrs Python, incl. data-analysis / ML libraries | Strong data structures, algorithms and OOP fundamentals | CS or STEM degree preferred | C++ or Java a plus | AWS or equivalent cloud a plus",
+      "comp_local": "$100,000 - $200,000 USD (stated on the multi-location req; likely the US-band disclosure)",
+      "notes": "Same shared multi-location req. Singapore office confirmed at 12 Marina View, Asia Square Tower 2. Employment Pass sponsorship needed."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011397007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Degree in a quantitative field (Mathematics, Statistics, Physics, Computer Science, Financial Engineering); \"proven experience in quantitative analysis and alpha generation\". No years-of-experience number and no graduation-year gate stated, but the alpha-generation track record wording is experienced-lean.",
+      "requirements": "Quantitative degree (Maths, Stats, Physics, CS, Fin Eng) | Proven experience in quantitative analysis and alpha generation | Python, R, MATLAB or equivalent | Strong statistical analysis and predictive modelling | ML / AI / big-data analytics in finance desired | Communicate findings to technical and non-technical audiences",
+      "comp_local": "$100,000 - $200,000 USD (stated on the multi-location req; likely the US-band disclosure)",
+      "notes": "Sits in Verition's Quant Strategies Group (firm cited at $14B+ AUM in the posting). Single req posted across Dubai, Greenwich, Hong Kong, London, New York, Norwalk and Singapore, so a London-specific headcount is not confirmed. The stated 'proven alpha generation' bar is the main friction for a candidate coming from ML systems rather than buy-side research; the ICLR/AAAI publication record is the strongest lever here."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011397007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Quantitative degree (Maths, Stats, Physics, CS, Financial Engineering); \"proven experience in quantitative analysis and alpha generation\". No graduation-year gate.",
+      "requirements": "Quantitative degree | Proven experience in quantitative analysis and alpha generation | Python, R, MATLAB or equivalent | Strong statistical analysis and predictive modelling | ML / AI / big-data analytics in finance desired",
+      "comp_local": "$100,000 - $200,000 USD (stated on the multi-location req; likely the US-band disclosure)",
+      "notes": "Same shared multi-location req. Sponsorship required for Hong Kong; no Mandarin or Cantonese requirement stated."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://www.verition.com/open-positions?gh_jid=4011397007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Quantitative degree (Maths, Stats, Physics, CS, Financial Engineering); \"proven experience in quantitative analysis and alpha generation\". No graduation-year gate.",
+      "requirements": "Quantitative degree | Proven experience in quantitative analysis and alpha generation | Python, R, MATLAB or equivalent | Strong statistical analysis and predictive modelling | ML / AI / big-data analytics in finance desired",
+      "comp_local": "$100,000 - $200,000 USD (stated on the multi-location req; likely the US-band disclosure)",
+      "notes": "Same shared multi-location req. Employment Pass sponsorship needed."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Trading Analyst - Macro",
+      "track": "Trader",
+      "url": "https://www.verition.com/open-positions?gh_jid=5165819007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3-5 years of experience on a trading floor\" - a hard experience gate the candidate does not meet (no trading-floor time). Listed for completeness, not recommended.",
+      "requirements": "3-5 years on a trading floor | Macro expertise in at least one EM or G10 region incl. central bank policy and rates/FX dynamics | Practical knowledge of FX spot, forwards and options plus rates swaps and futures | Able to independently monitor positions and manage delta hedging | Monitor live positions in real time and escalate risk to the PM | Support execution across FX, FX options, rates, swaps, futures",
+      "comp_local": "",
+      "notes": "Hong-Kong-only req, supporting a specific macro PM. This is a PM-support / execution seat rather than a junior-trader training programme, and the 3-5 year trading-floor requirement makes it a poor fit for this candidate's profile. No language requirement stated. Sponsorship needed."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "confirmed",
+      "detail": "London office confirmed on Verition's own contact page (3rd Floor, Lucent, 1 Sherwood St., London W1F 7BL) and a live 'Quantitative Developer' req lists London among its locations: https://www.verition.com/open-positions?gh_jid=4011276007 . However the row's 'Stated Requirements' column is wrong: it describes a modern-C++/Linux-internals/low-latency profile, whereas the actual posting asks for 1-3 years of Python with data-analysis and ML libraries and lists C++ only as a 'plus'. The row's £95-145k comp figure is also unsourced - the only figure Verition states is a $100,000-$200,000 USD band on the shared multi-location req, which reads as the US pay-transparency disclosure rather than a London number. Recommend rewriting the requirements and clearing or re-sourcing the comp cell."
+    }
+  ],
+  "notes": "Verition's own contact page enumerates exactly 9 offices: Greenwich CT, Norwalk CT, New York, Chicago, Miami, London, Dubai, Hong Kong and Singapore. Of these only London, Hong Kong and Singapore are in scope. There is no Tokyo, Shanghai or continental-EU office - any row placing Verition in an EU city or Tokyo is wrong. Hiring runs on Greenhouse under the board token 'veritiongroupllc'; https://www.verition.com/open-positions renders that board via an embed. Note that job-boards.greenhouse.io/veritiongroupllc/jobs/<id> 302-redirects back to verition.com, and verition.com/open-positions is JS-only so it returns no listings to a plain fetch - the readable primary source is the Greenhouse embed, https://job-boards.greenhouse.io/embed/job_board?for=veritiongroupllc and https://job-boards.greenhouse.io/embed/job_app?for=veritiongroupllc&token=<id> . All 31 live reqs were enumerated from that board on 2026-08-04. Coverage caveat: Verition's two quant reqs (Quantitative Developer, Quantitative Research Analyst) are each a single evergreen posting spanning seven cities, so it is not possible to tell from the board whether London, Hong Kong or Singapore currently has actual headcount behind it - treat city-level availability as unconfirmed and worth asking a recruiter. Excluded as out of scope: 'Treasury Engineer' (London, https://www.verition.com/open-positions?gh_jid=5124210007) is a real live London engineering req but asks for 3+ yrs of Python/Java building margin, financing and post-trade processing systems with AWS and SQL - no C++ and no low-latency content, so it does not fit the C++ track. Also excluded: London Global Payroll Associate, Human Resources Analyst and Collateral Management Analyst (non-technical); Hong Kong Operations Associate - FX Operations and Trade Operations Associate - Middle Office (operations). Verition has no ML Performance, GPU, HPC or kernel-engineering roles open anywhere - the firm's entire Technology function on the board is platform/end-user support and treasury systems, all US-based apart from the London Treasury Engineer, so the candidate's GPU-kernel and ML-infrastructure strengths have no direct target here. No compensation figure other than the $100k-$200k USD band was found on any primary source; nothing was taken from aggregators."
+}

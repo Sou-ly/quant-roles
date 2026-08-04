@@ -1,0 +1,53 @@
+{
+  "firm": "Dymon Asia Capital",
+  "careers_url": "https://www.dymonasia.com/join-us/",
+  "offices_in_scope_confirmed": ["Singapore", "Hong Kong", "Tokyo", "Shanghai"],
+  "offices_checked_not_found": ["London", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "AI Intern (Fundamental Equities)",
+      "track": "ML Performance",
+      "url": "https://dymon.careers.hibob.com/jobs/38daeaa8-8523-4ecc-9a82-3d51ec90f22a/apply",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Candidates holding or pursuing a BS/BA or MS in Computer Science, Data Science, Financial Engineering, Quantitative Finance, or a related discipline\"; \"Able to commit for at least a 6-month internship\". Filed under the firm's \"Early Talent\" category, which the site describes as \"tailored for students and fresh graduates\".",
+      "requirements": "BS/BA or MS in CS, Data Science, Financial Engineering or Quant Finance (held or in progress) | Strong interest in generative AI applied to investment research | Proficient in Python, SQL and relational database optimisation; API integration, prompt engineering, LangChain/Hugging Face a plus | Independent, self-motivated, strong analytical and problem-solving skills | Able to communicate technical findings across teams | Minimum 6-month commitment; English required, Mandarin/Cantonese/Japanese/Korean/Hindi a plus",
+      "comp_local": "",
+      "notes": "Weak fit and listed here only for completeness. This is an internship embedded in the fundamental equities teams evaluating and prototyping LLM tools (GPT-4/Claude/Gemini, LangChain) - it is AI tooling adoption, not GPU/kernel/ML-infrastructure engineering, so it does not match the candidate's llama.cpp/C++ profile. It is also an early-talent/student track and the candidate is ~18 months post-MSc and employed, so the graduate gate applies. Posting states \"strong performers may be considered for full-time conversion\". Same req is open in Hong Kong and Singapore; both need sponsorship. No Mandarin requirement (English required, other languages a plus)."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "AI Intern (Fundamental Equities)",
+      "track": "ML Performance",
+      "url": "https://dymon.careers.hibob.com/jobs/38daeaa8-8523-4ecc-9a82-3d51ec90f22a/apply",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Candidates holding or pursuing a BS/BA or MS in Computer Science, Data Science, Financial Engineering, Quantitative Finance, or a related discipline\"; \"Able to commit for at least a 6-month internship\". Filed under the firm's \"Early Talent\" category, which the site describes as \"tailored for students and fresh graduates\".",
+      "requirements": "BS/BA or MS in CS, Data Science, Financial Engineering or Quant Finance (held or in progress) | Strong interest in generative AI applied to investment research | Proficient in Python, SQL and relational database optimisation; API integration, prompt engineering, LangChain/Hugging Face a plus | Independent, self-motivated, strong analytical and problem-solving skills | Able to communicate technical findings across teams | Minimum 6-month commitment; English required, Mandarin/Cantonese/Japanese/Korean/Hindi a plus",
+      "comp_local": "",
+      "notes": "Single requisition posted for both Hong Kong and Singapore - this is the same job as the Singapore row, not a second opening. Same caveats: early-talent/student gate, AI tooling rather than ML performance engineering, HK employment needs sponsorship."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "The Singapore office is real (DYMON ASIA CAPITAL (Singapore) Pte. Ltd., One Temasek Avenue, Millenia Tower #11-01, per https://www.dymonasia.com/contact-us/), but there is no Quantitative Developer opening. The firm's own careers page https://www.dymonasia.com/join-us/ shows both the \"Investment\" and \"Technology\" tabs reading \"No open positions at the moment\"; the site's own vacancy feed (https://www.dymonasia.com/wp-json/wp/v2/vacancy) returns exactly two published vacancies as of 2026-08-04 - HR Associate (Singapore) and AI Intern (Fundamental Equities) (HK/Singapore). Neither is a quant developer role."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Developer - comp figure \"SGD 150-220k\"",
+      "verdict": "could-not-verify",
+      "detail": "No Dymon posting, regulator filing or levels.fyi entry stating this range was found. The only public number surfaced was a Glassdoor self-reported base of roughly 115-125k/yr for \"Quantitative Analyst\" (https://www.glassdoor.sg/Salary/Dymon-Asia-Salaries-E918127.htm), which is neither the same role nor a total-comp figure. Treat the SGD 150-220k cell as unsourced."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Developer - eligibility \"New-grad OR entry-level req - recent grads accepted\"",
+      "verdict": "could-not-verify",
+      "detail": "No live Dymon posting states a new-grad or entry-level gate for a quant developer role. The only early-career gate visible on https://www.dymonasia.com/join-us/ is the \"Early Talent\" category (\"tailored for students and fresh graduates\"), which currently contains only the AI internship. The stated requirements block in the existing row (modern C++14/17/20, Linux internals, low-latency projects, \"no finance background required\") does not correspond to any posting currently on the firm's site."
+    }
+  ],
+  "notes": "Dymon Asia Capital is a Singapore-headquartered Asia-focused multi-strategy manager (founded 2008, ~US$4.8bn AUM, ~170-430 staff depending on source). Hiring runs through HiBob (https://dymon.careers.hibob.com/), surfaced on the firm's own /join-us/ page under four tabs: Investment, Technology, Infrastructure, Early Talent. As of 2026-08-04 the Investment and Technology tabs are both empty, so there are ZERO in-scope C++, Trader or Research openings anywhere. Only two vacancies exist firm-wide: HR Associate (Singapore, out of scope) and the AI Intern above.\n\nOffices: verified against the firm's own locations list at https://www.dymonasia.com/contact-us/ and its structured office records (https://www.dymonasia.com/wp-json/wp/v2/our-office). In-scope: Singapore (HQ), Hong Kong, Tokyo (Marunouchi), Shanghai (Pudong IFC). Out of scope and therefore ignored: Kuala Lumpur, Bangalore, Mumbai, Dubai (DIFC).\n\nLondon: the firm lists NO UK or EU office on its own site, and its three historical UK entities at Companies House (DYMON ASIA (UK) LTD 12559022, DYMON ASIA CAPITAL (UK) LLP OC389620, DYMON ASIA HOLDINGS (UK) LTD 08796945) were all dissolved between June 2021 and September 2022. Trade press reports the firm is standing up a London office to support a global-macro push, but this is reported-secondary only and no London req is posted. Do not add a London row to the sheet on current evidence; recheck the careers page later in 2026.\n\nBlocked/unreadable pages: the HiBob board (https://dymon.careers.hibob.com/) is a JavaScript-only Angular SPA and returns only the app shell to any non-browser fetch; its /api/v2/* routes return 406 or fall through to the SPA. Individual dymonasia.com /vacancy/<slug>/ pages are also client-rendered stubs. I worked around this by reading the server-rendered job blocks embedded in /join-us/ and the site's WordPress REST vacancy feed, which are the same source that populates the HiBob links - so the enumeration above is primary and complete, not sampled. LinkedIn's Dymon Asia Capital jobs page also returned zero worldwide openings, and nodeflair (which caches an older \"Senior Quant Software Engineer\" listing) returned HTTP 403 and could not be checked; that cached listing is not corroborated by any live Dymon source.\n\nCoverage gap: Dymon does a large share of its senior/PM hiring via headhunters and direct approach rather than posted reqs (press reports ~8 new PMs hired this year, ~70 PMs total), so the public board understates real hiring. For this candidate the realistic route into Dymon is a speculative approach through the \"Join Our Network\" / Career Opportunities contact form on https://www.dymonasia.com/contact-us/ rather than an application to a live posting."
+}

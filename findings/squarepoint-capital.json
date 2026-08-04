@@ -1,0 +1,323 @@
+{
+  "firm": "Squarepoint Capital",
+  "careers_url": "https://www.squarepoint-capital.com/open-opportunities",
+  "offices_in_scope_confirmed": ["London", "Paris", "Madrid", "Milan", "Warsaw", "Geneva", "Zug", "Singapore", "Hong Kong"],
+  "offices_checked_not_found": ["Tokyo", "Shanghai", "Amsterdam", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "London, Singapore, Warsaw, Zug",
+      "title": "Quant Developer (C++)",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=612873&gh_jid=612873",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate. '3+ years strong programming experience under Linux, at least 1 year in C++'; '2+ years experience working on high performance mission critical systems'; '2+ years experience working in trading floor environment' listed as required. Candidate is slightly under on the trading-floor line but on-target elsewhere.",
+      "requirements": "Degree in Engineering/CS or related; Masters or higher a plus | 3+ yrs Linux programming, 1+ yr C++ | 2+ yrs on high-performance mission-critical systems | 2+ yrs trading floor / automated trading strategy implementation | Effective collaboration with quant researchers | Strong communication, ability to balance tactical and strategic work",
+      "comp_local": "",
+      "notes": "The only C++ quant developer req posted in continental Europe outside Warsaw — Zug is the CH-permit seat, Warsaw the EU one. Also open in Montreal (out of scope). Sits with quant researchers/traders on strategy and signal logic, backtesting, latency monitoring. Note the posting is trading-domain-heavy; the Junior Software Developer (C++) req is a cleaner fit for a systems/GPU background."
+    },
+    {
+      "location": "London, Singapore",
+      "title": "Junior Software Developer (C++)",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Up to 4 years experience in a relevant role such as software or quant development, or similar' — an experience ceiling, not a student gate. ~18 months experience at a mid-2027 start fits squarely.",
+      "requirements": "Degree in CS/CompEng or software-heavy discipline | Up to 4 yrs relevant experience | C++, git, Linux | Excellent written and verbal communication | Eagerness to learn, fast-paced environment | Nice to have: low-level systems programming / HPC emphasis, KDB+/q or Python",
+      "comp_local": "",
+      "notes": "Best single fit for this candidate's profile at Squarepoint. Explicitly names low-latency and high-performance systems, market data serving, market connectivity; 'Nice to have: degree with emphasis on low-level systems programming, high performance computing'. Also open in Montreal (out of scope). Posting says apply to only one Squarepoint role."
+    },
+    {
+      "location": "London, Singapore",
+      "title": "Junior Quant Developer",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Up to 4 years of experience in a relevant role such as software or quant development' — experience ceiling, no graduation-year gate.",
+      "requirements": "Degree in Applied Math, Physics, Engineering, Quant Finance or CS | Up to 4 yrs relevant experience | Proficiency in at least one of Python, C++, KDB+/q | Interest in / knowledge of finance and global markets | Demonstrable experience using AI tools in development or research workflows | git and Linux",
+      "comp_local": "",
+      "notes": "Research-facing counterpart to the Junior Software Developer role — backtesting simulations, strategy tooling. Also open in Montreal (out of scope). Requires a stated interest in markets, which the candidate would need to build a story around. Note the explicit AI-tooling requirement."
+    },
+    {
+      "location": "London, Singapore",
+      "title": "Graduate Quant Developer",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Aimed at 'graduate-level candidates' and 'designed to support early-career growth'. No explicit graduating-in-<year> gate in the posted text, but this is a weaker fit than the Junior tracks for someone with ~18 months of production experience.",
+      "requirements": "Degree in a quantitative discipline | Proficiency in at least one of Python, C++, KDB+/q | Prior software development exposure (internship, academic, personal projects) | Linux and git | Demonstrable experience using AI tools collaboratively | Clear communication, curiosity, team environment",
+      "comp_local": "",
+      "notes": "Listed for completeness — prefer Junior Quant Developer / Junior Software Developer (C++) over this. Also open in Montreal (out of scope)."
+    },
+    {
+      "location": "London, Singapore",
+      "title": "Graduate Software Developer",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduate-level framing; asks for 'some experience developing software in a commercial setting'. No graduation-year gate stated, but positioned below the candidate's level.",
+      "requirements": "Degree in CS/CompEng or software-heavy discipline | Proficiency in one of Python, C++, KDB+/q, JS/TypeScript/React | Some commercial software experience | Linux and version control | Strong communication | Fast-paced environment",
+      "comp_local": "USD 100,000 minimum base — New York only, stated in posting",
+      "notes": "Applicants pick a track: Python, C++ (distributed low-latency high-performance systems), or Front-End. The NY base figure is the only compensation number Squarepoint publishes and does not apply to in-scope offices. Also open in Montreal (out of scope)."
+    },
+    {
+      "location": "London, Singapore",
+      "title": "Software Developer - Data Infrastructure",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=4992227&gh_jid=4992227",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'4+ years of professional software engineering experience' — candidate is short of this at a mid-2027 start (~18 months).",
+      "requirements": "Bachelor's in CS/Engineering | 4+ yrs professional software engineering | Proficiency in C++ | Microservices and/or asynchronous multithreaded applications | Linux, strong debugging | Nice to have: Boost ASIO, Arrow/Parquet/Protobuf/Flatbuffers, gRPC, Rust/Python/Q",
+      "comp_local": "",
+      "notes": "Genuinely C++-heavy infrastructure work and the serialization/RPC stack matches the candidate's systems background, but the 4-year bar is a real stretch. Also open in Montreal (out of scope)."
+    },
+    {
+      "location": "London, Warsaw",
+      "title": "Software Developer - Risk Technology",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6212106&gh_jid=6212106",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'4+ years C++ Linux based development experience' — above the candidate's experience level.",
+      "requirements": "Bachelor's in Engineering/CS | 4+ yrs C++ Linux development | Data structures and algorithms | Strong communication | Nice to have: large-scale distributed systems, high-performance code optimization, Kafka/AMPS/QPID, Python/bash/Q",
+      "comp_local": "",
+      "notes": "Warsaw is the EU-citizen route here. Also open in Montreal and Bangalore (out of scope). Stretch on years of experience."
+    },
+    {
+      "location": "London, Warsaw",
+      "title": "Software Developer - Order Gateway",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=609831&gh_jid=609831",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'5+ years of professional software development experience'; explicitly framed as a senior role with mentoring and technical leadership. Not a fit at ~18 months.",
+      "requirements": "Bachelor's in Engineering/CS | 5+ yrs professional software development | End-to-end ownership of high-performance order gateway design and optimization | Architecture and code review leadership, mentoring | Test strategy ownership | L2 production support",
+      "comp_local": "",
+      "notes": "Listed to map the C++ landscape — this is the classic low-latency exchange-connectivity seat but is gated at senior level. Also open in Montreal (out of scope)."
+    },
+    {
+      "location": "London, Singapore, Warsaw",
+      "title": "Software Developer - Internal Compute Frameworks (Rust)",
+      "track": "C++",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=5986280&gh_jid=5986280",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum of 6 years of full-time software development experience' — well above the candidate's level.",
+      "requirements": "6+ yrs full-time software development | C++ proficiency (stated prerequisite for Rust roles at the firm) | Desire to work with Rust; prior Rust not required but tested at interview | Docker/Kubernetes microservices in production | Highly available distributed systems, large datasets | Linux and version control",
+      "comp_local": "",
+      "notes": "Interesting note for later: Squarepoint treats C++ proficiency as the prerequisite for its Rust seats. Not applicable now on years. Also open in Montreal (out of scope)."
+    },
+    {
+      "location": "London, Paris, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Junior Quant Researcher",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience floor or graduation-year gate stated in the posting. Requirements are purely background-based.",
+      "requirements": "Quantitative degree (Maths, Statistics, Econometrics, Financial Engineering, OR, CS, Physics) | Programming proficiency in at least one of C++, Java, Python | Strong communication across regions | Ability to work well under pressure",
+      "comp_local": "USD 150,000 minimum base — New York only, stated in posting",
+      "notes": "Widest in-scope geographic footprint of any Squarepoint research req and it covers both Swiss cities (CH permit) and Paris (EU citizen). Also posted in New York, Boston, Bangalore (out of scope). The stated NY base does not apply to in-scope offices."
+    },
+    {
+      "location": "London, Paris, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Junior Quant Researcher - ML Alpha Research",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Requires 'advanced degrees ... (masters or higher)'. No graduation-year gate. Candidate's EPFL MSc plus ICLR/AAAI submissions match the 'demonstrated ability for doing high quality and rigorous research' line directly.",
+      "requirements": "Masters or higher in CS, ML/NLP, statistics, signal processing, optimization or maths | Demonstrated rigorous research output and ability to communicate results | Programming proficiency (Python, kdb-q named) | Time-series, ML and NLP techniques on large datasets | Deploy and monitor signal-generating models | Strong cross-region communication",
+      "comp_local": "USD 150,000 minimum base — New York only, stated in posting",
+      "notes": "Closest thing Squarepoint has to an ML-oriented seat and the strongest publication-driven fit in this list. Note the named languages are Python and kdb-q, not C++ — the candidate's GPU/kernel work is not what this req is asking for. Also posted in New York, Boston, Bangalore (out of scope)."
+    },
+    {
+      "location": "London, Madrid, Warsaw, Singapore, Hong Kong",
+      "title": "Desk Quant Analyst",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'highly motivated graduates or early career professionals' — three-year rotational program. Early-career framing but not student-gated.",
+      "requirements": "Degree in Engineering, CS or related STEM | Programming proficiency in at least one of C++, Java, Python | Great attention to detail | Strong cross-region communication | Works well under pressure | Nice to have: Q/KDB+, Linux and Bash",
+      "comp_local": "",
+      "notes": "Three-year program with a stated path into a Junior Quant Development or Quant Research position at the end, subject to performance. Madrid and Warsaw are the EU-citizen routes. Heavy on monitoring and reconciliation work — a step down in technical depth from the candidate's current role. Also open in Montreal and Bangalore (out of scope)."
+    },
+    {
+      "location": "London, Paris, Madrid, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Senior Quant Researcher - CTA/Short-Term",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior req. Requires 'good familiarity with instruments of at least one liquid non-equity asset class' and 'experience working with intraday bar data' — domain experience the candidate does not have.",
+      "requirements": "Quantitative degree (Maths, Statistics, Econometrics, Financial Engineering, OR, CS, Physics) | Programming proficiency in C++, Java or Python | Familiarity with futures, FX or cash treasuries | Experience with intraday bar data and intraday strategy research | Strong communication and ability to work under pressure",
+      "comp_local": "USD 150,000 minimum base — New York only, stated in posting",
+      "notes": "One of five near-identical Senior Quant Researcher reqs open across the same city list. Included for completeness; the asset-class experience gate makes these poor near-term targets. Also posted in Houston, Montreal, New York, Boston, Bangalore, Dubai (out of scope)."
+    },
+    {
+      "location": "London, Paris, Madrid, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Senior Quant Researcher - Equity Mid/Low Frequency",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior req with asset-class experience expectations; not a fit at ~18 months of non-finance experience.",
+      "requirements": "Quantitative degree | Programming proficiency in C++, Java or Python | Equity mid/low-frequency strategy research | Large dataset analysis with advanced statistical methods | Market structure understanding | Strong communication",
+      "comp_local": "",
+      "notes": "Sibling req to the other four Senior Quant Researcher postings. Title and full location list read from Squarepoint's own job board; I did not read the full body text of this one, only the title and locations."
+    },
+    {
+      "location": "London, Paris, Madrid, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Senior Quant Researcher - Fixed Income",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior req; not a fit at the candidate's experience level.",
+      "requirements": "Quantitative degree | Programming proficiency in C++, Java or Python | Fixed income strategy research | Large dataset analysis | Market structure understanding | Strong communication",
+      "comp_local": "",
+      "notes": "Sibling req to the other four Senior Quant Researcher postings. Title and location list read from Squarepoint's own job board; body text not individually read."
+    },
+    {
+      "location": "London, Paris, Madrid, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Senior Quant Researcher - Intraday Statistical Arbitrage",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior req; not a fit at the candidate's experience level.",
+      "requirements": "Quantitative degree | Programming proficiency in C++, Java or Python | Intraday statistical arbitrage research | Large dataset analysis | Market structure understanding | Strong communication",
+      "comp_local": "",
+      "notes": "Sibling req to the other four Senior Quant Researcher postings. Of the five, this is the one whose latency and infrastructure sensitivity is closest to the candidate's systems background — worth revisiting in a few years. Title and location list read from Squarepoint's own job board."
+    },
+    {
+      "location": "London, Paris, Madrid, Geneva, Zug, Singapore, Hong Kong",
+      "title": "Senior Quant Researcher - Volatility",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior req; not a fit at the candidate's experience level.",
+      "requirements": "Quantitative degree | Programming proficiency in C++, Java or Python | Volatility strategy research | Large dataset analysis | Market structure understanding | Strong communication",
+      "comp_local": "",
+      "notes": "Sibling req to the other four Senior Quant Researcher postings. Title and location list read from Squarepoint's own job board; body text not individually read."
+    },
+    {
+      "location": "London, Paris, Geneva, Singapore",
+      "title": "Junior Commodities Fundamental Analyst",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Asks for advanced degrees plus research/modelling experience 'ideally through prior internship experience or in a related position'. No graduation-year gate.",
+      "requirements": "Advanced degree in Maths/Statistics/Engineering/Econometrics/Applied Economics | Experience researching, analyzing and modelling data | Python required, Excel a plus | Demonstrated passion for commodities markets | Excellent writing and synthesis skills | Strong cross-team communication",
+      "comp_local": "USD 150,000 minimum base — New York only, stated in posting",
+      "notes": "Fundamental rather than systematic research — Python and writing, no C++. Weak fit for this candidate's strengths but it is one of the few Geneva-based openings and the commodities desk sits there."
+    },
+    {
+      "location": "London, Paris",
+      "title": "Junior Credit Fundamental Research Analyst",
+      "track": "Research",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'1 - 4 years of relevant experience' but the posting enumerates the acceptable backgrounds narrowly: bank high yield/distressed or leveraged finance desks, IB/M&A, credit asset managers, CLO shops, credit or multi-strategy hedge funds, Big 4 advisory. A non-finance engineering background is not on that list.",
+      "requirements": "Advanced degree from a top university in Finance/Accounting/Economics/Maths/Statistics | 1-4 yrs relevant experience in a listed credit or banking background | Research, analysis and data modelling | Python and Excel a plus | Excellent writing and synthesis | Works under pressure to tight timelines",
+      "comp_local": "",
+      "notes": "Included because Paris has so few openings, but the required background is explicitly credit-desk or banking. Effectively closed to this candidate. Also open in New York (out of scope)."
+    },
+    {
+      "location": "London",
+      "title": "Junior Discretionary Trader",
+      "track": "Trader",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Recent, or soon to be graduate, with relevant course work, internship, or other applicable experience or knowledge' — this is a recent-grad gate and a poor fit for someone ~18 months into a full-time role by the start date.",
+      "requirements": "Recent or soon-to-be graduate | Bachelor's in a quantitative field | Programming essential, strong preference for Python | Strong communication with global teammates | Sense of urgency in a fast-paced environment | Portfolio monitoring, hedging, PnL attribution, risk reporting",
+      "comp_local": "",
+      "notes": "Flagging the graduation gate per the brief. Discretionary rather than systematic trading — equities, commodities, rates/FX, credit and cross-asset volatility. Python-first, no C++."
+    },
+    {
+      "location": "Singapore, London",
+      "title": "Shift Trader",
+      "track": "Trader",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6977749&gh_jid=6977749",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's in a quantitative field; no years-of-experience floor or graduation-year gate stated.",
+      "requirements": "Bachelor's in a quantitative or related field | Python proficiency, KDB a plus | Real-time exposure and PnL monitoring, hedging execution | Production monitoring of systematic strategies, incident response | Automation and tooling to streamline monitoring workflows | Strong verbal and written communication",
+      "comp_local": "",
+      "notes": "Requires shift work for 24/7 coverage — the posting states this up front. Part trading, part production support for a new Central Trading & Monitoring team. Open door on paper but a significant step away from an engineering career track. Also open in Dubai (out of scope)."
+    },
+    {
+      "location": "London",
+      "title": "High-Touch Execution Strategist",
+      "track": "Trader",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'2-4 years of experience in a High-Touch execution role' — a specific prior-role requirement the candidate does not meet.",
+      "requirements": "2-4 yrs in a high-touch execution role | Python and/or KDB | Transaction cost analysis (TCA) familiarity | Market microstructure analysis | Liaison with dealers and platforms (Tradeweb, Bloomberg) | Project management tools and methodologies",
+      "comp_local": "",
+      "notes": "Sits in the Quant Execution Analytics team. The domain-experience gate is explicit and narrow."
+    },
+    {
+      "location": "London",
+      "title": "Senior Discretionary Trader - Equities",
+      "track": "Trader",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=4904130&gh_jid=4904130",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior discretionary trading seat — not a fit at the candidate's experience level.",
+      "requirements": "Senior discretionary trading experience with own risk | Equities focus | Collaboration with quantitative researchers on the research platform | Portfolio construction and risk management",
+      "comp_local": "",
+      "notes": "Two sibling reqs are also open in London: Senior Discretionary Trader - Credit (id=4904137) and Senior Discretionary Trader - Macro (id=4904158). All three are also posted in New York (out of scope). Title and location list read from Squarepoint's own job board; body text not individually read. Listed only to map the desk."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Geneva",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "Wrong as written. Squarepoint does have a Geneva office (https://www.squarepoint-capital.com/locations), but no quantitative developer or C++ req is posted there. Of 89 live reqs on Squarepoint's own board, the only Geneva ones are Human Resources Manager, Junior Commodities Fundamental Analyst, Junior Quant Researcher, Junior Quant Researcher - ML Alpha Research, and the five Senior Quant Researcher reqs. The row's track should be Research, not C++. The Swiss C++ seat is in Zug, not Geneva: https://www.squarepoint-capital.com/open-opportunities?id=612873&gh_jid=612873"
+    },
+    {
+      "location": "Paris",
+      "existing_title": "Quantitative Developer (C++)",
+      "verdict": "no-longer-open",
+      "detail": "Wrong as written. The Paris office exists, but no C++ or quant developer req is posted there. Paris appears only on research and support reqs: Junior Quant Researcher (id=239376), Junior Quant Researcher - ML Alpha Research (id=6069464), the five Senior Quant Researcher reqs, Intern Quant Researcher, Junior Commodities Fundamental Analyst, Junior Credit Fundamental Research Analyst, and Support Analyst - Desktop. The row's claim that Paris is a 'first-class engineering site' with the 'highest-probability top-20 seat' is not supported by the board — Paris is a research site for Squarepoint."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer (C++)",
+      "verdict": "confirmed",
+      "detail": "Correct. Quant Developer (C++) is live in London: https://www.squarepoint-capital.com/open-opportunities?id=612873&gh_jid=612873. London is also the deepest C++ site — Junior Software Developer (C++) (id=6040731), Software Developer - Data Infrastructure (id=4992227), Risk Technology (id=6212106) and Order Gateway (id=609831) are all open there too."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Developer",
+      "verdict": "confirmed",
+      "detail": "Correct. Quant Developer (C++) is live in Singapore: https://www.squarepoint-capital.com/open-opportunities?id=612873&gh_jid=612873, alongside Junior Software Developer (C++) (id=6040731) and Junior Quant Developer (id=6034466)."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass per the brief (US offices ignored), so not audited. For what it is worth, the New York office does exist on https://www.squarepoint-capital.com/locations and New York is listed on many reqs, but Quant Developer (C++) (id=612873) is NOT one of them — it is posted only in London, Montreal, Singapore, Warsaw and Zug."
+    },
+    {
+      "location": "Montreal",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass per the brief (Canada ignored), so not audited in depth. The Montreal office does exist and Quant Developer (C++) (id=612873) is genuinely posted there, so the row appears sound on its facts."
+    }
+  ],
+  "notes": "Board and method: Squarepoint's own careers pages (https://www.squarepoint-capital.com/open-opportunities and /early-careers) are JavaScript-rendered and returned only boilerplate text to a fetch — no job listings. The listings are served by Squarepoint's own Greenhouse board under the token 'squarepointcapital', which I read directly via boards-api.greenhouse.io. That is the firm's own hosted board and the canonical apply URLs it returns point back to squarepoint-capital.com, so I have marked these verified-primary. Note that /careers 404s; the correct path is /open-opportunities. All 89 live reqs were enumerated on 2026-08-04.\n\nOffices: the /locations page lists exactly 18 offices — Bangalore, Boston, Chicago, Dubai, Geneva, Hong Kong, Houston, Jersey, London, Los Angeles, Madrid, Milan, Montreal, New York, Paris, Singapore, Warsaw, Zug. There is NO Tokyo, Shanghai, Amsterdam, Dublin, Frankfurt or Zurich office. Milan and Jersey exist as offices but have zero live in-scope reqs (Jersey appears only on two accounting reqs, Milan on none at all). Zurich does not exist as a Squarepoint office — the Swiss sites are Geneva and Zug.\n\nRow shape: several Squarepoint reqs are single postings covering many cities. Rather than duplicate a row per city, each role below carries a comma-separated list of the IN-SCOPE cities on that req; out-of-scope cities on the same req are named in the notes field. Split these per city if the spreadsheet needs one row per location.\n\nML Performance track: Squarepoint has NO GPU, kernel, HPC or ML-infrastructure engineering openings anywhere. I checked all 89 titles. The nearest adjacency is Junior Quant Researcher - ML Alpha Research, which is a research seat asking for Python and kdb-q rather than performance engineering. This is a genuine gap for this candidate at this firm — the C++ track is where the fit is.\n\nCompensation: Squarepoint publishes minimum base salary only for New York roles (USD 100k for Graduate Software Developer, USD 150k for the research reqs), a US pay-transparency artifact. No figures are stated for any in-scope office, so comp_local is empty except where I have quoted the NY number with an explicit caveat. The existing spreadsheet's local comp ranges (CHF 130-190k, EUR 85-130k, GBP 110-170k, SGD 200-300k) are not sourced from anything Squarepoint publishes and I could not verify them.\n\nApplication process: nearly every posting opens with 'Please only apply to the one job you feel best fits your skillset and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.' This matters — the candidate gets one shot and should pick deliberately. On this profile the best pick is Junior Software Developer (C++) in London or Singapore, with Junior Quant Researcher - ML Alpha Research as the research-track alternative if the publication record is the stronger card. Several 2026-vintage reqs also now require 'demonstrable experience using AI tools collaboratively' as a stated qualification.\n\nNo visa or work-authorisation language appears in any posting body. No Mandarin requirement appears on the Hong Kong reqs."
+}

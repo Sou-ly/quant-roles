@@ -1,0 +1,29 @@
+{
+  "firm": "Belvedere Trading",
+  "careers_url": "https://www.belvederetrading.com/careers",
+  "offices_in_scope_confirmed": ["Singapore"],
+  "offices_checked_not_found": ["London", "Amsterdam", "Dublin", "Paris", "Frankfurt", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "Experienced Options Trader – Singapore Office",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/belvederetrading/25963deb-5dfd-42da-88b4-3cd3b5d8d5ef",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1+ years of experience in options trading or a related field\"; \"Bachelor's degree or higher, preferably in Finance, Economics, Mathematics, Engineering, Computer Science, or a related discipline\". No graduation-year or student gate.",
+      "requirements": "1+ years options trading or related | Bachelor's or higher in finance, econ, maths, engineering or CS | Strong understanding of equity market structure, pricing and trading dynamics | Proficiency in Python, R or SQL, able to work with large datasets and build models | Exceptional problem-solving, synthesise complex data quickly | Strong interpersonal/collaboration skills, team environment",
+      "comp_local": "",
+      "notes": "Growth seat: \"seeking an Options Trader to help scale the Singapore office\" — build out the Singapore trading presence across Belvedere's core market-making desks (equity index and commodity options), partner with devs and quants. Singapore entity is BELVEDERE TRADING SG PRIVATE LIMITED, registered 14 Jul 2022, 1 Marina Boulevard (secondary source: recordowl company registry). Posting says nothing about visa sponsorship either way — candidate would need an EP; routine at this level but worth asking early. Firm is a Chicago options market maker; the APAC office trades the US night-desk products, so expect evening/overnight-leaning hours. Two other Singapore reqs seen in search results (\"Options Trader – Singapore Office\" and \"Trade Operations Analyst – Singapore Office\") are no longer in the live Lever feed and were excluded as closed."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Chicago",
+      "existing_title": "Software Engineer",
+      "verdict": "no-longer-open",
+      "detail": "Chicago HQ is real (10 S Riverside Plaza, https://www.belvederetrading.com/careers) but no req titled \"Software Engineer\" is currently posted there; the live Lever board (https://api.lever.co/v0/postings/belvederetrading?mode=json, 10 full-time reqs on 2026-08-04) has FPGA Engineer and Senior Data Engineer in Chicago and Senior Trading Software Engineer in New York. Chicago is also out of scope for this pass (US), and the row's $200-280k figure and \"new-grad accepted\" gate are unsourced — no comp is stated on any Belvedere posting."
+    }
+  ],
+  "notes": "Primary sources: belvederetrading.com careers/about pages and the firm's own Lever board. The Lever HTML board (jobs.lever.co/belvederetrading) returns 403 to automated fetches; the public Lever JSON API for the same board was used instead and returned the full 10-posting list. Only 1 of 10 live reqs is in an in-scope location — the other nine are Chicago (7), New York (1) and Miami (1). Firm's homepage lists exactly four offices: Chicago, Boulder, New York, Singapore — so there is no EU, UK, Hong Kong, Shanghai or Tokyo presence, and no in-scope C++, ML Performance or Research openings anywhere. No internships were posted at time of check. No compensation is stated on any Belvedere posting; comp_local left empty deliberately."
+}

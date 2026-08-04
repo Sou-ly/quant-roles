@@ -1,0 +1,101 @@
+{
+  "firm": "Mingshi Investment (鸣石)",
+  "careers_url": "https://mingshiim.zhiye.com/jobs",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["London", "Singapore", "Tokyo"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师（高频交易系统方向）Quantitative Developer (C++ HFT Systems）",
+      "track": "C++",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Tagged 校园招聘 (campus recruitment), 全职 (full-time). Stated: 海内外知名高校本科及以上学历 — bachelor's or above from a well-known university in China or overseas. No explicit graduation-year gate in the requirement text, but the campus tag implies a new-grad pipeline.",
+      "requirements": "Solid C/C++ fundamentals, data structures, algorithms, OO design | Linux dev environment; OS, networking, multithreaded concurrency | Performance mindset: latency, throughput, resource use, stability | Build/maintain market-data ingest, local order book, order execution, trading gateway, risk control modules | Optimise thread model, data layout, IPC; diagnose lock contention, false sharing, allocation, NUMA, syscalls, network I/O | Interest in HFT / low-latency systems / HPC",
+      "comp_local": "",
+      "notes": "Posted 2026-07-30 — the freshest req on the board. Location 上海市·虹口区 (Hongkou district, Shanghai). Posting is entirely in Mandarin; onshore Shanghai entity (上海鸣石私募基金管理有限公司) — Mandarin working language should be assumed, and mainland China requires a work permit + residence permit for an EU national. Strongest track match for the candidate's C++/kernel background. The board does not expose per-req deep links; all seven reqs are accordions on the /jobs page."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师（C++）Quantitative Developer (C++) - 2027届校园招聘",
+      "track": "C++",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Verbatim gate: \"2027应届毕业生或毕业两年以内\" — class of 2027 new grads OR within two years of graduation. A Feb 2026 MSc graduate is inside the two-year window, so this is one of the few campus-tagged reqs the candidate is not excluded from.",
+      "requirements": "Bachelor's+ in CS, software engineering, EE, automation or maths from a well-known university | Strong C++; Golang experience a plus | Broad CS foundation: OS, data structures/algorithms, software engineering, design patterns, databases | Writes high-quality, maintainable, high-performance code | Parallel computing, HPC, distributed or low-latency systems a plus | Work on HFT systems, data processing and low-latency infrastructure; productionise research",
+      "comp_local": "",
+      "notes": "Posted 2026-07-29, Shanghai Hongkou. Mandarin-only posting. The '毕业两年以内' clause is the key detail — unlike the pure 2027届 research reqs below, this one explicitly admits recent graduates. Sponsorship (Z visa / work permit) required for an EU citizen."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI量化工程师 AI Quantitative Researcher - 2027届校园招聘",
+      "track": "Research",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Gated: \"海内外顶尖高校硕士或博士2027届应届生\" — MSc or PhD, class of 2027 only. A Feb 2026 graduate with 18 months of industry experience is outside this gate.",
+      "requirements": "MSc/PhD class of 2027, strong academic record; CS/AI preferred | Deep understanding of at least one ML/DL area with research or practical track record | Experience in time-series, LLMs, NLP, CV or RL | Able to drive a full research loop: problem definition, model design, experimental validation | Preferred: first-author papers at ICML, ICLR, AAAI, NeurIPS, UAI, KDD, ICCV, EMNLP | Preferred: awards in maths/CS/AI competitions",
+      "comp_local": "",
+      "notes": "Content-wise the single best match for the candidate's profile — the posting names ICLR and AAAI first-author papers as a preferred qualification verbatim. But the 2027届应届生 (class-of-2027 new grad) gate is explicit and disqualifying as written; would need to be approached as an experienced hire off-cycle via hr@mingshiim.com. Mandarin posting, Shanghai Hongkou, posted 2026-07-29."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化因子工程师 Qunatitative Researcher（Alpha Research）- 2027届校园招聘",
+      "track": "Research",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Gated: \"海内外顶尖高校硕士或博士2027届应届生\" — MSc or PhD, class of 2027 only. Candidate falls outside this window.",
+      "requirements": "MSc/PhD class of 2027, top university, strong grades; CS, ML, EE, IE, computational maths/physics/biology preferred | Strong maths and probability/statistics; rigorous data analysis | Linux; fluent Python for data processing, model development, validation | Research China A-share and futures data (trading, fundamental, alternative) to mine alpha | Build high/mid/low-frequency factors; track and iterate strategy performance | Preferred: top-tier competition awards or top conference/journal publications",
+      "comp_local": "",
+      "notes": "Posted 2026-07-29, Shanghai Hongkou. Mandarin-only posting; A-share domain work. Class-of-2027 gate — note the candidate is no longer a student, so this is a poor fit as posted."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化研究员 Qunatitative Researcher（Monetization & Optimization) - 2027届校园招聘",
+      "track": "Research",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hardest gate of the set: \"海内外知名高校博士2027届应届生\" — PhD, class of 2027 only. Candidate holds an MSc and is not a 2027 graduate; excluded on two counts.",
+      "requirements": "PhD, class of 2027; computational maths, CS, operations research, EE, computational physics preferred | Strong maths, modelling and probability/statistics | Linux; fluent Python for independent data analysis, model development, validation | Signal monetization: analyse alpha signals, iterate signal-blending models to improve the master signal | Portfolio optimization under risk and trading constraints, to improve performance and capacity | Collaborate with research, trading and technology teams",
+      "comp_local": "",
+      "notes": "Posted 2026-07-29, Shanghai Hongkou. Mandarin-only posting. PhD-only and class-of-2027-only; listed here for completeness of the board, not as a realistic target."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Portfolio Manager/Senior Quantitative Researcher - A Share",
+      "track": "Research",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire (社会招聘). Stated: \"3+ years working experience as Senior Researcher or PM in top pier Quant Firm\" and \"Verifiable track record with high Sharpe\". Candidate has ~18 months and no PM track record — does not clear the bar.",
+      "requirements": "PhD or MS from a top university in maths, CS, physics, EE or equivalent | 3+ years as senior researcher or PM at a top-tier quant firm | Verifiable track record with high Sharpe | Formulate investment/implementation plans for managed products | Predict A-share price moves via signals or factor combination from the firm factor base | Own day-to-day investment management and product performance evaluation reporting",
+      "comp_local": "",
+      "notes": "Still listed on the live board but the posting date shown is 2023-02-24 — over three years stale, so treat as a standing/evergreen listing rather than an active req. This is the one posting written in English. Shanghai (city-level, no district given)."
+    },
+    {
+      "location": "Shanghai",
+      "title": "资深AI量化工程师 (Senior AI Quantitative Engineer)",
+      "track": "Research",
+      "url": "https://mingshiim.zhiye.com/jobs",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire (社会招聘). Requirements as posted are unusually thin: familiarity with any ML/DL sub-field and strong independent problem-solving. No graduation-year gate.",
+      "requirements": "Familiar with at least one deep-learning / machine-learning sub-field | Strong self-directed learning and independent problem-solving | Research frontier DL/ML algorithms and apply them to financial data | Deploy across factor, signal and trading use cases | Use the firm's compute resources to keep improving model prediction accuracy",
+      "comp_local": "",
+      "notes": "Posting date shown is 2023-02-01 — more than three years stale; almost certainly an evergreen placeholder rather than a live req, and the AI量化工程师 2027 campus posting appears to be its current replacement. Mandarin-only. Shanghai (city-level)."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "office-does-not-exist",
+      "detail": "No Mingshi London entity or office could be found in any primary source. The firm's own contact page lists exactly one address — 32F West Tower, No.168 Gongping Road, Shanghai, tel +86 21 5010 6289 — and no other city (https://www.mingshiim.com/contact, identical on https://en.mingshiim.com/contact). UK Companies House returns no active Mingshi investment/asset-management company; every 'Mingshi' match is a dissolved unrelated trading company (https://find-and-update.company-information.service.gov.uk/search?q=mingshi+investment). SEC IAPD shows the only active Mingshi adviser as MINGSHI INVESTMENT MANAGEMENT LIMITED at 602 Dina House, Ruttonjee Centre, 11 Duddell Street, Central, Hong Kong, with firm_branches_count = 0 (https://adviserinfo.sec.gov/firm/summary/318767). The 'Rare PRC quant with a London research entity' rationale in the existing row is not supported by any evidence I could find; the entire row — location, track, the £100–160k comp band and the requirement bullets — should be deleted, not merely re-verified."
+    }
+  ],
+  "notes": "Firm structure: Mingshi is a Shanghai-headquartered onshore China A-share quant manager (上海鸣石私募基金管理有限公司, AMAC-registered private fund manager under CSRC rules) with one offshore arm, Mingshi Investment Management Limited 鳴石投資(香港)管理有限公司, an SFC-licensed Hong Kong entity that also files an SEC Form ADV (802-123512, active, 0 branches, Central Hong Kong address). All hiring I could verify is onshore Shanghai; the Hong Kong entity is a fund-management/distribution vehicle and posts no jobs. Reported non-scope expansion into Australia/NZ (ASIC licence application) exists but is out of scope for this pass.\n\nMandarin: six of the seven live postings are written entirely in Mandarin, on a Mandarin-only Beisen (北森) recruitment portal, for an onshore mainland entity. Assume Mandarin is a working-language requirement. The only English-language posting is the stale 2023 'Portfolio Manager/Senior Quantitative Researcher - A Share'. Mainland China seats also require a Z visa / work permit + residence permit for an EU citizen. There is no English-tolerant exception visible here.\n\nSources actually loaded: firm site https://www.mingshiim.com/join and /contact and the English mirror https://en.mingshiim.com/ (both served with a TLS chain that failed strict verification, so they were fetched with certificate verification relaxed — content matched between the two hosts); job board https://mingshiim.zhiye.com/jobs showing '全部职位（共 7 个）' — 7 total openings, all Shanghai.\n\nBlocked/limited pages: the Beisen job portal is a JavaScript SPA — plain HTTP fetches return only the shell, and it exposes no public JSON API I could reach (all /api/* guesses returned either the SPA shell or a generic IIS 500). I had to render it through a text-extraction proxy to enumerate the reqs. Consequence: the portal does not surface per-requisition deep links (each job is an inline accordion), so every role above carries the board URL rather than an individual req URL — that is a limitation of the site, not a missing lookup. The FCA Financial Services Register (register.fca.org.uk) is a Salesforce SPA and returned 403 to direct fetches, so the negative UK finding rests on Companies House, SEC IAPD and the firm's own contact page rather than on FCA search itself. The firm's English careers copy is stale (still advertises '2024 campus recruitment'); the Chinese board is current, with five reqs posted 2026-07-29/30.\n\nCoverage gaps: no compensation figure is stated on any posting or in any regulator filing I loaded, so all comp_local fields are empty — in particular the existing sheet's £100–160k London band has no source. Two of the seven listings carry 2023 posting dates and are likely evergreen placeholders rather than active reqs; I kept them but flagged the staleness per role. No Trader-track and no dedicated ML-Performance/infrastructure req is currently open."
+}

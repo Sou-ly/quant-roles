@@ -1,0 +1,41 @@
+{
+  "firm": "Winton",
+  "careers_url": "https://www.winton.com/opportunities",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo", "Singapore", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer, Commodities",
+      "track": "C++",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4875778101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's in Computer Science, Engineering or related field; 5+ years commercial development experience. No graduation-year gate, but the 5+ years bar is above the candidate's ~18 months.",
+      "requirements": "5+ years commercial software development | Strong Python | Building and deploying data pipelines | Modern infra: CI/CD, Kafka, Airflow, Docker, Kubernetes, AWS | Desired: commodity derivatives trading systems at a systematic hedge fund; Dask/parallel processing | Works alongside researchers and portfolio managers",
+      "comp_local": "",
+      "notes": "Titled 'quant developer' but the stack is Python-first (Dask, Airflow, Kafka) — no C++ in the posting, so this is systems/trading-infra work rather than low-latency C++. UK role: HPI visa is self-sponsored, posting says nothing about sponsorship. Seniority gate (5+ yrs) is the main mismatch."
+    },
+    {
+      "location": "London",
+      "title": "Senior Software Engineer, Post-Trade",
+      "track": "C++",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4725913101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or master's in a STEM subject; 5+ years of full-time professional software development. Not student-gated, but explicitly senior.",
+      "requirements": "5+ years professional software development | Cloud-distributed, event-driven or microservices systems, enterprise backend (C#/.NET preferred) | Strong CS fundamentals and engineering discipline | Stack: C#, Angular/TypeScript, MSSQL/PostgreSQL, AWS, Docker, Kubernetes | Preferred: SQL performance tuning, financial services background | Full lifecycle: architecture, data modelling, implementation, testing, ops",
+      "comp_local": "",
+      "notes": "Post-trade back office/middle office systems, not trading-hot-path. Stack is C#/.NET, not C++ — included under the C++/systems track only because it is core trading-adjacent infrastructure. Weak fit for a GPU/kernel background."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "Winton's London office is confirmed (One Hooper's Court, Knightsbridge — https://www.winton.com/contact), but the firm's live Greenhouse board (https://job-boards.eu.greenhouse.io/winton, 10 postings as of 2026-08-04) has no London Quantitative Researcher req; the only QR posting is 'MENA Equities Quantitative Researcher' in Abu Dhabi (out of scope). The row's source URL https://www.winton.com/careers returns HTTP 404 — the correct page is https://www.winton.com/opportunities. The '£90-140k' figure and the 'recent grads accepted' eligibility line are not supported by anything on Winton's site and should be treated as unverified."
+    }
+  ],
+  "notes": "Winton runs one primary board on Greenhouse EU (https://job-boards.eu.greenhouse.io/winton), mirrored at https://www.winton.com/opportunities; both loaded fine. Full live board on 2026-08-04: Quantitative Developer Commodities (London), Cloud Engineer (London), Data Analyst (London), Data Engineer (London), Senior Full Stack Software Developer Post-Trade (London), Senior Software Engineer Post-Trade (London), MENA Equities Quantitative Researcher (Abu Dhabi), plus three 'Register Your Interest' pipeline forms (Business Management / Investment Management / Technology, all London). Excluded as out of scope: Cloud Engineer, Data Analyst, Data Engineer (pure data/infra ops), Senior Full Stack Software Developer Post-Trade (Angular/C# web), MENA QR (Abu Dhabi — note it does say the first 6+ months are based in the London office, if the candidate ever wanted to revisit Middle East scope). Offices: the contact page lists exactly six — London, New York, Hong Kong, Shanghai, Abu Dhabi, Sydney. Hong Kong and Shanghai are in scope and real, but have zero live postings; there is no Winton office in Tokyo, Singapore or anywhere in the EU. Older Greenhouse reqs surfaced by search (Quantitative Risk 4069455101, Commodity Fundamentals Portfolio Manager 4026232101, Back-End Software Engineer 4328239101) are absent from the current board and appear closed. No compensation is stated on any Winton posting. Net: currently zero Research-track and zero true low-latency-C++/ML-performance openings at Winton in scope, and every live technical req carries a 5+ years gate."
+}

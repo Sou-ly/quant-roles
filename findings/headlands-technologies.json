@@ -1,0 +1,119 @@
+{
+  "firm": "Headlands Technologies",
+  "careers_url": "https://job-boards.greenhouse.io/headlandstechnologiesllc",
+  "offices_in_scope_confirmed": ["Amsterdam", "London", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Hong Kong", "Shanghai", "Paris", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "C++ Software Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Degree 'in any computing related area' preferred, or 'extensive professional software development experience'. Trading industry experience 'preferred but not mandatory'.",
+      "requirements": "Strong C++ or another statically-typed imperative language | Well-versed in software engineering fundamentals | Linux knowledge advantageous | Comfortable across abstraction levels, from single machines to distributed systems | Committed to fully automated, scalable, maintainable solutions | Low ego, collaborative",
+      "comp_local": "",
+      "notes": "Single req posted across Amsterdam/Chicago/London/New York; pick the location in the application. Best fit on the sheet for this candidate: no new-grad gate, no finance background required, and production C++ is the core ask. EU citizenship means no sponsorship needed in Amsterdam; the Greenhouse sponsorship question is US-only. Amsterdam is a small office (~12 people per The Org)."
+    },
+    {
+      "location": "London",
+      "title": "C++ Software Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Degree 'in any computing related area' preferred, or 'extensive professional software development experience'. Trading industry experience 'preferred but not mandatory'.",
+      "requirements": "Strong C++ or another statically-typed imperative language | Well-versed in software engineering fundamentals | Linux knowledge advantageous | Comfortable across abstraction levels, from single machines to distributed systems | Committed to fully automated, scalable, maintainable solutions | Low ego, collaborative",
+      "comp_local": "",
+      "notes": "Same req as Amsterdam. London office confirmed on the firm's own site at 125 Wood Street, 7th Floor, EC2V 7AN. Posting states no UK visa language either way; the HPI visa is self-sponsored so it costs the employer nothing, but that is worth raising early since the firm's only stated sponsorship question is US-facing."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced track. New graduates are directed to the separate 'Quantitative Researcher - New Grad' posting, so this req assumes prior experience.",
+      "requirements": "Experience or demonstrable interest in systematic trading | Track record applying statistics and machine learning to noisy real-world data | Proficiency in Java, C++ or Python | Ability to develop profitable, scalable and maintainable trading strategies",
+      "comp_local": "",
+      "notes": "The ML-on-noisy-data framing lines up with the candidate's paper record. With ~18 months of experience by a mid-2027 start this sits between the two QR reqs; applying to the experienced one is defensible but the new-grad req is the safer parallel application."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced track. New graduates are directed to the separate 'Quantitative Researcher - New Grad' posting, so this req assumes prior experience.",
+      "requirements": "Experience or demonstrable interest in systematic trading | Track record applying statistics and machine learning to noisy real-world data | Proficiency in Java, C++ or Python | Ability to develop profitable, scalable and maintainable trading strategies",
+      "comp_local": "",
+      "notes": "Same req as Amsterdam, London location option. No stated UK sponsorship policy on the posting."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Researcher – New Grad",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Titled 'New Grad' but the posting body states no graduation-year cutoff and no student-enrolment requirement. Stated gate is only: 'Degree in a highly technical field (computer science, engineering, statistics, mathematics or physics) required'.",
+      "requirements": "Degree in a highly technical field (CS, engineering, statistics, maths or physics) required | Strong statistics and machine learning with practical experience on noisy real-world data | Solid software development skills in Java, C++ or Python | Demonstrable interest in systematic trading, internship experience preferred | Low ego, effective collaboratively and autonomously",
+      "comp_local": "",
+      "notes": "Soft gate rather than a hard one. The title signals new-grad intake, which is a mild mismatch for someone ~18 months into a role by start date, but unlike most new-grad reqs at peer firms there is no 'graduating in 20XX' language to disqualify on. Feb 2026 EPFL MSc is recent enough that this is still arguably in-window."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher – New Grad",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Titled 'New Grad' but the posting body states no graduation-year cutoff and no student-enrolment requirement. Stated gate is only: 'Degree in a highly technical field (computer science, engineering, statistics, mathematics or physics) required'.",
+      "requirements": "Degree in a highly technical field (CS, engineering, statistics, maths or physics) required | Strong statistics and machine learning with practical experience on noisy real-world data | Solid software development skills in Java, C++ or Python | Demonstrable interest in systematic trading, internship experience preferred | Low ego, effective collaboratively and autonomously",
+      "comp_local": "",
+      "notes": "Same req as Amsterdam, London location option."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "FPGA Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4228114009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Requires professional FPGA/ASIC design and verification experience plus a university degree in EE, CS, CE or a related technical field.",
+      "requirements": "Professional FPGA/ASIC design and verification experience | Strong working knowledge of SystemVerilog, Verilog or VHDL | 'Knowledge of C++ required' | Degree in EE, CS, CE or related | In-depth knowledge of common EDA tools | TCL/Python/Bash scripting; high-speed transceivers, networking protocols and packet processing preferred",
+      "comp_local": "",
+      "notes": "Included for completeness as the only other hardware/low-latency C++-adjacent req in scope, but this is a weak fit: the hard gate is professional RTL experience, which the candidate's GPU-kernel and C++ background does not cover. C++ is a secondary requirement here, not the main skill."
+    },
+    {
+      "location": "London",
+      "title": "FPGA Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4228114009",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Requires professional FPGA/ASIC design and verification experience plus a university degree in EE, CS, CE or a related technical field.",
+      "requirements": "Professional FPGA/ASIC design and verification experience | Strong working knowledge of SystemVerilog, Verilog or VHDL | 'Knowledge of C++ required' | Degree in EE, CS, CE or related | In-depth knowledge of common EDA tools | TCL/Python/Bash scripting; high-speed transceivers, networking protocols and packet processing preferred",
+      "comp_local": "",
+      "notes": "Same req as Amsterdam, London location option. Same weak-fit caveat: RTL experience is the gating requirement."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Office is real and confirmed on the firm's own site (WTC Tower 2, Level 3, Strawinskylaan 1847), and a C++ req is genuinely open there, but the posted title is 'C++ Software Developer', not 'Software Engineer (C++)'. Two further corrections to that row: the 'Verification Status: Reported' can be upgraded to verified-primary, and the 'New-grad OR entry-level req' eligibility note is wrong - the C++ posting carries no new-grad or entry-level gate at all and explicitly accepts 'extensive professional software development experience' in place of a degree. Source: https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009"
+    },
+    {
+      "location": "Chicago",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Chicago HQ is real (110 North Wacker Drive, 54th Floor) and the same C++ req lists Chicago as a location, so the row is substantively right, but the posted title is 'C++ Software Developer' and the 'New-grad OR entry-level req' eligibility note is again unsupported by the posting. Note this row is out of scope for this pass anyway - the brief excludes US offices. Source: https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009"
+    }
+  ],
+  "notes": "Careers flow: headlandstech.com/careers/ redirects into a Greenhouse board at job-boards.greenhouse.io/headlandstechnologiesllc. Both pages loaded cleanly; nothing was blocked, so coverage of live reqs should be complete as of 2026-08-04. The board carries only seven postings total, and each engineering/research req is a single multi-location posting where the candidate selects a city, so the Amsterdam and London rows above share req IDs rather than being distinct openings - expect one pipeline per req, not per city.\n\nIn-scope offices are Amsterdam, London and Singapore, all three confirmed on the firm's own locations page. Chicago, New York and Austin exist but are US and therefore out of scope. There is no Tokyo, Hong Kong, Shanghai or any other EU office beyond Amsterdam - do not add one.\n\nSingapore is confirmed as a real office (Asia Square Tower 1, 8 Marina View #14-06) but currently has no in-scope openings: its only postings are 'Legal & Compliance Associate' (out of scope) and the catch-all 'Opportunistic Applications'. That catch-all does include Singapore as a location, so it is the only route into that office right now.\n\nDeliberate omissions: 'Java Software Developer' (Amsterdam/London) is a real open systems role but falls outside all four in-scope tracks since the work is Java, not C++ - worth knowing it exists if the candidate is flexible. 'Opportunistic Applications' is a resume catch-all rather than a specific req, so it is not listed as a role.\n\nNo Trader and no ML Performance openings exist at this firm right now - the board has no trading-seat or GPU/ML-infrastructure req in any location, in scope or out. The candidate's GPU-kernel work would have to be pitched into the C++ or Quantitative Researcher reqs.\n\nCompensation: left empty everywhere on purpose. No figure is stated on any posting, and the Netherlands and UK have no pay-transparency disclosure on these reqs. The existing sheet's EUR 90-140k Amsterdam and USD 300-400k Chicago figures are not sourced to anything I could verify on the firm's own materials - treat them as unverified estimates rather than stated ranges."
+}

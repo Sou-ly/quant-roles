@@ -1,0 +1,143 @@
+{
+  "firm": "Man Group / AHL",
+  "careers_url": "https://www.man.com/careers",
+  "offices_in_scope_confirmed": ["London", "Sofia", "Madrid", "Milan", "Dublin", "Amsterdam", "Pfaffikon", "Vaduz", "Shanghai", "Hong Kong", "Tokyo"],
+  "offices_checked_not_found": ["Singapore", "Paris", "Frankfurt", "Zurich", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quant Developer - AHL",
+      "track": "C++",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844843101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Asks for a strong academic record and a degree with strong mathematical/computing content; front-office quant dev experience is listed as advantageous, not required.",
+      "requirements": "Exceptional technology skills, recognised by peers as an expert | Strong Python; Linux platform proficiency plus scripting | Data analysis with NumPy/SciPy/Pandas | Collaborative SW engineering: agile, CI, code review, testing | Maths: statistics, asset pricing theory, optimisation | Keen interest in financial markets and instruments",
+      "comp_local": "",
+      "notes": "This is the flagship AHL quant dev seat and the closest match to the existing spreadsheet row. Important correction: the posting is Python-first. Java and C++ are named only for 'the highest throughput systems', so the C++ track label is only partly accurate. ML/NLP experience is listed as advantageous, which suits the candidate's publication record. Application form asks about visa sponsorship and notice period; UK HPI visa is self-sponsored so no cost to Man."
+    },
+    {
+      "location": "London",
+      "title": "Lead Python Engineer - Compute Platform",
+      "track": "ML Performance",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4925986101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No year gate, but it is a Lead role: 'Experience leading work in a formal software development environment alongside other engineers' is essential. ~18 months of experience is likely light for this req.",
+      "requirements": "Advanced Python, extensive production application/service experience | Modern cluster compute: Kubernetes, Spark, Hadoop Yarn, Ray, Airflow | Strong Linux platform building | Advantageous: GPU/CPU optimisation, NUMA, GPU profiling | Advantageous: C/C++ or other low-level language | Advantageous: advanced degree in maths or computing",
+      "comp_local": "",
+      "notes": "Developer Platform team, building large Python research compute clusters and scalable compute for research. The GPU-profiling and C/C++ 'advantageous' lines are the closest thing Man has to an ML-performance seat. Seniority is the main obstacle, not eligibility."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Risk Manager",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4922234101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum 2 years in quantitative and/or risk-focused roles within buy-side, sell-side or financial services.' Candidate will have ~18 months and it is not financial-services experience, so this is a stretch.",
+      "requirements": "MSc or higher in a highly quantitative discipline (maths, statistics, physics) | Strong mathematical and statistical background | Advanced Python or similar | Portfolio risk modelling and risk management | Knowledge of financial markets across major asset classes | Strong communication",
+      "comp_local": "",
+      "notes": "Man AHL Investment Risk, inside the Group Risk function. Includes risk research, model development and building analytical infrastructure, so it is quant-research-adjacent rather than pure control. The 'within financial services' wording is the real gate."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher - Macro Trend",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4880305101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'2+ years researching alpha signals in macro assets' with alpha-generation experience required; the application form screens for 1+ years of macro experience. Candidate has no alpha-generation track record, so this is a hard gate.",
+      "requirements": "2+ years researching alpha signals in macro assets | Degree in a quantitative discipline from a leading university | Strong Python and financial data analysis | Portfolio construction and risk analysis | Solid grounding in statistical and mathematical modelling",
+      "comp_local": "",
+      "notes": "AHL Global Macro, Global Trend and Volatility sector. Full research lifecycle from hypothesis to live monitoring. Listed for completeness; the alpha-research gate makes it a weak fit. Application asks about visa sponsorship and notice period."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher - Macro",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4724414101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'3+ years of experience researching and live trading alpha signals for futures and FX' is essential, plus mentoring of junior researchers. Candidate does not meet this.",
+      "requirements": "3+ years researching and live-trading alpha signals in futures and FX | Intraday-to-monthly predictor design and analysis | Portfolio construction and risk analysis | Strong Python and large dataset handling | Strong academic record, quantitative degree from a leading university | Able to mentor junior researchers",
+      "comp_local": "",
+      "notes": "AHL Macro. Effectively a mid/senior hire. Included only so the sheet reflects what is actually open in London; do not prioritise. Application asks for desired salary and bonus."
+    },
+    {
+      "location": "London",
+      "title": "AHL IDI Graduate Analyst",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4672725101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT/NEW-GRAD GATE: 'Must graduate by September 2026'. Candidate graduated Feb 2026 so is technically inside the window, but this is a graduate scheme aimed at fresh graduates and the candidate would be ~18 months into a job by the start date.",
+      "requirements": "Degree with high mathematical and computing content | Strong academic record | Curiosity, resilience, strong communication | Comfortable with ambiguity, detail-oriented | Advantageous: SQL, Python, technical/data solutions",
+      "comp_local": "",
+      "notes": "Investment and Data Implementation, Man's Systematic division. 18-month structure: 6 months in IDI then three 4-month rotations. Application window 29 July - 20 August 2026, testing Aug-Sep, finals Sep/Oct 2026 - so it is open right now but closes soon. Note this is data/trading-system implementation, not alpha research; the Research track label is generous."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher - AI/ML",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience gate stated. 'Investment field experience is optional' and a 'strong publication record or thesis work in ML/AI' is preferred - the best eligibility fit of any Man role found.",
+      "requirements": "Advanced degree in CS, statistics, maths, finance/economics from a top-tier institution | Strong ML theory: optimisation, probabilistic modelling, deep learning | Hands-on fine-tuning of large-scale foundation models | Cloud and multi-machine CPU/GPU experience | Signal discovery with LLMs, NLP and alternative data | Deep learning and RL model building",
+      "comp_local": "",
+      "notes": "Strongest match in this firm for the candidate's profile: ICLR/AAAI submissions, GPU work and multi-machine CPU/GPU experience are all explicitly wanted, and prior investment experience is explicitly optional. NO Mandarin requirement is stated in the posting - unusual for a Shanghai seat and worth confirming at first contact. Needs visa sponsorship; the application form asks about it."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4882442101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'2-5 years of experience in researching and live trading alpha signals for futures in Chinese market' - a hard domain gate the candidate does not meet.",
+      "requirements": "Advanced degree in CS, statistics, maths, finance/economics from a top-tier institution | 2-5 years researching and live-trading alpha for Chinese futures | Strong Python on large datasets | Risk-parity portfolio construction, volatility modelling, derivatives | Macro and cross-asset dynamics in China | Advantageous: LLMs and AI agents",
+      "comp_local": "",
+      "notes": "China Research Team, risk-parity and macro strategies. No explicit Mandarin requirement stated, but the China-market alpha requirement effectively assumes local market experience. Weak fit; sibling AI/ML req above is the one to target."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Developer - Systematic",
+      "track": "C++",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4908078101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum of 2 years of professional experience in software engineering, preferably with a focus on quantitative applications.' Candidate at ~18 months is marginally under but within negotiating distance.",
+      "requirements": "2+ years professional software engineering | Python plus Pandas, NumPy, SciPy, statsmodels, scikit-learn | Production systems: testing, monitoring, deployment | Linux and Git | Databases: MS SQL, Postgres or MongoDB | Advantageous: Spark, Dask, Kubernetes, Redis, React, ETL",
+      "comp_local": "",
+      "notes": "Front-Office Engineering in Man's newly established Shanghai office. Caveat on the track label: the posting names NO C++ requirement, it is Python-first. No Mandarin requirement stated. Needs sponsorship. Greenhouse lists the location as 'China'; the posting body says Shanghai."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Lead Quantitative Developer - Systematic",
+      "track": "C++",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4908077101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'5+ years of professional software engineering experience' plus technical leadership / people management. Candidate does not meet this.",
+      "requirements": "5+ years professional software engineering | Expert Python and Pandas, with NumPy, SciPy, statsmodels, scikit-learn | Technical leadership and people management | Production systems with testing and deployment | Linux and Git | Databases: MS SQL, Postgres or MongoDB",
+      "comp_local": "",
+      "notes": "Senior sibling of the req above, same new Shanghai front-office engineering team. Included so the sheet records that Man is building out Shanghai engineering; not applicable now, but the team will likely reopen junior reqs. No C++ mentioned despite the title; no Mandarin requirement stated."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Graduate Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "No role called 'Graduate Quantitative Developer' exists at Man Group. Man's own graduate index (https://www.man.com/graduate-programmes) lists seven named schemes and the developer one is the 'Technology Foundation Programme', with a Software Engineer (Python/C++/Java) pathway; it is not currently open (the page shows the last window as Autumn 2025, with the other schemes reopening Autumn 2026). The live experienced-hire equivalent is 'Quant Developer - AHL', London (https://job-boards.eu.greenhouse.io/mangroup/jobs/4844843101), which is not a graduate scheme and has no year gate. The row's claim of 'looser date filters' is right in the sense that the experienced req has no graduation gate at all; the £90-140k figure is unsourced - no Man posting reviewed stated compensation."
+    },
+    {
+      "location": "Pfaffikon",
+      "existing_title": "Technology Analyst",
+      "verdict": "could-not-verify",
+      "detail": "The office is real - Man Group's own contact page lists Pfaffikon, Switzerland (Huobstrasse 3, 8808), so this is NOT an invented office. But no Pfaffikon role of any kind appears on Man's job board (https://job-boards.eu.greenhouse.io/mangroup) as of 2026-08-04, and no role titled 'Technology Analyst' exists anywhere in Man's listings. Treat the row as an unfounded title with no live req behind it; the CHF 110-160k figure is unsourced."
+    }
+  ],
+  "notes": "Primary source: man.com/careers links out to https://job-boards.eu.greenhouse.io/mangroup, which is Man's live board and was fully enumerated (approx. 48 reqs). A legacy Workday board also exists at mangroupplc.wd3.myworkdayjobs.com and surfaces in search results with old AHL Quant Developer reqs (JR001198, JR001713); it is JS-only and returned no content to WebFetch, and Man's own careers page points only at Greenhouse, so I treated those Workday hits as stale and did not carry them into roles. Offices confirmed from https://www.man.com/contact-us: London (HQ), Sofia, Madrid, Milan, Dublin, Amsterdam, Pfaffikon, Vaduz, Shanghai, Hong Kong, Tokyo, plus out-of-scope New York, Boston and Sydney. Man has NO Singapore office. Despite in-scope offices in Tokyo, Hong Kong, Dublin, Milan, Madrid, Amsterdam and Pfaffikon, the board carried zero openings in any of them - all in-scope hiring is London, Shanghai and Sofia. Deliberate exclusions: Sofia (Bulgaria, in-scope location) has eight live technology reqs, but all are out-of-track - Application Support Engineer, Operational Support Engineer, Platform Automation Engineer, Senior Storage Automation Engineer, C# Engineer, Senior Python Engineer, Associate Engineer Finance and People Technology - i.e. IT support, infra automation, C# or pure Python, none C++ or ML-performance. 'Senior Python Engineer - Data Platform' (London) was likewise excluded as pure Python data engineering. Compensation: not a single Man Group posting reviewed stated a salary figure, so every comp_local is empty and both existing rows' figures should be regarded as unsourced. Cross-cutting caveat on the C++ track: Man/AHL is a Python-first shop. Neither Shanghai quant-dev req mentions C++ at all, and the London Quant Developer req mentions Java/C++ only for highest-throughput systems - so this firm is a poor target if the candidate wants C++ to be the day job."
+}

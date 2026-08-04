@@ -1,0 +1,155 @@
+{
+  "firm": "Maven Securities",
+  "careers_url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd",
+  "offices_in_scope_confirmed": ["London", "Amsterdam", "Hong Kong"],
+  "offices_checked_not_found": ["Singapore", "Shanghai", "Tokyo", "Paris", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "C++ Developer - Options Market Making",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6486421",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated. No explicit years-of-experience minimum; framed as an experienced-hire engineering role.",
+      "requirements": "Excellent C++ (11/14/17/20/23) | Template programming | Ultra low latency design | Performance tuning and analysis | Strong numerical aptitude and attention to detail | Interest in trading and finance (no finance background required)",
+      "comp_local": "",
+      "notes": "Best single fit on the board for this candidate: pure low-latency C++ on exchange connectivity and market-making software, working alongside FPGA, analytics and UI teams. Desirables (Python, UDP/TCP, network acceleration, Intel architecture optimisation) line up with the llama.cpp/GPU-kernel background. EU citizenship covers Amsterdam with no sponsorship. Oddity worth knowing: the Greenhouse application form asks 'Do you have the right to work in United Kingdom?' even though the req is listed in Amsterdam — the form appears to be shared across Maven reqs; worth clarifying with the recruiter which office the seat actually sits in."
+    },
+    {
+      "location": "London",
+      "title": "C++ Developer - Options Market Making - Relocate to Chicago",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6049003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated. Application asks about right to work in the United Kingdom.",
+      "requirements": "Excellent C++ (11/14/17/20/23) | Template programming | Ultra low latency design | Performance tuning and analysis | Strong numerical ability and problem solving | Desirable: derivatives knowledge, Python/C#/JS, UDP/TCP, network acceleration, Intel architecture optimisation",
+      "comp_local": "",
+      "notes": "Same job spec as the Amsterdam C++ req but the posting explicitly requires relocation to Chicago — the London base is the starting point, not the destination. Chicago is out of scope for this pass, so treat this as a London-titled req with a US endpoint. Benefits stated: discretionary annual bonus, group pension, private healthcare and life assurance, 25 days leave, catered meals, gym. UK entry would work via the HPI visa at no cost to the employer, but the relocation clause makes US work authorisation the real gate."
+    },
+    {
+      "location": "London",
+      "title": "Senior FPGA Design Engineer / Hardware Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6330779",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Minimum 5+ years of FPGA experience — a hard gate this candidate does not meet on paper (~18 months by a mid-2027 start).",
+      "requirements": "SystemVerilog | 5+ years FPGA experience | Automated verification | HLS or similar DSP workflow for FPGA | Source control management | Desirable: Python/TCL, low latency design, ASIC, network and packet processing, trading systems",
+      "comp_local": "",
+      "notes": "Listed for completeness as the closest low-latency-hardware seat in scope; the 5-year FPGA gate rules it out for now. Financial-sector experience is explicitly not mandatory — engineering problem-solving is weighted more heavily — so the gate is seniority, not domain. ISCA workshop publication is relevant signal if Maven ever opens a junior version of this seat."
+    },
+    {
+      "location": "London",
+      "title": "Senior Quantitative Researcher - Options Market Making",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4238630",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 3+ years of experience in the financial industry, particularly electronic options\" — the candidate has no finance-industry experience, so this gate is not met.",
+      "requirements": "Degree in applied maths, CS, statistics, engineering or physics; PhD or independent research track record | 3+ years financial industry experience, electronic options | Advanced algorithm research and predictive modelling on large datasets | Real-time trading models for low-latency systems | Bridges technical and trading teams",
+      "comp_local": "",
+      "notes": "The 'PhD or independent research track record' clause is partly satisfiable by the first-author ICLR/AAAI submissions, but the 3+ years electronic-options requirement is the binding constraint. Maven states it sources directly and does not accept unsolicited agency submissions. Benefits: discretionary bonus, 25 days leave, private healthcare, pension, catered breakfast and lunch."
+    },
+    {
+      "location": "London",
+      "title": "Quant Trader - Equity Options",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7588724",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2-5 years' experience in US equity options quantitative research or trading\" — domain-specific prior experience required; not a fit for a candidate coming from systems/ML.",
+      "requirements": "2-5 years in US equity options quant research or trading | Strong understanding of options markets, volatility and equity derivatives | Interest in vol relative value, vol carry, term structure/path or dispersion | Commercial mindset with appetite for risk ownership | Python and SQL",
+      "comp_local": "",
+      "notes": "Explicitly aimed at people moving off large volatility desks at banks or multi-strategy funds — a lateral hire, not an entry point. Included so the sheet reflects what London Trader seats actually are at Maven right now."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trading Analyst",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7582506",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 2-5 years of experience specifically within a Hedge Fund, Proprietary Trading Firm, or Quantitative Asset Manager\" — buy-side experience is required verbatim; no graduation-year gate.",
+      "requirements": "2-5 years at a hedge fund, prop firm or quant asset manager | Strong Python (Pandas, NumPy, SciPy) | SQL essential | Understanding of trade lifecycle and buy-side strategies | Familiarity with relative value, statistical arbitrage and volatility strategies | Excellent numerical and communication skills",
+      "comp_local": "",
+      "notes": "Python/SQL analyst seat supporting trading strategy rather than a risk-taking trader seat; the C++/GPU background is not what this req is screening for. The buy-side-only experience clause is the hard gate."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "European Options Market Maker",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6857372",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 3 years trading European single stock options in market making\" plus a \"successful track record of proven P&L and market share\" — requires an existing trading record.",
+      "requirements": "3+ years market making European single stock options | Proven P&L and market share track record | Strong grasp of European single stock options market structure | Outstanding numerical and analytical skills | Knowledge of automated options trading strategies | Programming experience preferred",
+      "comp_local": "",
+      "notes": "Senior seat with scope to build out a trading team. EU citizenship means no sponsorship needed for Amsterdam, but the P&L track record requirement rules the candidate out."
+    },
+    {
+      "location": "London",
+      "title": "Associate Portfolio Manager",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/5511938",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "3+ years as a PM or 4-5 years as an assistant PM, with a realised Sharpe ratio above 2.5 — a track-record gate the candidate cannot meet.",
+      "requirements": "3+ years as PM or 4-5 years as assistant PM | Realised Sharpe > 2.5 | Demonstrated systematic strategy development track record | Strong Python or Julia | Experience with large time series data | MSc or PhD in a scientific subject",
+      "comp_local": "",
+      "notes": "Systematic strategy seat across futures, options and equities with full trade lifecycle ownership. The MSc requirement is met; the Sharpe and PM-tenure requirements are not."
+    },
+    {
+      "location": "London",
+      "title": "Quant Trader Internship 2027 (6 months)",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Student-gated. The application form requires \"What year will you be graduating or expecting to graduate?\" and adds \"If your graduation year is not listed, please keep an eye on our jobs pages for suitable opportunities.\" A Feb 2026 graduate already in full-time work is outside the intended window.",
+      "requirements": "Background in applied maths, financial engineering, physics or similar quantitative discipline | Programming in at least one language, preferably Python (C++ or C# advantageous) | Strong problem solving and communication | Professional English fluency | Financial markets familiarity beneficial but optional",
+      "comp_local": "",
+      "notes": "Six months, so it clears the brief's internship duration bar, with flexible start in January 2027 or July 2027 and a stated pathway to a full-time offer. Visa sponsorship is explicitly available and \"discussed with eligible candidates at later stages\", and the UK HPI route would cost Maven nothing regardless. Flagging the graduation-year gate as the reason this is a poor fit rather than the work itself. One application per candidate per recruitment cycle — do not burn it on a mismatched req."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Japan Analyst",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7548006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "4+ years in equity research, asset management, hedge fund or investment banking with Japan exposure.",
+      "requirements": "4+ years equity research / buy-side / sell-side with Japan exposure | Strong research and financial modelling | Undergraduate degree preferred in finance, commerce or business administration | Works independently with initiative | Collaborative team player",
+      "comp_local": "",
+      "notes": "Fundamental equity research, not quantitative — despite sitting under the Research track by title it is a discretionary long/short analyst seat, so the ML and C++ background does not transfer. Native Japanese is preferred but not mandatory; English is required. Hong Kong would need sponsorship. Included because it is one of only a handful of non-compliance Hong Kong openings, and to document that no quant or dev seat is currently open there."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Korea Analyst",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7794197",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "2+ years in equity research, asset management, hedge fund or investment banking with Korea exposure. Native Korean proficiency is required.",
+      "requirements": "2+ years equity research / buy-side / sell-side with Korea exposure | Native Korean required, good English, Japanese preferred | Strong financial modelling and analytical skills | Undergraduate degree preferred in finance, commerce or business administration | CFA or CA an asset",
+      "comp_local": "",
+      "notes": "Hard language gate — native Korean is required, not preferred. Fundamental rather than quantitative research. Listed only for completeness of the Hong Kong picture."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "No req titled 'Quantitative Developer' exists on Maven's Greenhouse board (https://job-boards.greenhouse.io/mavensecuritiesholdingltd); the London C++ seat is posted as 'C++ Developer - Options Market Making - Relocate to Chicago' (https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6049003), and it requires relocation to Chicago. The London office itself is confirmed at 155 Bishopsgate (https://www.mavensecurities.com/contact/). Two further claims on this row are wrong: the eligibility note 'New-grad OR entry-level req - recent grads accepted' is not supported by any Maven C++ posting, all of which read as experienced hires with no graduate framing; and the comp figure GBP 110-170k is not stated anywhere on the posting, which says only 'competitive compensation'. The cited source URL https://www.mavensecurities.com/careers/ returns HTTP 404 — the live careers path is https://www.mavensecurities.com/jobs/."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "The Hong Kong office is real (20/F Tai Tung Building, 8 Fleming Road, Wan Chai, per https://www.mavensecurities.com/contact/), so this is not a phantom office. But no developer, quant developer or quantitative researcher req is open in Hong Kong on the full 38-role Greenhouse board: the only Hong Kong listings are Compliance Analyst (7677079), Japan Analyst (7548006), Korea Analyst (7794197), Portfolio Manager - Generalist - Fundamental Long Short Equities (2453640) and Portfolio Manager HK (1719811). The HKD 1.2-1.7M comp figure and the 'new-grad accepted' eligibility note are both unsupported and should be removed rather than carried forward."
+    }
+  ],
+  "notes": "Primary source is Maven's Greenhouse board (https://job-boards.greenhouse.io/mavensecuritiesholdingltd), which rendered fully and listed 38 live reqs; every role above was read on its own posting page. The firm's own careers entry point is https://www.mavensecurities.com/jobs/ — the URL cited in the existing spreadsheet rows, https://www.mavensecurities.com/careers/, now 404s and should be updated.\n\nOffices: the contact page lists exactly six — London (HQ), Hong Kong, Amsterdam, New York, Chicago and Monaco. Only London, Hong Kong and Amsterdam are in scope. No Singapore, Shanghai or Tokyo presence exists, so any future row for those cities would be fabricated. One web search result claimed a Sydney office; Maven's own contact page does not list one, so I did not record it (it would be out of scope regardless). Monaco carries four reqs including 'Senior Quantitative Researcher: MFE' and 'Quant Dev - Systematic Equities Trading (Python)', but Monaco is not an EU member state and is therefore out of scope for this pass — worth a decision from the candidate if the scope is ever widened, since EU citizenship does not automatically confer Monaco work rights.\n\nCoverage gaps and judgement calls: there are zero ML Performance roles anywhere on the board — no GPU, kernel, HPC, ML infrastructure or research engineering seats at any office, so that track is empty for this firm. I excluded several in-scope London/Amsterdam engineering reqs as off-track: C# Developer - Risk Technology (7440420), Platform Engineer Kubernetes on-premises (6843715, confirmed by reading it that the stack is Kubernetes/Docker/Kafka/Python with no C++), Python Developer - Data & Analytics (7163447, pure Python data work), Senior Linux Engineer (7440397), UI Developer Amsterdam (7870430) and the two End User Support Engineer reqs. I also left four senior Portfolio Manager seats out of the roles list rather than padding it — Portfolio Manager Europe (6196780), Portfolio Manager European SMID cap equities (4685116), and the two Hong Kong PM reqs (2453640, 1719811) — since all require an existing P&L track record and are seed-a-book seats rather than hires this candidate could compete for; they are recorded here so the exclusion is deliberate and traceable.\n\nCompensation: no figure is stated on any Maven posting — every one says 'competitive compensation' plus discretionary annual bonus, group pension, private healthcare, life assurance and 25 days leave. I left every comp_local empty rather than carry forward the existing sheet's GBP and HKD ranges, which I could not source. The existing row's rationale cited '~$206k avg QR base in US filings', which is a US H-1B-style datapoint and does not support a London or Hong Kong figure.\n\nProcess note: Maven states it sources candidates directly and does not accept unsolicited agency submissions, and the internship posting limits candidates to one application per recruitment cycle — worth assuming that limit applies across the board and choosing the target req carefully.\n\nBottom line for this candidate: the one genuinely applicable opening is the Amsterdam C++ Developer - Options Market Making req, where EU citizenship removes any visa question. Everything else in scope is gated on finance-industry tenure, a trading track record, a native language, or graduation year."
+}

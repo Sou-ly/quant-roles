@@ -1,0 +1,16 @@
+{
+  "firm": "Renaissance Technologies",
+  "careers_url": "https://www.rentec.com/Careers.action?careers=true",
+  "offices_in_scope_confirmed": [],
+  "offices_checked_not_found": ["London", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "East Setauket",
+      "existing_title": "Research Scientist",
+      "verdict": "confirmed",
+      "detail": "The role 'Research Scientist (East Setauket, NY)' is live on the firm's own careers page (https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist). However East Setauket, NY is in the US and therefore out of scope for this pass — the row should be dropped or marked out-of-scope rather than treated as a target."
+    }
+  ],
+  "notes": "Renaissance Technologies has no in-scope openings. Its own careers page (https://www.rentec.com/Careers.action?careers=true) lists 12 live openings and every single one is in East Setauket, NY or New York, NY: Data Center Specialist; Data Programmer; Financial Infrastructure Programmer (NY/East Setauket); Real-Time Trading Programmer; Research Infrastructure Programmer; Research Engineer; Research Scientist; DevOps Engineer; Network Engineer; Security Engineer; Systems Engineer (NY); Systems Engineer (East Setauket). The firm's About page (https://www.rentec.com/Home.action?about=true) lists no office addresses at all, and third-party profiles (CB Insights, Craft) consistently describe only two offices, both in New York State. There is no evidence of a London, EU, Singapore, Hong Kong, Shanghai or Tokyo office; searches surfaced only unrelated companies with similar names (Renaissance Learning, RenaissanceRe, and UK-registered entities named 'Renaissance Technology Limited' / 'Renaissance Technologies Ltd' at Companies House that are not shown to be this firm's hiring entities). RenTec is also famously near-closed to external hires: it manages only internal capital, hires overwhelmingly PhDs in maths/physics/CS via academic referral, and does not run offshore research offices. Recommendation: treat this firm as out of scope for a EU/UK/Asia search and remove it from the active target list. Coverage gap: none of the aggregator pages (Glassdoor, ZipRecruiter, LinkedIn) were loaded as primary sources; conclusion rests on the firm's own careers page, which is authoritative and was fully enumerated."
+}

@@ -1,0 +1,209 @@
+{
+  "firm": "Flow Traders",
+  "careers_url": "https://www.flowtraders.com/careers/job-search/",
+  "offices_in_scope_confirmed": ["Amsterdam", "London", "Cluj-Napoca", "Milan", "Hong Kong", "Singapore", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo", "Paris", "Dublin", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "Senior Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"7+ years of post-graduation professional C++ software development experience.\" BSc/MSc/PhD in CS, Mathematics or a related field. No graduation-year gate.",
+      "requirements": "7+ yrs post-graduation professional C++ | Low-latency market data ingestion, order execution, algorithmic trading systems (prop trading preferred) | Strong algorithms and data structures | Parallel, asynchronous and multithreaded programming | Max performance from hardware: CPU caches, memory layout, networking | Communicate with technical and non-technical colleagues",
+      "comp_local": "",
+      "notes": "Market-data / execution Core Platform, senior IC role setting technical direction. Explicitly frames market data as alpha (feed handling, order book construction, exchange microstructure). The 7+ years bar is well above the candidate's ~18 months by mid-2027 — this is a stretch application at best. EU citizen, no sponsorship needed. Same req text as the London 8027843 posting."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Senior Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years post-graduation professional C++ software development experience (proprietary trading industry preferred)\". BSc, MSc, or PhD in Computer Science, Mathematics or equivalent. No graduation-year gate.",
+      "requirements": "5+ yrs post-graduation professional C++ | Clean, reliable, highly scalable code | Good knowledge of algorithms and data structures | Parallel, asynchronous, multithreaded programming | Interest in achieving maximum performance from available hardware and software | Exchange connectivity (FIX, WebSocket, HTTP), kernel bypass, TLS optimisation",
+      "comp_local": "",
+      "notes": "The generic Amsterdam C++ req — two sub-tracks described in the posting: Exchange Connectivity and Trading Strategies. Lower bar (5+ yrs) than req 7992594, so the better of the two Amsterdam C++ applications. Mentions Rust, Python, TypeScript alongside C++ for exchange SDKs. EU citizen, no sponsorship needed."
+    },
+    {
+      "location": "London",
+      "title": "Senior Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8027843",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"7+ years of post-graduation professional C++ software development experience.\" BSc/MSc/PhD in CS, Mathematics or related. No graduation-year gate.",
+      "requirements": "7+ yrs post-graduation professional C++ | Low-latency market data ingestion, order execution, algorithmic trading systems | Strong algorithms and data structures | Parallel, asynchronous, multithreaded programming | CPU caches, memory layout, low-latency networking, lock-free concurrency | Set technical direction for the Core Platform",
+      "comp_local": "",
+      "notes": "London office is in Finsbury Square (confirmed on Flow Traders' own where-we-operate page). No visa language in the posting; UK High Potential Individual visa is self-sponsored so this costs the employer nothing. 7+ yrs is a large gap versus the candidate's experience."
+    },
+    {
+      "location": "London",
+      "title": "Senior Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8027844",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years post-graduation professional C++ software development experience (proprietary trading industry preferred)\". BSc, MSc, or PhD in CS, Mathematics or equivalent. No graduation-year gate.",
+      "requirements": "5+ yrs post-graduation professional C++ | Clean, reliable, highly scalable code | Algorithms and data structures | Parallel, asynchronous, multithreaded programming | Exchange connectivity: FIX/WebSocket/HTTP, kernel bypass, TLS tuning | Trading strategy implementation and trading engine performance",
+      "comp_local": "",
+      "notes": "CAUTION — the Greenhouse location field says London but the body text of this posting opens \"join our growing team in Amsterdam\". Almost certainly a copy-paste of the Amsterdam req (8025933) relabelled to London; confirm the actual seat with the recruiter. This is the lowest experience bar (5+ yrs) of the four European C++ reqs."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Senior Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/6993714",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years post-graduation professional C++ software development experience (proprietary trading industry preferred)\". BSc, MSc, or PhD in CS, Mathematics or equivalent. No graduation-year gate.",
+      "requirements": "5+ yrs post-graduation professional C++ | Clean, reliable, highly scalable code | Algorithms and data structures | Parallel, asynchronous, multithreaded programming | Exchange connectivity (FIX, WebSocket, HTTP), kernel bypass, TLS optimisation | Trading engine stability, performance and production incident work",
+      "comp_local": "",
+      "notes": "Hong Kong is Flow Traders' principal APAC trading hub (opened 2017). Posting says nothing about visa; HK sponsorship is routine at this level. No Mandarin or Cantonese requirement stated. English-language posting."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Staff Engineer, Trading Automation and Backend Platforms",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8035201",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"10+ years of software engineering experience, with a proven track record operating at a Staff, Principal, or cross-team Lead level.\" No graduation-year gate, but far above the candidate's level.",
+      "requirements": "10+ yrs software engineering at Staff/Principal/Lead level | Distributed, high-performance, highly reliable backend systems | One or more of Python, Go, C++, Java | Event-driven architectures (Kafka, Flink, Databricks, Dataproc) | Modern infrastructure, observability, cloud | Nice-to-have: ETF creation/redemption, clearing, custody, MiFID II/EMIR/SFTR",
+      "comp_local": "",
+      "notes": "Listed for completeness only — the 10+ years Staff-level bar makes this a clear no-fit for this candidate. Backend/post-trade automation rather than low-latency C++."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "AI Engineer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8090609",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience minimum and no graduation-year gate stated in the posting. Newest req on the board (posted/updated 2026-07-31).",
+      "requirements": "Strong Python | Hands-on LLM applications and agent systems; LangChain/LangGraph/AutoGen/CrewAI | API development, microservices, tool orchestration | Vector databases, RAG pipelines, prompt engineering | Cloud (AWS/Azure/GCP), Docker, Kubernetes, CI/CD, observability | Evaluation pipelines, guardrails, cost/latency/performance trade-offs in LLM systems",
+      "comp_local": "",
+      "notes": "This is enterprise LLM-agent / internal-automation work, NOT GPU kernel or ML-systems performance work — the llama.cpp kernel background is only loosely relevant and the stack is Python-first. The only in-scope role on the board with no stated seniority floor, so the most realistically open door in Amsterdam. EU citizen, no sponsorship needed."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Senior Research Engineer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7431246",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Advanced degree (Master's or PhD) in Machine Learning, Statistics, Physics, Computer Science or similar\" and \"8+ years of hands-on experience MLOps, Research Engineering, or ML Research\". MSc satisfied; the 8+ years does not.",
+      "requirements": "MSc/PhD in ML, Statistics, Physics or CS | 8+ yrs MLOps / Research Engineering / ML Research | Strong maths and statistics | Python with numpy, pytorch, polars, pandas, ray | End-to-end ML pipelines: preprocessing, training, deployment, monitoring | Cloud (AWS/Azure/GCP), Docker, Kubernetes",
+      "comp_local": "",
+      "notes": "Closest match to the candidate's research-engineering profile in content (model training frameworks, backtesting, alpha signals), but the 8+ years bar is the binding constraint. HK sponsorship needed and routine. No Mandarin requirement stated."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Senior Research Engineer (Based in Hong Kong)",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8020047",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Same as req 7431246: Master's or PhD in ML/Statistics/Physics/CS plus \"8+ years of hands-on experience MLOps, Research Engineering, or ML Research\".",
+      "requirements": "MSc/PhD in ML, Statistics, Physics or CS | 8+ yrs MLOps / Research Engineering / ML Research | Strong maths and statistics | Python: numpy, pytorch, polars, pandas, ray | End-to-end ML pipelines and production model deployment | Cloud and containerisation",
+      "comp_local": "",
+      "notes": "Filed under Amsterdam on the board but the posting states \"successful candidate will be relocated to our Hong Kong Office\" — the seat is Hong Kong, so HK sponsorship applies. Duplicate of req 7431246 aimed at the European candidate pool; apply to one, not both."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Junior Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/6492219",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A PhD degree in Mathematics, Physics, Computer Science or a related quantitative field.\" Hard PhD gate — an MSc plus papers under review does not satisfy it as written.",
+      "requirements": "PhD in Mathematics, Physics, CS or related quantitative field | Strong statistics and linear algebra | Implementing models and algorithms in Python or C++ | Deep Learning experience is a plus | Independent work on open-ended, ambiguous problems | Ownership and entrepreneurship",
+      "comp_local": "",
+      "notes": "Despite the \"Junior\" title the gate is a PhD, not years of experience. Worth an application only if the candidate is willing to argue the ICLR/AAAI first-author papers as PhD-equivalent research output; the deep learning plus is a genuine fit. EU citizen, no sponsorship needed."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Experienced Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/4003450",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 3 years of work experience within the industry with prior experience working on mid to high frequency trading strategies\". Bachelor's or higher in a STEM field. The 3-year industry gate plus prior HFT strategy experience is not met.",
+      "requirements": "Min 3 yrs industry experience with mid-to-high-frequency trading strategies | BSc or higher in Econometrics, Maths, Physics, Statistics, CS or STEM | Python is a must; C++/MATLAB/R/Java beneficial | Strong analytical skills with large datasets | Backtest and generate new trading ideas | Excellent communication",
+      "comp_local": "",
+      "notes": "Requires prior mid/high-frequency strategy experience specifically, which the candidate does not have. HK sponsorship needed and routine. No Mandarin requirement stated."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Graduate Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7507482",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduate-programme gate: \"University degree, preferably in (quantitative) Finance, Science, Technology, Engineering, Mathematics, Statistics, Econometrics or related\" plus a 3-month training programme in Amsterdam. Not student-gated by graduation year, but structured for people entering their first role — a poor fit for someone with ~18 months of production C++ behind them.",
+      "requirements": "University degree in a quantitative/STEM field | Demonstrable interest in trading and global financial markets | Understanding of financial products | Proficiency in a programming language, Python preferred | Excellent mental arithmetic, delivers under pressure | Willing to work flexible hours",
+      "comp_local": "",
+      "notes": "GATE: this is Flow's graduate intake, entered via a 3-month Amsterdam training programme. Applications accepted year-round; Flow recommends attending an e-house day first. A pay and seniority step down from the candidate's current position, and it resets the career clock. EU citizen, no sponsorship needed."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Graduate Quant Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7760610",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's/Master's in Finance, Mathematics, Engineering, Computer Science, Physics, or related STEM field.\" No graduation-year gate and no minimum years stated, despite the \"Graduate\" title.",
+      "requirements": "BSc/MSc in Finance, Maths, Engineering, CS, Physics or STEM | Strong probability and statistics | Translate trading intuition into structured strategy deployment | Strong Python or C++ (NumPy, pandas, statistical packages) | Post-trade analytics and execution algorithm optimisation | Comfortable in fast-paced systematic environments",
+      "comp_local": "",
+      "notes": "Equity Delta One desk, mid-frequency and relative-value strategies across Asian exchange-traded products. The most accessible Trader-track role on the board for this candidate: MSc-level gate, C++ explicitly accepted, market-facing with cross-asset expansion. HK sponsorship needed and routine. No Mandarin or Cantonese requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Institutional Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7927974",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 5 years of relevant experience in financial markets, preferably within sales trading, mid office or other ETF-related roles\" and \"Bilingual proficiency in English and Japanese is mandatory\".",
+      "requirements": "Min 5 yrs financial markets, preferably sales trading or ETF-related | Mandatory English/Japanese bilingual | Solid ETF market structure, liquidity and trading mechanisms knowledge | Experience in Japanese financial markets and business customs | Counterparty onboarding and relationship management | Excel, PowerPoint, Bloomberg Terminal",
+      "comp_local": "",
+      "notes": "Listed for completeness — this is an OTC sales-trading and business-development seat for the Japan franchise, not a systematic or quantitative trading role, and it requires mandatory business-level Japanese plus 5 years of sales-trading experience. Not a fit for this candidate's profile despite the Tokyo connection."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Institutional Trader (Based in Hong Kong)",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025635",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Identical to req 7927974: min 5 years financial markets experience, mandatory English/Japanese bilingual proficiency.",
+      "requirements": "Min 5 yrs financial markets, preferably sales trading or ETF-related | Mandatory English/Japanese bilingual | ETF market structure and liquidity dynamics | Japanese market practice and business customs | Full OTC trade lifecycle: onboarding, connectivity, pre/post-trade, OMS | Excel, PowerPoint, Bloomberg Terminal",
+      "comp_local": "",
+      "notes": "Tagged location \"Japan\" on the Greenhouse board but the title and body are explicit that the seat is in Hong Kong — this is a Japan-coverage role staffed out of HK, NOT evidence of a Tokyo office. Flow Traders has no Tokyo office. Duplicate of req 7927974 targeted at Japan-based applicants; same sales-trading nature and same Japanese-language gate."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "C++ Developer",
+      "verdict": "title-changed",
+      "detail": "The Amsterdam office is confirmed (HQ, ~400 staff, https://www.flowtraders.com/about-us/where-we-operate/) and C++ roles are genuinely open there, but the posted title is \"Senior Software Engineer, C++\" — two live reqs, https://job-boards.greenhouse.io/flowtraders/jobs/8025933 (5+ yrs) and https://job-boards.greenhouse.io/flowtraders/jobs/7992594 (7+ yrs). No req titled \"C++ Developer\" exists on the board."
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "C++ Developer — eligibility gate claim",
+      "verdict": "no-longer-open",
+      "detail": "The existing row's gate reading is wrong in the candidate's favour and should be corrected. It says \"New-grad OR entry-level req — recent grads accepted; you qualify\". Both live Amsterdam C++ reqs demand 5+ and 7+ years of POST-GRADUATION professional C++ experience respectively (verbatim from https://job-boards.greenhouse.io/flowtraders/jobs/8025933 and .../7992594). There is no entry-level C++ engineering opening in Amsterdam; the only entry-level Amsterdam route is the Graduate Trader programme, which is a different track."
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "C++ Developer — comp figure €75–115k",
+      "verdict": "could-not-verify",
+      "detail": "No compensation figure appears anywhere in the Flow Traders postings or on flowtraders.com; the reqs say only \"competitive salary, annual discretionary profit share\". The €75–115k range is unsourced and should be treated as an estimate, not verified data. Note also that Flow Traders is Euronext-listed (FLOW) and publishes aggregate employee expenses, but nothing per-role."
+    }
+  ],
+  "notes": "Method: the flowtraders.com job-search page is a Vue app that renders nothing to a plain fetch, so I read /js/job-search.js, found it calls the Greenhouse Boards API for board `flowtraders`, and pulled the full board (37 reqs, content=true) plus the offices endpoint. Every posting listed above was read in full from that primary feed, and I spot-checked that the same req IDs resolve to HTTP 200 on flowtraders.com/careers/job-description/<id>, so these are the firm's own live listings.\n\nOffices: confirmed from https://www.flowtraders.com/about-us/where-we-operate/ — Amsterdam (HQ), Cluj-Napoca, London, Milan, Hong Kong, Singapore, Shanghai are all in scope; Chicago and New York are out of scope. There is NO Tokyo office. The \"Japan\" location tag on req 8025635 is a targeting label for a Japan-coverage seat that is physically in Hong Kong — do not read it as a Tokyo presence.\n\nCoverage gaps: Singapore and Cluj-Napoca appear in the Greenhouse office list but have ZERO live openings today; Milan and Shanghai are real offices that do not appear in the Greenhouse office taxonomy at all and have no listings. So the in-scope live hiring is entirely Amsterdam, London and Hong Kong.\n\nDeliberately excluded as out of track: Hong Kong Network Engineer (6743078, Cisco/Arista network infrastructure) and Hong Kong Trading Operations Engineer (7965410, Python/Kubernetes/Terraform DevOps) — both are infrastructure/ops rather than C++ or ML, though the latter is latency-adjacent if the candidate wants to widen the net. Also excluded: all Amsterdam/Hong Kong business-support reqs (Compliance Officer - Regulatory, Operations Specialist, Lead HR Generalist, Senior Market Risk Manager, Institutional Sales - Nordic, Campus Recruiter, Technical Support Engineer) and the W3BWAVE digital-assets talent pool, which is a pipeline sign-up rather than a role.\n\nHiring process: applications are accepted year-round; Flow explicitly recommends attending an \"e-house day\" before applying to the graduate track (https://www.flowtraders.com/careers/). No compensation figure is stated on any posting, so comp_local is empty for every role — do not backfill it.\n\nOverall read for this candidate: Flow Traders' in-scope engineering openings are all senior (5-10 years), which sits awkwardly against ~18 months of experience by a mid-2027 start. The three genuinely worth pursuing are the Hong Kong Graduate Quant Trader (7760610, MSc gate, no years minimum, C++ accepted), the Amsterdam AI Engineer (8090609, no stated seniority floor), and — as a reach with a story to tell — the Amsterdam Junior Quantitative Researcher (6492219), whose PhD gate would have to be argued around using the first-author papers."
+}

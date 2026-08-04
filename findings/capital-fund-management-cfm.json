@@ -1,0 +1,149 @@
+{
+  "firm": "Capital Fund Management (CFM)",
+  "careers_url": "https://jobs.cfm.com/search/",
+  "offices_in_scope_confirmed": ["Paris", "London", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo", "Singapore", "Hong Kong"],
+  "roles": [
+    {
+      "location": "Paris",
+      "title": "Machine Learning Researcher",
+      "track": "ML Performance",
+      "url": "https://jobs.cfm.com/job/Paris-Machine-Learning-Researcher-75/1359709355/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "PhD in Computer Science, Machine Learning or a related quantitative field, OR 2-3 years of AI research experience. No graduation-year gate.",
+      "requirements": "Python + deep learning frameworks, PyTorch preferred | End-to-end model development: dataset construction, training, evaluation, profiling, monitoring | Modern architectures: MoEs, long-context transformers, VLMs, efficient attention | Distributed training (PyTorch Distributed, DeepSpeed, FSDP, Megatron-LM) | Performant, maintainable engineering code | Plus: LLM inference optimisation, CUDA/GPU optimisation, Ray or Kubernetes, RLHF/RLAIF/DPO",
+      "comp_local": "",
+      "notes": "Strongest fit on the board for this candidate: newly established quant research team building AI-based alpha models; explicitly lists CUDA/GPU optimisation and LLM inference optimisation as preferred, which maps directly onto the llama.cpp kernel work. The 'PhD OR 2-3 years AI research experience' alternative means the MSc + papers + ~18 months industry route is viable, though 2-3 years is close to the line for a mid-2027 start. EU citizen, no sponsorship needed in Paris. No French-language requirement stated on this posting (unlike several other Paris reqs)."
+    },
+    {
+      "location": "Paris",
+      "title": "ML platform Engineer",
+      "track": "ML Performance",
+      "url": "https://jobs.cfm.com/job/Paris-ML-platform-Engineer-75/1340960755/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience or graduation-year gate stated; posting explicitly encourages candidates who do not meet every listed requirement to apply. Mentoring of junior team members is a listed responsibility, implying a mid/senior expectation.",
+      "requirements": "Strong Python engineering and software development best practices | Production experience with CI/CD and monitoring | Containers and Linux/UNIX | AWS deployment | Working knowledge of C++ for debugging components | Large-scale time series | Plus: Triton inference server, ML systems operation, platform architecture",
+      "comp_local": "",
+      "notes": "ML infrastructure rather than modelling: build the tooling that the 100+ researcher org uses across the ML lifecycle. Python-first with C++ only for debugging, so it uses less of the candidate's systems depth than the ML Researcher req. No French requirement stated."
+    },
+    {
+      "location": "Paris",
+      "title": "Quantitative Economics researcher",
+      "track": "Research",
+      "url": "https://jobs.cfm.com/job/Paris-Quantitative-Economics-researcher-75/1362783855/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "PhD in Economics required, plus post-PhD experience (academic or private-sector research) mandatory. Candidate does not meet this gate.",
+      "requirements": "PhD in Economics | Post-PhD research experience | Working understanding of ML algorithms, able to modify them | Applied ML/econometrics on large datasets | Python | Strong interest in finance; no prior finance experience required",
+      "comp_local": "",
+      "notes": "Hard PhD-in-Economics gate — listed for completeness, not a fit. Part of the 100+ researcher team working with data engineers and software engineers."
+    },
+    {
+      "location": "Paris",
+      "title": "Expert Data Scientist Macroeconomics - 8 years minimum",
+      "track": "Research",
+      "url": "https://jobs.cfm.com/job/Paris-Expert-Data-Scientist-Macroeconomics-8-years-minimum-75/1333032255/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Minimum 8 years of experience in data manipulation and model building in a production environment — stated in the job title itself. Candidate does not meet this gate.",
+      "requirements": "8+ years production data science | Macroeconomic data expertise | Statistics, time series, ML forecasting | Python data stack (numpy, pandas, polars, scikit-learn) | AWS | Professional English",
+      "comp_local": "",
+      "notes": "Seniority-gated out. Included so the row is not mistaken for an open junior research seat."
+    },
+    {
+      "location": "Paris",
+      "title": "Product Specialist / Quant Analyst",
+      "track": "Research",
+      "url": "https://jobs.cfm.com/job/Paris-Product-Specialist-Quant-Analyst-75/1354292755/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Master's in a quantitative discipline; 'a first experience in quantitative analytics, engineering, data science or a related technical role would be beneficial'. Genuinely open to a junior profile.",
+      "requirements": "MSc in Statistics, Financial Engineering, ML or similar | Python with data analysis/visualisation libraries | SQL/Oracle preferred | AI/ML frameworks and generative AI | Portfolio analytics, simulations, financial modelling | Strong communication under deadlines",
+      "comp_local": "",
+      "notes": "Client-facing: works with Research and Sales, delivers technical analysis to prospective clients. Quantitative in content but it is an investor-relations-adjacent seat, not an alpha research seat — the lowest-gate CFM role but likely the wrong career track for this candidate."
+    },
+    {
+      "location": "Paris",
+      "title": "Senior Quantitative Developer",
+      "track": "C++",
+      "url": "https://jobs.cfm.com/job/Paris-Senior-Quantitative-Developer-75/1352703555/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum 5 years of proven expertise in the development of trading automatons'. Candidate will have ~18 months at a mid-2027 start — does not meet the stated gate.",
+      "requirements": "5+ years building trading automatons | Real-time, low-latency C++ | Market data systems (preferred) | Fluency in both French and English | Collaboration with researchers on systematic execution strategies",
+      "comp_local": "",
+      "notes": "Team: Trading Core & Model Technology. The most C++-native role at CFM and the closest match to the candidate's production C++ background, but double-gated: 5 years of trading-systems experience AND French fluency required."
+    },
+    {
+      "location": "Paris",
+      "title": "Senior Quantitative Developer - Volatility",
+      "track": "C++",
+      "url": "https://jobs.cfm.com/job/Paris-Senior-Quantitative-Developer-Volatility-75/1346320355/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'At least 8+ years of experience in quantitative finance, with a strong focus on options and volatility'. Candidate does not meet this gate.",
+      "requirements": "8+ years quant finance, options/volatility focus | Top engineering school or BSc/MSc in Maths, CS, Physics | Python required; C++ or Rust a plus | Linux development | Pandas, Spark or Polars | AWS a plus | Professional English (no French requirement stated)",
+      "comp_local": "",
+      "notes": "Despite the 'Quantitative Developer' title this is Python-first data infrastructure in the Data and Technology department; C++/Rust is only 'a plus'. Seniority-gated out."
+    },
+    {
+      "location": "Paris",
+      "title": "Quantitative Developer - Equity & Options Portfolio Construction",
+      "track": "C++",
+      "url": "https://jobs.cfm.com/job/Paris-Quantitative-Developer-Equity-&-Options-Portfolio-Construction-75/1354184355/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "4 to 8 years as a quantitative developer in financial institutions; Master's in CS, Engineering or Applied Mathematics. Candidate below the 4-year floor.",
+      "requirements": "4-8 years quant dev in financial institutions | MSc in CS/Engineering/Applied Maths | Strong Python and scientific stack: Pandas, NumPy, Scikit-learn | Systematic equity and options portfolio construction | Backtesting frameworks | French and English both required",
+      "comp_local": "",
+      "notes": "Portfolio Construction team in the Equity Pole. Python-only stack despite the C++-track title; French required. Experience floor and language requirement both bind."
+    },
+    {
+      "location": "Paris",
+      "title": "Senior Software Engineer",
+      "track": "C++",
+      "url": "https://jobs.cfm.com/job/Paris-Senior-Software-Engineer-75/1342165755/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Minimum 5 years of Python development plus AWS infrastructure experience. Candidate below the stated floor.",
+      "requirements": "5+ years Python | AWS infrastructure | C++ and/or Angular/React ideally | Developer-experience tooling, cross-team integration | Interest in code quality and testing",
+      "comp_local": "",
+      "notes": "Data and Technology department, developer-experience/platform work rather than trading systems. C++ is optional here."
+    },
+    {
+      "location": "London",
+      "title": "Market Risk Quant",
+      "track": "Research",
+      "url": "https://jobs.cfm.com/job/London-Market-Risk-Quant/1332278455/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Masters or PhD (or similar) in a quantitative subject such as Mathematics, Physics, Statistics, Economics, or Finance'. No years-of-experience floor and no graduation-year gate stated — the only CFM in-scope role with no seniority bar.",
+      "requirements": "MSc or PhD in a quantitative subject | Advanced Python: pandas, NumPy, scikit-learn | SQL | Understanding of financial products across asset classes | Risk monitoring, limit management, dashboards, stakeholder reporting | Preferred: equity factor models, systematic trading strategies",
+      "comp_local": "",
+      "notes": "Only London opening on the board and the only in-scope role with no explicit experience floor. Posting states frequent visits to the Paris office. Risk-function seat rather than alpha research, and Python/SQL-centric — no C++ or ML content. UK: HPI visa is self-sponsored, so no cost to CFM; the posting states nothing about sponsorship."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Paris",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "The generic Paris 'Quantitative researcher' req (https://jobs.cfm.com/job/Paris-Quantitative-researcher-75/1332608055/) now returns 'Sorry, this position has been filled.' Paris research hiring is currently specialised: 'Quantitative Economics researcher' (PhD Economics + post-PhD experience required) and 'Machine Learning Researcher'. The row's claim that a junior QR intake accepts an MSc is not supported by any live CFM posting; the surviving research reqs are PhD-preferred or PhD-mandatory."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "London office confirmed on CFM's own contact page (4th Floor, Almack House, 28 King Street, London SW1Y 6QW, https://www.cfm.com/cfm-contact-us/), but the only London req on https://jobs.cfm.com/search/ is 'Market Risk Quant' — no Quantitative Researcher posting exists in London as of 2026-08-04. The £120-180k figure in the row is not stated anywhere on CFM's site and should be treated as unsourced."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass (US). The New York office does exist (510 Madison Ave, Floor 29, per https://www.cfm.com/cfm-contact-us/) and NY reqs are live on the board, but they are equity research analyst and data scientist roles, not a generic Quantitative Researcher; the $250-350k comp figure is unsourced."
+    }
+  ],
+  "notes": "Careers URL correction: https://www.cfm.com/careers/ (cited by all three existing rows) returns HTTP 404. The live board is https://jobs.cfm.com/search/ (SAP SuccessFactors), linked from https://www.cfm.com/join-us-cfm-careers/. Board had 30 total reqs on 2026-08-04; all were enumerated across two pages and every in-scope posting listed above was opened and read individually. Offices: CFM's own contact page lists only Paris, New York, London, Toronto and Shanghai — Tokyo and Sydney addresses appear only in secondary sources (LinkedIn/aggregators) and are NOT on CFM's own site, so do not assume a Tokyo seat. Shanghai office is confirmed on CFM's own page but has zero postings on the board; two China-facing roles (China Data Sourcing Specialist, China Alpha Capture Relationship Manager) are posted as Paris-based and are sales/data-sourcing, so out of track. No Singapore or Hong Kong presence. Compensation: CFM publishes no salary figures on any posting; every comp_local is deliberately empty. Track skew worth flagging: CFM's Paris engineering reqs use 'Quantitative Developer' titles but are overwhelmingly Python/AWS — only 'Senior Quantitative Developer' (Trading Core & Model Technology) is genuinely low-latency C++, and it requires 5 years of trading-automaton experience plus French fluency. Three Paris reqs (Senior Quantitative Developer, Quantitative Developer - Equity & Options) explicitly require French as well as English. Excluded as out of track after review: Senior Merger Arbitrage Analyst (Paris, discretionary/fundamental M&A analysis, not quant), Research operations, Data Support & Reliability Engineer, NetOps/DevSecOps/GenAI Security/Senior Security Operations engineers, Treasury, Business Controller, Hedge Fund Operations, and four front-end/middle-office internships. Net picture for this candidate: only two of ten in-scope roles clear the eligibility gates — Machine Learning Researcher (Paris) and Market Risk Quant (London) — with the Paris ML Researcher the clear best fit on content."
+}

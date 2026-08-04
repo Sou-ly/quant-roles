@@ -1,0 +1,53 @@
+{
+  "firm": "Quadrature Capital",
+  "careers_url": "https://www.quadrature.ai/careers/join-us/",
+  "offices_in_scope_confirmed": ["London", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Hong Kong", "Shanghai", "Amsterdam", "Paris", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/8048585",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated. No minimum years of experience stated. Posting says placement 'depends on individual strengths and interests' — quant developers contribute across all parts of the system.",
+      "requirements": "Strong programming ability — 'Python, C++ and Rust, but we care more about how you think' | Experience designing or operating distributed systems | Genuine curiosity about how systems work, fail, are operated and evolve | Interest in improving code quality and team dynamics, not just shipping | Work spans research infrastructure, low-latency processing, data systems, trade execution and observability",
+      "comp_local": "",
+      "notes": "Single Greenhouse req covering both London and Singapore. Best-fit role for this candidate at the firm. No visa/sponsorship language in the posting; for London the HPI visa is self-sponsored so this is not a blocker. Only a CV is required; cover letter optional but Quadrature explicitly asks applicants to state what kind of work they want to do, since they route candidates to teams rather than to fixed reqs."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/8048585",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Same req as London — no student or graduation-year gate, no stated years-of-experience minimum.",
+      "requirements": "Strong programming ability — 'Python, C++ and Rust, but we care more about how you think' | Experience designing or operating distributed systems | Curiosity about system failure modes, operations and evolution | Focus on code quality and team dynamics | Work spans research infra, low-latency processing, data, execution, observability",
+      "comp_local": "",
+      "notes": "Singapore office confirmed on the firm's own offices page (https://www.quadrature.ai/working-here/our-offices/singapore/) — opened 2023, first overseas office, in the CBD, hosting trading and technology teams covering APAC. Singapore requires an Employment Pass; the posting says nothing about sponsorship, but EP sponsorship is routine at this level. Same Greenhouse req as the London listing, so specify the location preference in the application."
+    },
+    {
+      "location": "London",
+      "title": "Platform Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/8028013",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Asks for demonstrated ability to lead complex technical projects end to end, which implies mid-level rather than junior, but no explicit year count is given.",
+      "requirements": "Production Kubernetes — administration, operations and application deployment | Solid Linux and networking fundamentals | Proficiency in Go or Python | Track record leading complex technical projects from conception to delivery | GitOps, Infrastructure-as-Code, configuration management and observability tooling | Pragmatic, cross-team approach to building infrastructure",
+      "comp_local": "",
+      "notes": "Track is a stretch: this is core infrastructure for the trading platform, but the stated languages are Go and Python, not C++, and the emphasis is Kubernetes/IaC/observability rather than low-latency systems or GPU work. Listed under the C++/systems track as the nearest fit; a candidate whose evidence is GPU kernels and production C++ is a weaker match here than for the Quantitative Developer req."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Systems Engineer (HPC)",
+      "verdict": "no-longer-open",
+      "detail": "No role with this or any similar HPC/ML-performance title appears on Quadrature's own Greenhouse board (https://job-boards.greenhouse.io/quadraturecapital), which on 2026-08-04 lists exactly four reqs: 'We're Hiring!' (London), 'Platform Engineer' (London), 'Quantitative Developer' (London; Singapore) and 'Internships' (London, New York). The London office itself is confirmed (The Leadenhall Building, 122 Leadenhall Street, EC3V 4AB), and 'Systems Engineering' is named as an internship stream, so the discipline exists internally — but there is no live posting under that title. The row's comp figure (£160–280k) and its representative requirements list are not supported by anything on the firm's site; treat both as unverified. Nearest live equivalent for this candidate is the Quantitative Developer req."
+    }
+  ],
+  "notes": "Quadrature deliberately runs a thin job board: their careers page states 'we don't have specific roles on our careers page for people to apply to' and directs candidates to send a CV plus a cover letter describing the work they want to do. There is a permanent open-application req titled 'We're Hiring!' (London, https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) which is the intended route for anyone whose profile does not match a named posting — it is not a track-specific role so it is not listed in roles[], but it is the realistic entry point for an ML-performance/GPU profile at this firm. Offices per the firm's own site are London, Singapore and New York only; New York is out of scope, and there is no Tokyo, Hong Kong, Shanghai or continental-EU office. The 'Internships' req (London, New York) is an 11-week summer programme for current university students — student-gated and under six months, so out of scope for this candidate. No compensation figures are published anywhere on the firm's site or postings, so all comp_local fields are empty. All four board pages and the London/Singapore office pages loaded fine; nothing was blocked."
+}

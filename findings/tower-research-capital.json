@@ -1,0 +1,371 @@
+{
+  "firm": "Tower Research Capital",
+  "careers_url": "https://www.tower-research.com/open-positions/",
+  "offices_in_scope_confirmed": ["London", "Amsterdam", "Paris", "Singapore", "Hong Kong", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer, C++ - Trading Teams EMEA",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7080209",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's, Masters or PhD in Computer Science, Engineering, or a related field (or equivalent practical experience)\". No years-of-experience floor stated and no graduation-year gate — the most open-ended engineering req Tower has in scope.",
+      "requirements": "Strong data structures, algorithms and OOP in C++ | Design/implement a low-latency HFT platform | Build a tick-by-tick backtesting research platform | Optimise large-scale parallel computation over shared data | Optimise computational efficiency of existing ML-based algorithms | Python and/or financial-markets experience preferred but not required",
+      "comp_local": "",
+      "notes": "Best single fit in the whole Tower in-scope set for this candidate: EMEA Development team supporting on-site quant researchers, explicitly mentions optimising ML algorithms for performance, and is the only C++ req in scope with no stated seniority floor. UK — HPI visa is self-sponsored so costs Tower nothing; posting says nothing about sponsorship."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7979738",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5-7 years of experience in a software engineering role\" — the candidate will have ~18 months by a mid-2027 start, so this is a stretch/likely-blocked req.",
+      "requirements": "Degree in CS or related field | 5-7+ years software engineering experience | Strong data structures, algorithms, OOP in C++ | Design/implement an HFT platform for cryptocurrency markets | Network and systems programming to minimise latency | Latency/throughput analysis and performance-tracking tooling",
+      "comp_local": "",
+      "notes": "Crypto markets platform team. Experience bar is the blocker, not visa."
+    },
+    {
+      "location": "London",
+      "title": "Senior Software Engineer, Development Tools",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7683372",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"You likely have 7+ years of experience in software development, infrastructure engineering, or DevOps\" — well above the candidate's level.",
+      "requirements": "Strong C++, Rust and/or Python | Monorepo-scale build systems (Buck2, Bazel, CMake, Rattler/Pixi) | Strong Linux/Unix toolchains, multiple compilers/linkers, native code | CI/CD, Docker/Podman, IaC | Proven performance and scalability optimisation in large codebases | Kubernetes/GCP/AWS preferred",
+      "comp_local": "",
+      "notes": "Developer-productivity/build-infrastructure, not trading-path C++. Listed for completeness; the 7+ year bar makes it a poor fit now."
+    },
+    {
+      "location": "London",
+      "title": "Systems Engineer",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7992696",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No explicit years figure visible in the qualifications section; the responsibilities are pitched at an experienced production-infrastructure engineer.",
+      "requirements": "Support/maintain/enhance the firm's trading Linux infrastructure | Day-to-day Linux support, emergency response, change execution, performance troubleshooting | Automate provisioning/config/monitoring of thousands of Linux servers | Core services: DHCP, LDAP, DNS, NFS on-prem and cloud | Cloud trading-system design with the Cloud Architecture team | Custom OS builds tuned for HF low-latency real-time processing",
+      "comp_local": "",
+      "notes": "This is Linux/production-infrastructure operations rather than C++ development. Included under the C++/systems track because it is core trading infrastructure, but flagged: it is not a coding seat and is a weak match for a kernel/GPU-performance profile."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trader / Researcher - EMEA",
+      "track": "Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4986715",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A bachelors, masters or PhD degree from a top-tier university in Mathematics, Statistics, Computer Science, or equivalent STEM degree\"; \"Experience in high-frequency trading or quantitative trading is preferred but not a requirement\". No graduation-year gate — open to non-students.",
+      "requirements": "Top-tier university BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python and/or C++",
+      "comp_local": "",
+      "notes": "One requisition covering London, Paris and Amsterdam — the same gh_jid serves all three cities. HFT experience explicitly not required, so this is the most accessible research/trading entry point in EMEA for the candidate."
+    },
+    {
+      "location": "Paris",
+      "title": "Quantitative Trader / Researcher - EMEA",
+      "track": "Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4986715",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A bachelors, masters or PhD degree from a top-tier university in Mathematics, Statistics, Computer Science, or equivalent STEM degree\"; HFT/quant-trading experience \"preferred but not a requirement\".",
+      "requirements": "Top-tier university BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python and/or C++",
+      "comp_local": "",
+      "notes": "Paris office confirmed at 32 Rue des Mathurins, 75008 on Tower's own offices page. This multi-city EMEA requisition is currently the ONLY live Tower opening that names Paris — there is no Paris-specific engineering req on the board. EU citizen: no sponsorship needed."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Trader / Researcher - EMEA",
+      "track": "Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4986715",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A bachelors, masters or PhD degree from a top-tier university in Mathematics, Statistics, Computer Science, or equivalent STEM degree\"; HFT/quant-trading experience \"preferred but not a requirement\".",
+      "requirements": "Top-tier university BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python and/or C++",
+      "comp_local": "",
+      "notes": "Amsterdam office confirmed at WTC Strawinskylaan 859, Tower Ten. Apart from this multi-city req, the only other Amsterdam-located posting on the board is a 6-month Business Analytics internship — there is no Amsterdam C++/engineering req live. EU citizen: no sponsorship needed."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6346539",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5+ years of experience with C++ development, preferably in a trading environment\" — above the candidate's ~18 months.",
+      "requirements": "Degree in CS or related field | 5+ years C++ development, preferably in trading | Strong data structures, algorithms, OOP in C++ | Design/implement an HFT platform collecting quotes/trades and disseminating orders globally | Network and systems programming to minimise latency | Linux and TCP/IP+UDP networking a plus; Python and shell a plus",
+      "comp_local": "",
+      "notes": "Core Engineering Markets team. Single requisition covering Singapore, Hong Kong and Shanghai — you pick the office. Business English is the stated requirement; no Mandarin requirement even for the Shanghai option. Sponsorship needed for SG/HK, routine at this level."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6346539",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5+ years of experience with C++ development, preferably in a trading environment\".",
+      "requirements": "Degree in CS or related field | 5+ years C++ development, preferably in trading | Strong data structures, algorithms, OOP in C++ | Design/implement an HFT platform collecting quotes/trades and disseminating orders globally | Network and systems programming to minimise latency | Linux and TCP/IP+UDP networking a plus; Python and shell a plus",
+      "comp_local": "",
+      "notes": "Same requisition as the Singapore and Shanghai listings (gh_jid 6346539). Hong Kong office confirmed at Three Exchange Square, Central."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6346539",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5+ years of experience with C++ development, preferably in a trading environment\".",
+      "requirements": "Degree in CS or related field | 5+ years C++ development, preferably in trading | Strong data structures, algorithms, OOP in C++ | Design/implement an HFT platform collecting quotes/trades and disseminating orders globally | Network and systems programming to minimise latency | Linux and TCP/IP+UDP networking a plus; Python and shell a plus",
+      "comp_local": "",
+      "notes": "English-tolerant exception for a mainland China seat: the posting asks only for \"strong communication skills in English for business purposes\" and never mentions Mandarin. Shanghai office confirmed at HKRI Taikoo Hui, 288 Shimen Road."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Developer (C++)",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6296510",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-5 years of practical experience with C++ and 1-2 years of meaningful experience with Python\" — the candidate lands inside this band. Best-calibrated seniority band of any Tower req in scope.",
+      "requirements": "1-5 years practical C++ and 1-2 years Python | Strong data structures, algorithms, OOP | Demonstrated academic excellence | Strong Linux working knowledge and some SQL | Optimise computational efficiency of existing ML-based algorithms | Design/implement a low-latency HFT platform and tick-by-tick backtesting platform",
+      "comp_local": "",
+      "notes": "MFT (medium-frequency) trading team. Requisition covers both Hong Kong and Shanghai. Explicitly includes optimising ML algorithms and large-scale parallel computation — closest thing Tower has in APAC to an ML-performance-flavoured C++ seat at the candidate's experience level. Sponsorship required for HK; routine."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Developer (C++)",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6296510",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-5 years of practical experience with C++ and 1-2 years of meaningful experience with Python\" — candidate is in band.",
+      "requirements": "1-5 years practical C++ and 1-2 years Python | Strong data structures, algorithms, OOP | Demonstrated academic excellence | Strong Linux working knowledge and some SQL | Optimise computational efficiency of existing ML-based algorithms | Design/implement a low-latency HFT platform and tick-by-tick backtesting platform",
+      "comp_local": "",
+      "notes": "Same requisition as the Hong Kong listing (gh_jid 6296510). Stated language requirement is business English only — no Mandarin requirement, so this is an English-tolerant mainland seat."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software Developer",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=1904195",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A degree in Computer Science or a related field\" plus \"solid practical experience with Python and C++ development\" — no explicit years floor, so open to a mid-level candidate.",
+      "requirements": "CS degree or related | Solid practical Python and C++ experience | Strong data structures, algorithms, OOP | Good Bash and Linux | Cloud computing framework experience a plus | Design/implement a low-latency HFT platform and tick-by-tick backtesting platform",
+      "comp_local": "",
+      "notes": "Long-standing requisition (low greenhouse job id, so it has been open a while — treat as an evergreen pipeline req rather than a fresh headcount). No years-of-experience gate makes it more accessible than the Singapore 'Software Engineer, C++' req. Sponsorship required; routine at this tier."
+    },
+    {
+      "location": "Singapore",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8020385",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of experience designing and building large-scale distributed systems\" — the candidate meets this with ~18 months plus research/kernel work. No graduation-year gate. Recently posted requisition.",
+      "requirements": "2+ years building large-scale distributed systems | Strong Python; clean, high-performance code | Linux HPC clusters and/or cloud platforms | Distributed computing, parallel processing, resource management | GPU workloads and modern ML frameworks (PyTorch, TensorFlow, JAX) | Optimising data pipelines over large structured/unstructured datasets",
+      "comp_local": "",
+      "notes": "Strongest ML Performance match in the set: distributed GPU training pipelines, on-prem HPC plus multi-cloud, compute efficiency and workload scheduling. 'Exposure to latency- and performance-sensitive domains' is a listed preferred attribute, which maps directly onto llama.cpp GPU kernel work. Identical requisition text is posted separately for Hong Kong and Shanghai. Sponsorship required for Singapore."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7714667",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of experience designing and building large-scale distributed systems\" — candidate qualifies.",
+      "requirements": "2+ years building large-scale distributed systems | Strong Python; clean, high-performance code | Linux HPC clusters and/or cloud platforms | Distributed computing, parallel processing, resource management | GPU workloads and modern ML frameworks (PyTorch, TensorFlow, JAX) | Optimising data pipelines over large structured/unstructured datasets",
+      "comp_local": "",
+      "notes": "Separate Hong Kong requisition with the same job description as the Singapore and Shanghai ML Engineer reqs — apply to the office you want rather than assuming one covers all. Sponsorship required; routine."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8020380",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of experience designing and building large-scale distributed systems\" — candidate qualifies.",
+      "requirements": "2+ years building large-scale distributed systems | Strong Python; clean, high-performance code | Linux HPC clusters and/or cloud platforms | Distributed computing, parallel processing, resource management | GPU workloads and modern ML frameworks (PyTorch, TensorFlow, JAX) | Optimising data pipelines over large structured/unstructured datasets",
+      "comp_local": "",
+      "notes": "No Mandarin requirement stated anywhere in the posting — treat as an English-tolerant mainland China seat. Sponsorship required."
+    },
+    {
+      "location": "Singapore",
+      "title": "Systems Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8022724",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No explicit years-of-experience or graduation-year gate visible in the posting.",
+      "requirements": "Design, support and operate HPC compute and storage across on-prem and cloud | Maintain large-scale Linux systems (compute, storage, networking, automation, monitoring) | Manage and optimise batch and containerised CPU/GPU workloads | Cloud infrastructure across GCP, AWS, Azure | Build HPC management tools and internal libraries | Observability pipelines, cluster utilisation and efficiency analysis",
+      "comp_local": "",
+      "notes": "HPC/GPU cluster engineering rather than model work — classed as ML Performance because the whole role is GPU scheduling and cluster efficiency. Identical requisitions exist for Hong Kong and Shanghai. Leans operations/SRE; weigh against the ML Engineer req in the same office, which is the stronger fit."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Systems Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7613397",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No explicit years-of-experience or graduation-year gate visible in the posting.",
+      "requirements": "Design, support and operate HPC compute and storage across on-prem and cloud | Maintain large-scale Linux systems | Manage and optimise batch and containerised CPU/GPU workloads | Cloud infrastructure across GCP, AWS, Azure | Build HPC management tools and internal libraries | Observability pipelines and cluster efficiency work",
+      "comp_local": "",
+      "notes": "Same HPC/GPU cluster description as the Singapore and Shanghai Systems Engineer reqs. Sponsorship required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Systems Engineer",
+      "track": "ML Performance",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8022723",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No explicit years-of-experience or graduation-year gate visible in the posting.",
+      "requirements": "Design, support and operate HPC compute and storage across on-prem and cloud | Maintain large-scale Linux systems | Manage and optimise batch and containerised CPU/GPU workloads | Cloud infrastructure across GCP, AWS, Azure | Build HPC management tools and internal libraries | Observability pipelines and cluster efficiency work",
+      "comp_local": "",
+      "notes": "No Mandarin requirement stated. Sponsorship required."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=6679938",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Research experience equivalent to research-oriented masters degree or ideally a PhD\" — the EPFL MSc plus first-author ICLR/AAAI submissions satisfies the stated floor, but the req also demands prior systematic-trading research experience, which the candidate does not have.",
+      "requirements": "Research-oriented MSc or ideally PhD in maths, ML, CS or physics | Strong quantitative research track record in systematic trading across idea generation, research, deployment and production analysis | Effective programming in Python and/or C++, ideally both | Build statistical models of instrument valuation and returns | Formalise trading strategies via optimisation problems | Build scalable research tooling end to end",
+      "comp_local": "",
+      "notes": "\"This is a new team operating on a collaborative basis... Location is flexible for the right candidate, though Hong Kong or New York are preferred.\" Location flexibility is worth probing — but the prior systematic-trading research requirement is the real gate here, not the degree."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7177090",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A Bachelors, Masters or PhD degree in Mathematics, Statistics, Computer Science or equivalent STEM degree\"; \"Experience in quantitative trading is preferred but not a requirement\". No graduation-year gate.",
+      "requirements": "BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python or C++",
+      "comp_local": "",
+      "notes": "Uses Tower's in-house trading system to develop and deploy algorithmic strategies. No Mandarin requirement stated. Quant-trading experience explicitly not required, so more accessible than the Hong Kong Quantitative Researcher req. Sponsorship required."
+    },
+    {
+      "location": "Singapore",
+      "title": "Junior Quantitative Trader / Researcher",
+      "track": "Trader",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8091777",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A Masters or PhD degree in Mathematics, Statistics, Computer Science or equivalent STEM degree\"; \"Experience in quantitative trading is preferred but not a requirement\". \"Junior\" in the title but NOT student-gated — no graduation-year language.",
+      "requirements": "MSc or PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing and simulation proficiency | Data-mining on large tick/alt data, machine learning | Signal generation and statistical models; familiarity with AI agents and AI workflows | Strong programming in Python AND C++",
+      "comp_local": "",
+      "notes": "Newest requisition on the board and the best Trader-track entry point in scope: MSc is sufficient, prior trading experience explicitly not required, and it asks for both Python and C++ plus ML. The \"familiar with AI agents and AI workflow\" line is unusual and plays to the candidate's ML publication record. Sponsorship required for Singapore; routine at this tier."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Trader / Researcher - APAC",
+      "track": "Trader",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4958633",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"A Bachelors, Masters or PhD degree in Mathematics, Statistics, Computer Science or equivalent STEM degree\"; quant-trading experience \"preferred but not a requirement\". No graduation-year gate.",
+      "requirements": "BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python or C++",
+      "comp_local": "",
+      "notes": "One requisition spanning Hong Kong, Shanghai, Singapore and Sydney (Sydney is out of scope for this pass). APAC counterpart to the EMEA Quant Trader/Researcher req. Long-lived evergreen pipeline requisition."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Trader / Researcher - APAC",
+      "track": "Trader",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4958633",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "BSc/MSc/PhD in a STEM field; quant-trading experience \"preferred but not a requirement\".",
+      "requirements": "BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python or C++",
+      "comp_local": "",
+      "notes": "Same requisition as the Singapore and Shanghai APAC listings (gh_jid 4958633)."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Trader / Researcher - APAC",
+      "track": "Trader",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4958633",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "BSc/MSc/PhD in a STEM field; quant-trading experience \"preferred but not a requirement\".",
+      "requirements": "BSc/MSc/PhD in maths, stats, CS or equivalent STEM | Strong maths and statistics background | Back-testing, simulation, auto-regression, auto-correlation, PCA | Data-mining on large tick-data sets | Signal generation and statistical models | Strong Python or C++",
+      "comp_local": "",
+      "notes": "Same requisition as the Singapore and Hong Kong APAC listings. No Mandarin requirement stated."
+    },
+    {
+      "location": "Singapore",
+      "title": "Core Engineering Manager, C++",
+      "track": "C++",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7995006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 10+ years of experience with C++ development, preferably in a trading environment\" plus proven experience leading and mentoring distributed teams — far outside the candidate's range. Listed only so the row is not mistaken for an IC opening.",
+      "requirements": "Degree in CS or related field | 10+ years C++, preferably in trading | Proven leadership/mentoring of distributed global teams | Architect an HFT platform for cryptocurrency markets | Network and systems programming for latency minimisation | Mandarin a plus (not required)",
+      "comp_local": "",
+      "notes": "NOT a fit — management req requiring 10+ years. Core Engineering Markets team. Included in the list because a title-only reading of the board could mistake it for the candidate's C++ seat in Singapore."
+    },
+    {
+      "location": "Singapore",
+      "title": "ETF Trader",
+      "track": "Trader",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7816571",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5 years of hands-on experience handling Japan ETF flows\" — a hard domain gate the candidate does not meet.",
+      "requirements": "BSc/MSc/PhD in a quantitative or technical discipline | 5+ years hands-on Japan ETF flow experience | Price and trade leveraged and unleveraged ETFs across Japan and Hong Kong | Monitor ETF fair value, tracking error, primary/secondary arbitrage | Manage index rebalances, corporate actions, dividend adjustments | Market-structure and liquidity analysis for execution quality",
+      "comp_local": "",
+      "notes": "Not a fit, but worth knowing it exists: this is the closest Tower comes to a Japan-market seat and it is based in Singapore, not Tokyo — further evidence Tower runs Japan exposure out of APAC offices rather than a Tokyo office."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Paris",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "no-longer-open",
+      "detail": "Paris office is real (32 Rue des Mathurins, https://tower-research.com/offices/), but no C++ or engineering requisition is live for Paris on Tower's board — the only Paris-tagged opening is the multi-city 'Quantitative Trader / Researcher - EMEA' (https://www.tower-research.com/open-positions/?gh_jid=4986715). The C++ row should be retracked to Research or dropped."
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "no-longer-open",
+      "detail": "Amsterdam office confirmed (WTC Strawinskylaan 859, Tower Ten), but the only Amsterdam openings are the multi-city EMEA Quant Trader/Researcher req (gh_jid=4986715) and a 6-month Business Analytics internship (gh_jid=8041512). No Amsterdam C++ engineering requisition exists."
+    },
+    {
+      "location": "London",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "London does have live C++ engineering work, but no role is titled 'Core Engineer'. The actual live titles are 'Quantitative Developer, C++ - Trading Teams EMEA' (https://www.tower-research.com/open-positions/?gh_jid=7080209) and 'Software Engineer, C++' (gh_jid=7979738)."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Hong Kong office confirmed (Three Exchange Square). Live C++ titles are 'Software Engineer, C++' (https://www.tower-research.com/open-positions/?gh_jid=6346539) and 'Quantitative Developer (C++)' (gh_jid=6296510); 'Core Engineer' is not a Tower job title."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Singapore office confirmed (Marina One West Tower). Live C++ titles are 'Software Engineer, C++' (gh_jid=6346539), 'Software Developer' (gh_jid=1904195) and the 10+ year 'Core Engineering Manager, C++' (gh_jid=7995006). No IC role named 'Core Engineer (C++)'."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Core Engineer (C++)",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass (US). Not audited beyond noting the office exists at 120 Broadway; the nearest live title is 'Software Engineer, Trading Systems (C++)' rather than 'Core Engineer (C++)'."
+    }
+  ],
+  "notes": "TOKYO: confirmed absent. Tower's own offices page (https://tower-research.com/offices/) lists exactly 15 offices — New York (x2), London, Gurugram, Singapore, Amsterdam, Charleston, Chicago, Dubai, George Town, GIFT City, Hong Kong, Montreal, Paris, Shanghai. There is no Tokyo office and no Japan entity. The one Japan-facing role, 'ETF Trader' covering Japan and Hong Kong ETF flows, is based in Singapore. Any Tower Tokyo row is fabricated and should be deleted.\n\nSOURCE AND METHOD: Tower's /open-positions/ page is a JavaScript Greenhouse embed that renders nothing to a plain fetch, and both boards.greenhouse.io/towerresearchcapital and job-boards.greenhouse.io/towerresearchcapital 301/302 back to tower-research.com. I enumerated the board through Tower's own Greenhouse board API (https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true), which returned all 74 live requisitions with full posting text. Every role above was read from that primary posting text; the URLs given are the canonical tower-research.com apply links.\n\nDUPLICATE REQUISITIONS: Tower posts several multi-city reqs under one job id. gh_jid 4986715 covers London/Paris/Amsterdam, 4958633 covers Hong Kong/Shanghai/Singapore/Sydney, 6346539 covers Singapore/Hong Kong/Shanghai, and 6296510 covers Hong Kong/Shanghai. I expanded these into one row per in-scope city, so the same URL appears more than once — that is deliberate, not a duplication error. The Machine Learning Engineer and Systems Engineer roles, by contrast, have genuinely separate per-city requisitions.\n\nEXISTING-ROW CORRECTION, SENIORITY: every existing spreadsheet row asserted 'New-grad OR entry-level req — recent grads accepted'. That is wrong across the board. Tower's in-scope engineering reqs mostly carry hard experience floors — 5+ years (Software Engineer C++, all APAC offices), 5-7 years (Software Engineer C++, London), 7+ years (Senior SWE Development Tools, London), 10+ years (Core Engineering Manager, Singapore). The reqs that genuinely have no seniority floor are the London Quantitative Developer C++, the Singapore Software Developer, the Machine Learning Engineer family (2+ years), the Hong Kong/Shanghai Quantitative Developer C++ (1-5 years), and the trader/researcher reqs.\n\nNO COMPENSATION DATA: no in-scope posting states a salary. The only figure anywhere on Tower's board is '$150,000-$250,000 base plus bonus' on the New York/Chicago Experienced Quantitative Trader req, which is out of scope. Every comp_local field is therefore empty; the £/€/SGD/HKD bands in the existing spreadsheet are not sourced from Tower and should be treated as unverified estimates.\n\nBORDERLINE ROLES EXCLUDED FROM THE LIST: 'Quantitative Developer, Python - Trading Teams EMEA' London (gh_jid=7080219) and 'Quantitative Developer' Singapore (gh_jid=5733830) are Python-only research-tooling seats (Numpy/Pandas/Polars, 2+ years Python) — adjacent and worth an application, but they fit none of the four tracks cleanly so I left them out rather than mislabel the track. Also excluded: Network Engineer (Hong Kong gh_jid=8027865, Singapore gh_jid=8027690, pure network operations), Reliability Engineer (Singapore/Hong Kong, gh_jid=8000035 and 8000037, 5+ years, L1/L2 production support), 'Software Engineer' Singapore (gh_jid=7613150, internal tooling/automation), 'Trading Systems Support Analyst' London (gh_jid=7722018, support), and 'Business Analytics Intern' Amsterdam (gh_jid=8041512, internship). 'Experienced Quantitative Trader' (gh_jid=16619) is tagged 'Multiple Locations' without naming cities and requires an existing consistently profitable strategy with a live track record — a portfolio-manager seat, not applicable.\n\nCOVERAGE GAP: Tower's federated model means individual trading teams hire off-cycle and not every seat reaches the public board. The board API is the complete public picture as of 2026-08-04, but a targeted approach to EMEA or APAC recruiting may surface unlisted desk-level roles."
+}

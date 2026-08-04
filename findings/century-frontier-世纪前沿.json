@@ -1,0 +1,137 @@
+{
+  "firm": "Century Frontier (世纪前沿)",
+  "careers_url": "https://www.centuryfrontier.com/contact#career",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["London", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Milan", "Warsaw", "Zurich", "Singapore", "Tokyo"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "C++开发工程师（2026社招） (C++ Development Engineer, 2026 experienced hire)",
+      "track": "C++",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/d514481a-3594-4d3a-8d9f-c777d757558d",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "本科及以上学历，计算机相关专业；1年以上 C++ 开发经验 — bachelor's or above in CS, 1+ years C++ experience. Experienced-hire board (社招), no graduation-year gate.",
+      "requirements": "Design/build/deploy low-latency trading systems, own end-to-end latency optimisation | 1+ yr C++, fluent C++17/20, high code quality | Deep multithreading/concurrency understanding | Solid OS internals and computer networking | Plus: low-latency system experience, exchange protocols, NIC/switch tuning, Linux tuning | Plus: Python / Go / Rust",
+      "comp_local": "",
+      "notes": "Req lists two sites: Shanghai Xuhui (淮海中路1010号嘉华中心43层, Jiahua Center) and Shenzhen Nanshan (out of scope). Job description is Mandarin-only — assume Mandarin working language. Onshore PRC entity, work permit needed. Closest match to the candidate's low-latency C++ profile."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Developer(2026)",
+      "track": "C++",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/9044ea15-f27c-4c39-86a4-68312276f815",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, or a related field from a top-tier university\"; \"1–3 years of experience in quantitative trading system development, backtesting, or algorithmic trading\". No graduation-year gate.",
+      "requirements": "Design and implement high-performance, low-latency trading systems | Build/extend backtesting frameworks with flexible latency models | Optimise via network programming, lock-free data structures, Linux/kernel tuning | Strong C/C++ and Python, data structures, algorithms, multithreading | Real-time monitoring, risk controls, latency-analysis data pipelines | \"Good communication skills in English\"",
+      "comp_local": "",
+      "notes": "Posting is written entirely in English — one of the English-tolerant exceptions at this firm. Sites: Shanghai Xuhui + Shenzhen Nanshan. The 1–3 yr band fits the candidate's ~18 months by mid-2027."
+    },
+    {
+      "location": "Not stated on req (mainland China)",
+      "title": "量化开发工程师（C++） (Quantitative Development Engineer, C++)",
+      "track": "C++",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/8b8a895a-13f0-4946-b872-9855e2132ecd",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "计算机相关专业本科或以上学历，或同等计算机能力者，3年左右相关工作经验 — CS bachelor's or equivalent ability, ~3 years experience. No graduation-year gate.",
+      "requirements": "Build the firm's quant platform: trading platforms per asset class, risk system, research/data platform, internal monitoring | Very solid C/C++ programming and debugging | Deep grasp of data structures and algorithm design, complex-system analysis | Deep Linux systems/network programming, toolchain, shell | Plus: computer architecture and OS internals | Plus: active open-source contributor with functional patches",
+      "comp_local": "",
+      "notes": "This req carries NO city on the Moka posting — I did not confirm whether Shanghai is one of the sites, so treat the location as unknown. Mandarin-only description. Open-source contribution bonus lines up with the candidate's merged llama.cpp GPU kernels."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化研究员 (Quantitative Researcher)",
+      "track": "Research",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/6f366e02-aeb6-44a7-a774-85b6c52dfe5e",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "国内外一流名校硕士以上学历 ... 本科阶段GPA top 20% — master's or above from a top university, undergraduate GPA in the top 20%. No graduation-year gate, but the GPA screen is explicit.",
+      "requirements": "Factor mining; build equity/futures forecasting models | Model ensembling and portfolio optimisation | High-frequency execution optimisation | Master's+ in maths, physics, CS or related | At least one of Python / MATLAB / R | Fast reading of English literature; IMO/ACM medallists preferred; overseas-market quant research a plus",
+      "comp_local": "",
+      "notes": "Sites: Shanghai Xuhui + Shenzhen Nanshan. Mandarin-only description. The top-20% undergraduate GPA line is a hard-ish screen worth checking before applying."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化研究员（高频/中频） (Quantitative Researcher, high/mid frequency)",
+      "track": "Research",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/6210cba4-08e0-4c61-ad83-750d38c93c06",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "硕士及以上学历，国内外知名院校数学、金融、统计、物理、计算机等相关专业 — master's or above in maths, finance, statistics, physics or CS. No graduation-year gate.",
+      "requirements": "Analyse equity/futures market data to find quantifiable trading logic | Mine effective high/mid-frequency alpha factors | Model construction, backtesting and optimisation | Master's+ from a well-known university in a quantitative field | At least one of C# / C++ / Python / MATLAB / R | Fast reading of English literature",
+      "comp_local": "",
+      "notes": "Req locations on Moka: Shanghai Xuhui, Shenzhen Nanshan, Beijing Haidian, and one US entry. Only Shanghai is in scope. Mandarin-only description."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/936cdfef-7ecf-49d8-823a-55a29685cc6b",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's, Master's, or PhD degree in Statistics, Physics, Computer Science, Mathematics, or other quantitative field.\" No graduation-year gate.",
+      "requirements": "Analyse equity/futures datasets to find quantifiable trading edges and actionable alpha | End-to-end alpha factor mining, model construction, backtesting, strategy optimisation | Support investment decision-making research initiatives | Proficiency in >=1 of C++/C#/Python/MATLAB/R (Python preferred) | Synthesise English academic literature; rapidly master new technical domains | Preferred: IMO/IPhO/ACM-ICPC awards, top-tier peer-reviewed publications",
+      "comp_local": "",
+      "notes": "Posting is in English and its body states \"Location: New York / Hong Kong / Shanghai / Shenzhen / Beijing\" — the strongest English-tolerant req at this firm. Note the Moka location field on this req is set only to 美国 (US), so the multi-city list comes from the description text. The publications-preferred line matches the candidate's ICLR/AAAI record."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/936cdfef-7ecf-49d8-823a-55a29685cc6b",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Same req as the Shanghai row — \"Bachelor's, Master's, or PhD degree in Statistics, Physics, Computer Science, Mathematics, or other quantitative field.\"",
+      "requirements": "Alpha discovery across equity/futures, high/mid frequency | Alpha factor mining, model construction, backtesting, optimisation | >=1 of C++/C#/Python/MATLAB/R, Python preferred | English literature synthesis | Preferred: competition awards, top-tier publications",
+      "comp_local": "",
+      "notes": "Hong Kong is named in this posting's own description text and in the firm's site footer (Hainan / Beijing / Shanghai / Shenzhen / Hong Kong). No separate HK-only req exists on the Moka board and no HK street address is published, so the HK seat is real per the firm's own site but the HK headcount is unconfirmed. HK needs sponsorship. English posting, so the Mandarin wall is softer here than on the onshore reqs."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化交易员 (Quantitative Trader)",
+      "track": "Trader",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/75910036-8ea4-4f47-b62a-0dc83fbe0039",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "国内外重点院校本科及以上学历 ... 具备2年左右期权/股票交易经验 — bachelor's or above, ~2 years options/equities trading experience. No graduation-year gate, but prior trading experience is expected.",
+      "requirements": "Daily strategy operations for commodity-option market making / equity trading, post-trade analysis (PTA), parameter tuning | Research, backtest and live-test new strategies (equities/derivatives/ETFs) | Act as project manager: write PRDs, drive requirements with dev/research | Continuous automation of the quant trading platform; broker management | Linux plus at least one of Python/MATLAB/R/C++ | \"能够将英文作为工作语言\" — able to use English as a working language",
+      "comp_local": "",
+      "notes": "Explicitly states English can be the working language, but the posting itself is Mandarin-only and prefers DCE/ZCE/SHFE commodity-option experience, which the candidate does not have. Sites: Shanghai Xuhui + Shenzhen Nanshan. A near-duplicate req 量化交易员（官网） (id 6b8bafe2-f6a6-403b-b0be-1e45a3a61b6d) is also open with the same cities."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI训练推理专家 (AI Training & Inference Specialist)",
+      "track": "ML Performance",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/23e811d7-04f1-4fb9-833d-e111bfe92c5a",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "五年及以上工作经验，其中至少两年及以上相关经验 — 5+ years total experience with 2+ years directly relevant. The candidate (~18 months by mid-2027) is below this bar.",
+      "requirements": "Build AI training framework; support training and fine-tuning | Training performance optimisation: parallelism, communication overlap, unified train/inference reuse | Fault-localisation and fault tolerance for large-scale training; log monitoring | Inference optimisation, performance profiling and serving tuning | Strong Python/C/C++ | PyTorch, Megatron/DeepSpeed, TensorRT, vLLM; Linux | Plus: CUDA development and optimisation, model compression, compiler optimisation, multi-chip porting",
+      "comp_local": "",
+      "notes": "The single best technical fit for the candidate's GPU-kernel/ML-performance profile, but the 5-year experience gate is the blocker. Mandarin-only description. Sites: Shanghai Xuhui + Shenzhen Nanshan."
+    },
+    {
+      "location": "Shanghai",
+      "title": "FPGA开发工程师（深度学习模型RTL实现） (FPGA Engineer, RTL implementation of deep-learning models)",
+      "track": "ML Performance",
+      "url": "https://app.mokahr.com/apply/centuryfrontier/24841#/job/a5f0c46d-f909-4bb5-b550-b8e422fad836",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "本科及以上学历 (EE, CS, comms, automation); 3年以上深度学习模型硬件实现及FPGA开发经验 — 3+ years of DL-hardware/FPGA experience.",
+      "requirements": "RTL-level implementation of CNN/DNN on FPGA meeting function, performance and accuracy targets | Write synthesisable Verilog/VHDL | Design and optimise DL hardware accelerators for throughput, latency, power | Board-level test, debug and performance validation | Full FPGA flow: synthesis, place-and-route, timing analysis, simulation | Plus: Vivado/Vitis or Quartus, accelerator architectures, quantised inference",
+      "comp_local": "",
+      "notes": "Adjacent to the candidate's ISCA-workshop/kernel background but is a hardware RTL role, not a GPU-software role. Mandarin-only description. Sites: Shanghai Xuhui + Shenzhen Nanshan."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Shanghai",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "Shanghai office is real (徐汇区淮海中路1010号嘉华中心43层, per https://www.centuryfrontier.com/contact) and multiple Quantitative Researcher reqs list Shanghai as a site — Chinese 量化研究员 (https://app.mokahr.com/apply/centuryfrontier/24841#/job/6f366e02-aeb6-44a7-a774-85b6c52dfe5e) and an English-language Quantitative Researcher (https://app.mokahr.com/apply/centuryfrontier/24841#/job/936cdfef-7ecf-49d8-823a-55a29685cc6b). Two corrections to the row: (a) the comp figure ¥500k–1.0M is not stated on any primary source I could reach and should be treated as unverified; (b) the row's framing as a \"new-grad/junior QR\" seat is wrong for this req — the experienced-hire (社招) 量化研究员 has no graduation-year gate, while the new-grad version is a separate campus req (量化研究员Quantitative Researcher（应届/实习）, https://app.mokahr.com/campus_apply/centuryfrontier/24842#/job/7fdca733-f830-4f90-b37b-86b6aa163857) that is gated to 2027 graduates and would not fit the candidate."
+    }
+  ],
+  "notes": "Careers flow: the firm's own site (centuryfrontier.com/contact#career, and the English mirror en.centuryfrontier.com) links out to a Moka (app.mokahr.com/centuryfrontier) job board — experienced-hire site 24841 and campus site 24842. Both are primary (hosted for the firm, linked from the firm's own domain). The firm's website footer lists five offices: Hainan (HQ, 澄迈县海南生态软件园), Beijing, Shanghai (Xuhui, Jiahua Center 43F), Shenzhen (Nanshan, 前海周大福金融大厦40层), Hong Kong. Of these only Shanghai and Hong Kong are in scope; Beijing, Shenzhen, Hainan and the New York seat that appears on several reqs are out of scope for this pass. No EU, UK, Singapore or Tokyo presence of any kind — no evidence found anywhere.\n\nCoverage: the Moka board is a JS SPA whose job payloads are AES-encrypted; I recovered the full list (20 open reqs on the experienced-hire board, 9 on the campus board) and each req's full description by reading the board's own API responses, so every role above was read verbatim. Out-of-scope-by-location or by-track reqs I saw and deliberately excluded: 智能体范式研究工程师 (Shenzhen only), 品宣经理 (marketing), 数据平台开发工程师 / 数据生产工程师 / 数据服务治理专家 / 分析建模专家 / Python爬虫工程师 (data engineering), and 系统开发工程师 (Shanghai, but Go/Python backend automation and monitoring, not a C++/low-latency seat — C++ is only a 'nice to have' there).\n\nStudent gate: the campus board (site 24842) carries C++开发工程师（2027应届/实习）, 量化开发工程师C++（应届/实习）, 量化研究员Quantitative Researcher（应届/实习）, 机器学习研究员（应届/实习）, AI基础设施工程师（应届）, 量化交易员Quantitative Execution Trader（应届）, and several 实习生 reqs. All are gated to 2027-2028 graduates or interns and are a poor fit for a candidate ~18 months into full-time work; the experienced-hire board is the right entry point.\n\nMandarin: with two exceptions, every req is written in Mandarin only and describes onshore PRC teams — assume Mandarin is the working language. The exceptions are 'Quantitative Developer(2026)' and 'Quantitative Researcher', both posted entirely in English (the latter naming Hong Kong and requiring 'good communication skills in English'); 量化交易员 additionally says English can be used as a working language. These are the realistic entry points for a non-Mandarin-speaking applicant.\n\nEntity/registry: gs.amac.org.cn (AMAC manager registry) was unreachable from this environment — the API POST returned a connection failure (HTTP 000), so I could not load the registry entry directly. Secondary sources consistently name the AMAC-registered manager as 海南世纪前沿私募基金管理有限公司, founded August 2015, ~RMB 69bn AUM, 150+ staff. No Hong Kong offshore entity was confirmed: an SFC public-register lookup for 'Century Frontier' could not be completed (apps.sfc.hk returned only the search shell, no results), so the Hong Kong seat rests on the firm's own website footer and the English QR posting rather than on a regulator filing.\n\nCompensation: no figure is stated on any req or on the firm's site. The only comp datapoint I saw anywhere is a secondary recruiting post quoting an intern stipend of RMB 3,000/day for the summer programme, which is not a full-time figure and is not from the firm's own domain — so all comp_local fields are left empty."
+}

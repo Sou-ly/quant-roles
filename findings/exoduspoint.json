@@ -1,0 +1,35 @@
+{
+  "firm": "ExodusPoint Capital Management",
+  "careers_url": "https://job-boards.greenhouse.io/exoduspoint",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Singapore", "Tokyo"],
+  "offices_checked_not_found": ["Paris", "Amsterdam", "Dublin", "Frankfurt", "Milan", "Warsaw", "Zurich", "Shanghai", "Hangzhou"],
+  "roles": [
+    {
+      "location": "Anywhere",
+      "title": "Investment - ExodusPoint Jobs Page",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No stated experience or graduation-year gate. Free-text field: 'Please specify the type of role you are interested in.'",
+      "requirements": "Name, email, country of residence, phone | Resume/CV | Free-text statement of the role type you want | No stated degree, YoE or language requirement | No location restriction stated",
+      "comp_local": "",
+      "notes": "NOT a specific req. This is ExodusPoint's evergreen general-application pipe for all investment-side roles (Research / Trader / quant-adjacent), listed as location 'Anywhere' and confirmed live on the firm's own Greenhouse board on 2026-08-04. It is currently the ONLY live investment-side application route the firm publishes. Confirmed by API: https://boards-api.greenhouse.io/v1/boards/exoduspoint/jobs returns exactly 2 jobs, this one and a non-investment referral req. For a C++ / engineering / ML-performance seat the firm instead directs candidates to email NonInv-careers@exoduspoint.com (stated on https://www.exoduspoint.com/). Since the pipe is location-agnostic, the candidate should name the office (London / Hong Kong / Singapore / Tokyo) in the free-text field."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Tokyo",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "The Tokyo OFFICE is real and confirmed on the firm's own site (Marunouchi Nijubashi Building, Level 2, 3-2-2 Marunouchi, Chiyoda-ku, 100-0005, listed at https://www.exoduspoint.com/) — so this row is not a Tower-Research-style fabrication. However, no Quantitative Developer req, or any Tokyo req, exists on the firm's Greenhouse board (https://boards-api.greenhouse.io/v1/boards/exoduspoint/jobs returns only 2 generic 'Anywhere' reqs). The stated comp of JPY 12-18M is unsourced and was not corroborated by any posting, filing or levels.fyi entry I could find; treat it as an estimate, not data."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "London office confirmed on the firm's own site (20 St. James's Street, SW1A 1ES). No live Quantitative Developer posting: the London reqs that aggregators still surface (Quantitative Researcher London, token 7839186002, posted 2025-03-04; Quant Internship 2026; Fixed Income Internship Summer 2026, 8209528002) all return HTTP 404 from the Greenhouse jobs API, i.e. they are closed. The GBP 100-150k figure is unsourced — no posting I loaded stated compensation."
+    }
+  ],
+  "notes": "Coverage summary as of 2026-08-04. ExodusPoint barely posts publicly. Its own site (https://www.exoduspoint.com/) has no /careers or /opportunities path (both 404); the careers content sits on the homepage and routes investment candidates to a single Greenhouse general-application req and non-investment candidates to NonInv-careers@exoduspoint.com. The Greenhouse board https://job-boards.greenhouse.io/exoduspoint holds exactly two evergreen reqs ('Investment - ExodusPoint Jobs Page' 7460797002 and 'Non-Investment - Referral' 6160836002), both location 'Anywhere'. Verified via the board API, not just the rendered page. The separate campus board https://job-boards.greenhouse.io/xpcampus explicitly states 'There are no current openings' (API confirms total: 0). Therefore ZERO location-specific, in-scope openings exist right now — no C++, ML Performance, Trader or Research req tied to London, Hong Kong, Singapore, Tokyo or any EU city. Every specific ExodusPoint role still visible on aggregators (Built In, OpenQuant, startup.jobs, Glassdoor) is a stale cache of a closed req: I checked tokens 8060596002, 7986685002, 8420881002, 8209528002, 6790620002 and 7839186002 and all six return 404 'Job not found' from boards-api.greenhouse.io. Aggregator listings for this firm should not be trusted without an API check. Office-list caveat: older ExodusPoint boilerplate reproduced in press and job ads claims offices in Paris and Hangzhou; the firm's own current office list does NOT include either. Its eight listed offices are New York (HQ), Stamford, London, Jersey, Dubai, Hong Kong, Singapore and Tokyo. Jersey is neither EU nor UK so it falls outside this pass's scope. There is no Shanghai or mainland-China office on the firm's own list. Note also that the historic London posting stream was Python/research-flavoured (the 2025 Quantitative Researcher req asked for Python and Linux, 0-3 years in algo/HFT, STEM degree) rather than C++ systems work, which makes the two existing C++-track spreadsheet rows a questionable read of this firm even setting aside the closed reqs. Blockers: none — no page was blocked or 403'd; the limitation is genuine absence of postings, not access."
+}

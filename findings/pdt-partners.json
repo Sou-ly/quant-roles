@@ -1,0 +1,30 @@
+{
+  "firm": "PDT Partners",
+  "careers_url": "https://pdtpartners.com/careers",
+  "offices_in_scope_confirmed": ["London"],
+  "offices_checked_not_found": ["Tokyo", "Singapore", "Hong Kong", "Shanghai", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7964007",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of professional software development experience\"; \"Bachelor's or Master's degree in an Engineering or Applied Sciences field from a rigorous academic program or equivalent professional experience\". No graduation-year or student gate — this is an experienced-hire req, not a new-grad one.",
+      "requirements": "3+ years professional software development experience | Bachelor's or Master's in Engineering or Applied Sciences, or equivalent professional experience | Experience designing scalable and highly reliable software systems | Significant experience programming in an object-oriented programming language | Enthusiasm for scoping requirements and collaborating with colleague-clients | Application asks you to list your top 3 programming languages and level of expertise",
+      "comp_local": "",
+      "notes": "Only in-scope opening at the firm. The posting asks candidates to pick from seven team specializations: Application Platform, Cloud Infrastructure, Data, Post Trade, Software Infrastructure, Trading Control, Trading Infrastructure — Trading Infrastructure / Software Infrastructure are the C++-heavy ones. CAVEAT: the London req's body text contains what looks like a copy-paste artifact from the New York posting — 'This is a hybrid position and will require the person to work from our New York City office at minimum 3 days a week'. The location field says London, UK, and PDT does have a real London office (Yarnwicke, 119-121 Cannon Street, EC4N 5AT), but confirm with the recruiter that the seat is actually London-based before investing in the process. No language pinned to C++ specifically in the posting — track assigned as C++ on the basis of the trading/software infrastructure teams; could equally be read as generalist backend. No sponsorship language stated either way; candidate would use the UK High Potential Individual visa (self-sponsored, no employer cost). By the candidate's mid-2027 start they would have ~18 months professional experience, which is short of the stated 3+ years — the 'or equivalent professional experience' clause and the publication/llama.cpp record are the argument to make.",
+      "requirements_source": "https://job-boards.greenhouse.io/pdtpartners/jobs/7964007"
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "New York",
+      "existing_title": "Systems Engineer",
+      "verdict": "no-longer-open",
+      "detail": "PDT's own Greenhouse board (https://job-boards.greenhouse.io/pdtpartners) lists 10 live reqs and none of them is a full-time 'Systems Engineer' — the only match on that name is 'Summer 2027 Systems Engineering Intern' (New York), which is a student-gated internship and out of scope. The nearest full-time equivalents are 'Performance Engineer' (New York, https://job-boards.greenhouse.io/pdtpartners/jobs/7807080) and 'Software Engineer' (New York, https://job-boards.greenhouse.io/pdtpartners/jobs/3914106). Separately, the row's eligibility claim ('New-grad OR entry-level req — recent grads accepted') is contradicted by the live Software Engineer reqs, which state 3+ years of professional experience; and the comp figure of $300-420k is not stated on any PDT posting I could load. The row is also New York, which is out of scope for this pass — the firm's only in-scope office is London."
+    }
+  ],
+  "notes": "PDT Partners is small (~200 people, per the firm's own site) with exactly two offices: New York (60 Columbus Circle) and London (Yarnwicke, 119-121 Cannon Street, EC4N 5AT), both confirmed on https://pdtpartners.com/contact. No Tokyo, Singapore, Hong Kong, Shanghai or continental-EU presence exists — do not add rows for those cities. The full board is 10 reqs, of which exactly one is in an in-scope location (Software Engineer, London). All Research/Strategies reqs (Quantitative Researcher, Applied ML Scientist, Research Engineer) and the Performance Engineer req are New York only, so PDT currently offers no in-scope Research, ML Performance or Trader seat. No compensation figures are published on any PDT posting (no NYC pay-transparency band was visible on the reqs I loaded, and UK reqs carry no band). Careers page and Greenhouse board both loaded cleanly; nothing was blocked. Board enumerated 2026-08-04."
+}

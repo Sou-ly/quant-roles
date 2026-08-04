@@ -1,0 +1,233 @@
+{
+  "firm": "WorldQuant",
+  "careers_url": "https://www.worldquant.com/career-listing/",
+  "offices_in_scope_confirmed": ["London", "Paris", "Geneva", "Zug", "Budapest", "Hong Kong", "Shanghai", "Singapore"],
+  "offices_checked_not_found": ["Zurich", "Tokyo", "Milan", "Dublin", "Amsterdam", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "C++ Software Engineer - Data Platform",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4694000006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "CS degree or related field; 2+ years professional software engineering experience. No graduation-year gate. Good fit for ~18 months experience by mid-2027 start (borderline on the 2+ years).",
+      "requirements": "Modern C++ (C++11+) and STL | Strong data structures, algorithms, systems-level thinking | UNIX/Linux development | Experience with AI-assisted coding tools | Nice-to-have: Python, distributed systems (replication/sharding/consensus), query/compute engines or columnar storage, RPC frameworks",
+      "comp_local": "",
+      "notes": "Distributed storage/compute data platform team. Application asks whether you require firm sponsorship — UK HPI visa is self-sponsored so answer is effectively no cost to them. Closest match to the candidate's production C++ background."
+    },
+    {
+      "location": "London",
+      "title": "AI Software Developer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4671240006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No minimum years stated; no graduation-year gate. 'Finance experience is not required.'",
+      "requirements": "Strong Python | Thorough understanding of how AI works and familiarity with language models | Vector databases and data structures | SQL, Redis, Kafka | Excellent communication skills in English",
+      "comp_local": "",
+      "notes": "New software engineering team building company-wide internal AI applications. This is LLM-application engineering, not GPU/kernel performance work — weaker fit for the llama.cpp kernel background than the title suggests."
+    },
+    {
+      "location": "London",
+      "title": "WQBRAIN Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4248901006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Gated: requires Consultant status on the BRAIN platform (worldquantbrain.com), or working toward it, prior to application. Bachelor's or higher in engineering/science/maths/finance from a leading university.",
+      "requirements": "BRAIN Platform Consultant status | Programming in Java/C++/C/Python/MySQL/SQL Server, UNIX preferred | Research scientist mind-set, self-starter | Strong interest in financial markets | English communication and presentation skills",
+      "comp_local": "",
+      "notes": "Role mixes alpha research with platform testing and user training/business development — part evangelist, not a pure QR seat. The BRAIN Consultant prerequisite is a real gate that takes months of platform work to clear."
+    },
+    {
+      "location": "Budapest",
+      "title": "C++ Software Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4648493006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience number and no graduation-year gate; requires demonstrated high-performance C++ experience. Finance experience preferred but not required.",
+      "requirements": "Writing high-performance C++ | Modern C++ (C++17/20) | C++ template metaprogramming | In-depth network programming and distributed computing | Strong Unix/Linux fundamentals | Data structures and algorithms",
+      "comp_local": "",
+      "notes": "Strongest pure low-latency fit on the board: low-latency high-throughput systems, mission-critical trading infrastructure, working directly with portfolio managers. EU citizenship means no sponsorship needed. 'Competitive compensation package' plus premium health/life insurance is all the posting says on comp."
+    },
+    {
+      "location": "Budapest",
+      "title": "AI Software Developer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4668859006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years stated, no graduation-year gate. Finance experience explicitly not required.",
+      "requirements": "Strong Python software engineering for production systems | Solid understanding of modern AI systems and practical LLM-powered application experience | Vector databases, SQL, messaging systems | Ability to define quality/usefulness metrics | Fluent English | Independent work in small teams",
+      "comp_local": "",
+      "notes": "Budapest twin of the London AI Software Developer req. Product-minded LLM application work rather than GPU/kernel performance. EU citizen — no sponsorship needed."
+    },
+    {
+      "location": "Budapest",
+      "title": "Specialist Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4373285006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard gate: '2+ years' experience in developing systematic strategies including a verifiable track record with positive PnL'. Candidate has no such track record — likely out of reach for now.",
+      "requirements": "2+ years systematic strategy development with verifiable positive PnL | Strong Python and C++ | Quantitative degree (maths, stats, econometrics, financial engineering, OR, CS, physics) | Strategies across equities, ETFs, futures",
+      "comp_local": "",
+      "notes": "Transparent formula-based (PnL-linked) compensation, no base figure disclosed. Includes access to WorldQuant's alpha pool and dedicated data team."
+    },
+    {
+      "location": "London / Paris / Geneva / Zug",
+      "title": "Experienced Quantitative Strategist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4252939006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'2-8 years' experience in quantitative research and/or quantitative development for systematic strategies' — the quant-dev half of that makes ~18 months of production C++ a plausible near-miss/lower-bound application. PhD or Master's from a top-tier university required; EPFL MSc qualifies.",
+      "requirements": "PhD or MSc from top-tier university in CS, maths, stats, physics, engineering or quant finance | 2-8 years quant research and/or quant development for systematic strategies | Python and/or C++ with strong DS&A | Linux | Knowledge of systematic strategies across equities, ETFs, futures, FX, options",
+      "comp_local": "",
+      "notes": "Single req covering four in-scope cities — Geneva and Zug are covered by the CH permit, London by HPI, Paris by EU citizenship. No track-record requirement (unlike the PM reqs), which makes this the most accessible non-engineering seat. Support role to portfolio managers: alpha research, modelling, strategy optimisation, research tooling."
+    },
+    {
+      "location": "London / Paris / Geneva / Zug",
+      "title": "Book Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4232921006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard gate: 2+ years developing systematic strategies with a verifiable track record of positive P&L and Sharpe. Not a fit without a trading track record.",
+      "requirements": "2+ years systematic strategy development with verifiable positive PnL and Sharpe | Strong programming in mainstream quant languages such as Python and C++ | Quantitative portfolio management expertise",
+      "comp_local": "",
+      "notes": "Formula-based compensation, no figures disclosed. Same req spans Geneva, London, Paris and Zug."
+    },
+    {
+      "location": "London / Paris / Geneva / Zug",
+      "title": "Independent Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4232956006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard gate: 2+ years systematic strategy development with verifiable positive PnL and Sharpe. Effectively a seeded-PM seat; not an entry point.",
+      "requirements": "2+ years systematic strategies with verifiable positive PnL and Sharpe | Python and C++ | Quant portfolio management background | Ability to build and lead your own research team",
+      "comp_local": "",
+      "notes": "You run your own book and hire your own researchers. 'Transparent and formula-based compensation' with allocation growing on performance; no base disclosed."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4070746006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "BSc(Hons)/MSc/PhD in a quantitative field; no graduation-year gate and no minimum years. Transcript requested 'if recent graduate'. Prior finance/trading experience optional but advantageous.",
+      "requirements": "Degree in maths, physics, CS or financial engineering | Linear algebra, statistics, machine learning and AI | Python and Unix | Research scientist mindset, self-starter | Strong English communication | Genuine interest in global financial markets",
+      "comp_local": "",
+      "notes": "The cleanest research fit on the board for a strong publication record. Needs Singapore employment-pass sponsorship; the application asks about it and this is routine at this level."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4686743006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Board title is 'Quantitative Developer' but the posting body reads 'Junior Quant Developer' and states early-career candidates preferred; no years mandated, emphasis on 'intellectual horsepower' over tenure. No graduation-year gate.",
+      "requirements": "BSc/MSc in CS or engineering | Solid practical experience in Python and/or C++ | Bash and Linux | Git | Good working knowledge of Claude or other LLM ecosystems | Strong analytical thinking",
+      "comp_local": "",
+      "notes": "Portfolio management systems and tooling, plus production support and incident response — not a low-latency C++ seat despite the track label; C++ is listed only as an alternative to Python. Junior framing may under-level the candidate. Requires SG sponsorship."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Execution Strategist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4665468006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'0-4 years' experience in quantitative research and/or development for systematic or execution strategies' — explicitly open at the junior end, so the strongest experience-band fit on the whole board. PhD or Master's in a quantitative field from a top university.",
+      "requirements": "PhD/MSc in CS, maths, stats, physics, engineering or quant finance | 0-4 years quant research or development | Solid Python (required) plus strong data structures | SQL on large datasets; C/C++ a differentiator | Regression models, time-series analysis, applied ML | Deep learning and/or reinforcement learning exposure preferred",
+      "comp_local": "",
+      "notes": "Execution algorithms, market impact models and TCA; works with trading desks and technology. Posting is also titled 'Execution Researcher'. Needs SG sponsorship. Best combined fit for the ML research record plus systems background."
+    },
+    {
+      "location": "Singapore",
+      "title": "BRAIN Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4250853006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's or advanced degree in an analytical field; BRAIN platform familiarity or prior VRC/BRAIN Research Consultant experience preferred (preferred here, not required as in the London WQBRAIN req). No graduation-year gate.",
+      "requirements": "Degree in engineering, science, maths or finance | Java/C++/C/Python/MySQL/SQL Server, UNIX preferred | BRAIN platform experience preferred | Research scientist mind-set | Interest in financial markets | English presentation skills",
+      "comp_local": "",
+      "notes": "Like the London WQBRAIN role, this blends alpha research with platform QA, user training and business development. Lower barrier than London's version since BRAIN consultancy is only preferred. Requires SG sponsorship."
+    },
+    {
+      "location": "Singapore",
+      "title": "Book Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4232927006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard gate: 2+ years systematic strategy development with verifiable positive PnL and Sharpe. Not a fit without a track record.",
+      "requirements": "2+ years systematic strategies with verifiable positive PnL and Sharpe | Python and C++ | Quant portfolio management experience | Strategies across equities, futures, currencies, options",
+      "comp_local": "",
+      "notes": "Req covers Singapore and Sydney; Sydney is out of scope. Formula-based comp, no figures."
+    },
+    {
+      "location": "Singapore",
+      "title": "Experienced Quantitative Strategist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4252944006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "2-8 years in quantitative research and/or quantitative development for systematic strategies. PhD or Master's from a top university.",
+      "requirements": "PhD/MSc in CS, maths, stats, physics, engineering or quant finance | 2-8 years quant research or development | Python and/or C++ | Linux | Strong problem-solving",
+      "comp_local": "",
+      "notes": "APAC twin of the EU strategist req; covers Singapore and Sydney (Sydney out of scope). Supports PMs with alpha research, modelling and research tooling. Requires SG sponsorship."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Independent Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4232960006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard gate: 2+ years systematic strategy development with verifiable positive PnL and Sharpe.",
+      "requirements": "2+ years systematic strategies with verifiable track record | Python and C++ | Quant portfolio management with systematic strategy knowledge | Ability to build and lead your own research team",
+      "comp_local": "",
+      "notes": "Only in-scope Hong Kong opening on the board; req also lists Singapore and Sydney. Requires HK sponsorship, routine at PM level. Formula-based comp with allocation growth."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4069466006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — 'currently pursuing B.S., M.S. or Ph.D.' and 'graduating in 2025 or 2026'. Candidate graduated Feb 2026 but will have ~18 months of full-time experience by a mid-2027 start, so this new-grad pipeline is a poor fit and the graduation window will likely have rolled forward.",
+      "requirements": "Currently pursuing BSc/MSc/PhD in EE, physics, CS, maths, financial engineering or big data | Graduating 2025 or 2026 | At least one programming language (C++, Python) | Linux/Unix familiarity | Strong English reading and writing | No finance experience required",
+      "comp_local": "",
+      "notes": "English-tolerant exception: the posting requires English reading/writing and does NOT list Mandarin. Req covers Beijing and Shanghai; Beijing is out of scope. Mentions possible relocation to overseas offices for top performers. Needs China work-permit sponsorship."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Data Scientist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4069487006",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — must be 'pursuing a B.S., M.S. or Ph.D. degree from a leading university' and graduating in 2025 or 2026. Same poor fit as the Shanghai QR req.",
+      "requirements": "Currently pursuing BSc/MSc/PhD at a leading university | Graduating 2025 or 2026 | At least one programming language (C++, Python) | Linux/Unix familiarity | Good English reading and writing | Preferred: NLP, deep learning or AI research background",
+      "comp_local": "",
+      "notes": "NLP/deep-learning preference lines up well with the publication record, but the student gate blocks it. No Mandarin requirement stated. Req covers Beijing and Shanghai. Contact address WQBJQuantJobs@worldquant.com is listed on the posting."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Zurich",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "office-does-not-exist",
+      "detail": "WorldQuant's own contact page (https://www.worldquant.com/contact/) lists Swiss offices in Zug (Neuhofstrasse 20, 6340 Baar) and Geneva (Rue du Rhone 42/3, 1204) only — no Zurich office. No Zurich role appears anywhere on the Greenhouse board (https://job-boards.greenhouse.io/worldquant), and no 'Quantitative Researcher' req exists for any European city; the European research-side opening is 'Experienced Quantitative Strategist' (Geneva, London, Paris, Zug), which carries a 2-8 year gate rather than the row's claimed new-grad/junior framing. The row's CHF 120-180k figure has no stated source — no WorldQuant posting discloses compensation. Replace with the Geneva/Zug Experienced Quantitative Strategist req if a CH-permit seat is wanted."
+    }
+  ],
+  "notes": "Primary source throughout was WorldQuant's own Greenhouse board (job-boards.greenhouse.io/worldquant), which the firm links from worldquant.com/career-listing/; every role above was read on its individual posting page. Nothing was blocked. Offices confirmed against https://www.worldquant.com/contact/ — Tokyo does NOT appear (no WorldQuant Japan office), nor do Zurich, Milan, Dublin, Amsterdam or Warsaw. In-scope European offices are London, Paris, Geneva, Zug and Budapest. Excluded as out of scope: all US/Montevideo/Sydney/India/Vietnam/Seoul/Taipei/Dubai/Ramat Gan reqs, the Beijing half of the two China reqs, and four internships (Quant Developer Intern Singapore, Quantitative Research Intern Singapore, Data Science Intern Beijing/Shanghai, Quantitative Research Intern Beijing/Shanghai). No WorldQuant posting states a salary figure anywhere, so every comp_local is empty by design — do not backfill these from peer firms. Structural note on fit: WorldQuant's non-US openings split into (a) engineering reqs with no track-record gate (Budapest C++, London C++ data platform, the two AI Software Developer reqs), (b) portfolio-manager reqs that all demand 2+ years of verifiable positive PnL and are therefore closed to a candidate without a trading track record, and (c) research reqs. Within (c) the Singapore Quantitative Execution Strategist is the only one explicitly open at 0-4 years and is the single best experience-band match on the board. Several reqs are multi-city single postings, so the same URL appears under more than one location row above; applying once covers the set."
+}

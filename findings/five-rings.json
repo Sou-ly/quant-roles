@@ -1,0 +1,53 @@
+{
+  "firm": "Five Rings",
+  "careers_url": "https://fiverings.com/careers/",
+  "offices_in_scope_confirmed": ["London", "Amsterdam"],
+  "offices_checked_not_found": ["Singapore", "Hong Kong", "Shanghai", "Tokyo", "Paris", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Campus Full Time 2027 - Software Developer - London",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Campus Full Time 2027 track, aimed at 2027 graduates; posting states interviews begin September 2026. Student/new-grad gated - a poor fit for a Feb 2026 graduate already ~18 months into a job.",
+      "requirements": "Strong software development skills in C++ on Linux | Implement trading strategies, connect to exchanges, design interfaces | Collaborate with senior engineers, traders and quantitative analysts | Willingness to learn from and mentor others | 100% in-office culture",
+      "comp_local": "",
+      "notes": "Only C++/software seat Five Rings has open outside New York. Application asks 'Are you legally eligible to work in the United Kingdom?' and 'Will you now or in the future require sponsorship for employment visa status?' - the UK HPI visa answers both cleanly at no cost to the employer. The blocker is the campus gate, not authorisation: there is no experienced/lateral Software Developer req in London, only in New York. Worth contacting recruiting directly about a lateral London seat rather than applying through the campus req."
+    },
+    {
+      "location": "London",
+      "title": "Campus Full Time 2027 - Quantitative Trader - London",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Verbatim gate: 'Graduating in winter of 2026 or spring/summer of 2027'. Candidate graduated Feb 2026 (winter 2026) so is arguably inside the literal wording, but will have ~18 months of full-time experience at the mid-2027 start, which is off-profile for a campus intake.",
+      "requirements": "Quantitatively-focused background | Thrive in a highly collaborative and fast-paced environment | Quick learner with intellectual curiosity | Detail-oriented and self-directed | Comfort analysing risks and rewards in a trading context | No prior finance background required",
+      "comp_local": "",
+      "notes": "New traders manage strategies in live markets, adjust model parameters, and work with senior traders to develop and optimise trading systems. Asks for UK work eligibility and future sponsorship needs; HPI visa covers this. The 'winter of 2026' wording is the one campus req here that a Feb 2026 EPFL MSc could legitimately claim - flag the current employment up front rather than hide it."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Campus Full Time 2027 - Quantitative Trader - Amsterdam",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Verbatim gate: 'Graduating in winter of 2026 or spring/summer of 2027'. Same campus gate as the London trader req.",
+      "requirements": "Quantitatively-focused background | Thrive in a collaborative, fast-paced setting | Quick learner with intellectual curiosity | Attention to detail | Self-directed work approach",
+      "comp_local": "",
+      "notes": "EU citizenship means no sponsorship needed for Amsterdam. Note the posting's own application form is sloppy: it asks about UK work eligibility and references US visa categories (H-1B, E-3, I-140) on an Amsterdam req - boilerplate copied from the US/UK forms, not a signal about the actual seat. Amsterdam appears to be a newer office; this is the only Amsterdam req on the board."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "New York",
+      "existing_title": "Software Engineer",
+      "verdict": "title-changed",
+      "detail": "New York is out of scope for this pass anyway, but the row is also inaccurate on several counts. Five Rings has no req titled 'Software Engineer'; the lateral New York role is 'Experienced/Lateral - Software Developer' (https://job-boards.greenhouse.io/fiveringsllc/jobs/4006376008). The row's eligibility note ('New-grad OR entry-level req - recent grads accepted') is wrong for that req, which is explicitly Experienced/Lateral; the new-grad path is a separate 'Campus Full Time 2027 - Software Developer' req. The comp figures ($400-550k, '$300k flat base tied with JS') are not stated on the posting or anywhere on fiverings.com and should be treated as unverified - I found no primary or regulator source for any Five Rings salary number."
+    }
+  ],
+  "notes": "Full Greenhouse board enumerated at https://job-boards.greenhouse.io/fiveringsllc/ - 18 live reqs total, all reachable, nothing blocked. Office list taken from the firm's own contact page (https://fiverings.com/contact/): New York, Boca Raton, London, Amsterdam. Only London and Amsterdam are in scope; there is no Singapore, Hong Kong, Shanghai or Tokyo office and no APAC presence of any kind. Coverage caveat: everything in-scope is campus/graduate-gated. Five Rings runs experienced/lateral hiring almost entirely out of New York - the only non-campus reqs outside NY are 'Experienced/Lateral - Linux Systems Administrator' London (https://job-boards.greenhouse.io/fiveringsllc/jobs/4621152008) and 'Experienced/Lateral - Trading Assistant' London (https://job-boards.greenhouse.io/fiveringsllc/jobs/4043325008). I excluded both deliberately: the sysadmin req states 'C++/software development is not part of this role' and is Linux/Ansible/Zabbix infrastructure work, and the Trading Assistant req is manual order-entry and trade reconciliation operations support, not a trading seat. Neither maps to the four tracks. No ML Performance or Research role exists anywhere outside New York - the only Quantitative Researcher reqs are New York. No compensation figure is disclosed on any Five Rings posting and I found no credible secondary source, so every comp_local is empty by design."
+}

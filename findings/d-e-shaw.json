@@ -1,0 +1,53 @@
+{
+  "firm": "D. E. Shaw group",
+  "careers_url": "https://www.deshaw.com/careers/choose-your-path",
+  "offices_in_scope_confirmed": ["London", "Luxembourg", "Hong Kong", "Shanghai", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quant Systems: Systems Developer (London)",
+      "track": "C++",
+      "url": "https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Degree in computer science or a related technical discipline, or equivalent experience\" with \"up to five years\" of experience. No graduation-year or student gate. ~18 months experience sits inside the stated band.",
+      "requirements": "CS or related technical degree, or equivalent experience up to 5 years | Proficiency in Python, Golang, Rust, or a similar language | Linux-based systems and networking knowledge preferred | Distributed computing: workload scheduling, fleet management, clustered filesystems | Kernel and network performance tuning for low-latency applications | Strong verbal and written communication",
+      "comp_local": "",
+      "notes": "Best in-scope fit at this firm. Global team owning the firm's largest compute infrastructure: OS, dev tools, HPC, networking, storage for research and trading. The posting names Python/Go/Rust rather than C++, but the work described (kernel/network perf tuning for low-latency, clustered FS, HPC fleet) is squarely the C++/systems track and the llama.cpp GPU-kernel and production C++ record maps onto it. Posting carries no visa-sponsorship language; UK HPI visa is self-sponsored so this is not a blocker. Applications also accepted by emailing resume + job title to recruitment-nyc@world.deshaw.com."
+    },
+    {
+      "location": "London",
+      "title": "Systems: Senior Linux Infrastructure Engineer (London)",
+      "track": "C++",
+      "url": "https://www.deshaw.com/careers/systems-senior-linux-infrastructure-engineer-london-5638",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "GATE: \"minimum 10 years comparable work experience\". With ~18 months by a mid-2027 start this is far outside the stated band — listed for completeness, not as a realistic application.",
+      "requirements": "Minimum 10 years comparable work experience | Deep Linux OS knowledge and configuration management | Python development | Diagnostic tracing and troubleshooting tools | Preferred: Rust, Java, C, Go, C# | Preferred: DNS, DHCP, Kerberos, network protocols, infosec, large-scale storage, CI/CD",
+      "comp_local": "",
+      "notes": "Marginal on track as well as on seniority: the role is global network / OS / security-policy infrastructure and configuration management rather than trading-systems C++. Included so the sheet reflects the actual London technology openings, but the 10-year gate makes it a no."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Analyst",
+      "verdict": "could-not-verify",
+      "detail": "The London office is real (55 Baker Street, W1U 8EW, per https://www.deshaw.com/contact), but there is no London-tagged Quantitative Analyst opening. The firm's Quantitative Analyst req (https://www.deshaw.com/careers/quantitative-analyst-2636) and the Quantitative Strategies open-application page (https://www.deshaw.com/careers/all-positions-in-quantitative-strategies-3456) are both tagged New York only. The only London Research/Trader-adjacent posting is a student-gated 10-week Trader/Analyst Intern for Summer 2027. The row's '£130-200k' figure is not stated anywhere on the firm's site and should be treated as invented."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Quantitative Developer",
+      "verdict": "could-not-verify",
+      "detail": "The Hong Kong office is real (19/F York House, The Landmark, 15 Queen's Road Central, per https://www.deshaw.com/contact), so this is not a fabricated office. But no Hong Kong opening of any kind appears on https://www.deshaw.com/careers/choose-your-path as of 2026-08-04 — the only HK-tagged reqs findable are expired Trader/Analyst intern posts from the 2024 cycle. The 'HKD 1.4-2.0M' figure is not stated by the firm; treat as invented."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Systems Engineer / Quant Analyst",
+      "verdict": "title-changed",
+      "detail": "Out of scope for this pass (US), but flagging that no req by that name exists. The real reqs are 'Quantitative Analyst' (https://www.deshaw.com/careers/quantitative-analyst-2636), which states $275,000 base for BS/MS and $300,000 for PhD plus a guaranteed first-year year-end bonus, and 'Software Developer' (https://www.deshaw.com/careers/software-developer-2646) at $275,000 base. The row's $300-400k total-comp estimate is in the right region but was not sourced; the base figures above are stated verbatim on the postings."
+    }
+  ],
+  "notes": "Coverage: read the firm's own careers listing (https://www.deshaw.com/careers/choose-your-path), which renders every live req on one page, plus the offices page (https://www.deshaw.com/contact). D. E. Shaw does not use Greenhouse/Lever/Workday; everything is self-hosted and applications also go via recruitment-nyc@world.deshaw.com. The location filter on the careers page is JS-driven and returned the unfiltered list when fetched, so I enumerated from the full listing instead — non-New-York reqs are location-tagged in the title, which makes this reliable.\n\nIN-SCOPE OFFICES WITH ZERO OPENINGS: Hong Kong, Singapore, Shanghai and Luxembourg all have confirmed offices but no live postings whatsoever. Asia is currently mentioned only as a possible work location inside intern copy and in the regional privacy notices. No Tokyo office — do not add Tokyo rows for this firm.\n\nLONDON, FULL LIST OF 8 LIVE REQS, so the two above are genuinely all that is in scope: Executive Assistant - Investor Relations (out of scope), Quant Systems: Systems Developer (captured), Senior Virtualization and Storage Engineer (out of scope, IT infrastructure), Systems: Senior Linux Infrastructure Engineer (captured, 10-yr gate), Trader/Analyst Intern Summer 2027, Investor Relations Intern Summer 2027, Systems Administrator Industry Placement Year, Systems Engineering Intern Summer 2027.\n\nSTUDENT-GATED, EXCLUDED: Trader/Analyst Intern (London) - Summer 2027 (https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2027-5862) is the one London Trader-track posting, but it is 10 weeks, June-August 2027, and requires \"current enrollment in a bachelor's or graduate degree program\" - a hard student gate and under the 6-month floor. Same for the London Systems Engineering Intern and the Systems Administrator Industry Placement Year.\n\nML PERFORMANCE: the firm's Machine Learning Researcher req (https://www.deshaw.com/careers/machine-learning-researcher-4954) is an excellent profile match - it asks explicitly for \"performance optimization, low-level engineering, GPU programming\" with PyTorch/JAX/CUDA, $275k-$350k base - but it is tagged New York only. Worth raising with a recruiter as a relocation or London-seat question rather than treating as an in-scope row.\n\nUNREACHABLE: https://www.deshaw.com/careers/quantitative-developer-options-5584 surfaced in search but returned an empty body and does not appear in the live listing; almost certainly a closed req. I did not infer its location or content."
+}

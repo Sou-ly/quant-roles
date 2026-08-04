@@ -1,0 +1,167 @@
+{
+ "firm": "Ubiquant (九坤投资 / Ubiquant Investment (Beijing) Co., Ltd.)",
+ "careers_url": "https://www.ubiquant.com/website/career",
+ "offices_in_scope_confirmed": ["Shanghai"],
+ "offices_checked_not_found": ["Tokyo", "London", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+ "roles": [
+  {
+   "location": "Shanghai",
+   "title": "Quant Developer（C++方向）",
+   "track": "C++",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/c9a653b1-38db-41d7-ace2-b01c0d524c95",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Posting states 硕士 (Master's) or above in statistics/maths/physics/CS/finance. No graduation-year gate — this is the experienced-hire (社会招聘) board. Internal headhunter brief attached to the req says '3-5年junior，5-15年senior都考虑' (3-5 yrs junior, 5-15 yrs senior both considered) and that internet-industry candidates, especially ML training-platform developers, are also considered.",
+   "requirements": "Fluent C++ | Solid data-processing and logical analysis; probability and statistics | Research quant models for equities, futures, options | Provide data/tech support to researchers implementing strategies; build backtesting systems | MSc+ in stats/maths/physics/CS/finance | Financial-engineering or quant background is a plus, not required",
+   "comp_local": "",
+   "notes": "Req is open simultaneously in Shanghai (北外滩来福士西塔45F, Hongkou), Beijing (Haidian) and Shenzhen (Futian) — pick Shanghai at application. Job description is Chinese-only; team is 量化实现部 (Quant Implementation). Tagged 职位区域类别: 境内 (onshore China) — this is the mainland entity, not the HK one, so it needs a China work permit and is Mandarin-first. The attached headhunter note ranks locations '北/上/深 > 港或其他 (senior考虑其他地点)', i.e. Hong Kong is only entertained for senior hires. The 'internet ML training-platform developer' target profile is the closest fit anywhere at this firm to the candidate's llama.cpp/GPU-kernel record."
+  },
+  {
+   "location": "Shanghai",
+   "title": "Quant Developer (Python)",
+   "track": "C++",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/0d78f14b-d0f5-458b-90dd-16512db48cc1",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Bachelor's or above in stats/maths/physics/CS/finance. No graduation-year gate (experienced-hire board).",
+   "requirements": "Mastery of at least one language (Python or C++) for large-scale financial data processing | Solid maths/statistics foundation | Process and analyse market data; mine market and proprietary trading data with statistics and ML | Build performance modules on top of research models | Fast learner in a fast-paced environment | Quant/financial-engineering background a plus",
+   "comp_local": "",
+   "notes": "Sister req to the C++ Quant Developer, same 量化实现部 team, same three cities (Shanghai/Beijing/Shenzhen). Listed under the C++ track here because the posting explicitly accepts C++ and the work is trading-system/quant-dev, not data engineering — but it is Python-first, so the C++ req above is the better target. Chinese-only JD, onshore (境内) entity."
+  },
+  {
+   "location": "Shanghai",
+   "title": "AI算法研究员 (AI Algorithm Researcher)",
+   "track": "Research",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/8f7eaed4-014d-411b-bb12-bca8e13d2184",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "MSc or PhD in CS/maths/statistics or related. No graduation-year gate — posted on the experienced-hire board. Posting states 'no finance background required' (不要求金融背景).",
+   "requirements": "Depth in one ML sub-field (statistical learning, deep learning, RL, combinatorial optimisation or other frontier areas) | Strong engineering implementation ability | C++/Python/Go — one or more, with solid coding chops | At least one DL framework (TensorFlow, PyTorch) | Mine large financial datasets for feature extraction, price prediction, portfolio optimisation | Forward-looking AI research and experimentation",
+   "comp_local": "",
+   "notes": "This is the closest live req to the 'AI Researcher' row already in the sheet, and it is open in Shanghai as well as Beijing and Shenzhen. Explicit bonus criteria match the candidate exactly: ACM/ICPC/NOIP/NOI medals, and 'papers published at top CS conferences or journals' (顶会/顶刊). Team is AI部. The Moka payload for this req carries internal fields 最低奖金月数=4 / 最高奖金月数=10 (bonus range of 4-10 months of salary) — that is a bonus multiplier, not a stated salary, so no comp figure is claimed here. Chinese-only JD; tagged 境内 (onshore), so mainland work permit + Mandarin."
+  },
+  {
+   "location": "Shanghai",
+   "title": "量化实现工程师（AI 平台方向）(Quant Implementation Engineer, AI Platform)",
+   "track": "ML Performance",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/6d37713b-850f-43e4-8fc8-32c4bc5c665a",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "硕士 (Master's) or above. No graduation-year gate — experienced-hire board.",
+   "requirements": "Python, Golang, C++ — highly fluent in Python and Go | Full AI training lifecycle; PyTorch | Backend design/development for AI infra and AI application platforms | Performance monitoring, profiling, tuning and refactoring of training jobs and the platform itself | Deep Kubernetes knowledge and hands-on k8s development | Plus: optimisation, bottleneck profiling and improvement of distributed training frameworks such as PyTorch",
+   "comp_local": "",
+   "notes": "The single best track match for the candidate's ML-performance/GPU-kernel profile on Ubiquant's board. Shanghai + Beijing. The stated plus — 'familiar with optimisation, bottleneck monitoring, profiling and improvement of PyTorch and other distributed training frameworks' — maps directly onto the llama.cpp kernel work and the ISCA workshop paper. Note the heavy k8s requirement, which is not in the candidate's stated profile. Chinese-only JD; onshore (境内) entity, Mandarin-first."
+  },
+  {
+   "location": "Shanghai",
+   "title": "多模态Agent算法专家 (Multimodal Agent Algorithm Expert)",
+   "track": "Research",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/6c47e479-a375-45e0-b292-c2112939df54",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "No degree or graduation-year gate stated on the posting; experienced-hire board.",
+   "requirements": "VLM / LLM algorithm depth; AI Agent application experience | RAG full-pipeline optimisation, Multi-Agent, Prompt/Context engineering preferred | RL algorithms — GRPO, PPO, DPO, discriminative and generative reward models | Post-training and data-construction methods for large models | Instruction tuning, preference alignment, model optimisation, synthetic data, evaluation harness design | Frontier work on multimodal RAG, VLA models, GUI agents",
+   "comp_local": "",
+   "notes": "Shanghai + Beijing, team 量化实现部. Pure LLM/agent research, not markets research — relevant only if the candidate's papers are in that area. Chinese-only JD; onshore (境内)."
+  },
+  {
+   "location": "Shanghai",
+   "title": "大模型Agent应用算法 (LLM Agent Application Algorithms)",
+   "track": "ML Performance",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/0aa21bc0-32aa-4320-9b0e-c73944391678",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Master's or above in CS/AI/maths, with LLM/agent R&D experience. No graduation-year gate.",
+   "requirements": "Research and optimise agent capabilities — AI search, Q&A, assistants — for financial business scenarios | Model selection, training and tuning; understand mainstream LLM mechanics and capability boundaries | Strong coding; hands-on model tuning or post-training | Drive engineering integration and rollout with the engineering team",
+   "comp_local": "",
+   "notes": "Shanghai + Beijing, team 量化实现部. Applied-LLM rather than trading work. Chinese-only JD; onshore (境内)."
+  },
+  {
+   "location": "Shanghai",
+   "title": "Quantitative Risk Model Developer (量化风险模型专家)",
+   "track": "Research",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/6448ef3c-8d1a-40b5-9fb0-2d55715755e0",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Master's or above in financial engineering/maths/statistics/econometrics/CS. Explicitly '3年以上' — 3+ years of risk-model development, quant research or asset-management experience at a financial institution. The candidate would be ~1.5 years in at a mid-2027 start, so this req is a stretch on the experience gate.",
+   "requirements": "Build cross-market, multi-asset risk model framework: market, liquidity and credit risk | Derivatives and structured-product pricing models — development, validation, maintenance | Firm-wide stress testing and scenario analysis | Risk-return portfolio optimisation models | Model lifecycle management: validation, monitoring, backtesting, iteration | Python or C++ plus data analysis; ML/AI applied to risk management",
+   "comp_local": "",
+   "notes": "Shanghai + Beijing. Notable: this is the one experienced-hire posting that explicitly asks for '中英文工作能力' (ability to work in both Chinese and English) — i.e. English is used, but Mandarin is still assumed. 3-year experience floor makes it a weak fit for a mid-2027 start. Onshore (境内) entity."
+  },
+  {
+   "location": "Shanghai",
+   "title": "大模型预训练数据算法专家/工程师 - 至知创新研究院 (LLM Pretraining Data Algorithm Expert, Zhizhi Innovation Institute)",
+   "track": "ML Performance",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37030",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Bachelor's or above in CS/AI/maths. No graduation-year gate.",
+   "requirements": "Own the end-to-end pretraining data pipeline — collection, high-fidelity parsing, deep cleaning, experiment analysis — for 100B-1T parameter base models | Synthetic data generation and augmentation research | Automated quality-evaluation loop tied to downstream task performance and scaling laws | High-concurrency distributed data infrastructure; MinHash / semantic de-duplication at scale | Data quality, diversity metrics and fine-grained labelling systems; optimal real-vs-synthetic scaling-law mix | Plus: top-conference papers (NeurIPS, ICML, ACL, EMNLP) or core contributions to well-known open-source data/model projects",
+   "comp_local": "",
+   "notes": "IMPORTANT CAVEAT ON THE URL: this req (id 01a212c8-f1ce-4bd1-bf78-e95d4fef6c4b) is live on Ubiquant's Moka portal variant siteId 37032, which is not publicly browsable (the /apply/ubiquantrecruit/37032 page returns 404 — it appears to be a referral/内推 board). It does NOT currently appear on the public 37030 social-recruitment board, so the URL given is the public board root, not a direct req link. Location Shanghai + Beijing. Belongs to 至知创新研究院 (Zhizhi Innovation Research Institute), Ubiquant's in-house LLM lab that publicly launched its own models in Jan 2026. Chinese-only JD."
+  },
+  {
+   "location": "Shanghai",
+   "title": "【梧桐计划】AI工程师 (Wutong Programme — AI Engineer)",
+   "track": "ML Performance",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37031#/job/e297d656-563c-483f-a1f0-f0460a508c52",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "STUDENT/NEW-GRAD GATE. This sits on the campus-recruitment board (校园招聘, siteId 37031) and the 梧桐计划 is a 应届毕业生 (fresh-graduate) programme. A Feb 2026 EPFL MSc who has been employed full-time in Tokyo since then would generally fall outside China's 应届生 definition. Poor fit on the gate despite an otherwise near-perfect content match.",
+   "requirements": "Bachelor's or above in CS/AI/maths/statistics or another STEM field | Familiar with mainstream LLMs and multimodal models; hands-on tuning or post-training experience | Strong Python; own experiment design, data processing and evaluation end to end | Agent core capabilities: long-horizon task planning/decomposition, stability, hallucination reduction | Agent system optimisation: self-iterating knowledge base and retrieval, memory design, tool-use reliability, multi-agent communication | Model training: CPT, SFT, OPD, RL with real-time communication across 1000+ pods; build the training platform, auto-healing training jobs",
+   "comp_local": "",
+   "notes": "Content match is exceptional for this candidate — the posting names ICLR, NeurIPS, ACL, EMNLP, ICML first-author papers as the top bonus item (一作优先), alongside ACM-ICPC/IOI/NOI/Kaggle results, and promises 'ample compute'. The blocker is purely the fresh-graduate gate. Worth an approach through the experienced-hire board (the 量化实现工程师 AI平台 or 大模型Agent req above) citing this JD. Shanghai + Beijing; Chinese-only JD; onshore (境内)."
+  },
+  {
+   "location": "Shanghai",
+   "title": "【梧桐计划】Quantitative Risk Analyst",
+   "track": "Research",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37031#/job/f3b2fbfe-4e46-49c1-80f1-64e513fe27a2",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "STUDENT/NEW-GRAD GATE, verbatim: '国内外知名院校应届硕士及以上学历' — fresh Master's graduate from a well-known domestic or overseas university. Candidate is no longer 应届; poor fit.",
+   "requirements": "Fresh MSc+ in financial engineering, maths, statistics, physics, CS, finance or economics | At least one of Python / R / Matlab, with data analysis and modelling basics | Rotation across risk research and risk management | Build and optimise market, liquidity and credit risk models; scenario analysis and stress testing | Plus: quant research, strategy development or risk internships; VaR/CVaR/volatility tooling; FRM/CFA/CPA",
+   "comp_local": "",
+   "notes": "Campus-board rotational programme (risk research <-> risk management, then placement). Shanghai + Beijing. Chinese-only JD; onshore (境内). Listed for completeness — the gate makes it a weak target."
+  },
+  {
+   "location": "Shanghai",
+   "title": "【梧桐计划】策略组合管理开发工程师 (Wutong Programme — Portfolio Management Systems Developer)",
+   "track": "C++",
+   "url": "https://app.mokahr.com/apply/ubiquantrecruit/37031#/job/373d7781-469c-47d1-ad48-965949db3fec",
+   "verification": "verified-primary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "STUDENT/NEW-GRAD GATE — campus board, 梧桐计划 fresh-graduate programme. Bachelor's or above in a STEM subject (CS/maths/statistics/electronics/automation preferred). Poor fit for a candidate with 18 months of post-MSc experience.",
+   "requirements": "Strong Python; C or C++ a plus | Design and build the portfolio production system on top of the trading system architecture | Build the bridge from PM strategy to trading-system execution; design trading modes per strategy | Some production or data-analysis system development experience; understanding of system architecture and performance | Linux; relational, NoSQL or time-series databases; SQL | Data handling with Python/MATLAB/R/SAS",
+   "comp_local": "",
+   "notes": "Trading-systems development, the closest campus-board role to the C++ track. Shanghai + Beijing. Chinese-only JD; onshore (境内)."
+  },
+  {
+   "location": "Hong Kong",
+   "title": "Quantitative Researcher / Research Quantitative Analyst (Ubiquant Asset Management Co., Limited)",
+   "track": "Research",
+   "url": "https://www.efinancialcareers.hk/jobs/research-quantitative-analyst/at-ubiquant-asset-management",
+   "verification": "reported-secondary",
+   "live_as_of": "2026-08-04",
+   "eligibility": "Not established — the posting text could not be loaded.",
+   "requirements": "Could not be retrieved — see notes",
+   "comp_local": "",
+   "notes": "COULD NOT VERIFY THE POSTING ITSELF. Ubiquant's own careers portal (Moka, siteId 37030/37031) carries zero Hong Kong reqs: every one of the 20 live reqs is tagged with the custom field 職位區域類別 = 境内 (onshore) and sits in Beijing Haidian, Shanghai Hongkou or Shenzhen Futian. Hong Kong roles surface only on eFinancialCareers HK, whose search API and job pages are behind bot protection (WebFetch returns HTTP 405; direct curl hits a 'Human Verification' interstitial), so I could not read the req, its date, or its requirements. Treat the existence and freshness of this listing as unconfirmed. What IS solid: Ubiquant Asset Management Co., Limited is a real, SFC-licensed Hong Kong subsidiary incorporated 19 April 2021, at Suite 1008, Level 10, One Pacific Place, 88 Queensway, Admiralty — this is the offshore entity and the English-tolerant route. Corroborating signal from inside the firm's own ATS: the internal headhunter brief attached to the Quant Developer (C++) req ranks locations as '北/上/深 > 港或其他 (senior考虑其他地点)', i.e. Hong Kong placement is contemplated but reserved for senior hires. Apply via a recruiter or LinkedIn rather than the mainland Moka portal, which cannot route to the HK entity."
+  }
+ ],
+ "existing_rows_audit": [
+  {
+   "location": "Hong Kong",
+   "existing_title": "Quantitative Researcher (offshore)",
+   "verdict": "could-not-verify",
+   "detail": "The Hong Kong office is real — Ubiquant Asset Management Co., Limited, SFC-licensed, incorporated 19 Apr 2021, One Pacific Place, Admiralty — but the firm's own careers portal (https://www.ubiquant.com/website/career -> https://app.mokahr.com/apply/ubiquantrecruit/37030) lists no Hong Kong role at all; all 20 live reqs are tagged 境内 (onshore) in Beijing/Shanghai/Shenzhen. HK listings exist only on eFinancialCareers HK, which is bot-blocked (405 / human-verification wall), so the req could not be read. The row's claim 'HK entity avoids Mandarin wall' is plausible for the offshore entity but is not evidenced by any posting I could load. The comp figure 'up to $300k (new grad AI/CS)' traces to press reporting on Ubiquant's 2021-22 AI new-grad packages at the mainland entity, not to any HK posting — it should not be attributed to Hong Kong."
+  },
+  {
+   "location": "Beijing",
+   "existing_title": "AI Researcher",
+   "verdict": "confirmed",
+   "detail": "A matching req is genuinely open: 「AI算法研究员」(AI Algorithm Researcher, AI部) at 中关村东路1号院清华科技园8号楼B座赛尔大厦26F, Haidian, Beijing — https://app.mokahr.com/apply/ubiquantrecruit/37030#/job/8f7eaed4-014d-411b-bb12-bca8e13d2184 — and it explicitly lists top-conference/journal papers and ACM-ICPC/NOI results as bonus criteria, which supports the row's 'papers examined' claim. Two corrections to the row, though: (a) Beijing is NOT in this pass's location scope (the brief lists Shanghai as the only in-scope mainland city) — the same req is also open in Shanghai, which is in scope, so the row should be re-pointed there; (b) the row's 'up to $300k + profit share' figure is 2021-22 press reporting, not a stated figure in any posting — the only comp-adjacent data in the ATS payload is an internal bonus band of 4-10 months of salary. The row's 'new-grad AI/CS track explicitly open to recent grads' framing also conflates this experienced-hire req with the separate 梧桐计划 campus programme, which is 应届生-gated and therefore a poor fit, not the candidate's 'strongest gate anywhere'."
+  }
+ ],
+ "notes": "METHOD: Ubiquant's own site (ubiquant.com) is a JS-rendered Chinese page behind a qualified-investor interstitial; its 招贤纳士 (careers) page at https://www.ubiquant.com/website/career links out to a MokaHR ATS under org 'ubiquantrecruit' — siteId 37030 (社会招聘 / experienced hire) and 37031 (校园招聘 / campus). Both boards are SPAs whose job-detail API returns AES-CBC-encrypted payloads; I recovered the full job descriptions by decrypting them with the per-response key the API ships alongside the ciphertext, so every 'verified-primary' row above reflects the actual posting text as of 2026-08-04, not a summary. The English toggle on ubiquant.com points at the same Chinese Moka board — there is no separate English careers site.\n\nCOVERAGE: 20 live reqs total across the two boards. In-scope by location: Shanghai only. Beijing (Haidian, Tsinghua Science Park) and Shenzhen (Futian, Ping An Finance Centre) are large Ubiquant offices but are outside this pass's location list; nearly every Shanghai req is cross-posted to Beijing and often Shenzhen, so applying in Shanghai is a matter of picking the city on the same req. Out-of-scope reqs I excluded: 财务核算经理 (finance manager), K8s运维工程师 (SRE/ops), 数据抓取工程师 (data scraping), all seven 实习生 internships on the campus board, and 【揽月计划】量化交易分析师 (a genuine Trader-track fresh-grad programme, but Beijing-only, so out of scope on location).\n\nMANDARIN: every single posting is written in Chinese only, with no English version anywhere on either board, and all are tagged with the ATS custom field 職位區域類別 = 境内 ('onshore'). This is a Mandarin-first mainland employer. The one explicit language requirement I found on the experienced-hire board is on the Quantitative Risk Model Developer req — '强大的沟通能力（包括中英文工作能力）', i.e. strong communication including the ability to work in both Chinese and English; the Beijing-only 揽月计划 trader programme similarly asks for '中英文流利'. Neither is an English-tolerant exception; both assume working Mandarin. I found no English-tolerant onshore seat.\n\nONSHORE vs OFFSHORE: the mainland entity is 九坤投资（北京）有限公司 (Ubiquant Investment (Beijing) Co., Ltd.); the offshore entity is Ubiquant Asset Management Co., Limited, a wholly-owned HK subsidiary incorporated 19 April 2021, SFC-licensed, at One Pacific Place, Admiralty. The Moka careers portal serves the mainland entity only and cannot route an application to Hong Kong. Separately, UBIQUANT TECHNOLOGY SERVICES PTE. LTD. was registered in Singapore on 11 July 2025 (250 North Bridge Road #39-01, Raffles City Tower) — I found no Singapore job postings and no confirmation it is a staffed office rather than a shell, so Singapore is not listed as a confirmed in-scope office. No evidence of any Tokyo, UK or EU presence; press reporting from 2024 mentions US expansion plans only, which is out of scope.\n\nBLOCKED PAGES: eFinancialCareers HK (the only source showing Hong Kong reqs) is behind bot protection — WebFetch returns HTTP 405 and direct curl hits a 'Human Verification' page — so the HK row is reported-secondary and its title, date and requirements are unverified. LinkedIn's Ubiquant jobs tab was not loadable either. The internal-referral Moka board (siteId 37032) is reachable via API but its public page 404s; it carried one additional Shanghai req (LLM pretraining data) which I have flagged accordingly.\n\nCOMPENSATION: no posting on either board states a salary or a range — Ubiquant has 薪资范围 (salary range) switched off in its ATS field-visibility config. The widely-repeated '$300k for AI/CS new grads' and '$1m for experienced hires' figures come from 2021-22 press coverage, not from any current posting, and I have therefore left comp_local empty on every row."
+}

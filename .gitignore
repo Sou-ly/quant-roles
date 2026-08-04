@@ -1,0 +1,7 @@
+# Scratch from the research run
+QUEUE.json
+existing/
+
+# LibreOffice / Excel lock and temp files
+.~lock.*#
+~$*

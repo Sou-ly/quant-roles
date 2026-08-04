@@ -1,0 +1,16 @@
+{
+  "firm": "AQR Capital Management",
+  "careers_url": "https://careers.aqr.com/",
+  "offices_in_scope_confirmed": ["London", "Munich", "Hong Kong"],
+  "offices_checked_not_found": ["Tokyo", "Singapore", "Shanghai", "Paris", "Amsterdam", "Dublin", "Frankfurt"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "AQR's London office is real (AQR Capital Management Europe LLP, 15 Bedford Street, London WC2E 9HE, per https://www.aqr.com/Our-Firm/About-Us#officelocations), but the firm's live job board has zero London openings of any kind. careers.aqr.com embeds Greenhouse board 'aqr'; the full feed at https://boards-api.greenhouse.io/v1/boards/aqr/jobs returned 48 live reqs on 2026-08-04, distributed only across Greenwich CT (30), Bengaluru (16), Dubai (1) and Hong Kong (1). No London req, and no Quantitative Researcher req anywhere outside Greenwich. The existing row's comp band (GBP 85-130k) has no visible primary source and should not be trusted."
+    }
+  ],
+  "notes": "AQR has no in-scope openings as of 2026-08-04. Method: careers.aqr.com renders client-side and returns an empty document to fetchers, but its HTML source loads 'https://boards.greenhouse.io/embed/job_board/js?for=aqr', so the authoritative feed is the Greenhouse board 'aqr'. Pulled the complete job list from https://boards-api.greenhouse.io/v1/boards/aqr/jobs (48 reqs) and the office taxonomy from https://boards-api.greenhouse.io/v1/boards/aqr/offices. Only one req sits in an in-scope city: 'Vice President Business Development - Hong Kong' (Greenhouse id 7984690), which is a sales/BD role and therefore out of scope for all four tracks. Nothing in London, Munich, Singapore, Shanghai or Tokyo. Office confirmation: AQR's own About-Us page lists Greenwich (HQ), Hong Kong, Bengaluru, Sydney, London, Munich, Dubai. Of the in-scope cities only London, Munich and Hong Kong exist. Munich exists as an office (AQR Capital Management Germany GmbH, Maximilianstrasse 13) but is a small distribution/client entity with no live reqs and no research or engineering presence advertised. IMPORTANT: the Greenhouse office taxonomy contains a 'Tokyo' entry (and 'Frankfurt', 'Bad Homburg', 'Munchen'), but these are empty ATS location records with zero jobs and Tokyo does NOT appear on AQR's own offices page - do not treat AQR as having a Tokyo office. Coverage caveat: careers.aqr.com/jobs/city/london resolves as a page but is JS-only and could not be rendered; the Greenhouse API behind it is authoritative and shows no London roles, so this is a rendering limitation rather than a coverage gap. AQR's technical and research hiring is overwhelmingly Greenwich CT (out of scope) plus a large Bengaluru engineering hub (out of scope); its 2027 analyst programmes are all Greenwich-based and student-gated, so they would not fit this candidate even if in scope. Recommend re-checking the Greenhouse feed periodically rather than the rendered careers site."
+}

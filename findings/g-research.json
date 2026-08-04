@@ -1,0 +1,251 @@
+{
+  "firm": "G-Research",
+  "careers_url": "https://www.gresearch.com/vacancies/",
+  "offices_in_scope_confirmed": ["London"],
+  "offices_checked_not_found": ["Dublin", "Amsterdam", "Paris", "Milan", "Frankfurt", "Warsaw", "Zurich", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "C++ Software Engineer",
+      "track": "C++",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Low-Latency-Software-Engineer_R2486",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated. No minimum years of experience stated. Posting states financial market knowledge is not required.",
+      "requirements": "Low-level systems programming and optimisation for extremely low-latency, high-throughput network applications | Analyse and improve performance using hardware counters and profiling tools | Deep understanding of modern computer architecture incl. cache hierarchies | Fast-packet processing in user space and kernel-bypass (Solarflare OpenOnload, TCPDirect, ef_vi, InfiniBand verbs, DPDK) | Optimising managed runtimes such as C# desirable",
+      "comp_local": "",
+      "notes": "Workday req R2486; internal req title is 'Low Latency Software Engineer'. Strongest C++ fit on the board. Marketing page: https://www.gresearch.com/vacancies/c-software-engineer-2/ . Posting advertises full relocation and immigration support for international candidates; candidate's UK HPI visa route costs the employer nothing."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Developer_R2487",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year, degree or years-of-experience gate stated.",
+      "requirements": "Deliver high-quality, well-engineered software with strong architectural awareness | End-to-end ownership from concept to delivery | Solid knowledge of algorithms, data structures and software fundamentals | Interest in quantitative finance and engineering's role within it | Identify and implement scalable improvements | Clear communication across audiences",
+      "comp_local": "",
+      "notes": "Workday req R2487. Posting is written in competency language and does not name a language stack; G-Research's quant dev stack is predominantly C# and Python, so confirm C++ content at screen. Marketing page: https://www.gresearch.com/vacancies/quantitative-developer/"
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer – Trade Technology",
+      "track": "C++",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Production-Software-Engineer_R3160",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No degree, graduation-year or minimum-years gate stated.",
+      "requirements": "Strong software engineering background, ideally in distributed real-time systems | Experience in at least one typed language: Java, Kotlin, C#, C++ or Rust | Production containerisation and orchestration (Kubernetes) | Robust, maintainable software with strong monitoring",
+      "comp_local": "",
+      "notes": "Workday req R3160; internal req title 'Production Software Engineer'. Trading systems work; C++ is one of several accepted typed languages, not mandatory. Marketing page: https://www.gresearch.com/vacancies/production-software-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Functional Programmer",
+      "track": "C++",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineer---Realtime-Quant-Frameworks_R3460",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated.",
+      "requirements": "Experience with a functional language such as F#, Haskell, OCaml, Erlang or Elixir | Production experience with F#, C# or Python | Strong software engineering background | Familiarity with Kubernetes and relational databases | Problem-solving on complex long-term projects",
+      "comp_local": "",
+      "notes": "Workday req R3460; internal req title 'Software Engineer - Realtime Quant Frameworks'. Core scheduling platform is F#, NOT C++ — listed under the C++/core-infrastructure track only because it is realtime quant framework work. Weak fit unless the candidate wants an FP stack. Marketing page: https://www.gresearch.com/vacancies/software-engineer-realtime-quant-frameworks/"
+    },
+    {
+      "location": "London",
+      "title": "NLP Performance Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Programming-Performance-Engineer_R3676",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "BSc, MSc or PhD in computer science or equivalent experience. No graduation-year or student gate.",
+      "requirements": "Profiling, benchmarking and optimising large-scale LLM inference workloads | Deep understanding of transformer inference: prefill vs decode, KV-cache behaviour, attention variants | LLM serving frameworks (vLLM, SGLang, TensorRT-LLM, TGI) | Inference optimisation: quantisation, speculative decoding, model parallelism | Strong Python and CUDA, building ML systems",
+      "comp_local": "",
+      "notes": "Workday req R3676. Best match on the whole board for the candidate's GPU-kernel / quantisation / llama.cpp background. Marketing page: https://www.gresearch.com/vacancies/nlp-performance-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer_R2550",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Postgraduate degree in ML or related field, OR commercial experience with ML models at scale, OR track record in data science competitions. No graduation-year gate; not student-gated. Finance experience explicitly not required.",
+      "requirements": "Postgraduate ML degree or equivalent commercial/competition track record | Strong object-oriented engineering skills | Python, PyTorch, NumPy | Advanced optimisation, modern ML techniques, HPC, profiling or model inference | Excellent ML reasoning and communication",
+      "comp_local": "",
+      "notes": "Workday req R2550. One of two concurrently open 'Machine Learning Engineer' reqs (see also R3428) — nearly identical text, likely different teams; worth asking recruiting which is which. Marketing page: https://www.gresearch.com/vacancies/machine-learning-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer_R3428",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Postgraduate degree in ML or related, OR commercial experience building ML models at scale, OR demonstrable data-science-competition track record. Finance experience 'not necessary'. No graduation-year gate.",
+      "requirements": "Postgraduate ML degree or equivalent industry/competition record | Strong OO engineering with Python, PyTorch, NumPy | Advanced optimisation, modern ML, HPC, profiling or model-inference expertise | Passion for latest ML and HPC trends | Engage with hardware/software vendors and present results",
+      "comp_local": "",
+      "notes": "Workday req R3428. Second concurrent ML Engineer req; this one leans harder on HPC and hardware/vendor evaluation. Marketing page: https://www.gresearch.com/vacancies/machine-learning-engineer-2/"
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Workflow Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Workflow-Engineer_R3407",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or degree gate stated; industry experience expected. Finance background explicitly not required.",
+      "requirements": "Strong software engineering with architecture and MLOps best practice | Industry experience driving ML operations improvements | Collaborate with technical and non-technical stakeholders | End-to-end ownership from articulation to delivery | Value-oriented independent prioritisation",
+      "comp_local": "",
+      "notes": "Workday req R3407. MLOps/platform-flavoured rather than kernel/performance; weaker fit than R3676 for a GPU-performance candidate. Marketing page: https://www.gresearch.com/vacancies/machine-learning-workflow-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Performance Engineering Manager",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Performance-Engineering-Manager_R3368",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "BSc/MSc/PhD in CS or equivalent, plus experience managing and developing engineers. No graduation-year gate. Line-management experience is a real gate for a candidate with ~18 months' experience.",
+      "requirements": "Experience managing and developing engineers | Profiling and optimising distributed/large-scale workloads | Deep Linux internals: scheduling, memory, NUMA, networking, filesystems | HPC schedulers and Kubernetes | Heterogeneous compute: GPUs, multi-core CPUs, high-memory systems | Profiling tools: perf, eBPF, VTune, Flamegraphs, Prometheus, Grafana",
+      "comp_local": "",
+      "notes": "Workday req R3368. Technically the closest HPC/GPU-performance org on the board, but it is a people-management role — likely out of reach at this seniority. Useful signal that a performance engineering team exists; worth asking about an IC seat on that team. Marketing page: https://www.gresearch.com/vacancies/performance-engineering-manager/"
+    },
+    {
+      "location": "London",
+      "title": "Core AI Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineer---AI_R3548",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No degree, graduation-year or minimum-years gate stated.",
+      "requirements": "Strong C# and Python, building distributed systems and platform-level software | Deep Kubernetes expertise incl. multi-tenant clusters and platform extensions | Docker, Terraform, CI/CD in controlled environments | Model serving and inference infrastructure | Desirable: MCP/platform services, sandboxing, low-latency or quant finance background, AWS, Prometheus/Grafana/OpenTelemetry, open-source contributions",
+      "comp_local": "",
+      "notes": "Workday req R3548; internal req title 'Software Engineer - AI'. Inference-serving platform work, C#-first. Open-source contributions called out as desirable — the llama.cpp merges are directly relevant. Marketing page: https://www.gresearch.com/vacancies/software-engineer-ai/"
+    },
+    {
+      "location": "London",
+      "title": "Applied AI Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/AI-Engineer_R3544",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No degree, graduation-year or minimum-years gate stated.",
+      "requirements": "Strong software engineering with hands-on LLM production experience | Production-quality Python | Agents, RAG pipelines, tool-use, multi-step workflows | Context engineering, retrieval strategies, prompt construction | Evaluation and observability for AI systems | Desirable: fine-tuning (LoRA, DPO), integration with C#/C++/JVM/gRPC/Kubernetes, open-source contributions",
+      "comp_local": "",
+      "notes": "Workday req R3544; internal req title 'AI Engineer'. Application/agent-layer rather than performance/kernel work — weaker fit than R3676. Marketing page: https://www.gresearch.com/vacancies/ai-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Research Engineer",
+      "track": "ML Performance",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Research-Engineer_R3528",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No degree, graduation-year or minimum-years gate stated.",
+      "requirements": "Deliver high-quality, well-engineered software with strong architectural awareness | End-to-end ownership from concept to delivery | Solid algorithms, data structures and software fundamentals | Interest in quantitative finance and engineering's role within it | Emerging-technology adoption | Clear cross-audience communication",
+      "comp_local": "",
+      "notes": "Workday req R3528. Core stack is C# and Python; covers trading systems, modelling, simulation, research tooling and performance optimisation. Same boilerplate competency text as the Quantitative Developer req. Marketing page: https://www.gresearch.com/vacancies/research-engineer/"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher – Experienced",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Researcher---Experienced_R2519",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Requires experience in a sophisticated research environment (finance, technology, or a tenured academic post) plus MSc/PhD in a quantitative subject. No graduation-year gate, but 'experienced' framing may stretch ~18 months of industry.",
+      "requirements": "Experience in a sophisticated research environment (finance, tech or academia) | Master's or PhD in maths, statistics, CS, physics or engineering | Strong programming in at least one language | Demonstrable track record of impactful research",
+      "comp_local": "",
+      "notes": "Workday req R2519. Interview process stated on the posting: online application, quant quiz, four one-hour technical interviews, then leadership interviews. Benefits stated: 35 days' leave, 9% pension, full relocation and immigration costs covered. Marketing page: https://www.gresearch.com/vacancies/quantitative-researcher-experienced/"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher – Postgraduate",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Researcher--Data-Science-Machine-Learning-Mathematical-Modelling-_R2269",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Master's or PhD (or currently pursuing) in a highly quantitative subject. No graduation-year gate and not restricted to current students — 'or currently pursuing' is inclusive, not exclusive. Previous financial experience not required.",
+      "requirements": "MSc or PhD (or in progress) in maths, statistics, CS, physics or engineering | Interest in applying mathematical concepts to real financial problems | Interest in implementing theoretical insight as working code | Motivation to learn finance rapidly",
+      "comp_local": "",
+      "notes": "Workday req R2269 (internal req title mentions Data Science / Machine Learning / Mathematical Modelling). Pure research role; access to the in-house Machine Learning College. This is the closest thing to an early-career research entry point currently open — note it is NOT the August graduate scheme. Marketing page: https://www.gresearch.com/vacancies/quantitative-researcher-postgraduate/"
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Researcher",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Researcher_R2268",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Postgraduate degree in ML or related, OR commercial experience developing novel ML algorithms, OR data-science-competition track record. No graduation-year gate.",
+      "requirements": "Postgraduate ML degree or equivalent industry/competition record | Expertise in deep learning, RL, non-convex optimisation, Bayesian non-parametrics, NLP or approximate inference | Strong mathematical ability | Python, Scikit-Learn, SciPy, NumPy, Pandas, Jupyter | Publications at NeurIPS/ICML/ICLR highly desirable",
+      "comp_local": "",
+      "notes": "Workday req R2268, reposted within the last 24h as of 2026-08-04. Explicitly values top-conference publications — the ICLR/AAAI submissions are directly on point. Marketing page: https://www.gresearch.com/vacancies/machine-learning-researcher/"
+    },
+    {
+      "location": "London",
+      "title": "Natural Language Processing Researcher",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Researcher_R2617",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Master's or PhD in NLP or a related quantitative field (in progress acceptable). No graduation-year gate. Prior finance experience not required.",
+      "requirements": "Expert NLP/ML knowledge from academia or industry | Recent NLP and generative AI advances: domain-adaptive pretraining, instruction fine-tuning, quantisation, LoRA | Applying deep learning to NLP tasks (embeddings, sentiment, NER, knowledge graphs, multilingual, topic extraction) | Strong Python with PyTorch, vLLM or similar | MSc/PhD; publications at ACL/EMNLP/NeurIPS/ICML highly desirable",
+      "comp_local": "",
+      "notes": "Workday req R2617. Posting names quantisation and LoRA explicitly — direct overlap with the candidate's quantisation work. Marketing page: https://www.gresearch.com/vacancies/natural-language-processing-researcher/"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Analyst_R3605",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experience solving quantitative problems via practical projects, internships or full-time employment. No specific degree or graduation-year gate stated.",
+      "requirements": "Track record solving quantitative problems | Understanding of market microstructure and algorithmic order placement | Strong coding in Python and C# (or other languages) | Drive improvement and question the status quo | Strong interest in finance",
+      "comp_local": "",
+      "notes": "Workday req R3605. Execution/market-microstructure flavoured, sitting in the Quantitative Research group. One of two concurrent Quantitative Analyst reqs (see also R2633). Marketing page: https://www.gresearch.com/vacancies/quantitative-analyst/"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Analyst_R2633",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Demonstrated experience in a quantitative role; financial-markets knowledge expected. No graduation-year gate.",
+      "requirements": "Demonstrated experience in a quantitative role | Understanding of market microstructure and algorithmic order placement | Python and C# proficiency | Post-trade analysis on large-scale datasets | Production C# on the trading platform | Collaborate across research, engineering and front office",
+      "comp_local": "",
+      "notes": "Workday req R2633. Second concurrent Quantitative Analyst req; more explicitly execution/post-trade analytics with production C#. Closest thing G-Research currently has to an execution-side seat — but note there is no trader-titled opening anywhere on the board. Marketing page: https://www.gresearch.com/vacancies/quantitative-analyst-2/"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher – Fundamental Equity Research",
+      "track": "Research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Researcher---Fundamental-Equity-Research_R2518",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Targeted at people already working in discretionary/fundamental equity research who want to move quant. No graduation-year gate, but the background gate is a poor match for this candidate.",
+      "requirements": "Strong background in fundamental equity research | Solid quantitative and computing skills | Some coding ability or motivation to learn rapidly | STEM/mathematics background | Passion for financial markets",
+      "comp_local": "",
+      "notes": "Workday req R2518. Listed for completeness — the posting explicitly seeks discretionary equity research people converting to quant, so this is a weak fit. Marketing page: https://www.gresearch.com/vacancies/quantitative-researcher-fundamental-equity-research/"
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Machine Learning Engineer (Graduate)",
+      "verdict": "title-changed",
+      "detail": "No graduate-titled ML role exists on the board. Of the 66 live G-Research reqs (all London) there are two experienced 'Machine Learning Engineer' reqs — R2550 (https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer_R2550) and R3428 — neither of which is student- or graduation-year-gated; the ML Performance track is real and open, but the '(Graduate)' qualifier and the associated '£150–250k' figure are not supported by any G-Research source. The graduates page (https://www.gresearch.com/students-graduates/graduates/) only says 'We typically launch our graduate positions in August' with no titles, dates or eligibility criteria, and no graduate scheme reqs were live on 2026-08-04 — only four internships. The comp figure should be blanked or re-sourced; no G-Research posting states any salary."
+    },
+    {
+      "location": "Dallas",
+      "existing_title": "ML / HPC Engineer",
+      "verdict": "no-longer-open",
+      "detail": "All 66 openings returned by G-Research's own Workday board (https://gresearch.wd103.myworkdayjobs.com/G-Research) on 2026-08-04 have locationsText 'London, UK' — the location facet contains London only, and there is no Dallas req of any kind, let alone an 'ML / HPC Engineer'. That exact title does not appear anywhere on the site. G-Research does have a US/Dallas presence per secondary sources, so this is not a fabricated office, but the row's role, its '$300–450k' comp figure and its source URL (the London vacancies page) are all unsupported. Dallas is also out of scope for this pass."
+    }
+  ],
+  "notes": "Coverage: enumerated the full G-Research Workday board via its public JSON endpoint (66 reqs, 2026-08-04) and cross-read the marketing vacancy pages on gresearch.com/vacancies/ for every in-scope req. Every live opening is London, UK — the location facet on both the careers site and Workday contains London and nothing else. G-Research therefore has zero openings in Dublin, Amsterdam, Paris, Milan, Frankfurt, Warsaw, Zurich, Singapore, Hong Kong, Shanghai or Tokyo; www.gresearch.com/contact/ describes the firm as operating 'from our office in Central London' and lists no other address. The former /about-us/our-offices/ path 404s. A Dallas/US presence is referenced in secondary sources only and had no live reqs. No Trader-track role of any kind is open (no trader, junior trader, algo trader or execution trader titles on the board); the closest adjacency is the pair of execution/microstructure Quantitative Analyst reqs, listed under Research. Compensation: no G-Research posting states a salary or range — every one says only 'highly competitive compensation plus annual discretionary bonus' — so all comp_local fields are empty by design; do not carry over the figures currently in the sheet. Excluded as out of scope: four <6-month student internships (Quant Research, Data Science, ML Research, NLP), 16 cyber security reqs, business management, data analyst, and pure Kubernetes/network/observability infrastructure reqs. https://www.gresearch.com/vacancies/machine-learning-performance-engineer/ still resolves but the page itself states the vacancy has been filled — do not treat that URL as live. Visa: postings repeatedly state full relocation and immigration costs are covered for international candidates, and the UK HPI route is self-sponsored, so there is no work-authorisation obstacle for London."
+}

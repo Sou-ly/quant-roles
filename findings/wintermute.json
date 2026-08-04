@@ -1,0 +1,185 @@
+{
+  "firm": "Wintermute",
+  "careers_url": "https://www.wintermute.com/company/opportunities",
+  "offices_in_scope_confirmed": ["London", "Singapore"],
+  "offices_checked_not_found": ["Hong Kong", "Tokyo", "Shanghai", "Amsterdam", "Paris", "Dublin", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "C++ Quant Developer",
+      "track": "C++",
+      "url": "https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 2 years' experience with C++ - we will test\". No graduation-year or student gate. Posting adds: \"PhD in maths is not uncommon for our Quant Developers, and at least a graduate level of maths skills is required.\"",
+      "requirements": "At least 2 years' experience with C++ (they test) | Understanding networking and implementing client-server connections (they test) | Experience looking under the hood at how C++ standard libraries work (they test) | Strong analytical skills (they test) | Graduate-level maths skills required",
+      "comp_local": "",
+      "notes": "Posting states \"We offer UK work permits and help with relocation\" - but candidate's HPI visa makes that moot and costs Wintermute nothing. No fully remote candidates; flexible WFH otherwise. Technology team, central London office. Strongest single fit for the candidate's profile alongside the ML Researcher role."
+    },
+    {
+      "location": "London",
+      "title": "C++ Trading Platform Developer",
+      "track": "C++",
+      "url": "https://jobs.lever.co/wintermute-trading/8c31337e-9989-4cf2-9cab-e876cbc96f10",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No stated years-of-experience minimum, no graduation-year or student gate.",
+      "requirements": "Strong C++ skills required (they test) | Experience looking under the hood at how C++ standard libraries work (they test) | Strong analytical skills (they test) | Understanding of networking, CPU and memory model, assembly language - desirable",
+      "comp_local": "",
+      "notes": "Oldest live req on the board (posted 2021, evergreen/always-open pipeline role). \"We offer UK work permits and help with relocation.\" No fully remote. The CPU/memory-model/assembly desirable maps directly onto the candidate's llama.cpp GPU kernel work."
+    },
+    {
+      "location": "London",
+      "title": "C++ Quant Developer - Options",
+      "track": "C++",
+      "url": "https://jobs.lever.co/wintermute-trading/89c2714e-7748-42ab-a03c-36fc821f7362",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, or a related field.\" No graduation-year gate, but prefers prior HFT trading-platform experience.",
+      "requirements": "Strong proficiency in C++ and software development best practices | Experience developing trading platforms, preferably from an HFT environment | Solid understanding of multi-threading, concurrency and low-latency programming | Familiarity with market data feeds, order execution protocols, exchange connectivity | Knowledge of options or crypto an advantage | BSc/MSc in CS, Engineering or Maths",
+      "comp_local": "",
+      "notes": "Options desk build-out. The \"preferably from an HFT environment\" line is the main stretch for the candidate - no prior trading-firm experience. Design and optimisation of low-latency options systems, plus unit/integration testing."
+    },
+    {
+      "location": "London",
+      "title": "Core Developer (Python)",
+      "track": "C++",
+      "url": "https://jobs.lever.co/wintermute-trading/d059ea72-e3d2-42ce-bbb3-d47531e0c933",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 2 years of Python experience. C++ experience is an advantage.\" No graduation-year or student gate.",
+      "requirements": "At least 2 years of Python experience; C++ experience an advantage | Experience with SQL databases | Comfortable with Linux | Interest in crypto or finance",
+      "comp_local": "",
+      "notes": "Borderline for the C++ track - the work is core trading infrastructure (exchange data capture, real-time reconciliation and positions, trader GUI, automated settlement, an ML feature store for quants) but the primary language is Python, not C++. Included because it is trading-systems core infra rather than pure data engineering; deprioritise relative to the three C++ reqs. \"We offer UK work permits.\""
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Researcher",
+      "track": "Research",
+      "url": "https://jobs.lever.co/wintermute-trading/a37ce8fb-afc7-4ede-ae93-ca1395228cda",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Degree in Computer Science, Machine Learning, Applied Mathematics, or similar quantitative discipline.\" No years-of-experience minimum and no graduation-year gate stated. Finance/trading experience explicitly \"not required\".",
+      "requirements": "Degree in CS, ML, Applied Maths or similar | Strong Python and ML library skills | Proven track record applying ML/DL to real-world problems | Familiarity with time-series modelling, signal extraction or high-frequency data | Experience building ML infrastructure (data pipelines, experiment tracking, versioning) | Nice to have: publications or competition results, familiarity with C++/CUDA/low-latency systems",
+      "comp_local": "",
+      "notes": "Best-fit role on the board for this candidate. The nice-to-haves name publications AND C++/CUDA/low-latency explicitly - the ICLR/AAAI submissions, ISCA workshop paper and llama.cpp kernels all land. Sits on the Trading team, not a separate research group. Work spans ML alpha models on order-book data plus inference-latency optimisation, so it straddles the Research and ML Performance tracks."
+    },
+    {
+      "location": "London",
+      "title": "Quant Researcher (MFT Focus)",
+      "track": "Research",
+      "url": "https://jobs.lever.co/wintermute-trading/0874ca9b-7c02-4364-bb78-b7b04272351e",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Requires \"Experience developing and deploying MFT strategies with demonstrable production performance\" - an experienced-hire gate the candidate does not meet without prior strategy work. No graduation-year gate.",
+      "requirements": "Experience developing and deploying mid-frequency strategies with demonstrable production performance | Strong quantitative background (Maths, Physics, CS, Engineering) | Advanced Python (C++ familiarity a plus) | Rigorous backtesting, simulation and parameter optimisation | Nice to have: live crypto strategy performance data, market-making experience, exchange API / microstructure knowledge",
+      "comp_local": "",
+      "notes": "Mid-frequency (>10s to days holding). The demonstrable-production-performance requirement is a real gate - this is a lateral hire from another quant seat, not an entry point. Listed for completeness rather than as a realistic near-term target."
+    },
+    {
+      "location": "London",
+      "title": "Algorithmic Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/b14e6e12-1f39-41b8-a3ed-8b02ac8b1464",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-3 years of experience in a relevant role; however, we also welcome recent graduates who have completed internships at other HFT firms.\" This is the band the candidate lands in by a mid-2027 start (~18 months experience).",
+      "requirements": "1-3 years of experience in a relevant role | Strong Python, 1-3 years coding (they test) | Excellent quantitative and analytical skills (they test) | Trading knowledge not required, but strong curiosity about algorithmic/HFT/liquidity-provision trading | Strong interest in blockchain, crypto and DeFi | Owner mentality; prepared to work non-standard hours in a 24/7 market",
+      "comp_local": "",
+      "notes": "Experience band fits well. Note the explicit \"at least 75% working from our London office\" and non-standard-hours expectation. Python-first, not C++ - this is a trading seat, not an engineering one. Wintermute runs periodic Trader Assessment Days in London for this pipeline."
+    },
+    {
+      "location": "Singapore",
+      "title": "Algorithmic Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/c0ce4a33-d749-447b-aa79-78a69ce48c6f",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-3 years of experience coding in Python, be that through work, study or personal project experience\". Body text describes it as a \"Graduate Algorithmic Trader\" search, so it skews junior, but there is no graduation-year cutoff.",
+      "requirements": "Strong Python, 1-3 years coding experience (they test) | Excellent quantitative and analytical skills (they test) | Trading knowledge not required but curiosity about HFT/liquidity provision crucial | Strong interest in blockchain, crypto and DeFi",
+      "comp_local": "",
+      "notes": "VISA: posting states \"We are able to sponsor an Employment Pass for exceptional candidates however, we do prefer applicants to have a Singapore PR.\" That is a softer sponsorship posture than most SG quant seats - treat SG as a weaker door than London for this candidate. Hybrid model, central Singapore office confirmed in the posting."
+    },
+    {
+      "location": "London",
+      "title": "DeFi Algorithmic Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/5cccf004-c190-487d-84d8-e4d8fee97b77",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience minimum stated. Posting body says \"Whether you are a developer, trader or a graduate, we are keen to hear from you\" - deliberately open across seniority.",
+      "requirements": "Proficiency in at least one of Python, Rust or Go | Comfortable on Linux and with Git | Programmatic statistical analysis and quantitative skills | High-level understanding of high-frequency market-making strategies | Understanding of blockchain fundamentals and EVM mechanics | Familiarity with smart contract development and the Foundry toolkit",
+      "comp_local": "",
+      "notes": "Requires real EVM/smart-contract knowledge (Foundry named specifically) - the domain gap, not the seniority, is the barrier here. Explicitly open to developers as well as traders. No fully remote candidates."
+    },
+    {
+      "location": "Singapore",
+      "title": "Graduate DeFi Algorithmic Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/ab93223c-daee-4b0c-8797-cb9a77f32391",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "GATE: titled \"Graduate\". No explicit graduation-year cutoff in the requirements, but the framing targets new graduates, which is a poor fit for a candidate with ~18 months of production experience by a mid-2027 start.",
+      "requirements": "Proficiency in at least one of Python, Rust or Go | Comfortable on Linux and with Git | Programmatic statistical analysis and quantitative skills | High-level understanding of high-frequency market-making strategies | Understanding of blockchain fundamentals and EVM mechanics | Familiarity with smart contract development and the Foundry toolkit",
+      "comp_local": "",
+      "notes": "Graduate-branded seat - flagged per the brief's guidance on student/new-grad gates. VISA: \"For Singapore - we are able to sponsor an Employment Pass for exceptional candidates however, we do prefer applicants to have a Singapore PR.\" Same requirement list as the London DeFi Algorithmic Trader req; apply to the London one instead."
+    },
+    {
+      "location": "London",
+      "title": "Options Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/f0db771f-936b-4999-91d1-7a13fa0b8c25",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "GATE: \"3-5+ years of option market making at one of the top tier trading firms in the space (must have)\". The candidate does not meet this. Listed for completeness only.",
+      "requirements": "3-5+ years option market making at a top-tier firm (must have) | Deep understanding of option pricing and risk frameworks, able to design from scratch | Excellent quantitative and analytical skills (they test) | Python/coding a significant advantage | Risk-manage a multi-exchange crypto options book (delta, vega, gamma, cross-venue)",
+      "comp_local": "",
+      "notes": "Senior lateral hire from another crypto/TradFi options desk. Not a realistic target. Included because it signals Wintermute is actively building an options desk in London, which is also what the C++ Quant Developer - Options req supports."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Prediction Markets Trader",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/13a2e3df-cf2d-4eae-8b10-d7138d42c916",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Strong Python skills - you have 1-3 years of experience coding in Python\". No graduation-year gate. Experience band fits.",
+      "requirements": "Strong Python, 1-3 years coding experience (they test) | Excellent quantitative and analytical skills (they test) | Demonstrated interest in prediction markets (personal trading, following the space) | Owner mentality, P&L focus | Collaborative, meritocratic environment",
+      "comp_local": "",
+      "notes": "IMPORTANT - the Hong Kong tag is a hiring region, not an office. The posting states verbatim: \"This will a remote position with occasional travel as required to our London and New York offices.\" Wintermute has no Hong Kong office; do not treat this as an HK seat. Because it is remote-with-travel-to-London, it may in practice be workable on the candidate's EU/UK status, but visa terms are unstated - confirm with the recruiter. New desk (prediction markets), posted recently and mirrored by a New York req."
+    },
+    {
+      "location": "London",
+      "title": "Trading Analyst",
+      "track": "Trader",
+      "url": "https://jobs.lever.co/wintermute-trading/11823665-128e-452e-afbb-ce855f22ed86",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Though we are seeking talented graduates, we are still open to experienced individuals coming from analytical roles or software development.\" Graduate-leaning but explicitly not graduate-gated.",
+      "requirements": "Good Python skills (they test) | Good quantitative and analytical skills | Trading knowledge not required but curiosity essential | Understanding of DeFi and blockchain a bonus | Troubleshoot and debug live trading systems | Trade reconciliation and service deployment management",
+      "comp_local": "",
+      "notes": "Marginal for the Trader track - this is trade support / trading-systems ops (debugging live systems, reports, GUI tools, reconciliation, deployments) rather than a P&L seat. A step down from the candidate's current level; listed only as a lower-bar entry point into the London office."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Rust/C++ Engineer",
+      "verdict": "title-changed",
+      "detail": "No req titled \"Rust/C++ Engineer\" exists on Wintermute's board (28 live postings pulled from their own Lever feed, https://api.lever.co/v0/postings/wintermute-trading, and rendered at https://www.wintermute.com/company/opportunities). The real London C++ reqs are \"C++ Quant Developer\" (https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36), \"C++ Trading Platform Developer\" (https://jobs.lever.co/wintermute-trading/8c31337e-9989-4cf2-9cab-e876cbc96f10) and \"C++ Quant Developer - Options\" (https://jobs.lever.co/wintermute-trading/89c2714e-7748-42ab-a03c-36fc821f7362). Rust appears on the board only in the DeFi trader reqs (\"Python, Rust or Go\"), never paired with C++ in an engineering title. The London office itself is confirmed - the C++ reqs describe \"a Wintermute-inspired office in central London\"."
+    },
+    {
+      "location": "London",
+      "existing_title": "Rust/C++ Engineer (eligibility field)",
+      "verdict": "could-not-verify",
+      "detail": "The existing row's eligibility note - \"New-grad OR entry-level req - recent grads accepted; you qualify\" - is not supported by any London C++ posting. \"C++ Quant Developer\" requires \"At least 2 years' experience with C++ - we will test\" plus graduate-level maths; \"C++ Quant Developer - Options\" wants HFT trading-platform experience. None of the three C++ reqs mentions new grads. The claim appears to have been carried over from the trader-side reqs, which are the ones that welcome recent graduates."
+    },
+    {
+      "location": "London",
+      "existing_title": "Rust/C++ Engineer (comp field)",
+      "verdict": "could-not-verify",
+      "detail": "The existing row's \"£120-250k (variable)\" figure is not stated on any Wintermute posting. Every req says only \"a performance-based compensation with a significant earning potential alongside standard perks like pension and private Health insurance\" - no numbers. Recommend clearing the comp cells unless a levels.fyi or filing source can be attached. An aggregator (Welcome to the Jungle) shows a $90k-$112k estimate for a London Trader Assessment Day, but that is a site-generated estimate, not a Wintermute figure, and should not be used."
+    }
+  ],
+  "notes": "METHOD: wintermute.com is a Next.js site whose careers pages render client-side, so WebFetch returned only navigation chrome. Resolved by fetching the raw HTML, which revealed the underlying ATS is Lever (jobs.lever.co/wintermute-trading), then pulling the full structured feed from https://api.lever.co/v0/postings/wintermute-trading?mode=json - Wintermute's own hosted board, so every role above is verified-primary with full posting text read. 28 live reqs total on 2026-08-04; 13 are in-scope by location and track.\n\nOFFICES: Only London (HQ, FCA-registered as Wintermute Trading Ltd, FRN 928764) and Singapore (Wintermute Asia Pte. Ltd., Company No. 202108542H) are confirmed in-scope offices - both are described first-hand in postings (\"office in central London\", \"office in central Singapore\"). New York exists but is out of scope. Wintermute has NO Hong Kong office: the one Hong Kong-tagged req states it is remote with travel to London and New York. No Tokyo, Shanghai or EU-mainland presence of any kind - none appears in the location filter on their own opportunities page (filter values are exactly: Hong Kong, London, London/New York, New York, Singapore).\n\nEXCLUDED as out of scope: Infrastructure Support Engineer (London) is desktop/IT support - \"crawling under desks\", \"ability to lift 40-50 pounds\" - not systems engineering. Product Engineering - Team Lead (London) needs 8+ years plus 3 in tech leadership and is a TypeScript/React frontend lead role. DeFi Algorithmic Trading Internship (Singapore) is a 3-6 month placement for \"a motivated and curious student, graduating in 2027\" - student-gated and short. All Business Development, Product Manager, Legal & Compliance, Operations, Settlements and New York reqs were excluded by track or location.\n\nCOVERAGE GAP: no compensation figure is stated on any Wintermute posting, so all comp_local fields are empty by design. Wintermute is a crypto market maker, so the comp structure is heavily performance/bonus-weighted and base salary may be a poor guide even if a figure surfaces later."
+}

@@ -1,0 +1,29 @@
+{
+  "firm": "Akuna Capital",
+  "careers_url": "https://www.akunacapital.com/careers",
+  "offices_in_scope_confirmed": ["London", "Shanghai", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Hong Kong", "Amsterdam", "Paris", "Dublin", "Zurich"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.akunacapital.com/careers/job/6527972/?gh_jid=6527972",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of professional work experience in Options Trading or related field\". Greenhouse metadata tags it both \"Experienced\" and \"Student - Full Time\"; no graduation-year gate stated.",
+      "requirements": "3+ years professional experience in options trading or a related field | BS/MS/PhD in a technical field (Engineering, Statistics, CS, Maths, Physics or similar) | Advanced maths: calculus, probability, linear algebra, statistics, optimisation | Working knowledge of statistical analysis, numerical linear algebra, machine learning or convex optimisation | Intermediate Python (C++ a plus) | Convert ideas into quantitative models and implement trading signals for automated trading",
+      "comp_local": "",
+      "notes": "The only in-scope opening on Akuna's entire job board as of 2026-08-04 (33 live reqs; all others are Chicago, or US-remote/virtual). Singapore requires visa sponsorship for the candidate — the posting says nothing about sponsorship either way. The '3+ years in Options Trading' bar is the main mismatch: candidate has ~18 months of non-trading engineering experience by a mid-2027 start, so this is a stretch application. Posting is evergreen: first published 2025-01-13, last updated 2026-07-13, so it is an always-open pipeline req rather than a fresh headcount. No ML-performance, C++ or research reqs are open in London, Shanghai or Singapore right now."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Chicago",
+      "existing_title": "C++ Developer",
+      "verdict": "title-changed",
+      "detail": "Chicago HQ exists (333 South Wabash Ave, Floor 26) and C++ reqs are open there, but the posted titles are \"Software Engineer - C++\" (https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397) and \"Software Engineer (Entry-Level) - C++\" (https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085), not \"C++ Developer\". Separately, Chicago is a US location and therefore out of scope for this pass and unusable on the candidate's work authorisation (H-1B lottery / O-1 only), so this row should be dropped or replaced with the Singapore trader req."
+    }
+  ],
+  "notes": "Akuna's own careers page (https://www.akunacapital.com/careers) renders client-side but is backed by the public Greenhouse board for 'akunacapital'; I enumerated all 33-34 live reqs directly from boards-api.greenhouse.io/v1/boards/akunacapital/jobs and /departments (both agree) and read the full text of the in-scope posting. Offices were confirmed on Akuna's own who-we-are page (https://akunacapital.com/who-we-are): Chicago HQ plus Sydney, Shanghai, Singapore and London. London and Shanghai are in scope and real, but have ZERO live openings on the board today — every non-Singapore req is Chicago, Chicago-hybrid, US-remote or virtual. Akuna has no Tokyo or Hong Kong office; earlier sheet rows implying otherwise would be wrong. boards.greenhouse.io/akunacapital redirects back to the firm's own careers site. No compensation figures are published for any non-US role; the only stated numbers on the board are Illinois Equal Pay Act minimums for Chicago roles (e.g. $145,000 base minimum for Platform Engineer), which say nothing about Singapore or London and were not extrapolated. Coverage gap: if Akuna recruits for Shanghai or London through a Chinese-language or local-agency channel outside Greenhouse, that would not appear here."
+}

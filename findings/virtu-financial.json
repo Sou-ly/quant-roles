@@ -1,0 +1,137 @@
+{
+  "firm": "Virtu Financial",
+  "careers_url": "https://job-boards.greenhouse.io/virtu",
+  "offices_in_scope_confirmed": ["Dublin", "London", "Paris", "Singapore", "Hong Kong"],
+  "offices_checked_not_found": ["Tokyo", "Shanghai", "Amsterdam", "Frankfurt", "Zurich", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "Core Developer - China Desk",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/4678573002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "1-3 years of work experience preferred; 'talented graduates will be considered'. No graduation-year gate.",
+      "requirements": "Mastery of modern C++ and Java | Extensive Linux development experience | Complex networking (TCP/UDP) | Strong computer performance analysis | High-transaction / low-latency systems | Distributed and concurrent systems (preferred)",
+      "comp_local": "",
+      "notes": "HARD BLOCKER unless Mandarin-fluent: posting states 'Proficiency in spoken and written Mandarin is required to support the China market and communicate with Mandarin stakeholders'. Experience with Chinese exchanges preferred. Seat is in Singapore (sponsorship needed, routine). Application asks the standard Singapore sponsorship question. Note: posting says candidates from outside banking/finance are preferred - good fit for the candidate's profile. This is the only genuine C++-first opening in scope across the whole board."
+    },
+    {
+      "location": "Dublin",
+      "title": "Quantitative Strategist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5559379002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'PhD in Science, Math, Engineering or other quantitative field' required. No years-of-experience or graduation-year gate.",
+      "requirements": "PhD in a quantitative field | Strong quantitative and mathematical problem-solving | Programming in Python and/or C/C++ preferred | Works well under pressure on technical problems | Collaborative, clear communicator",
+      "comp_local": "",
+      "notes": "PhD is stated as required - the candidate has an MSc plus first-author papers under review, so this is a stretch/exception application rather than a clean fit (Virtu runs a separate 'Quantitative Researcher (Master or PhD)' track only as a 2027 internship in Dublin). First step after screening is a HackerRank test. EU citizen - no sponsorship needed in Ireland."
+    },
+    {
+      "location": "Singapore",
+      "title": "Options Quantitative Strategist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5360031002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'3-5 years in quantitative research at an Options Automated Market Maker (OAMM)' required; advanced degree, preferably PhD.",
+      "requirements": "3-5 yrs quant research at an options automated market maker | Advanced degree (PhD preferred) in a quantitative field | Track record building volatility and/or delta signals | Options pricing theory | Large-dataset analysis | Python, Java or C++",
+      "comp_local": "",
+      "notes": "Poor fit: hard domain gate (must already have options market-making research experience) plus PhD preference. India options market familiarity is a plus. Singapore seat needs sponsorship."
+    },
+    {
+      "location": "Dublin",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/4260204002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No years-of-experience minimum stated; 'No finance background is necessary'. BUT the application form asks for expected graduation year, so the pipeline is aimed at recent grads/students - a soft new-grad gate.",
+      "requirements": "Excellent academic background, hard sciences preferred (CS, maths, physics, stats) | Outstanding quantitative problem-solving and mathematical aptitude | Programming experience - Python, SQL, Java or C++ preferred | Precise, fast communication | Self-directed and collaborative | No finance background necessary",
+      "comp_local": "",
+      "notes": "Graduation-year question on the form is the main flag - the candidate is ~18 months post-MSc by a mid-2027 start, which is usually still acceptable for Virtu's Dublin trading intake but is not a lateral-hire req. HackerRank screen first. EU citizen - no sponsorship needed."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/4232867002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No minimum years of experience and no graduation-year requirement stated; form requests GPA and education details.",
+      "requirements": "Strong academic background, hard sciences preferred | Outstanding quantitative problem-solving and mathematical aptitude | Programming experience - Python, SQL, Java or C++ preferred | Communicate information precisely and quickly | Independent and collaborative | No finance background necessary",
+      "comp_local": "",
+      "notes": "Cleanest trader-track fit of the Singapore reqs - no experience or domain gate. Sponsorship required for Singapore but routine at this level; posting asks the standard sponsorship question without stating a policy. HackerRank programming assessment after screening."
+    },
+    {
+      "location": "Dublin",
+      "title": "Quantitative Trader - Fixed Income",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/7427457002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'2-5 years of experience working in a trading support role, or in a comparable role at trading firm or financial institution' - domain experience gate the candidate does not meet.",
+      "requirements": "2-5 yrs in a trading support or comparable role at a trading firm/financial institution | Bond market experience; FI pricing, settlement and clearing knowledge | ETF experience advantageous | SQL and Python | Strong communication | Risk management and strategy implementation",
+      "comp_local": "",
+      "notes": "Requires prior fixed-income/trading-floor experience, so this is a poor fit despite the good location. Listed for completeness. EU citizen - no sponsorship needed."
+    },
+    {
+      "location": "Dublin",
+      "title": "ETF Pricing Analyst",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5443913002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No experience minimum and no graduation-year gate stated; 'No financial background necessary'.",
+      "requirements": "Strong academic background, hard sciences preferred | Programming experience - Python, SQL, Java or C++ preferred | Communicate information precisely | Independent problem-solver with initiative | Collaborative | No finance background necessary",
+      "comp_local": "",
+      "notes": "Entry point onto the Dublin ETF trading desk rather than a pure trader seat - lower ceiling than Quantitative Trader but no gates. HackerRank test then phone interview. EU citizen - no sponsorship needed."
+    },
+    {
+      "location": "Singapore",
+      "title": "ETF Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8522534002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'a minimum of 3+ years' ETF experience trading in China, Korea or Taiwan' - hard domain gate the candidate does not meet.",
+      "requirements": "3+ yrs ETF trading in China, Korea or Taiwan | Strong derivatives and risk management knowledge | Exceptional maths/analytics | Python and SQL | Execution proficiency in Chinese/Korean/Taiwan ETF markets | Based in or willing to relocate to Singapore",
+      "comp_local": "",
+      "notes": "Experienced-hire seat with a regional-market gate; listed for completeness only. HackerRank assessment first step."
+    },
+    {
+      "location": "Singapore",
+      "title": "Options Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5212847002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum 1-2 years of experience in options trading at an APAC OAMM', but the posting adds 'Talented graduates will also be considered' - so the gate is soft.",
+      "requirements": "1-2 yrs options trading at an APAC options automated market maker (soft gate) | Degree in Science, Math, Engineering or quantitative field | Strong programming, Jupyter notebooks | Knowledge of APAC options pricing and risk dynamics | Automated market-making background in indices, futures or equities",
+      "comp_local": "",
+      "notes": "Worth an application despite the options-domain preference because of the explicit 'talented graduates will also be considered' line. Singapore sponsorship needed."
+    },
+    {
+      "location": "Dublin",
+      "title": "Systems Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/4789613002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'5+ years background in Linux/Unix administration' required - the candidate does not meet this.",
+      "requirements": "5+ yrs Linux/Unix administration | Kernel tuning | Strong networking and topology (NFS, DHCP, IP, TCP, UDP, TFTP, NTP) | Kickstart, Ansible, Yum, Git, SVN; NAS environments | Bash and Python scripting; BIOS configuration | 'Understanding of what milli-, nano-, and micro-seconds are and why they're important'",
+      "comp_local": "",
+      "notes": "TRACK CAVEAT: filed under C++ only because it is the low-latency infrastructure seat in scope, but the work is Linux system administration - no C++ development in the requirements. 5+ years sysadmin gate makes it a poor fit. One req covers both Dublin and London (same posting). Screening includes an online system administration assessment. Both EU and UK are workable for the candidate without employer-funded sponsorship."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "New York",
+      "existing_title": "C++ Developer",
+      "verdict": "title-changed",
+      "detail": "No req titled 'C++ Developer' exists anywhere on Virtu's Greenhouse board (https://job-boards.greenhouse.io/virtu) as of 2026-08-04; the live New York engineering reqs are 'Software Engineer - Client Trading Infrastructure (Java)', 'Software Engineer - Reference Data (Java/SQL)', 'Software Engineer - Desktop Frontend Developer (C#/Winforms)' and 'Software Engineer - Web Application, Front-end (Javascript/React)' - none of them C++. The New York office itself is confirmed real (1633 Broadway, https://www.virtu.com/contact/), but New York is out of scope for this pass anyway, and the row's comp band and 'new-grad OR entry-level' eligibility text are not sourced from any live posting."
+    }
+  ],
+  "notes": "Careers page at https://www.virtu.com/careers/ carries no listings itself; the live board is Greenhouse (https://job-boards.greenhouse.io/virtu), which loaded fully and was read directly - all 48 open reqs enumerated, and each in-scope req below was opened individually. Offices confirmed from https://www.virtu.com/contact/: in-scope cities are Dublin, London, Paris, Singapore and Hong Kong. There is NO Virtu office in Tokyo, Shanghai, Amsterdam, Frankfurt, Zurich, Milan or Warsaw - do not add rows for those. Paris and Hong Kong offices exist but have no in-scope openings (Hong Kong's only req is 'Virtu Execution Services: Electronic Trading Sales, Coverage', a sales role, out of scope). Excluded as out of scope after reading: 'Full Stack Developer' Dublin (React/Node/TypeScript web work, no systems or C++ content); 'Core Operations Engineer' Singapore (Linux/Python production support, not development); 'Systems Engineer' Singapore (3-5 yrs Linux admin) and 'Network Engineer' London (IT); 'Electronic Trading Support Specialist' and 'Ondesk Engineer' Singapore (support). ML Performance track: Virtu has exactly two ML reqs, 'Machine Learning Researcher' and 'Machine Learning Engineer', and BOTH are New York only - there is no in-scope ML opening at this firm, which is the biggest coverage gap relative to the candidate's strongest profile area. All Dublin/Singapore internship reqs are 2027 summer internships and are student-gated (they ask expected graduation year) plus shorter than 6 months, so excluded per brief. No compensation figure is stated on any Virtu posting in scope (no EU/UK/SG pay-transparency disclosure appeared), so every comp_local is deliberately empty. Process note: nearly every Dublin/Singapore quant and trading req screens with a HackerRank online test as the first step."
+}

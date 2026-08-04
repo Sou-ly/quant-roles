@@ -1,0 +1,41 @@
+{
+  "firm": "Aquatic Capital Management",
+  "careers_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
+  "offices_in_scope_confirmed": ["London"],
+  "offices_checked_not_found": ["Singapore", "Hong Kong", "Shanghai", "Tokyo", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7529282002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 4+ years of full-time professional experience\". Posting also states: \"if you are an undergrad or PhD graduate, we ask that you apply to one of our early career or PhD roles listed on our website.\" Candidate will have ~18 months by a mid-2027 start, so the 4-year bar is a real gate; the early-career alternatives are Chicago/New York only and therefore out of scope.",
+      "requirements": "4+ years full-time professional experience | Bachelors, Masters, PhD or Postdoc in finance, CS, maths, statistics, machine learning, physics or another scientific discipline | Strong mathematical and analytical skills with proven research capability | Programming proficiency in one of Python, C++, Java or R | GitHub username plus public SSH key required to advance in the process",
+      "comp_local": "",
+      "notes": "Role is posted jointly for Chicago; New York; London — London is the only in-scope city. The posting states a base salary of $150,000-$300,000 plus discretionary bonus, but that is a US pay-transparency disclosure and no separate GBP figure is given, so comp_local is left empty. Application asks whether you need firm sponsorship for the location applied to; no sponsorship policy is stated either way. UK High Potential Individual visa is self-sponsored and would cost Aquatic nothing — worth stating up front. Note that Aquatic has no EU office, so the candidate's EU citizenship gives no advantage here. Technical screen is GitHub/SSH-based, implying a take-home or repo-based coding stage."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7994855002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"4+ years of professional experience writing high-performance C++\", plus the same clause: \"if you are an undergrad or PhD graduate, we ask that you apply to one of our early career or PhD roles listed on our website.\" With ~18 months of experience by mid-2027 the candidate is materially under the stated bar; the merged llama.cpp GPU kernels and production C++ are the strongest counterweight.",
+      "requirements": "4+ years professional experience writing high-performance C++ | Deep understanding of market data, order books and exchange microstructure | Strong familiarity with Linux systems programming, networking and multithreading | Bachelor's degree in Computer Science, Engineering or related field | Background in quantitative or systematic trading preferred | GitHub username plus public SSH key required to advance",
+      "comp_local": "",
+      "notes": "Posted jointly for Chicago; New York; London. Stated base salary $150,000-$300,000 plus discretionary bonus is a US disclosure with no GBP equivalent given, so no local figure is claimed. Market-microstructure depth (order books, exchange connectivity) is an explicit requirement and is the main gap versus an ML-performance background — the low-latency/kernel work is transferable but the exchange-domain knowledge is not. Sponsorship question is asked on the application; UK HPI visa is self-sponsored."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Chicago",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "A Quantitative Researcher req is genuinely open and lists Chicago (https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7529282002), and Chicago is confirmed as the firm's HQ at 225 W Randolph Street. However, Chicago is out of scope for this pass (US), and two details in the row are wrong: the Source URL https://www.aquaticcapital.com/ is a parked GoDaddy for-sale domain, not the firm — the real site is https://www.aquatic.com/. The eligibility text is also wrong: the row says \"recent grads accepted; you qualify\", but the live Chicago/NY/London QR posting requires \"at least 4+ years of full-time professional experience\" and explicitly redirects undergrad and PhD graduates to separate early-career reqs. The row should be re-pointed at London and its eligibility verdict reversed."
+    }
+  ],
+  "notes": "Aquatic Capital Management has exactly three offices — Chicago (HQ), New York and London — per https://www.aquatic.com/. London is the only in-scope location; there is no EU, Singapore, Hong Kong, Shanghai or Tokyo presence, so the candidate's EU citizenship, CH permit and Japan residence are all irrelevant to this firm and only the UK HPI route applies. The full Greenhouse board (9 reqs total) was enumerated and read directly. Only two in-scope roles exist, both London-tagged multi-city reqs. Deliberately excluded: Quantitative Researcher Early Career and Software Engineer Early Career (Chicago/New York only, out of scope by location); Research Business Manager and Systems Engineer (Chicago only); Software Engineer Intern Summer 2027 (Chicago only); and Quantitative Researcher Intern Summer 2027, which does list London but is a summer internship — under 6 months and student-gated, so out of scope on both counts. There are no Trader or ML Performance track openings at this firm anywhere. Main caveat: both in-scope reqs carry a hard 4+ years experience bar that the candidate does not meet by a mid-2027 start, and the firm routes junior candidates to US-only early-career reqs — so Aquatic is a weak fit for this search despite having a London office. No pages were blocked; all figures cited were read on the postings themselves."
+}

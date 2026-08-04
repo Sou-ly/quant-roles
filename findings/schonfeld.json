@@ -1,0 +1,131 @@
+{
+  "firm": "Schonfeld Strategic Advisors",
+  "careers_url": "https://www.schonfeld.com/careers",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Singapore", "Tokyo"],
+  "offices_checked_not_found": ["Zurich", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Milan", "Shanghai"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Strategist - Equity Risk",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7541293",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate stated; no explicit years-of-experience minimum. Wants prior exposure to volatility trading and production environments.",
+      "requirements": "Strong Python | Experience with volatility trading strategies (vanilla and exotic products) | Financial mathematics / first-principles modelling | Vol surface parameterisation, pricing, PnL explain, dividends modelling, scenario construction | Track record collaborating with quant risk teams and traders | Strong written/verbal communication",
+      "comp_local": "",
+      "notes": "Supports volatility and emerging-markets trading desks. Closest thing to a pure research seat in Europe on the board. Domain-heavy (vol/exotics) rather than ML — candidate's ML/systems profile is a partial fit at best. UK: HPI visa self-sponsored, posting says nothing about sponsorship."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer - Fundamental Equities",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7957690",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2-5 years in quantitative development, dev strats, analytics engineering, product management, or quantitative analysis at financial institutions\". Not student-gated. Candidate at ~18 months by mid-2027 is just below the band.",
+      "requirements": "Strong Python; solid SQL (relational and/or time-series DBs) | Hands-on LLM integration, prompt engineering, tool use, retrieval-augmented workflows | Software engineering hygiene: version control, CI/CD, testing, documentation | Demonstrated dashboards/UIs used by investment teams | Preferred: AWS, Docker/Kubernetes, Terraform, Prefect/Airflow | Preferred: MCP servers, agentic frameworks, multi-model orchestration",
+      "comp_local": "",
+      "notes": "Despite the 'Quantitative Developer' title this is Python/LLM tooling and dashboards for the Fundamental Equity team, NOT C++ or low-latency. Tracked as ML Performance because of the LLM/agentic component, but there is no GPU/kernel/HPC work. This is the role the existing London 'Quantitative Developer' spreadsheet row most likely referred to, and its content does not match that row's C++ requirement list."
+    },
+    {
+      "location": "London",
+      "title": "AI Strategy Analyst",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8031499",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3-5 years post-university\"; PhD or Master's in a quantitative/technical discipline strongly preferred. No student gate.",
+      "requirements": "Hands-on Python | Experience with ML frameworks, LLM APIs and NLP concepts | Prompt engineering, dataset development, data pipelines | Demonstrated passion for AI via personal projects or research | Ability to liaise between investment teams and platform/tech",
+      "comp_local": "",
+      "notes": "Posting states verbatim: \"This is not a traditional quant or engineering role - it sits at the intersection of investment workflows, data strategy, and applied AI.\" Borderline for the ML Performance track; included because the day-to-day is Python/LLM engineering and the publication record is explicitly valued. Candidate is slightly under the 3-5y band."
+    },
+    {
+      "location": "London",
+      "title": "Senior Software Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8091383",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 3 years Java development experience\". No student/graduation gate. Candidate is under the 3y bar at a mid-2027 start.",
+      "requirements": "3+ years Java | Design/architecture skills, microservices preferred | Relational databases | Messaging systems, Kafka preferred | Preferred: React/TypeScript, AWS, Docker/Kubernetes, CI-CD | Preferred: equity financing, fixed income trading or collateral management domain",
+      "comp_local": "",
+      "notes": "WEAK FIT and only loosely on-track: it is Treasury application development (sec lending, repo, FX hedging, collateral) in Java, not C++ and not low-latency. Listed for completeness as the only core trading-systems engineering seat in London; candidate's C++/GPU background does not map onto the stated Java requirement."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6772399",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Master's in CS/Engineering or related, plus \"5+ years software development experience in financial industry\". Hard experience gate the candidate does not clear at a mid-2027 start.",
+      "requirements": "MS in CS/Engineering or related | 5+ years software development in the financial industry | Proficiency in C++ and Python | SQL and KDB | Strong algorithms, data structures, software design | Preferred: systematic trading system development, DevOps/CI, market data platforms, AWS/Azure, ML",
+      "comp_local": "",
+      "notes": "The only genuinely C++ role on Schonfeld's board in any in-scope location. Application form asks \"Will you now or in the future require sponsorship to work in Hong Kong?\" - sponsorship needed, routine at this level, but no policy stated in the posting. No Mandarin/Cantonese requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7624691",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "MS or PhD from a top-tier university plus \"minimum 5 years of alpha-research experience at a leading buy-side firm or global bank\". Hard experience gate the candidate does not clear.",
+      "requirements": "MS/PhD in CS, statistics, maths or related from a top-tier university | 5+ years buy-side or global-bank alpha research | Tree-based models, deep learning, NLP/LLM | Strong probability, overfitting control | Python, preferably C++ or similar | Distributed/hybrid compute environments",
+      "comp_local": "",
+      "notes": "Closest thematic match to the candidate's ML publication record (deep learning, NLP/LLM, distributed compute), but the 5-year buy-side alpha-research requirement is the blocker. Application form asks about Hong Kong / Singapore sponsorship and current authorisation. No language requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Researcher - Hong Kong",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/5460823",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3-7 years experience in systematic trading in rates/fixed-income derivatives, bonds or futures from top tier funds or banks\"; Masters or PhD required. Candidate is below the 3-year floor and lacks the rates domain.",
+      "requirements": "Masters or PhD in maths, CS, economics or related | 3-7 years systematic trading in rates/fixed-income derivatives, bonds or futures | Independent alpha research and portfolio construction | Building and maintaining production systems | Dataset evaluation for alpha | Risk management experience advantageous",
+      "comp_local": "",
+      "notes": "Macro/rates focused - a separate long-standing req from the other HK Quantitative Researcher posting (this one has a much older Greenhouse ID, so it may be an evergreen pipeline req). Requires legal authorisation to work in Hong Kong; sponsorship assessed at application. No language requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Trading Associate",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7517021",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of relevant experience in the financial industry\" plus a quantitative degree (BSc/MSc/PhD accepted). No student gate. Candidate is under the 3-year bar at a mid-2027 start.",
+      "requirements": "BSc/MSc/PhD in CS, data science, engineering, finance, economics or related | 3+ years financial industry experience | Python proficiency and Linux familiarity | Monitoring live trading strategies during market hours | Building operational tools and dashboards | Incident response coordination and portfolio operations support",
+      "comp_local": "",
+      "notes": "This is trading operations / strategy monitoring rather than a risk-taking trader seat - closer to a trade-support-plus-tooling role. Sponsorship required for Hong Kong; no Mandarin/Cantonese requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Research / Developer - Intern",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Minimum 6 months, with potential conversion to full-time. Requires STEM Master's or PhD AND \"2-3 years of prior experience\" buy/sell-side - so this is an experienced-hire trial seat, not a student internship. No graduation-year gate.",
+      "requirements": "STEM Master's or PhD | 2-3 years prior buy- or sell-side experience as a strat, quant developer or forward-deployed engineer | Knowledge of trade workflows and investment management, equities preferred | Full-stack coding: data wrangling, REST/GraphQL APIs, Python, JS/React or Dash front-ends | ML/AI experience advantageous | Willingness to relocate to Hong Kong (relocation support available)",
+      "comp_local": "",
+      "notes": "In scope on duration (6+ months) and not student-gated, but it is an internship title with a conversion path rather than a permanent offer - worth weighing against the candidate's current permanent Tokyo role. Relocation support offered; sponsorship still needed for Hong Kong."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Zurich",
+      "existing_title": "Quantitative Developer",
+      "verdict": "office-does-not-exist",
+      "detail": "Schonfeld has no operating Zurich office. Its own site (https://www.schonfeld.com/our-firm/) lists only Hong Kong, Singapore, London, Tokyo, Miami, Dubai and Sao Paulo, and the office filter on https://www.schonfeld.com/careers offers New York, London, Tokyo, Hong Kong, Singapore, Sao Paulo, Miami and Fort Lauderdale - no Zurich, and zero Zurich postings. Press (Bloomberg, 2026-06-04, and Hedgeweek) reports Schonfeld only *plans* a Zurich office to open later in 2026, with a Swiss entity 'Schonfeld Strategic Advisors (Switzerland) Sarl' registered at Brandschenkestrasse 24, 8001 Zurich and PMs Yohan Hwang and Pierre Kling hired from Millennium. So the office is forthcoming, not live, and no Quantitative Developer req exists there. The row's CHF 140-200k figure has no stated source and should be removed."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "A London role titled 'Quantitative Developer - Fundamental Equities' is live at https://job-boards.greenhouse.io/schonfeld/jobs/7957690, so the office and rough title hold - but the row's C++ track and requirement list (modern C++14/17/20, Linux internals, low-latency) are wrong: the actual posting asks for 2-5 years, strong Python, SQL, LLM/RAG experience and dashboard building, with no C++ mention. The row's '0-3 YoE typical' gate and the GBP 100-150k figure are also unsourced; no compensation is stated on the posting."
+    }
+  ],
+  "notes": "Schonfeld's careers page (https://www.schonfeld.com/careers) is backed by Greenhouse (https://job-boards.greenhouse.io/schonfeld) and both loaded fine; the full board was enumerated on 2026-08-04. In-scope offices with live postings: London (4 in-scope), Hong Kong (5 in-scope), Singapore (postings exist but only Network Engineer, Platform Support Engineer and Director of COO Office - all out of scope), Tokyo (only Broker Relations, Associate - out of scope). No Schonfeld presence in Paris, Amsterdam, Dublin, Frankfurt, Milan, Warsaw or Shanghai. Notable pattern: every in-scope req carries an experienced-hire floor of 2-5+ years, so at ~18 months by a mid-2027 start the candidate is under the stated bar on all of them; there is no graduate/campus programme in any in-scope location (the only campus reqs on the board are Sao Paulo internships). Only one genuinely C++ seat exists in scope (Hong Kong Quantitative Developer, and it wants 5+ years). No compensation figures are stated on any Schonfeld posting - UK and Hong Kong postings carry no pay-transparency ranges - so all comp_local fields are empty by design. Watch the Zurich office: once it opens later in 2026 it would be the strongest work-authorisation fit given the CH permit, and is worth re-checking on the careers office filter periodically."
+}

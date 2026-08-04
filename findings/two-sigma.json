@@ -1,0 +1,101 @@
+{
+  "firm": "Two Sigma",
+  "careers_url": "https://careers.twosigma.com/careers/OpenRoles",
+  "offices_in_scope_confirmed": ["London", "Tokyo", "Hong Kong", "Shanghai"],
+  "offices_checked_not_found": ["Singapore", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Two Sigma Securities, Software Engineer - London",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Two-Sigma-Securities-Software-Engineer-London/13980",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. Minimum 1 year software engineering required; 5+ years preferred. BS or MS in Computer Science, Engineering or related field. No graduation-year gate.",
+      "requirements": "BS/MS in CS, Engineering or related field | Minimum 1 year software engineering experience (5+ preferred) | Proficiency with Python, Java, C or C++ | Interest in distributed, high-performance and low-latency systems | Trading / financial systems / latency-sensitive domain experience a plus | Able to collaborate with technical and business stakeholders",
+      "comp_local": "",
+      "notes": "Best C++ fit of the London set: the posting describes designing and optimising 'a next-generation, low-latency, high-throughput trading platform' plus research infrastructure for the Two Sigma Securities market-making business. The 1-year minimum matches the candidate's ~18 months by a mid-2027 start. Posting says nothing about visa sponsorship; UK HPI visa is self-sponsored so this is a non-issue."
+    },
+    {
+      "location": "London",
+      "title": "Modeling Engineering - London",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Modeling-Engineering-London/13899",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. Minimum 1 year required, 5+ years preferred. Bachelor's with Honours in a relevant discipline required; Master's in CS/Engineering preferred. No graduation-year gate.",
+      "requirements": "Bachelor's with Honours required, MSc in CS or Engineering preferred | Minimum 1 year experience (5+ preferred) | Understanding of data structures and algorithms | Python, Java, C or C++ | Strong understanding of distributed systems, networking and market microstructure | Trading or finance experience preferred",
+      "comp_local": "",
+      "notes": "Investment Management business unit, Engineering function. Role partners with quantitative researchers to build analysis tools and trading-platform extensions — closest thing Two Sigma London currently has to a research-adjacent engineering seat, since no London QR reqs are open. No sponsorship language in the posting."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer - London",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineer-London/13902",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. Minimum 1 year required, 5-10 years preferred. 'A Bachelors with Honours in a relevant discipline is required.' No graduation-year gate.",
+      "requirements": "Bachelor's with Honours in a relevant discipline required | Minimum 1 year experience (5-10 preferred) | Data structures and algorithms | Java or other JVM languages, Python, C or C++ | 'Extraordinary programming skills' | Demonstrated large-scale systems experience",
+      "comp_local": "",
+      "notes": "Generalist London SWE req covering data infrastructure ('over 30TB of data each day'), researcher tooling, trading systems and firmwide engineering infrastructure. JVM is listed first, so this is less C++-centric than the Securities req. No sponsorship language."
+    },
+    {
+      "location": "London",
+      "title": "Enterprise Platform Engineering - London",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Enterprise-Platform-Engineering-London/13900",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. Minimum 1 year required, 5-12 years preferred. Bachelor's with Honours required; Master's in CS/Engineering preferred. No graduation-year gate.",
+      "requirements": "Bachelor's with Honours required, MSc in CS/Engineering preferred | Minimum 1 year experience (5-12 preferred) | 'In-depth knowledge of Linux operating system and network fundamentals' | Understanding of system performance | Large distributed systems experience | Python, Java or C++; GenAI-driven systems development a plus",
+      "comp_local": "",
+      "notes": "Core infrastructure rather than trading path: scalable distributed infrastructure across on-prem and public cloud, plus evaluating GenAI tooling. Includes an on-call rotation. The 5-12 year preferred band means the candidate is at the bottom of the target range."
+    },
+    {
+      "location": "London",
+      "title": "Reliability Engineer, Market Data",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Reliability-Engineer-Market-Data/14098",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. Minimum 1 year required, 5+ years preferred. BS/BA in Computer Science or 'another highly technical, scientific field'. No graduation-year gate.",
+      "requirements": "BS/BA in CS or another highly technical, scientific field | Minimum 1 year programming experience, structured and OO (5+ preferred) | Python, Java or C++ | Linux administration | Track record supporting live production systems | Preferred: market data production support, trade desk support, market microstructure, 'in-depth knowledge of networking technology (such as kernel bypass)'",
+      "comp_local": "",
+      "notes": "Newest London req (ID 14098, appeared on the front page of the careers site). Kernel-bypass networking and market-data plumbing make it genuinely systems-flavoured, but it is a production-support/reliability seat with trading-desk support duties rather than a pure development role. Investment Management business unit."
+    },
+    {
+      "location": "London",
+      "title": "Reliability Engineer",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Reliability-Engineer/13072",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced level. 'A bachelor's degree, equivalent or higher in computer science or another highly technical, scientific discipline'. No graduation-year gate.",
+      "requirements": "Bachelor's or higher in CS or another highly technical, scientific discipline | Proficiency in object-oriented scripting languages 'Python, Ruby or JavaScript' | Demonstrated success automating processes algorithmically | 'Some knowledge of UNIX or Linux Systems' | Preferred: distributed systems and low-latency Linux applications, networking fundamentals, trading-environment counterparty engagement",
+      "comp_local": "",
+      "notes": "Marginal fit — listed for completeness. The stated language stack is Python/Ruby/JavaScript with automation and on-call for production and research data pipelines; C++ appears only via the 'low-latency Linux applications' preferred line. Weakest of the six London reqs for this candidate."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Tokyo",
+      "existing_title": "Platform Engineer",
+      "verdict": "no-longer-open",
+      "detail": "The Tokyo office is real (4F 2-24-11 Minami-Aoyama, Minato-ku, listed in the structured office data on https://www.twosigma.com/careers/ and in the site's nine-office list), but a full enumeration of the Avature job board on 2026-08-04 (https://careers.twosigma.com/careers/OpenRoles, all 60 live reqs across OpenRoles / ExperiencedRoles / InternshipsAndEarlyCareers) returned zero Tokyo postings of any kind, and no req titled 'Platform Engineer' exists anywhere. The nearest historical Tokyo req, 'Reliability Engineer, Trading', is shown as closed on TokyoDev. The row's title was also never a Two Sigma title."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "London office confirmed (7 Devonshire Square, Level 5, EC2M 4YH). But no Quantitative Researcher req is open in London as of 2026-08-04 — all six live London reqs are Engineering-function (see roles above). The previously advertised London QR reqs all 404 now: /JobDetail/.../Quantitative-Researcher-Machine-Learning-Execution-London/11978, /Digital-Assets-Quantitative-Researcher-London/11413, /Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635 and /Quantitative-Researcher-Europe-Tactic-Specialist-Two-Sigma-Securities-UK/8935. All open QR reqs are New York-based. The stated comp figure (£140-220k) was not sourced from any posting."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Quantitative Researcher / ML Engineer",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass (US office). For the record, New York QR reqs are live — e.g. https://careers.twosigma.com/careers/JobDetail/New-York-Ny-United-States-Quantitative-Researcher-Experienced-Hire/13765 — but no posting states the $300-420k figure in the row, and 'Quantitative Researcher / ML Engineer' is not an actual Two Sigma title."
+    }
+  ],
+  "notes": "Method: the careers site is an Avature instance. /careers/SearchJobs returns 404; the working listing endpoints are /careers/OpenRoles, /careers/ExperiencedRoles and /careers/InternshipsAndEarlyCareers, paginated via ?jobOffset=N in steps of 10. I walked all three to exhaustion on 2026-08-04 and got 60 distinct live reqs. Every one of them is in New York or London — there are currently ZERO open reqs in Tokyo, Hong Kong, Shanghai or anywhere else in APAC or continental Europe, despite Two Sigma having real offices in Tokyo (Minami-Aoyama), Hong Kong (LHT Tower, Central) and Shanghai (Shanghai Tower). Two Sigma has no Singapore office; the nine offices are New York, Houston, Chicago, Palm Beach Gardens, London, Tokyo, Hong Kong, Shanghai (the site says nine across three continents but lists eight addresses in its structured data). Coverage gaps and caveats: (1) All six in-scope roles are London and all are the C++ / systems track — there is currently no in-scope Research, Trader or ML Performance opening. (2) The only ML Performance-shaped reqs at the firm right now are New York-only and therefore out of scope: 'GPU Performance Engineer' (/13104 path .../New-York-New-York-United-States-GPU-Performance-Engineer/14104) and 'Post-Training Research Scientist' (/14105). If the candidate would consider New York despite the H-1B lottery, those two are the strongest matches to the llama.cpp GPU-kernel background in the entire Two Sigma req list. (3) The New York 'Quantitative Researcher - Full Time, Campus Hire' (/13946) and 'AI Research Scientist, Campus Hire' (/13671) are the student-gated reqs; the London roles are not gated. (4) No posting in the London set states compensation or visa sponsorship policy, so comp_local is empty for all six — I did not extrapolate. (5) Two Sigma London reqs consistently use a '1 year minimum / 5+ preferred' band, which admits the candidate but places them at the low end. APAC hiring appears to run off-board (no public reqs), so Tokyo would need a direct recruiter approach rather than an application."
+}

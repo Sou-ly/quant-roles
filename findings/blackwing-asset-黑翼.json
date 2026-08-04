@@ -1,0 +1,77 @@
+{
+  "firm": "Blackwing Asset (黑翼资产 / BlackWing Asset Management)",
+  "careers_url": "https://www.blackwingasset.com/index.php?m=content&c=index&a=lists&catid=23",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["Singapore", "Tokyo", "London", "EU (any city)"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "股票量化研究员 (Equity Quantitative Researcher)",
+      "track": "Research",
+      "url": "https://www.blackwingasset.com/index.php?m=content&c=index&a=lists&catid=23",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate stated on the firm's own page. Secondary Chinese recruiting write-ups of the 2026 cycle state 硕士及以上学历 (master's or above), PhD preferred, undergraduates effectively screened out. No student-only gate for the experienced (社会招聘) channel.",
+      "requirements": "Master's or above in maths/physics/statistics/CS/EE (per secondary sources) | Factor mining from large financial datasets | ML/DL model building and optimisation | Multi-factor combination, portfolio optimisation, backtesting | Python fluency | The firm's own page states only the role family, not a requirement list",
+      "comp_local": "",
+      "notes": "MANDARIN REQUIRED. Every application surface is Chinese-only: the careers page, the HR mailbox (hr@blackwingasset.com), and both the 校园招聘/社会招聘 entry points, which on the live page are WeChat QR-code images with no href — there is no web application form at all. No English-language posting exists for the Shanghai seat. Shanghai office confirmed by AMAC primary registry: 上海市浦东新区银城中路68号时代金融中心47楼 (Century Financial Tower 47F, Pudong). Mainland seat needs a work permit; the candidate would be competing against a domestic PhD-heavy pool with no English concession visible."
+    },
+    {
+      "location": "Shanghai",
+      "title": "CTA研究员 (CTA Researcher)",
+      "track": "Research",
+      "url": "https://www.blackwingasset.com/index.php?m=content&c=index&a=lists&catid=23",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or experience gate stated on the firm's own page.",
+      "requirements": "Firm's own page lists the role family only, with no stated requirements | Futures/CTA systematic strategy research | Otherwise assumed similar quantitative profile to the equity QR seat — not stated, do not rely on it",
+      "comp_local": "",
+      "notes": "MANDARIN REQUIRED — same Chinese-only application path as the equity QR seat. CTA is one of the firm's three product lines (股票量化 / 混合策略 / CTA), so the role family is real, but there is no dated requisition and no city-level breakdown."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师 (Quantitative Development Engineer)",
+      "track": "C++",
+      "url": "https://www.blackwingasset.com/index.php?m=content&c=index&a=lists&catid=23",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No gate stated on the firm's own page.",
+      "requirements": "No requirements published by the firm | Language stack is NOT stated anywhere primary — C++ is inferred from the role family, not confirmed | Trading/research infrastructure development",
+      "comp_local": "",
+      "notes": "MANDARIN REQUIRED. Track assignment to C++ is an inference: the firm never states the language. If the candidate cares about C++ specifically, this must be confirmed with HR before investing effort. Same Chinese-only WeChat/e-mail application path."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Hong Kong",
+      "existing_title": "Quantitative Researcher (offshore)",
+      "verdict": "could-not-verify",
+      "detail": "The Hong Kong entity is REAL and independently verified: BlackWing Asset Management Co., Limited 黑翼資產管理有限公司, CE number BVN247, Licensed Corporation for Type 1 and Type 9 regulated activities, listed in the SFC public register (https://apps.sfc.hk/publicregWeb/corp/BVN247/details) and in the SFC's March 2025 additions bulletin (https://www.sfc.hk/-/media/EN/files/LIC/pr/addition_20250331.pdf). BUT no Quantitative Researcher opening in Hong Kong could be confirmed: the HK entity's site (https://blackwingasset.com.hk/) is a single 'About Us' WordPress page with no careers section, no jobs, and no HR contact, and the PRC careers page never mentions Hong Kong. Treat the row's role as unconfirmed, not as a live opening."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Source / Verify URL: https://www.blackwingam.com/",
+      "verdict": "no-longer-open",
+      "detail": "WRONG DOMAIN — flag this. https://www.blackwingam.com/ 301-redirects to https://blackbirdcapitalgroup.com/, an unrelated firm. It is not and (as far as could be established) never was Blackwing Asset. The correct domains are https://www.blackwingasset.com (PRC parent) and https://blackwingasset.com.hk (SFC-licensed HK entity)."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Why-this-role claim: 'Stanford-founded'",
+      "verdict": "could-not-verify",
+      "detail": "Unsupported. The firm's own site names co-founders Chen Zehao (陈泽浩) and Zou Yitian (邹倚天) as former Wall Street quantitative investment managers; the HK entity page (https://blackwingasset.com.hk/) repeats this without any Stanford reference. Chinese recruiting material says team MEMBERS hold degrees from Stanford, MIT, Tsinghua, PKU, Fudan and SJTU — that appears to be what got garbled into 'Stanford-founded'. Do not repeat the claim."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Comp claim: HKD 1.0–1.8M (USD 130–230k)",
+      "verdict": "could-not-verify",
+      "detail": "No compensation figure for Blackwing was found in any posting, regulator filing, or levels.fyi entry. The firm publishes no salary anywhere. Treat the existing range as unsourced extrapolation and blank it."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Eligibility claim: 'recent grads accepted; you qualify' / 'English-tolerant niche'",
+      "verdict": "could-not-verify",
+      "detail": "No HK-side eligibility text exists to verify. The 'recent grads accepted' framing appears to come from the PRC campus/internship cycle (2026 summer internship, master's minimum, deadline 30 June 2026 — now closed, student-gated, and under 6 months, so out of scope). The 'English-tolerant' claim is plausible only for the HK entity, which is led by Andrew Tong (ex-Invesco Hong Kong, A-share quant) and Joel Chow (ex-Bowen Capital / JK Capital) per https://blackwingasset.com.hk/ — but it is not stated, and all mainland-facing hiring is Mandarin-only."
+    }
+  ],
+  "notes": "PRIMARY-SOURCE VERIFICATION SUMMARY. (1) Onshore entity confirmed via the AMAC manager registry (gs.amac.org.cn): 上海黑翼资产管理有限公司, registration number P1004419, registered 21 Aug 2014, private securities fund manager (私募证券投资基金管理人), 484 funds, office address 上海市浦东新区银城中路68号时代金融中心47楼 — record at https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000006843.html. (2) Offshore HK entity confirmed independently via the SFC public register: BlackWing Asset Management Co., Limited 黑翼資產管理有限公司, CE BVN247, Type 1 + Type 9, licensed March 2025 (https://apps.sfc.hk/publicregWeb/corp/BVN247/details, corroborated by the SFC March 2025 additions PDF and by InvestHK at https://www.investhk.gov.hk/en/our-clients/blackwing-asset-management-co-limited/). The HK entity is genuine — the existing sheet's scepticism can be retired on entity existence, though not on the role.\n\nCOVERAGE GAP — THE BIG ONE. Blackwing runs no job board. The careers page (catid=23) names five role families in a single sentence ('我们需要CTA研究员、股票量化研究员、量化开发工程师、数据开发工程师、市场营销等专业人才加盟') and then offers two tiles, 校园招聘 and 社会招聘, whose anchors have their href commented out in the HTML and are rendered as WeChat QR-code images. So there are ZERO individual requisitions with dated URLs anywhere. The three roles above are the in-scope role families read off the firm's own page — they are NOT dated reqs, they carry no city attribution (the firm operates Beijing / Shanghai / Chengdu and only Shanghai is in scope), and the surrounding site is visibly stale (© 2019 footer, untranslated CMS placeholder text '建议增加文字说明' still sitting in the benefits section). Weight them accordingly. Applications realistically go to hr@blackwingasset.com.\n\nOUT OF SCOPE / EXCLUDED. 数据开发工程师 (data development engineer) excluded as data engineering; 市场营销 (marketing) excluded. The 2026 summer internship (量化研究/算法研究员, Beijing/Shanghai/Chengdu, master's minimum, deadline 30 June 2026) is excluded on all three counts — student-gated, under 6 months, and now closed. Aggregators cite an application URL https://www.blackwingasset.com/career/new-wings-recruitment for it; that URL returns 404, another reason to distrust the aggregator layer on this firm.\n\nMANDARIN. Explicitly: no English-language application path exists for any Blackwing seat. The entire PRC site's careers flow is Chinese-only and gated behind WeChat QR codes. The HK entity has no careers surface at all, so the 'English-tolerant PRC quant' thesis in the existing row is untested rather than confirmed. If the candidate wants a shot at the HK seat, the only route found is a cold approach to the two named HK principals; there is nothing to apply to.\n\nBLOCKED PAGES. https://blackwingasset.com.hk/ serves an expired TLS certificate — WebFetch refused it and it was read via curl -k, so browser users will hit an interstitial. webb-site's SFC licensee page (webbsite.0xmd.com) returned HTTP 402. jobleads.com returned 403 on a 'Portfolio Manager & Quantitative Researcher | BJ/SH/HK/SG' listing whose slug hinted at Blackwing; it could not be attributed to the firm and was therefore not used."
+}

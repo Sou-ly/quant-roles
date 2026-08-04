@@ -1,0 +1,17 @@
+{
+  "firm": "TGS Management Company, LLC",
+  "careers_url": "https://www.tgsmc.com/join-our-team/",
+  "offices_in_scope_confirmed": [],
+  "offices_checked_not_found": ["London", "Paris", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "Irvine",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "could-not-verify",
+      "detail": "Irvine, CA is confirmed as TGS's headquarters (https://www.tgsmc.com/join-our-team/ and https://jobs.lever.co/tgsmc/eeb03bfa-4314-440b-ac4c-77ca12215752, which is located in 'Irvine, CA'), but there is no individually posted 'Quantitative Researcher' requisition — the Lever board at https://jobs.lever.co/tgsmc reads 'No job postings currently open. Check back later!' and the only live item is a generic resume-drop. Separately, Irvine is a US location and therefore out of scope for this research pass; the row should be dropped or parked rather than actioned."
+    }
+  ],
+  "notes": "TGS Management is a US-only quantitative investment firm founded in 1989 with offices in Irvine, California (HQ) and Princeton, New Jersey — confirmed via Wikipedia (https://en.wikipedia.org/wiki/TGS_Management) and Orange County Business Journal / The Real Deal coverage of its Irvine campus expansion. I found no evidence of any office in the EU, UK, Singapore, Hong Kong, Shanghai or Tokyo, so there are zero in-scope roles. The firm's own site (tgsmc.com) has no offices/locations page and no contact page (/contact/ returns 404); the 'Join our team' page links to a single Lever posting rather than a real requisition list. The Lever board https://jobs.lever.co/tgsmc returns 403 to the WebFetch tool but loads fine over plain curl, and its rendered text states 'No job postings currently open. Check back later!'. The Lever public API (api.lever.co/v0/postings/tgsmc) returns an empty array, independently confirming zero open reqs as of 2026-08-04. The only live item is a general expression-of-interest posting, 'Join Our Team', Irvine CA, Full-Time, Hybrid, which says TGS hires 'software and research engineers, quantitative and machine learning researchers, data engineers and analysts' and asks candidates to share a resume; hiring is described as 'small, discreet, and highly selective'. Note that most web/search results for 'TGS careers' refer to TGS ASA, the Norwegian energy-data company (tgs.com, careers.tgs.com, tgs.wd1.myworkdayjobs.com) — an entirely unrelated firm with a London office; do not confuse the two. No compensation figure was seen stated on any primary source, so comp is left unrecorded. Bottom line for the candidate: TGS is out of geographic scope entirely and offers no non-US route.",
+  "roles_added": 0
+}

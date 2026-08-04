@@ -1,0 +1,113 @@
+{
+  "firm": "WEBB Traders",
+  "careers_url": "https://www.webbtraders.com/careers/",
+  "offices_in_scope_confirmed": ["Amsterdam", "Paris", "London"],
+  "offices_checked_not_found": ["Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "Experienced Software Engineer - Trading Development",
+      "track": "C++",
+      "url": "https://www.webbtraders.com/careers/experienced-software-engineer-trading-development",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2-5 years of engineering in HPC and/or real-time systems\". No graduation-year or student gate. Posting is open to Amsterdam or Paris; French is required only for the Paris option.",
+      "requirements": "2-5 years engineering in HPC and/or real-time systems | Proficiency in C++ and Python | Strong understanding of systems and network resources | Experience building high-performance real-time systems | Effective communication in English (French required if based in Paris) | Problem-solving mindset focused on simplicity and efficiency",
+      "comp_local": "",
+      "notes": "Best single fit for the candidate's experience level of the whole WEBB list. EU citizenship means no sponsorship needed in Amsterdam. Firm is small (~70 people across Amsterdam, Paris, London). Process is five stages: application, recruiter interview, coding challenge, technical discussion, in-person office visit, offer. Applications via webbtraders.recruitee.com; direct applicants only, no agencies."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Senior Software Engineer - Trading Development",
+      "track": "C++",
+      "url": "https://www.webbtraders.com/careers/senior-software-engineer-trading-development",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years of engineering within the trading world\" — a real gate the candidate does not meet by a mid-2027 start (~18 months experience). Listed as Amsterdam or Paris.",
+      "requirements": "5+ years engineering within the trading world | Expert-level C++ | Low-latency and high-throughput systems | Database and systems architecture | Networking | Fluent English; French highly desired for the Paris office",
+      "comp_local": "",
+      "notes": "Senior sibling of the Experienced req above; same team and same process. Included for completeness — the 5+ years trading-industry requirement is a stretch, apply to the Experienced posting instead."
+    },
+    {
+      "location": "Paris",
+      "title": "Graduate Quantitative (C++) Developer",
+      "track": "C++",
+      "url": "https://www.webbtraders.com/careers/graduate-quantitative-c-developer",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"0 to 2 years of experience in a software engineering role\"; \"Bachelor's or Master's degree in computer science or related\". Not student-gated and no graduation-year clause, but the 0-2y band is a ceiling the candidate would be at or just past by a mid-2027 start.",
+      "requirements": "Bachelor's or Master's in computer science or related | 0 to 2 years software engineering experience | Hands-on experience with modern C++ | Python and PostgreSQL | Strong CS fundamentals, computer architecture and networking | Fluent in French",
+      "comp_local": "",
+      "notes": "HARD BLOCKER: \"Fluent in French\" is a stated requirement. Posting also says \"Direct applications from locally based candidates only (no agencies)\", which reads as a preference for candidates already in France. EU citizenship covers work authorisation. Benefits: 100% company-paid health insurance, Swile meal card, sports facilities."
+    },
+    {
+      "location": "Paris",
+      "title": "Senior Core Software Engineer – Data & Control",
+      "track": "C++",
+      "url": "https://www.webbtraders.com/careers/senior-core-software-engineer-data-control",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years in HPC, large-scale data infrastructure, and/or real-time systems\" — above the candidate's level. Requires fluency in English AND French.",
+      "requirements": "5+ years in HPC, large-scale data infrastructure and/or real-time systems | Strong Python and/or C++ | Deep expertise with relational databases and alternatives | Trading-firm or low-latency environment experience strongly desired | Experience turning researcher needs into production systems | Fluency in English and French",
+      "comp_local": "",
+      "notes": "Closest thing WEBB has to an infra/platform role adjacent to research; works directly with quantitative researchers. Two gates against the candidate: 5+ years and French fluency. Not GPU/ML work, so it is C++/infrastructure rather than ML Performance."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Crypto Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.webbtraders.com/careers/senior-quantitative-trader-amsterdam-2",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 5 years in quantitative trading\" with \"demonstrable ability to build profitable quantitative strategies with a long term Sharpe Ratio of 3+\" — requires an existing track record the candidate does not have.",
+      "requirements": "Minimum 5 years quantitative trading experience | Demonstrated profitable strategies with long-term Sharpe 3+ | Strong background in Mathematics, Statistics, Econometrics, Finance or CS | Python and/or C++ | Creative generation of new trading ideas | Fluent English",
+      "comp_local": "",
+      "notes": "Underlying req slug still says 'senior-quantitative-trader-amsterdam-2' but the live title is Crypto Quantitative Trader. Track-record gate makes this a non-starter for a candidate without prior trading P&L. English-only, no French needed."
+    },
+    {
+      "location": "Paris",
+      "title": "Senior Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.webbtraders.com/careers/senior-quantitative-trader-2-4",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum 5 years in quantitative trading\" with \"demonstrable ability to build profitable quantitative strategies with a long term Sharpe Ratio of 3+\". Senior gate the candidate does not meet.",
+      "requirements": "Minimum 5 years quantitative trading experience | Demonstrable profitable strategies, long-term Sharpe 3+ | Strong mathematical background (Maths, Stats, Econometrics, Finance, CS) | Python and/or C++ | Leadership, analytical thinking, stress resilience | Effective English, written and spoken",
+      "comp_local": "",
+      "notes": "Posting states flexibility to sit in the Amsterdam office instead of Paris. Unusually for the Paris reqs, this one does NOT state a French requirement — English only. Five-stage process ending with the Head of Trading."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Senior Quant Risk Analyst",
+      "track": "Research",
+      "url": "https://www.webbtraders.com/careers/senior-quant-risk-analyst",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Senior-level risk professional background required; Master's degree in a quantitative field. \"Direct applications only; no agencies.\" No student or graduation-year gate, but experience-gated well above the candidate.",
+      "requirements": "Extensive experience with equities, derivatives, algorithmic trading, HFT and market making | Proven expertise in algorithmic trading risk management | Track record developing and implementing risk processes and policies | Understanding of clearing models | Strong Python and SQL | Master's degree in a quantitative field | Fluent English",
+      "comp_local": "",
+      "notes": "Borderline for the Research track: this is a second-line risk-management function reporting to the Management Board, not alpha research, and it is Python/SQL rather than C++ or ML. Listed so the row is not silently dropped, but it is a poor match for this candidate's profile and seniority."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "No req titled 'Quantitative Developer' exists in Amsterdam. The live Amsterdam C++ reqs are 'Experienced Software Engineer - Trading Development' (2-5 yrs) and 'Senior Software Engineer - Trading Development' (5+ yrs), per https://www.webbtraders.com/careers/ and https://webbtraders.recruitee.com/. The only 'Quantitative (C++) Developer' title on the board is the Graduate role, which is Paris-based and requires fluency in French — https://www.webbtraders.com/careers/graduate-quantitative-c-developer"
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer — eligibility gate claim",
+      "verdict": "no-longer-open",
+      "detail": "The existing row's gate note ('New-grad OR entry-level req — recent grads accepted') does not match any live Amsterdam req: both Amsterdam engineering reqs state minimum experience bands (2-5 yrs and 5+ yrs) and neither is a new-grad posting. The only entry-level req at WEBB is in Paris."
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer — comp figure €65–100k",
+      "verdict": "could-not-verify",
+      "detail": "No compensation figure appears on any WEBB posting; all seven reqs state only 'a competitive reward package including a bonus scheme'. The €65–100k / $75–110k range in the sheet is unsourced and should be blanked or explicitly relabelled as an estimate."
+    }
+  ],
+  "notes": "WEBB Traders is a small Amsterdam-headquartered prop firm / market maker (~70 people, 25+ nationalities, first trade 2009). Careers page at webbtraders.com/careers/ is a direct mirror of their Recruitee board at webbtraders.recruitee.com; both were loaded and agree on exactly seven open reqs, all of which fall in in-scope EU cities. Offices confirmed on the firm's own contact page: Amsterdam (Nieuwezijds Voorburgwal 120/0, 1012SH), Paris (37 Rue de Liège, 75008) and London (named as an operating location but with no address given, and with zero live London reqs). The firm has NO presence in Singapore, Hong Kong, Shanghai or Tokyo — the previous sheet's Amsterdam-only row was right about that much. Zero ML Performance / GPU / kernel roles exist at this firm; it is not an ML shop. No compensation figures are published anywhere on the site, so every comp_local is intentionally empty. Practical read for this candidate: only ONE of the seven reqs is a genuine fit — the Experienced Software Engineer - Trading Development in Amsterdam. Everything else is either 5+ years senior-gated, requires fluent French (Paris IT reqs), or demands an existing trading P&L track record. Note that several Paris reqs also allow an Amsterdam base and vice versa, so the French-language requirement may be negotiable if the candidate targets the Amsterdam seat — worth asking the recruiter."
+}

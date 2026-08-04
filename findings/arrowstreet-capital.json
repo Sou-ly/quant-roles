@@ -1,0 +1,16 @@
+{
+  "firm": "Arrowstreet Capital",
+  "careers_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
+  "offices_in_scope_confirmed": [],
+  "offices_checked_not_found": ["London", "Dublin", "Paris", "Amsterdam", "Frankfurt", "Zurich", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "Boston",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "A 'Quantitative Researcher' req (R1066) is live on Arrowstreet's own Workday board at https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/job/Boston/Quantitative-Researcher_R1066-3 as of 2026-08-04, plus a 'Senior Quantitative Researcher' (R1481). The row is factually correct but Boston is OUT OF SCOPE for this pass (US location), and two of its sub-fields are wrong: the posting states 'The base salary range for this position is $155,000 - $260,000 per year' (the sheet's $220-300k total-comp estimate is unsourced), and it recommends '1-3 years of relevant experience' rather than being a new-grad req. The sheet's Source/Verify URL https://www.arrowstreetcapital.com/careers/ now returns HTTP 404; the live pages are /professional-careers/ and /student-careers/."
+    }
+  ],
+  "notes": "Arrowstreet Capital has NO in-scope office. Their own contact page (https://www.arrowstreetcapital.com/contact/) lists a single location: 200 Clarendon Street, 30th Floor, Boston MA 02116. The UK entity 'Arrowstreet Capital Europe Limited' (Companies House no. 07233286, registered office Nova North, Bressenden Place, London SW1E 5BY) was DISSOLVED on 29 July 2025 - see https://find-and-update.company-information.service.gov.uk/company/07233286 - so an earlier London presence is gone. No Singapore, Hong Kong, Shanghai or Tokyo office found on any primary source. I enumerated the full careers board via the Workday JSON endpoint (https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Arrowstreet/jobs): 21 total open reqs, and Workday's own location facet returns exactly one value, 'Boston', with count 21. Therefore zero roles in scope. Note also that arrowstreetcapital.com/careers/ 404s; the real entry points are /professional-careers/ and /student-careers/, both of which just link out to the Workday board. Coverage gap: none material - the board is small and fully enumerable, but if Arrowstreet opens a non-US seat it would appear on that same Workday board, which is worth re-checking before the mid-2027 start."
+}

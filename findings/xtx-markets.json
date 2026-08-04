@@ -1,0 +1,59 @@
+{
+  "firm": "XTX Markets",
+  "careers_url": "https://www.xtxmarkets.com/careers/",
+  "offices_in_scope_confirmed": ["London", "Paris", "Bristol", "Singapore", "Kajaani"],
+  "offices_checked_not_found": ["Tokyo", "Hong Kong", "Shanghai", "Amsterdam", "Dublin", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Machine Learning Performance Engineer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7741365003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. Posting asks for 'an experienced engineer' / 'an experienced software engineer, likely in C/C++/Rust or a similar language'. No numeric years-of-experience minimum stated.",
+      "requirements": "Experienced software engineer in C/C++/Rust or similar | Confident solving complex algorithmic problems | Understanding of and some experience targeting GPUs, TPUs or similar hardware | Some experience with data-flow oriented compilers for AI or scientific computing | Writing Linux kernel modules or other OS development experience | Proficiency in memory hierarchies, parallelism, microarchitectural instruction-dispatch nuances, irregular-bitwidth numerics",
+      "comp_local": "",
+      "notes": "Best-matched live role at the firm for this candidate. Team is the 'ML Performance and AI Acceleration' function - small, highly technical; work spans a bespoke optimising compiler for accelerators and mapping JAX graphs to novel hardware, explicitly 'not just writing CUDA code'. Directly lines up with merged llama.cpp GPU kernels + ISCA workshop paper. Kings Cross office; benefits listed (gym, meals, 25 days holiday, pension) but no salary figure. UK role - HPI visa is self-sponsored so costs XTX nothing, though the posting says nothing about visa support either way."
+    },
+    {
+      "location": "Singapore",
+      "title": "Trading Desk",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7798502003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Hard experience gate: 'At least 5 years' experience on a highly automated trading desk, in electronic market making, trading operations, risk, market structure or another high-accountability operational environment.' Candidate will have ~18 months at a mid-2027 start, so this gate is not met.",
+      "requirements": "5+ years on a highly automated trading desk / trading ops / risk / market structure | Strong academic background in Maths, Stats, CS, Physics or Engineering | Functional proficiency with Python, Pandas and SQL | Decision-making from incomplete or noisy data under time pressure | Real-time supervision of automated strategies, incident ownership and escalation | APAC shift coverage including occasional weekends",
+      "comp_local": "",
+      "notes": "Titled 'Trading Desk' but the body is a Trading Desk Analyst role - real-time supervision and incident response for the automated trading engine. Posting states explicitly: 'The role requires deep systems thinking rather than software engineering' and 'This is an infrastructure mastery role, not an incubator for algorithmic strategy design.' Not a strategy/PnL trader seat. No Mandarin requirement. Singapore needs sponsorship. Personal-account policy: no day-trading, 30-day minimum hold on all positions."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Paris",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "The Paris office is real (128 rue du Faubourg St. Honore, 75008, per https://www.xtxmarkets.com/contact/), but XTX's job board has zero Paris postings and zero Quantitative Researcher postings anywhere as of 2026-08-04 (6 live reqs total, https://job-boards.greenhouse.io/xtxmarketstechnologies). A 'Quantitative Researcher - Deep Learning' req (id 7770152003) existed recently but now 404s on the Greenhouse API. The original row's source link was the generic careers page, not a req, so it was never evidence of a Paris QR opening."
+    },
+    {
+      "location": "London",
+      "existing_title": "Research Engineer (ML/HPC)",
+      "verdict": "title-changed",
+      "detail": "No req called 'Research Engineer (ML/HPC)' exists. The live London role covering that work is 'Machine Learning Performance Engineer', https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7741365003. Substance of the row holds; the title did not."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Core Developer (C++)",
+      "verdict": "no-longer-open",
+      "detail": "Singapore office confirmed (50 Collyer Quay, OUE Bayfront), but the only two live Singapore reqs are 'Trading Desk' (7798502003) and 'Datacentre Operations Engineer' (7645996003). No C++ core developer req is posted. The row's 'New-grad OR entry-level' eligibility claim is also unsupported - both live Singapore reqs demand 5+ years."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Research Engineer (ML/HPC)",
+      "verdict": "no-longer-open",
+      "detail": "Out of scope for this pass (US). For the record: the NY office exists (50 Hudson Yards) but the only live NY reqs are 'Datacenter Operations' (7740507003) and 'AI Research Internship - XTY Labs' (6274458003); no research-engineer req is open there."
+    }
+  ],
+  "notes": "XTX runs a single Greenhouse board (job-boards.greenhouse.io/xtxmarketstechnologies) which the xtxmarkets.com/careers page embeds; the Greenhouse board API returned exactly 6 live reqs on 2026-08-04, firm-wide, all locations. Of those, only 2 are in scope by location AND track. Out-of-scope-by-track live reqs, for completeness: 'Datacentre Operations Engineer' (Singapore, hands-on racking/cabling/networking, requires 5+ years and fluent Mandarin & English), 'Philanthropy Team - Internship' (London), plus two New York reqs. Confirmed offices from https://www.xtxmarkets.com/contact/: London, Singapore, New York, Paris, Bristol, Mumbai, Yerevan (Armenia), Kajaani (Finland) - the firm has NO Tokyo, Hong Kong, Shanghai, Amsterdam, Dublin, Zurich or Frankfurt presence, so any row placing XTX in those cities is wrong. Coverage gaps: (1) XTX historically runs off-cycle / evergreen Quantitative Researcher and Core Developer hiring that is not always reflected on the public board, and it also runs an AI Resident Program feeding the London core quant team - I found only secondary references to these and no live primary req, so nothing is listed as a role; (2) no compensation figure is stated on any XTX posting, so all comp_local fields are empty - the USD figures in the existing spreadsheet rows are unsourced and should not be treated as verified. Alternate Greenhouse board slugs (xtxmarkets, xtxventures, xtylabs, xtxmarketscampus) all 404, so there is no second hidden board."
+}

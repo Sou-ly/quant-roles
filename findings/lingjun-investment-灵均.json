@@ -1,0 +1,137 @@
+{
+  "firm": "Lingjun Investment (灵均)",
+  "careers_url": "https://www.lingjuninvest.com/jiaruwomen",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["Singapore", "Tokyo", "London", "Dublin", "Amsterdam", "Paris", "Frankfurt"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "量化研究员-股票（头部量化私募） / Quantitative Researcher – Equities",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1981430671.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "硕士 (Master's) minimum; 至少3年国内外量化股票策略研究经验 — at least 3 years of domestic or overseas quantitative equity strategy research experience. Listing is marked as accepting students/新人 but the stated bar is 3 years.",
+      "requirements": "MSc+ in maths, physics, statistics or CS | 3+ yrs quant equity strategy research (live track record preferred) | Strong probability/statistics foundation | Python, C or C++ | Research on alpha/equity strategies with fund managers",
+      "comp_local": "¥50,000–70,000 / month (as listed on Liepin, 2026-08-04)",
+      "notes": "Shanghai Pudong. Posting is entirely in Mandarin and the Shanghai/Beijing entity is a Mandarin-first workplace — assume Mandarin fluency is a hard requirement. Mainland China seat requires a work permit (Z visa / foreigner work permit), routine at this level but adds lead time. The parallel Beijing listing (¥40–60k) is https://www.liepin.com/job/1981430669.shtml but Beijing is out of scope for this pass."
+    },
+    {
+      "location": "Shanghai",
+      "title": "资深量化研究员 / Senior Quantitative Researcher",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1982927177.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "硕士及以上 (Master's or above); 3+ years of quantitative strategy experience in equities, futures or options. Explicitly a senior req — not a new-grad track.",
+      "requirements": "MSc/PhD in maths, physics, statistics or CS | 3+ yrs quant strategy research (equity / futures / options) | Develop new quant strategies to broaden team strategy diversity | Data mining and financial data analysis | Python, C or C++",
+      "comp_local": "¥45,000–65,000 / month × 20 months (as listed on Liepin)",
+      "notes": "Shanghai Pudong. Posted 2026-05-27, refreshed 2026-07-30. 20-month pay structure implies roughly ¥900k–1.3M annual. Mandarin-only posting; Mandarin-first team."
+    },
+    {
+      "location": "Shanghai",
+      "title": "资深量化研究员-CTA方向 / Senior Quantitative Researcher – CTA",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1975542437.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "统招本科 (accredited Bachelor's) minimum; 3+ years of domestic or overseas quantitative CTA strategy research experience, with minute-level prediction work.",
+      "requirements": "Degree in maths, physics, statistics or CS | 3+ yrs CTA strategy research, minute-level horizon | Commodity futures or index futures | Strong mathematical analysis and logical reasoning | Python, C or C++",
+      "comp_local": "30–60k / month (Liepin listing; currency shown per Liepin convention as CNY)",
+      "notes": "Shanghai Pudong. This req is posted in four parallel locations — Beijing, Shanghai, Hong Kong and Singapore — with identical text, suggesting one hiring pipeline with flexible seat placement. Refreshed 2026-07-31. Mandarin-only posting."
+    },
+    {
+      "location": "Shanghai",
+      "title": "QR方向-A股量化算法交易/T0交易研究员（头部）/ QR – A-share Algo & T0 Trading Researcher",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1981430019.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "硕士 (Master's); 1–3 years experience — the most junior-friendly in-scope req found, and the closest fit to the candidate's seniority.",
+      "requirements": "MSc in maths, statistics, CS or financial engineering | 1–3 yrs; equity algo-trading or T0 research experience | A-share market microstructure, order flow, execution cost | Intraday trading signals / factors | C++ for research and backtesting (preferred)",
+      "comp_local": "¥28,000–40,000 / month × 18 months (as listed on Liepin)",
+      "notes": "Shanghai Pudong. Refreshed 2026-08-04 (today). ~¥500k–720k annual. Sister req to the QD version below. Mandarin-only posting; A-share microstructure focus makes this a strongly China-domestic role."
+    },
+    {
+      "location": "Shanghai",
+      "title": "QD方向-A股量化算法交易/T0交易研究员（头部）/ QD – A-share Algo & T0 Trading Developer",
+      "track": "C++",
+      "url": "https://www.liepin.com/job/1981429863.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "硕士 (Master's); 1–3 years experience.",
+      "requirements": "MSc in maths, statistics, CS or financial engineering | 1–3 yrs equity algo-trading / T0 research or dev | High-performance C++ for research and backtesting | A-share market microstructure and execution efficiency | Prior work in a mature equity algo or HFT team preferred",
+      "comp_local": "¥28,000–40,000 / month × 18 months (as listed on Liepin)",
+      "notes": "Shanghai Pudong. Refreshed 2026-08-04 (today). The best C++-track match in scope for this candidate's seniority. Mandarin-only posting."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Developer (量化开发师)",
+      "track": "C++",
+      "url": "https://cn.linkedin.com/jobs/view/quantitative-developer-at-lingjun-investment-llp-4439142996",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Mid-to-senior (中高级), full-time. No graduation-year gate stated. Posted ~mid-July 2026 on the firm's official LinkedIn company page and still accepting applications.",
+      "requirements": "Python and C++; strong code architecture design | Linux development and deployment, Git | Maintain live trading systems, monitor strategy performance | Build automated pre-launch test frameworks | Understanding of equity trading workflow and backtest analysis | Plus: CTP interfaces, algo execution, backtest frameworks",
+      "comp_local": "",
+      "notes": "Posted from the firm's own LinkedIn company page (linkedin.com/company/lingjuninvest) — treated as secondary per the brief's rule, but it is the employer's own account. Recruiter named as Ellen Fan. Job description body is in Mandarin; assume Mandarin working language."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "资深量化研究员-CTA方向 / Senior Quantitative Researcher – CTA",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1975542439.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "统招本科 (accredited Bachelor's) minimum; 3+ years of quantitative CTA strategy research experience.",
+      "requirements": "Degree in maths, physics, statistics or CS | 3+ yrs CTA strategy research, minute-level prediction | Commodity futures or index futures | Solid mathematical analysis and logical reasoning | Python, C or C++",
+      "comp_local": "30–60k / month (Liepin listing; currency not disambiguated on the page)",
+      "notes": "Listed as 香港-中西區 (Central & Western District), refreshed 2026-07-31. The HK entity is LINGJUN CAPITAL (HONG KONG) LIMITED 靈均資本香港有限公司, incorporated 2020-10-14 (CR no. 2984574), present on the SFC public register as BQH901 — I loaded https://apps.sfc.hk/publicregWeb/corp/BQH901/licences but the licence-detail panel is JS-rendered and did not return, so I could NOT confirm which RA licence types it holds or whether the office is staffed for research. The req is posted through the mainland recruiter in Mandarin; the equivalent English LinkedIn posting for the HK PM/QR role stated 'Fluency in both Mandarin and English' — assume Mandarin is required here too. HK requires visa sponsorship for this candidate, routine at this level."
+    },
+    {
+      "location": "Singapore",
+      "title": "资深量化研究员-CTA方向 / Senior Quantitative Researcher – CTA",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1975542441.shtml",
+      "verification": "office-unconfirmed",
+      "live_as_of": "2026-08-04",
+      "eligibility": "统招本科 (accredited Bachelor's) minimum; 3+ years of quantitative CTA strategy research experience.",
+      "requirements": "Degree in maths, physics, statistics or CS | 3+ yrs CTA strategy research, minute-level prediction | Commodity futures or index futures | Solid mathematical analysis and logical reasoning | Python, C or C++",
+      "comp_local": "30–60k / month (Liepin listing; currency not disambiguated on the page)",
+      "notes": "Location listed as 新加坡. I could not confirm Lingjun has an actual Singapore office or a MAS-licensed/registered Singapore entity — the firm's own site names no offices at all, and press consistently describes it as Beijing + Shanghai only. Treat this as a hiring intention rather than a confirmed seat. Refreshed 2026-07-31. Posting is in Mandarin; the English-language sister req explicitly demanded 'Fluency in both Mandarin and English'. Singapore would need EP sponsorship."
+    },
+    {
+      "location": "Shanghai",
+      "title": "基金经理 - BJ/SH/HJ/SG (Portfolio Manager / Quantitative Researcher – BJ/SH/HK/SG)",
+      "track": "Research",
+      "url": "https://www.liepin.com/job/1982945851.shtml",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "统招本科 minimum, 3+ years. In practice a PM-level seat: the English LinkedIn version is tagged seniority 'Director' and asks for candidates 'preferably as Portfolio Managers or Quantitative Researchers with mature and proven strategies'. This is a poor fit for the candidate's ~18 months of experience — flagged as an experience gate.",
+      "requirements": "Extensive quantitative investment experience across strategy families and models | Research, optimise and execute quant strategies; own P&L | Work with researchers, traders and risk | Strong maths / data analysis / logical reasoning | Python, C++, Rust (per the English version) | Fluency in both Mandarin and English (per the English version)",
+      "comp_local": "¥60,000–90,000 / month × 20 months (as listed on Liepin)",
+      "notes": "Multi-city req (Beijing / Shanghai / Hong Kong / Singapore — 'HJ' in the Chinese title is a typo for HK). Posted ~2026-05-28, refreshed end of July. The English-language LinkedIn version for the Hong Kong seat (job 4371397070) is now CLOSED ('no longer accepting applications', posted ~March 2026), so the Chinese Liepin postings are the live channel. Listed here for completeness; the seniority bar makes it unrealistic for this candidate now."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Beijing",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "Beijing (Haidian) is Lingjun's headquarters and 量化研究员-股票 is live there at ¥40–60k/month (https://www.liepin.com/job/1981430669.shtml), alongside 资深量化研究员 at ¥45–65k×20薪 (https://www.liepin.com/job/1982927175.shtml) — so the office and the track are real. Two corrections: (1) Beijing is OUT OF SCOPE for this pass — the brief admits Shanghai as the only mainland city, and Lingjun has live Shanghai-Pudong equivalents of every Beijing quant req, so this row should be relocated to Shanghai; (2) the 'recent grads accepted; you qualify' verdict is wrong — every current Beijing and Shanghai QR listing states 至少3年 (3+ years) of quant research experience and a Master's minimum. The only 1–3 year in-scope reqs are the A-share algo/T0 QR and QD roles in Shanghai."
+    },
+    {
+      "location": "Beijing",
+      "existing_title": "(comp figure) ¥600k–1.2M",
+      "verdict": "could-not-verify",
+      "detail": "No employer-stated total-comp figure exists on any primary Lingjun page. The range is roughly consistent with the Liepin monthly bases I did see (¥40–60k/mo Beijing QR ≈ ¥480–720k base; ¥45–65k×20薪 senior QR ≈ ¥900k–1.3M), but those are base-only Liepin listings, not total comp, and Liepin is an aggregator. Recommend replacing the single range with the per-role monthly figures now captured in the roles array."
+    },
+    {
+      "location": "Beijing",
+      "existing_title": "(source) https://gs.amac.org.cn",
+      "verdict": "could-not-verify",
+      "detail": "gs.amac.org.cn is a JS-driven search app with no stable deep link, and the two manager record IDs surfaced by search resolved to unrelated firms (上海喜岳投资管理有限公司 and 宁波君润创业投资管理有限公司), so I could not load Lingjun's AMAC record directly. Entity existence is not in doubt — the firm's own site names the registrant as 宁波灵均投资管理合伙企业（有限合伙）, and secondary sources give AMAC registration number P1004526 (reported, unverified). The bare domain is not a usable verification link; the Liepin/LinkedIn req URLs in this file are better."
+    }
+  ],
+  "notes": "Coverage and blockers. (1) The firm's own careers page (https://www.lingjuninvest.com/jiaruwomen) lists NO jobs — it only gives talent@lingjuninvest.com and links to a Moka-hosted ATS at https://hr.lingjuninvest.com/social-recruitment/lingjuninvest/46355. That portal returns an infinite 302 redirect loop to itself for any non-browser client, and when forced through with a cookie jar it serves only a JS shell with no job data in the HTML. I could not enumerate the firm's own req list, so NO role in this file could be raised to verified-primary. Everything is marked reported-secondary except Singapore, which is office-unconfirmed. (2) The best available substitute is the firm's verified employer account on Liepin (https://www.liepin.com/company-jobs/8587219/), which carried ~30 live reqs refreshed on 2026-08-04, plus the firm's own LinkedIn company page. Both are aggregators/social by the brief's definition. (3) The firm's own website names no office cities anywhere — only the registered entity 宁波灵均投资管理合伙企业（有限合伙）. Shanghai-Pudong is confirmed by the volume of Shanghai-Pudong reqs on the employer account and by consistent press (eFinancialCareers, Wikipedia: 'offices in Beijing and Shanghai'). Hong Kong is confirmed at entity level only, via the SFC public register (LINGJUN CAPITAL (HONG KONG) LIMITED, code BQH901, CR 2984574, incorporated 2020) — I could not confirm a staffed HK research office, and one secondary source claims the HK entity holds no asset-management licence, which I could not check because the SFC licence panel is JS-rendered. Singapore appears only as a location label on job reqs; no Singapore entity, MAS registration or office was found. No EU, UK or Tokyo presence exists — searches for London, Dublin, Amsterdam, Frankfurt, Paris and Tokyo returned nothing, and all sources describe Lingjun as Beijing + Shanghai. (4) MANDARIN: every in-scope posting, including the Hong Kong and Singapore ones, is written entirely in Mandarin and routed through the mainland recruiting team. The one English-language posting found (the PM/QR multi-city req on LinkedIn) states verbatim 'Fluency in both Mandarin and English'. There is no evidence of an English-tolerant seat anywhere at this firm — treat Mandarin fluency as a hard gate across all locations. (5) SENIORITY: the standard bar across Lingjun's QR reqs is Master's + 3 years. The only in-scope reqs matching ~18 months of experience are the two Shanghai A-share algo/T0 roles (QR and QD, 1–3 years, ¥28–40k×18薪), with the Shanghai Quantitative Developer role a plausible third. (6) Direct application by email to talent@lingjuninvest.com is the practical route given the broken ATS."
+}

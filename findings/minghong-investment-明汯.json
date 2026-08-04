@@ -1,0 +1,209 @@
+{
+  "firm": "Minghong Investment (明汯投资)",
+  "careers_url": "https://join.mhfunds.com/index/position",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong", "Singapore"],
+  "offices_checked_not_found": ["London", "Tokyo", "Amsterdam", "Paris", "Dublin"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "AI系统核心开发工程师 - 高性能算子方向 (AI Systems Core Development Engineer - High-Performance Operators)",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7519702814940629275/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire (社招). No graduation-year gate and no explicit years-of-experience minimum stated.",
+      "requirements": "CUDA/PTX development experience | Strong C/C++ and high-performance coding practice, top-tier algorithms and data structures | Deep grasp of computer systems, chip architecture/microarchitecture | Self-driven, tracks computer-architecture research | Cross-team collaboration, precise technical communication | Plus: ACM/ICPC awards, hardware-software co-design, DL compilers or distributed communication libraries",
+      "comp_local": "",
+      "notes": "Closest match in the whole firm to the candidate's llama.cpp GPU-kernel work. Posting is Chinese-only with no English version — Mandarin working proficiency should be assumed. Shanghai onshore entity 上海明汯投资管理有限公司; PRC work permit needed."
+    },
+    {
+      "location": "Shanghai",
+      "title": "推理加速工程师 (Inference Acceleration Engineer)",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7519703281498442035/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire (社招). No graduation-year gate; no stated minimum years.",
+      "requirements": "End-to-end performance analysis and bottleneck identification top-down (business flow, software, system and hardware resources) | Expert C/C++ (C++11+), STL cost model, single/multi-thread and multi-process performance | Expert NVIDIA heterogeneous development: CUDA Runtime API, CUDA 12+, Ampere+ GPUs, A10/L20 inference cards, CUDA kernel programming, TensorRT | Strong debugging with gdb, nsys and CPU/GPU profilers | Python, Shell, Git, Docker | Plus: NOI/ACM/ICPC awards or high Codeforces/AtCoder rating; MLSys depth (PyTorch/TF, TVM/MLIR/XLA, cuTLASS/cuTe, NCCL, quantization/pruning); LLM inference acceleration",
+      "comp_local": "",
+      "notes": "Chinese-only posting; Mandarin required in practice. Requirements read almost as a checklist of the candidate's kernel/profiling background."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI系统核心开发工程师 - 训练框架方向 (AI Systems Core Development Engineer - Training Framework)",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7519703855061305651/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire (社招). No graduation-year gate; no stated minimum years.",
+      "requirements": "Solid C++/Python, common data structures and design patterns | Computer systems fundamentals and hardware mechanisms | Deep learning fundamentals and frameworks (PyTorch/TensorFlow/JAX); PyTorch internals work preferred | Framework optimization and problem-localisation toolchains | HPC / model optimization experience (CUDA/Triton/OpenMP) | Plus: ACM/NOI/Kaggle awards",
+      "comp_local": "",
+      "notes": "Work includes PyTorch 2.0 / TorchDynamo / TorchInductor / Triton operator development. Chinese-only posting; Mandarin required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Research Engineer",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7278518576084273420/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Posting states Master's or PhD required (CS, maths, statistics, financial engineering or related).",
+      "requirements": "MSc or PhD in CS, maths, statistics or related | Proficient in C++, CUDA and Python with solid hands-on ability | Strong in TensorFlow or PyTorch, familiar with distributed training architecture and tuning | Familiar with high-performance RDMA communication | Work spans training-framework performance, CPU/GPU inference latency, operator scheduling, GPU utilisation and backtest-to-live ML tooling",
+      "comp_local": "",
+      "notes": "Posted for Shanghai and Hong Kong. Bilingual posting (Chinese + English), so this is one of the more English-tolerant reqs, but the Shanghai seat should still be assumed Mandarin-first. Strong fit for the candidate's MSc + GPU/kernel profile."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Research Engineer",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7278518576084273420/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Master's or PhD required per the posting.",
+      "requirements": "MSc or PhD in CS, maths, statistics or related | C++, CUDA, Python | TensorFlow or PyTorch, distributed training tuning | RDMA / high-performance communication | Training framework and inference-latency optimization",
+      "comp_local": "",
+      "notes": "Same requisition, Hong Kong option. HK offshore arm was set up in 2019 and is reported to operate under the name Jupiter Research (reported-secondary; the ATS tenant of record on join.mhfunds.com is 上海玖思科技有限公司 / Shanghai Jiusi Technology). Bilingual posting — likely the most English-tolerant of Minghong's engineering seats. HK employment visa sponsorship needed."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI 算法研究员 Quantitative Researcher - Machine Learning (Experienced Hire)",
+      "track": "Research",
+      "url": "https://join.mhfunds.com/index/position/7281148138903423286/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. MSc/PhD in a STEM field from a top university; 'exceptional undergraduates also encouraged to apply'. No graduation-year gate.",
+      "requirements": "MSc/PhD in CS, maths, statistics, physics or other STEM from a top-tier university | Solid statistical ML theory and deep understanding of deep learning | Modelling experience in one subdomain (time series, NLP, vision, data mining) | Excellent programming; fluent in PyTorch or TensorFlow, able to build and tune frontier models | Preferred: competition awards, strong Kaggle results | Preferred: publications at NeurIPS, KDD, CVPR, ICML, ACL, AAAI, COLT, AISTATS, WWW, SIGIR, IJCAI",
+      "comp_local": "",
+      "notes": "Posted for Shanghai, Hong Kong and New York (New York out of scope). Publication preference explicitly names AAAI and ICML-tier venues — directly matches the candidate's ICLR/AAAI submissions. Bilingual posting."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "AI 算法研究员 Quantitative Researcher - Machine Learning (Experienced Hire)",
+      "track": "Research",
+      "url": "https://join.mhfunds.com/index/position/7281148138903423286/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. MSc/PhD STEM; exceptional undergraduates also considered.",
+      "requirements": "MSc/PhD STEM from top university | Statistical ML and deep learning depth | Subdomain modelling experience (time series, NLP, vision, data mining) | PyTorch/TensorFlow fluency | Preferred: top-conference publications (NeurIPS, KDD, ICML, AAAI, IJCAI etc.)",
+      "comp_local": "",
+      "notes": "Same requisition, Hong Kong option. Bilingual posting; HK seat is the realistic English-tolerant entry point into Minghong's research org. Visa sponsorship required."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师 Quantitative Developer",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7283438577445964095/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Posting states '2-5 years of work experience' — candidate would be at roughly 18 months by a mid-2027 start, marginally under the stated floor.",
+      "requirements": "Degree in CS, software or electronics from a well-known institution | 2-5 years experience with distributed / heterogeneous computing; low-latency or HPC experience a plus | Strong programming, design patterns, proficient in C++ and Python | Curiosity and enthusiasm for technical challenges | Work: design and maintain the research toolchain, refine research and trading systems",
+      "comp_local": "",
+      "notes": "Bilingual posting. The 2-5 year band is the only hard-ish gate."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化交易系统开发工程师 C++ Developer - Quantitative Trading System",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7279981415181109564/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. No graduation-year gate and no explicit years-of-experience minimum stated.",
+      "requirements": "Degree in CS, software engineering or related | Familiar with C++ and Linux system architecture; Rust, Python or R a plus | Understands computer hardware, strong troubleshooting | Proficient in network protocols; familiar with MySQL and Docker | Resilient under pressure | Able to collaborate across departments and time zones",
+      "comp_local": "",
+      "notes": "Bilingual posting. Covers backtesting system and trading platform design plus middle/back-office services. Closest to a classic low-latency trading-systems C++ seat at the Shanghai office."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师（Data方向） (Quantitative Developer - Data)",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7514179586671397170/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Posting requires '3+ years of relevant experience in quantitative data teams or global data vendors' — candidate is short of this.",
+      "requirements": "BSc or higher in CS or software engineering | 3+ years in a quant-fund data team or at a global data vendor (Bloomberg, Refinitiv) | Proficient in Python/R and C++ | Pandas/NumPy, foundational statistical modelling | MySQL, Redis and database performance tuning | Work: market-data normalisation, unified API frameworks, backtest data pipelines, columnar storage and latency tuning",
+      "comp_local": "",
+      "notes": "Posted for Shanghai and Hong Kong. Bilingual posting. Data-infrastructure flavour rather than low-latency trading; the 3-year vendor/quant-data gate is the main obstacle."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "量化开发工程师（Data方向） (Quantitative Developer - Data)",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7514179586671397170/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire; 3+ years in a quant data team or at a data vendor stated.",
+      "requirements": "BSc+ in CS/software engineering | 3+ years quant-data or data-vendor experience | Python/R and C++ | Pandas/NumPy plus statistics | MySQL, Redis, performance tuning",
+      "comp_local": "",
+      "notes": "Same requisition, Hong Kong option. Bilingual posting; HK seat needs employment-visa sponsorship."
+    },
+    {
+      "location": "Shanghai",
+      "title": "实盘部署开发工程师 (Live Trading Deployment Engineer)",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7517578584156883254/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced hire. Requires a full-time (全日制) bachelor's degree or above in CS/software engineering. No years-of-experience floor stated.",
+      "requirements": "Full-time BSc+ in CS or software engineering | Proficient C++ and Python; Linux, networking and storage I/O internals | Ops tooling: Ansible, Docker, Kubernetes, Git | Extreme attention to edge cases (timezone handling, numeric precision) | Good technical documentation habits | Tolerance for market-hours pressure; pre-open on-site attendance required on trading days",
+      "comp_local": "",
+      "notes": "Chinese-only posting; Mandarin required. Part deployment engineering, part production support — includes optimising C++ in strategy core modules and reproducing backtest-vs-live discrepancies. Requires early-morning on-site presence before the open."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化研究员（2026校招） (Quantitative Researcher, 2026 Campus)",
+      "track": "Research",
+      "url": "https://join.mhfunds.com/index/position/7538744389126211850/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED. This is a 2026校招 campus requisition for the 2026 graduating cohort. The candidate graduated Feb 2026 and is now employed, so this is a poor fit and may be closed to non-cohort applicants.",
+      "requirements": "Top domestic or overseas university, CS, statistics, maths, electronics, physics or other STEM | Solid mathematical foundation and strong research ability | Fluent in one or more of C++/Python/R | Sharp insight, fast reaction, deep thinking | Time management, communication, teamwork and fast learning | Plus: quant strategy research internship; IOI/IMO/IPhO/NOI/CMO/CPhO/ICPC medals; high-quality academic publications",
+      "comp_local": "",
+      "notes": "Posted for Shanghai and Hong Kong. Chinese-only posting; Mandarin required. Flagged only because it is the requisition the existing spreadsheet row most closely maps to — note the campus gate."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI算法研究员（2026校招） (AI Algorithm Researcher, 2026 Campus)",
+      "track": "Research",
+      "url": "https://join.mhfunds.com/index/position/7538744193184893223/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — 2026 campus cohort requisition. Bachelor's or above from a well-known university.",
+      "requirements": "BSc+ from a well-known university in CS, maths, statistics or physics | Solid ML theory, deep understanding of deep learning, experience in one of time series / NLP / vision / data mining | Strong programming; fluent PyTorch or TensorFlow, able to implement and tune frontier models | Scientific mindset and self-learning | Plus: competition awards, strong Kaggle results | Plus: publications at NeurIPS, KDD, CVPR, ICML, ACL, AAAI, COLT, AISTATS, WWW, SIGIR, IJCAI",
+      "comp_local": "",
+      "notes": "Posted for Shanghai, Beijing and Hong Kong (Beijing out of scope). Chinese-only posting; Mandarin required. The experienced-hire equivalent is requisition 7281148138903423286 above — apply to that one instead."
+    },
+    {
+      "location": "Shanghai",
+      "title": "AI基础架构开发工程师（2026校招） (AI Infrastructure Engineer, 2026 Campus)",
+      "track": "ML Performance",
+      "url": "https://join.mhfunds.com/index/position/7538743711266687282/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — 2026 campus cohort requisition. Bachelor's or above.",
+      "requirements": "BSc+ in CS, communications, software engineering or related from a well-known university | One or more of C++/Python/Go with solid engineering ability | TensorFlow/PyTorch, distributed training architecture and tuning | At least one of: RDMA, GPU programming, parallel computing, distributed storage, high-performance networking, DL compilers | Plus: IOI/NOI/ICPC/CCPC/TopCoder awards, low-latency/HPC experience, large open-source contributions",
+      "comp_local": "",
+      "notes": "Posted for Shanghai and Hong Kong. Chinese-only posting. The experienced-hire equivalents are the three AI-systems reqs above (7519702814940629275, 7519703281498442035, 7519703855061305651) plus Research Engineer 7278518576084273420 — those are the ones to target."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师（2026校招） (Quantitative Developer, 2026 Campus)",
+      "track": "C++",
+      "url": "https://join.mhfunds.com/index/position/7538744547825551679/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — 2026 campus cohort requisition.",
+      "requirements": "CS, software engineering, electronic engineering, maths, statistics or related | One or more of C++/Python/Go/R with solid engineering ability | Good communication, curiosity about new technology, self-driven | Plus: IOI/NOI/ICPC/CCPC/TopCoder awards | Plus: distributed/heterogeneous computing, low-latency or HPC experience | Plus: RDMA, large open-source project contributions",
+      "comp_local": "",
+      "notes": "Shanghai only. Chinese-only posting. Keywords listed: AI inference/optimisation, offline data platform, trading systems, K8s. Experienced-hire equivalent is 7283438577445964095."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Shanghai",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "Minghong's Shanghai HQ and its research hiring are both real and current: an experienced-hire researcher req is live at https://join.mhfunds.com/index/position/7281148138903423286/detail (posted title 'AI 算法研究员 Quantitative Researcher - Machine Learning (Experienced Hire)', Shanghai / Hong Kong / New York) and a campus req at https://join.mhfunds.com/index/position/7538744389126211850/detail. Two corrections to the row, however: (1) the eligibility note 'recent grads accepted; you qualify' conflates the two — the plain '量化研究员' title only exists as a 2026校招 student-gated campus requisition, while the experienced-hire researcher req is ML-specific and asks for MSc/PhD plus modelling experience; (2) the comp figure '¥600k-1.2M' is not stated on any Minghong posting or on the AMAC registry and I found no credible source for it, so it should be treated as unsourced. The 'Source / Verify' link (gs.amac.org.cn) evidences entity registration only, not any role — the firm's own board at https://join.mhfunds.com/index/position is the correct verification source."
+    }
+  ],
+  "notes": "Careers portal is https://join.mhfunds.com (Feishu/Lark ATS, tenant of record 上海玖思科技有限公司) with an English marketing front at https://talent.mhfunds.com. The board is a JavaScript SPA backed by a GraphQL endpoint and returns an empty shell to plain HTTP fetches; I enumerated it by rendering each page through a JS-executing text proxy, paginating with the ?current=N query parameter. 24 live requisitions total across 3 pages, all read individually for the ones listed above.\n\nOffices: talent.mhfunds.com states Shanghai, Beijing, Hong Kong, Singapore and New York. Beijing and New York are out of scope. Singapore is listed as an office on the firm's own site but has ZERO live postings on the board, so no Singapore roles are claimed here. No European, UK or Tokyo presence — the firm has none.\n\nOnshore vs offshore: the onshore manager is 上海明汯投资管理有限公司, registered as a private fund manager with AMAC (gs.amac.org.cn) — that registry confirms entity existence only and carries no job data. The Hong Kong arm was opened in 2019 and is reported in press to operate under the name Jupiter Research with founder Qiu Huiming as a key person; I could not verify its SFC licence number directly, so treat the HK entity's legal name as reported-secondary. Notably the HK-tagged reqs are posted on the same mainland ATS tenant.\n\nMandarin: this is a Mandarin-first shop. Of the roles listed, the bilingual (Chinese + English) postings are Research Engineer, AI 算法研究员 Quantitative Researcher - ML (Experienced), 量化开发工程师 Quantitative Developer, C++ Developer - Quantitative Trading System and 量化开发工程师（Data方向）; everything else is Chinese-only, which in practice signals a Mandarin working requirement. The Hong Kong seats on the bilingual reqs are the most English-tolerant option, but even those job descriptions are written Chinese-first. Only one posting on the entire board is English-only (Trading Support Engineer, Hong Kong).\n\nExcluded as out of scope: five internship requisitions (2026实习, Shanghai/Beijing/HK — student-gated and short-term); 服务器运维工程师 (server ops, Shanghai); 高性能交易系统运维工程师 SRE/Operations Engineer Trading Systems (Shanghai, ops shift work); Trading Support Engineer (Hong Kong — English-only but a Python/SQL SRE role requiring 3+ years production/SRE experience, not a C++ seat); Quantitative Analyst 量化分析师 (Hong Kong — despite the title this is trade-support/fund-operations data work in Python, not research or trading); 交易后数据工程师 Post Trading Data Engineer and 数据开发工程师 Data Engineer (Shanghai, pure data engineering).\n\nNo Trader-track roles exist anywhere on the board. No compensation figures are stated on any Minghong posting, so every comp_local is left empty. Applications also accepted by email at HR@mhfunds.com (experienced) and campushr@mhfunds.com (campus)."
+}

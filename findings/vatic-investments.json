@@ -1,0 +1,29 @@
+{
+  "firm": "Vatic Investments (trades/recruits as Vatic Labs)",
+  "careers_url": "https://job-boards.greenhouse.io/vaticlabs",
+  "offices_in_scope_confirmed": ["Singapore"],
+  "offices_checked_not_found": ["London", "Hong Kong", "Shanghai", "Tokyo", "Amsterdam", "Paris", "Dublin", "Zurich"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "Trading Operations Specialist",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/8083551",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2-5 years of experience in a relevant execution trading role\"; posting states applicants with fewer than 2 years of high-frequency or electronic trading background will not advance. No graduation-year gate.",
+      "requirements": "2-5 yrs execution trading / prior electronic (HFT) trading experience | Proficiency with algorithmic trading platforms and OMS/EMS systems | Python, SQL, Unix/Linux, cloud technologies | Monitor live quantitative strategies and firm-wide risk across venues | Broker liaison and trade reconciliation; investigate operational disruptions | Comfortable executing hedging trades under pressure",
+      "comp_local": "",
+      "notes": "This is the ONLY live Vatic opening in any in-scope location worldwide. Fit caveat: it is a trading-operations / execution-monitoring seat, not a research or alpha-generating trader seat, and it is explicitly gated on 2-5 years of prior electronic-trading experience, which the candidate does not have (~18 months, non-trading). C++/GPU/ML publication record is not what this req screens for. Singapore requires sponsorship; the application form asks directly whether you need visa sponsorship, so the firm is at least open to it. Vatic's own website lists only a New York (Midtown, 10036) address, so the Singapore presence is evidenced by this posting rather than by a published office page."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "New York",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "New York (Midtown, 10036) is confirmed as Vatic's HQ on https://vaticlabs.ai/, but there is no live 'Quantitative Researcher' requisition on their Greenhouse board as of 2026-08-04 — the old 'Quantitative Researcher (Full Time - 2026 Grads)' req (job 53549) and a 'Quantitative Trader' req (job 6770694) both now redirect to the board index. The nearest live New York research role is 'AI Researcher' (https://job-boards.greenhouse.io/vaticlabs/jobs/5114560). Separately, New York is out of scope for this pass and the row's own work-authorisation note (H-1B lottery / O-1) already marks it as a poor fit."
+    }
+  ],
+  "notes": "Full board enumerated via the Greenhouse API (https://boards-api.greenhouse.io/v1/boards/vaticlabs/jobs): 11 live reqs total, split across New York (AI Engineer, AI Researcher, Low Latency C++ Engineer, Systems Engineer, Quantitative Developer), Abu Dhabi (AI Engineer, AI Researcher, AI Quantitative Researcher, Low Latency C++ Engineer, AI Research Internship) and Singapore (Trading Operations Specialist). New York and Abu Dhabi are both out of scope per the brief, so only the Singapore req survives filtering. Note that Vatic's C++ and ML-performance hiring — 'Low Latency C++ Engineer' and the AI Researcher/AI Engineer family, which are the best track matches for this candidate — currently exists ONLY in New York and Abu Dhabi, neither of which is in scope. Press from 2021 (eFinancialCareers) and Vatic's own media materials mention intent to expand to London and Singapore; the Singapore posting is evidence that side landed, but there is no evidence of a live London office or any London req, so London is recorded as not found rather than confirmed. The firm's public site (vaticlabs.com now 301s to vaticlabs.ai) has a careers page with no job listings on it — all reqs live on Greenhouse under the slug 'vaticlabs'. No compensation figure is given on the Singapore posting; US postings state base ranges but those were not carried over since US roles are out of scope. Worth re-checking this board periodically: it is small and turns over, and a London or Singapore research/C++ req appearing would be a much better fit than the current ops seat."
+}

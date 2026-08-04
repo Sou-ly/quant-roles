@@ -1,0 +1,89 @@
+{
+  "firm": "Chengqi Asset (诚奇)",
+  "careers_url": "https://www.cqfunds.com/service-center/",
+  "offices_in_scope_confirmed": ["Shanghai"],
+  "offices_checked_not_found": ["Hong Kong", "Singapore", "Tokyo", "London"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "Quant Developer",
+      "track": "C++",
+      "url": "https://www.cqfunds.com/regular/78.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate and no stated minimum years of experience. Requires '独立开发完整技术项目的经验' (experience independently developing a complete technical project) — this is an experienced-hire posting, not a new-grad req, so it fits a candidate with ~18 months production experience.",
+      "requirements": "Independent experience building a complete technical project end-to-end | Strong Python engineering — extend and refactor the firm's Python SDK with clear, structured, extensible code | Experience optimising large-scale data pipelines (performance tuning and reliability) | C++ proficiency and C++/Python hybrid programming | Able to build simple CI/CD tooling to improve automation",
+      "comp_local": "",
+      "notes": "Best track fit of the C++ roles for this candidate: it is explicitly C++/Python hybrid infrastructure plus data-pipeline performance work, which lines up with production C++ and llama.cpp kernel work. Posting does NOT state a city — the firm has Shanghai, Shenzhen and Beijing offices, so confirm the seat is Shanghai (the only in-scope one) before applying. Posting body is entirely in Chinese; only the title is English. Mainland seat: work permit sponsorship needed and Mandarin should be assumed as the working language — nothing on the site indicates an English-tolerant exception. Apply by email to talent@cqfunds.com with subject '正式/实习+岗位+姓名' (i.e. 正式+Quant Developer+<name>); there is no online application form. Posted 2024-12-05."
+    },
+    {
+      "location": "Shanghai",
+      "title": "交易系统工程师 (Trading Systems Engineer)",
+      "track": "C++",
+      "url": "https://www.cqfunds.com/regular/30.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's degree or above in computer science, software engineering or a related field. No graduation-year gate and no stated years-of-experience minimum.",
+      "requirements": "BSc+ in CS, software engineering or related | Proficient in Linux, networking and multithreading | Skilled in C++ and Python | Passion for technology, pursuit of excellence, good development habits | Preferred: combined CS and finance background | Preferred: full-stack skills or experience delivering a complete trading system",
+      "comp_local": "",
+      "notes": "Core low-latency trading-systems work (development, testing, optimisation and maintenance of trading system components). Posting does not state a city — confirm Shanghai rather than Shenzhen/Beijing. Listing is dated 2022-04-11 but is still carried on the current careers index, so treat it as an open evergreen pipeline req rather than a freshly posted one. Chinese-language posting; assume Mandarin working environment and mainland work-permit sponsorship. Apply via talent@cqfunds.com."
+    },
+    {
+      "location": "Shanghai",
+      "title": "机器学习研究员 (Machine Learning Researcher)",
+      "track": "Research",
+      "url": "https://www.cqfunds.com/regular/32.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Graduates of '国内外知名院校' (well-known domestic or international universities). Explicitly states '不要求此前具备金融或相关量化岗位经验' — no prior finance or quant experience required. No graduation-year gate.",
+      "requirements": "Degree from a recognised domestic or international university | Solid machine-learning theory foundations | Hands-on experience with deep neural networks, decision trees/GBDT, or reinforcement learning | Proficient in Python | Preferred: Olympiad, ACM or Kaggle competition awards",
+      "comp_local": "",
+      "notes": "Strongest fit on paper for this candidate's publication record — the role is developing quant and portfolio strategies with RL/DL/ML, and no finance background is required. EPFL MSc plus ICLR/AAAI submissions map directly onto the 'solid ML theory + practical DNN/RL experience' bar. Note the requirement list is Python-centric, not GPU/kernel-centric, so this is a research seat rather than an ML-performance seat. No city stated in the posting; confirm Shanghai. Chinese-language posting, Mandarin-first mainland seat, sponsorship required. Apply via talent@cqfunds.com. Listed 2022-04-11, still carried on the live careers index."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化策略研究员 (Quantitative Strategy Researcher)",
+      "track": "Research",
+      "url": "https://www.cqfunds.com/regular/33.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Degree from a well-regarded domestic or international university in maths, physics, CS, electronic engineering or financial engineering. Explicitly '不要求此前具备金融或相关量化岗位经验' — prior finance/quant experience not required. No graduation-year gate.",
+      "requirements": "Degree in maths, physics, CS, EE or financial engineering from a strong university | Proficient in Python or C++ | Strong character, sense of responsibility, teamwork and self-motivation | Preferred: Olympiad, ACM or Kaggle competition winners | No prior finance or quant experience required",
+      "comp_local": "",
+      "notes": "This is the posting the existing spreadsheet row corresponds to; the exact posted title is 量化策略研究员, not 'Quantitative Researcher'. Work is developing quant strategies for the domestic Chinese equity market — that is A-share-specific domain work, and combined with the Chinese-language posting it is a strongly Mandarin-first seat. No city stated; confirm Shanghai. Mainland work permit needed. Apply via talent@cqfunds.com. Listed 2022-04-11, still on the live careers index."
+    },
+    {
+      "location": "Shanghai",
+      "title": "运维开发工程师 (DevOps Development Engineer)",
+      "track": "ML Performance",
+      "url": "https://www.cqfunds.com/regular/64.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate and no stated years-of-experience minimum; prior experience managing large-scale distributed system resources is listed as preferred.",
+      "requirements": "Maintain machine-learning system resources including GPU, CPU and storage | Design and build a resource-scheduling system on top of GPU clusters | Experience with GPU cluster maintenance and containerisation (Docker/Kubernetes) | Proficient in Linux commands and Python/Shell | Familiar with distributed systems, databases and message queues | Preferred: large-scale distributed resource management experience",
+      "comp_local": "",
+      "notes": "Included under ML Performance because the core of the role is GPU-cluster resource management and building a GPU scheduling system for the research platform, plus multi-datacentre deployment — this is ML infrastructure, not generic IT ops. Caveat: it is framed as an ops/platform seat rather than a kernel-optimisation seat, so it is a weaker fit than the ML Researcher req for someone whose strength is GPU kernel work. No city stated; confirm Shanghai. Chinese-language posting, Mandarin-first, sponsorship required. Apply via talent@cqfunds.com. Posted 2024-05-17."
+    },
+    {
+      "location": "Shanghai",
+      "title": "数据分析研究员 (Data Analysis Researcher)",
+      "track": "Research",
+      "url": "https://www.cqfunds.com/regular/31.html",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Engineering or science background with an interest in financial data analysis. No graduation-year gate and no stated years-of-experience minimum.",
+      "requirements": "Science or engineering background with interest in financial data | Proficient in at least one of Python, C++ or Java | Strong maths and statistics foundations | Automated processing and feature extraction from financial and securities data | Test and explore investment strategies using the data built | Preferred: web development, distributed systems, data mining or machine learning experience",
+      "comp_local": "",
+      "notes": "Borderline scope call — it sits between research and data engineering. Kept in because the stated duties include testing and exploring investment strategies with the features built, not just pipeline plumbing, and because a maths/statistics bar is stated. Lower priority than the ML Researcher and Quant Developer reqs. No city stated; confirm Shanghai. Chinese-language posting, Mandarin-first, sponsorship required. Apply via talent@cqfunds.com. Listed 2022-04-11, still on the live careers index."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Shenzhen",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "title-changed",
+      "detail": "Two corrections. (1) Location: the firm's registered manager entity was renamed from 深圳诚奇资产管理有限公司 to 上海诚奇私募基金管理有限公司 and its registered address moved from Shenzhen to Shanghai; the firm's own site now identifies itself as the Shanghai entity throughout (https://www.cqfunds.com/ and https://www.cqfunds.com/intro/). Shanghai is in target geography, so this row should be relabelled Shanghai rather than dropped. A Shenzhen office (Futian District) does still exist per https://www.cqfunds.com/intro/, alongside Beijing (Haidian) — but neither is in scope. (2) Title: the actual posted title is 量化策略研究员 / Quantitative Strategy Researcher at https://www.cqfunds.com/regular/33.html, not 'Quantitative Researcher'. The row's eligibility claim holds up — the posting does state '不要求此前具备金融或相关量化岗位经验' (no prior finance or quant experience required) and asks for a maths/physics/CS/EE/financial-engineering degree with Python or C++ — but the row's stated requirement 'MSc/PhD in maths, physics, CS or stats' is not verbatim; the posting names no specific degree level. The comp figure of ¥500k–1.0M in the existing row is NOT stated anywhere on the posting or the firm's site and I could not verify it from any credible source — treat it as unverified."
+    }
+  ],
+  "notes": "Primary source used throughout is the firm's own careers index at https://www.cqfunds.com/service-center/ and its per-req pages under https://www.cqfunds.com/regular/. Eight full-time reqs are listed; six are in scope and captured above. The two excluded are 金融产品经理 (Financial Product Manager, /regular/94.html) and 市场渠道经理 (Market Channel Manager, /regular/83.html) — both sales/product, out of scope. Internship listings were also skipped per scope rules.\n\nMain caveat on the role rows: NONE of the postings state a work location. I assigned Shanghai because the registered entity is now Shanghai and Shanghai is a confirmed in-scope office, but the firm also runs Shenzhen and Beijing offices, and historically the research operation was Shenzhen-based. The seat city must be confirmed with the firm before applying — this is the single biggest open question on this firm and I did not want to overstate it. Verification is marked verified-primary because I loaded each posting on the firm's own domain and read it; that verification covers the role's existence and its requirements, not the city.\n\nSecond caveat: four of the six reqs are dated 2022-04-11 and are still carried on the live careers index. They read as evergreen pipeline reqs rather than freshly opened headcount. The two more recent ones are Quant Developer (2024-12-05) and 运维开发工程师 (2024-05-17).\n\nMandarin: every posting body is written in Chinese, the application process is an email to talent@cqfunds.com with a Chinese-format subject line ('正式/实习+岗位+姓名'), and the strategy research work is A-share-specific. There is no sign of an English-tolerant exception at this firm. Assume Mandarin-first for all six roles and a mainland work permit requirement.\n\nHong Kong: no Chengqi entity found on the SFC licensed-persons register; searches surfaced only an unrelated 'Shengqi Capital (Hong Kong) Limited'. I found no evidence of a Hong Kong, Singapore, Tokyo or European presence, so the firm's only in-scope city is Shanghai.\n\nPages I could not load, stated rather than guessed at: https://www.cqfunds.com/contact/ and https://www.cqfunds.com/about/ both return 404 (office addresses came from /intro/ instead); the simuwang profile at dc.simuwang.com returned 403; and the liepin company page (m.liepin.com/company/8644492/) returned a server error on every attempt, so I could not cross-check the reqs against a job board. I was also unable to open Chengqi's own AMAC manager record directly — the two gs.amac.org.cn manager pages that surfaced in search results turned out to be different firms (申万宏源创新 and 上海奇诚创业投资管理有限公司), so the Shenzhen-to-Shanghai rename is sourced from the firm's own site plus secondary Chinese coverage rather than from a AMAC page I loaded myself. Anyone wanting the regulator-level confirmation should search gs.amac.org.cn for 上海诚奇私募基金管理有限公司 directly.\n\nNo compensation figure is given on any posting or anywhere on the firm's site, so comp_local is empty for all six roles. Reported AUM is 超400亿 RMB (over ~40bn RMB) as of end-2021 per /intro/, with one secondary Chinese source citing ~470亿 as of late 2025 — context only, not verified."
+}

@@ -1,0 +1,65 @@
+{
+  "firm": "Grasshopper",
+  "careers_url": "https://grasshopperasia.com/careers/",
+  "offices_in_scope_confirmed": ["Singapore"],
+  "offices_checked_not_found": ["Hong Kong", "Shanghai", "Tokyo", "London"],
+  "roles": [
+    {
+      "location": "Singapore",
+      "title": "Software Engineer, C++",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/grasshopperasia/jobs/4634158008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5 - 7 years of deep expertise in C++\". No graduation-year or student gate, but the experience bar is well above the candidate's ~18 months.",
+      "requirements": "5-7 years deep C++ expertise | Python proficiency for scripting/tooling | Background in low-latency or high-throughput environments | Strong algorithms and data structures | Clean, maintainable code | Second-line support for own systems, first-line during deployments",
+      "comp_local": "",
+      "notes": "Designs and builds trading system components. Application form asks 'Do you require any VISA Sponsorship?' with no stated policy; Singapore EP sponsorship needed for this candidate. Main mismatch is the 5-7 year bar - this is a mid/senior req, not the new-grad pipeline the existing sheet row assumed."
+    },
+    {
+      "location": "Singapore",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/grasshopperasia/jobs/5121423008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2-5 years of programming experience in Python (pandas, numpy, scipy)\" or equivalent statistical/ML background. No student or graduation-year gate.",
+      "requirements": "2-5 years Python (pandas/numpy/scipy) or equivalent stats/ML background | Predictive statistics, ML, econometrics or time-series analysis | Solid data structures, algorithms and software fundamentals | Bilingual English and Mandarin (spoken and written) | Linux and networking knowledge (preferred) | Reproducible research practices (preferred)",
+      "comp_local": "",
+      "notes": "HARD BLOCKER unless the candidate has Mandarin: the posting states bilingual English and Mandarin (spoken and written) competency as a requirement, even though the seat is Singapore-based (likely China/HK market coverage). Otherwise the closest fit on the board to the candidate's profile in terms of years of experience. Sponsorship question on the form, no stated policy."
+    },
+    {
+      "location": "Singapore",
+      "title": "Trader",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/grasshopperasia/jobs/4041263008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "3-5 years of relevant trading experience in HFT and/or professional equity trading, plus a proven P&L track record. Experienced-hire only - not a junior/graduate trader seat.",
+      "requirements": "3-5 years HFT and/or professional equity trading experience | Proven P&L track record | Develop and execute intraday strategies (<24h holding period) | Strong risk management and regulatory compliance knowledge | Programming knowledge (Python preferred) advantageous | Decisive under pressure",
+      "comp_local": "",
+      "notes": "Requires an existing trading P&L track record, which the candidate does not have. Listed for completeness of the Trader track; realistically not applicable. Sponsorship question on the form, no stated policy."
+    },
+    {
+      "location": "Singapore",
+      "title": "Portfolio Manager",
+      "track": "Trader",
+      "url": "https://job-boards.greenhouse.io/grasshopperasia/jobs/4002415008",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Requires \"a strong track record of success, with a P&L of > USD 5mm/year\" in HFT or portfolio management. Senior seat-lift/PM hire - out of reach for this candidate.",
+      "requirements": "HFT or portfolio management experience with >USD 5mm/year P&L | Strategy portable/transferable to Grasshopper | Index roll or index arbitrage experience may qualify | Coverage across Japan, Singapore, Malaysia, Thailand, CME futures, Australia, Taiwan, India, HK, China or Korea | Deep knowledge of markets and trading technology | BSc/MSc in Finance, Economics, Maths, CS or related",
+      "comp_local": "",
+      "notes": "Seat-lift / PM hire with a portable book. Included only to document the board; not a realistic target."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "Grasshopper's own Greenhouse board has no 'Quantitative Developer' req; the equivalent C++ seat is titled 'Software Engineer, C++' (https://job-boards.greenhouse.io/grasshopperasia/jobs/4634158008). The row's eligibility claim is also wrong: the posting requires '5 - 7 years of deep expertise in C++', so this is a mid/senior req, NOT a new-grad or entry-level pipeline. The row's comp figure (SGD 160-240k) is not stated anywhere on the posting or the firm's site and should be treated as unverified. The Singapore office itself is confirmed (72 Anson Road #09-01, Anson House, Singapore 079911, https://grasshopperasia.com/contact/)."
+    }
+  ],
+  "notes": "Primary source is the firm's own Greenhouse board, https://job-boards.greenhouse.io/grasshopperasia, linked from https://grasshopperasia.com/careers/. The whole board was 6 reqs on 2026-08-04, ALL in Singapore: Network Engineer, Portfolio Manager, Quantitative Researcher, Quantitative Risk Analyst, Software Engineer C++, Trader. Two were excluded as out of scope: 'Network Engineer' (infrastructure/networking, not C++ development) and 'Senior Quantitative Risk Analyst' (6-8 years, risk-management function rather than alpha research, https://job-boards.greenhouse.io/grasshopperasia/jobs/4180546008). No ML Performance / GPU / kernel-engineering roles exist on the board at all. Offices: Singapore HQ confirmed on the contact page; the firm also announced a Ho Chi Minh City engineering office (https://grasshopperasia.com/grasshopper-announces-opening-of-new-ho-chi-minh-city-office/) which is out of scope for this pass. No evidence of Hong Kong, Shanghai, Tokyo, or any EU/UK office. Coverage gap: the careers page's own category links (grasshopperasia.com/job/trading, /technology, /middle-office) were not individually crawled, but they funnel to the same Greenhouse board. No compensation figures are stated on any posting; the firm's site and postings say only 'competitive', so all comp_local fields are left empty. Every posting includes a 'Do you require any VISA Sponsorship?' form field without a stated policy - Singapore Employment Pass sponsorship would be needed and is routine at this tier but is not confirmed by the firm."
+}

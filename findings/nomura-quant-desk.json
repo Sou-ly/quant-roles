@@ -1,0 +1,125 @@
+{
+  "firm": "Nomura (quant desk)",
+  "careers_url": "https://careers.nomura.com/",
+  "offices_in_scope_confirmed": ["London", "Singapore", "Hong Kong", "Frankfurt", "Paris", "Tokyo"],
+  "offices_checked_not_found": ["Shanghai", "Milan", "Amsterdam", "Dublin", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Senior C++ Developer - Vice President",
+      "track": "C++",
+      "url": "https://careers.nomura.com/Nomura/job/London-Senior-C%2B%2B-Developer-Vice-President-Lond-EC4R-3AB/1368692700/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate. No stated years-of-experience minimum; VP title implies senior hire. Visa language on posting: 'We can only employ [overseas workers from outside the EEA] if we can provide evidence that there are no other suitable candidates for this vacancy from inside the EEA.'",
+      "requirements": "Proven C/C++ development experience | Order entry gateway development | Linux | Network protocols (beneficial) | Kernel development experience (beneficial) | FPGA understanding useful; scripting; agile team environment",
+      "comp_local": "",
+      "notes": "Team is Latency Sensitive Electronic Trading (LSET), listed under Group Technology - the single best track fit at Nomura for this candidate (low-latency C++, kernel/FPGA adjacency). Listed division on the search page is Group Technology. VP is a stretch title for ~18 months experience; the posting states no minimum, but expect a senior bar. UK HPI visa is self-sponsored so the EEA-resident-labour-market wording above is not a blocker in practice, but the posting's wording is stale/legacy."
+    },
+    {
+      "location": "London",
+      "title": "Credit Quantitative Research - Associate/Vice President",
+      "track": "Research",
+      "url": "https://careers.nomura.com/Nomura/job/London-Credit-Quantitative-Research-AssociateVice-President-Lond-EC4R-3AB/1410899300/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate. Requires 'first-class degree from a top-tier university in Mathematics, Theoretical Physics or similar quantitative field'. Financial-maths/derivatives experience listed as desirable, not required.",
+      "requirements": "Model development and implementation for Structured Credit Derivatives and XVA | Analytics work spanning Regulatory Capital and Initial Margin | Work with Trading, Structuring and Risk Management | First-class quantitative degree from a top-tier university | Financial mathematics / derivatives knowledge desirable | Strong written and oral communication",
+      "comp_local": "",
+      "notes": "Global Markets division, front-office quant (strats) rather than model validation. This is derivatives pricing quant work - stochastic calculus and XVA, not ML/statistical alpha research. Associate band is the realistic entry point for this candidate's experience level."
+    },
+    {
+      "location": "London",
+      "title": "eTrading Developer (Fixed Income)",
+      "track": "C++",
+      "url": "https://careers.nomura.com/Nomura/job/London-eTrading-Developer-%28Fixed-Income%29-Lond-EC4R-3AB/1395017700/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year or student gate; no explicit years-of-experience minimum stated. Posting says Nomura can consider overseas applicants needing a UK Tier 2 / Skilled Worker visa only 'if we can provide evidence that this is a genuine vacancy for a qualified role'.",
+      "requirements": "Degree in Computer Science, Mathematics, Physics or related quantitative field | Strong C++, Java or Python in low-latency environments | Deep understanding of market microstructure, order types and exchange connectivity | Design/optimise execution algorithms and price prediction models | Statistical analysis and machine learning proficiency | Preferred: market making, KDB, MiFID II familiarity, distributed systems",
+      "comp_local": "",
+      "notes": "Hybrid quant-dev / strat role sitting in Global Markets (not Group Technology) - closest thing Nomura London has to a systematic-trading strat seat. Blends C++ low-latency work with ML price prediction, so it also reads on the Research track. HPI visa removes the sponsorship friction the posting describes."
+    },
+    {
+      "location": "London",
+      "title": "Algo Developer - Associate / Vice President",
+      "track": "C++",
+      "url": "https://careers.nomura.com/Nomura/job/London-Algo-Developer-Associate-Vice-President-Lond-EC4R-3AB/1404017900/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No graduation-year gate. 'Bachelor or Master degree in computer science, engineering or related disciplines'. Tier 2 Skilled Worker sponsorship language present on the posting.",
+      "requirements": "Design and development experience with algorithmic trading systems in equity markets | Hands-on Java coding for algo trading systems (essential) | Full project lifecycle: analysis, design, development, testing | Level 2/3 support for front-office applications | Preferred: CI/CD, distributed and event-driven message-oriented architecture, TCP/IP and enterprise messaging",
+      "comp_local": "",
+      "notes": "Global Execution Services (Wholesale IT). Caveat: the essential language stack is Java, not C++ - filed under the C++/trading-systems track because the domain is equity algo trading infrastructure, but this candidate's C++/GPU evidence is only partially transferable. Permanent role."
+    },
+    {
+      "location": "London",
+      "title": "Algo Developer - 6 to 12 month contract",
+      "track": "C++",
+      "url": "https://careers.nomura.com/Nomura/job/London-Algo-Developer-6-to-12-month-contract-Lond-EC4R-3AB/1404021900/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Fixed-term 6-12 month contract. 'Bachelor or Master degree in computer science, engineering or related disciplines'. No graduation-year gate.",
+      "requirements": "Hands-on experience coding and developing algorithmic trading systems in Java | Deliver features, enhancements and bug fixes to the algo trading platform | Full project lifecycle involvement | Adherence to functional architecture strategy and development standards | Occasional level 2/3 front-office support",
+      "comp_local": "",
+      "notes": "Same Global Execution Services team and near-identical spec to the permanent Algo Developer req above - apply to the permanent one instead unless a contract suits. Contract length clears the >6-month scope bar but a fixed term is a weak fit for someone relocating. Java-first, not C++."
+    },
+    {
+      "location": "Singapore",
+      "title": "Vice President, Electronic FX Full Stack Strategist",
+      "track": "Research",
+      "url": "https://careers.nomura.com/Nomura/job/Singapore-Vice-President%2C-Electronic-FX-Full-Stack-Strategist-018983/1348693100/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Not determinable - see notes. VP title implies a senior hire.",
+      "requirements": "Not retrievable - the job-detail body did not render; the page served only title, location (Singapore), division (Global Markets) and job code 11850 with an Apply button",
+      "comp_local": "",
+      "notes": "Title and live status confirmed on Nomura's own portal, but the description body would not load for me, so requirements are unknown - do not assume. On title alone this is the strongest systematic/e-trading strat seat in Nomura's Asia book (eFX pricing/quoting stack, typically C++ or Java plus Python research). Req ID is comparatively old, so it may be a long-running or evergreen posting. Singapore needs sponsorship for this candidate; routine at VP level, but note Nomura's own Asia early-careers FAQ says Singapore programs require citizens/PRs - that restriction is stated for internships/graduate programs, not experienced hires."
+    },
+    {
+      "location": "Singapore",
+      "title": "FX Strategist",
+      "track": "Research",
+      "url": "https://careers.nomura.com/Nomura/job/Singapore-FX-Strategist-018983/1409442800/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Postgraduate degree in Finance, Economics or related. Minimum 3 years FX strategy experience in financial services and minimum 2 years covering FX research in Southeast Asian markets - this candidate does not meet either gate.",
+      "requirements": "Develop and drive FX strategy across Southeast Asia (Singapore, Indonesia, Thailand, Philippines, India) | Produce institutional client research and trade ideas | Basic programming (R/Python/Matlab) to analyse market data | Proven track record publishing market commentary and strategy reports | Excellent written and verbal communication",
+      "comp_local": "",
+      "notes": "Sell-side macro research, not systematic/quant research - the coding bar is 'basic R/Python'. Poor fit for this candidate's profile and gated on 3 years of published FX strategy. Listed for completeness of the Research track only."
+    },
+    {
+      "location": "Singapore",
+      "title": "VP, Equity Specialist (Night Trader)",
+      "track": "Trader",
+      "url": "https://careers.nomura.com/Nomura/job/Singapore-VP%2C-Equity-Specialist-%28Night-Trader%29-018983/1415125500/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum 3 years of experience in equity trading or dealing within a financial institution' and a valid MAS Capital Markets Services (CMS) licence for securities dealing - this candidate meets neither.",
+      "requirements": "Valid MAS Capital Markets Services (CMS) licence for securities dealing | Minimum 3 years equity trading/dealing experience | Bachelor's in Finance or Economics minimum | Bloomberg Terminal / Reuters Eikon or similar market data systems | Willingness to work night shifts | Strong analytical and communication skills",
+      "comp_local": "",
+      "notes": "International Wealth Management, not Global Markets - this is client execution/dealing on a night desk, not systematic or prop trading. Licence requirement is a hard gate. Included because it is the only role on the Trader track live in an in-scope location, but it is not a realistic target."
+    },
+    {
+      "location": "Singapore",
+      "title": "Associate, AI Engineer (Singapore)",
+      "track": "ML Performance",
+      "url": "https://careers.nomura.com/Nomura/job/Singapore-Associate%2C-AI-Engineer-%28Singapore%29-018983/1345753700/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "'Minimum 5 years relevant experience in data engineering, GenAI or full-stack engineering'; Bachelor's (4-year) in a quantitative field or Master's in CS/Engineering/Statistics. The 5-year minimum is a gate this candidate does not clear.",
+      "requirements": "LLMs, prompt engineering, RAG and agentic systems | Context-aware multi-turn dialogue systems | API/SDK development for GenAI integration; microservices and server-side APIs | Python, SQL, Unix scripting | Cloud (AWS EC2, EMR or equivalent); CI/CD via Jenkins/GitLab | React UI development preferred",
+      "comp_local": "",
+      "notes": "Group Technology / International AI CoE. This is LLM application engineering (RAG, agents, Python services), NOT GPU/kernel/ML-performance work - the candidate's llama.cpp kernel background is only tangentially relevant and the role is a level down from research engineering. A VP-band 'Vice President, AI Engineer (Singapore)' (req 1345754900) and an 'Associate, AI Data Scientist (Singapore)' (req 1369436100) are live in the same team; I did not read those two bodies, so treat their requirements as unverified."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Tokyo",
+      "existing_title": "Quant Developer",
+      "verdict": "could-not-verify",
+      "detail": "Nomura's Tokyo office plainly exists (global HQ), but no such req is findable: careers.nomura.com returns 'There are currently no open positions matching Tokyo' (https://careers.nomura.com/Nomura/search/?q=&locationsearch=Tokyo) because Japan hiring runs on a separate domestic site, and that site's mid-career requirements page states 現在、情報の掲載はございません - 'currently no information posted' (https://www.nomura-recruit.jp/career/requirements/). The row's existing 'Reported' verification status was correct; there is no live Tokyo Quant Developer posting to confirm the title, the ¥8-13M band or the Japanese-language gate. Treat every field on that row as unverified rather than confirmed."
+    }
+  ],
+  "notes": "Primary source throughout was Nomura's own SAP SuccessFactors portal at careers.nomura.com, which covers Nomura globally EXCEPT Japan. I enumerated by location filter rather than keyword: London returned exactly 50 live reqs (startrow=50 returned an empty page, so 50 is the complete set), Singapore 35, Hong Kong 20, Frankfurt 7-8, Paris 5. Shanghai and Milan returned 'no open positions' - that means no live reqs, NOT that the office is absent, and I could not verify the office list because nomuraholdings.com returned HTTP 403 to me. The same 403 caveat applies to Amsterdam, Dublin and Warsaw: I found no listings and no confirmed office, so they are recorded as not-found rather than non-existent. Hong Kong has 20 live reqs but ZERO in any of the four tracks - the closest are Global Markets risk/control and compliance roles, so Hong Kong contributes nothing. Frankfurt and Paris are similarly all HR, Finance, Risk, Compliance and Legal - no quant, dev or trading reqs at all. London is where essentially all of Nomura's in-scope hiring sits. An older London req, 'Algorithmic Trading Model Risk Quantitative Analyst (Associate)' (req 1326839900), surfaced in web search but is NOT in the current 50-item London listing, so I treat it as closed and did not include it; it was model validation rather than front-office quant in any case. One London posting I deliberately excluded: 'Software Engineer (Associate) - GMIT Trade Processing' (Group Technology) - post-trade processing infrastructure, outside all four tracks. Same for 'Senior Java Developer' (Group Technology, generic). Overall read: Nomura is a bank, not a quant shop; the only two reqs a systematic/low-latency candidate should genuinely target are the London Senior C++ Developer (LSET) and the London eTrading Developer (Fixed Income). No compensation figures were stated on any posting I opened, so every comp_local field is deliberately empty - nothing was extrapolated."
+}

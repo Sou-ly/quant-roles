@@ -1,0 +1,29 @@
+{
+  "firm": "Brevan Howard",
+  "careers_url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers",
+  "offices_in_scope_confirmed": ["London", "Geneva", "Jersey", "Hong Kong", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Shanghai", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Milan", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Software-Engineer_JR101483",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5-10 years of Java programming experience\"; \"BS/MS in Computer Science, Engineering, or related discipline\". No graduation-year or student gate, but the experience floor is well above the candidate's ~18 months.",
+      "requirements": "5-10 years Java | Kafka messaging, Spring Boot | AWS (EKS, S3), containerised CI/CD via GitHub | SQL Server / Postgres (MongoDB, Apache Flink desirable) | Designing distributed multi-asset trade booking, reconciliation and reporting systems | Knowledge of equities, swaps, futures, FX desirable",
+      "comp_local": "",
+      "notes": "Systematic technology group, new fully-systematic trade booking platform (82 Baker Street). IMPORTANT MISMATCH: despite being the only trading-systems engineering seat open in scope, the stack is Java/Spring Boot/AWS microservices, NOT C++ or low-latency, and it asks for 5-10 years. Listed here only because it is the closest in-scope engineering role; a poor fit as written. Posted 2026-06-02."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Geneva",
+      "existing_title": "Systematic Developer",
+      "verdict": "could-not-verify",
+      "detail": "The Geneva office is real (Rue du Rhone 7, 1204 Geneva, per https://www.brevanhoward.com/contact/), but Brevan Howard's own Workday board (https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers) shows 13 total live reqs on 2026-08-04 and ZERO in Geneva — locations are London (5), Bangalore (6), Singapore (2). No role titled 'Systematic Developer' exists anywhere on the board. The row's stated requirements block, the CHF 130-190k comp figure, and the 'new-grad OR entry-level req - recent grads accepted' gate are all unsupported by any primary source I could find; treat them as invented until a live Geneva req appears."
+    }
+  ],
+  "notes": "Method: Brevan Howard's careers page (https://www.brevanhoward.com/careers/) links out to a single Workday site, BH_ExternalCareers. I queried its JSON API directly and enumerated all 13 live postings (facet counts: Bangalore 6, London 5, Singapore 2). Probes for a separate student/campus Workday site (BH_Students, BH_Campus, etc.) all returned 404, so graduate programmes appear to be posted on the same board and none are live right now. Offices confirmed from https://www.brevanhoward.com/contact/: London, Jersey, Geneva, New York, Austin, Hong Kong, Singapore, Abu Dhabi, Bengaluru. There is NO Tokyo, Shanghai or EU-mainland office other than Geneva (Switzerland, non-EU but in-scope on the CH permit). Hong Kong and Jersey offices exist but have no live reqs. Other live in-scope-location postings judged out of the four tracks: Senior Site Reliability Engineer (London, GCP/Kubernetes/Terraform/Python, 4+ yrs, JR101516) - pure cloud infra, not low-latency C++, but the nearest adjacent systems role if the candidate wants a second London option; Trade Support Specialist (London JR101535 and Singapore JR101539) - middle-office trade support, not an execution-trader seat; Senior Endpoint Experience Engineer (London, JR101523) - IT/desktop; Junior Business Analyst (London, JR101467) - COO-team dashboards and P&L attribution, quantitative-flavoured and genuinely junior, but a business-analyst seat rather than quant research; HR Business Partner (Singapore). All Bangalore roles (Lead Developer, Front Office Data Engineer, etc.) are out of scope by location. Coverage gap: Brevan Howard does a lot of front-office quant/PM hiring off-board via headhunters and campus events, so the public Workday board understates true demand - the historical London 'Quantitative Analyst' desk-quant req (Rates/FX, 2-5 yrs, Python with C++ desirable) was pulled in Feb 2025 per Built In London and is not currently live. No pages were blocked; nothing required guessing."
+}

@@ -1,0 +1,29 @@
+{
+  "firm": "Quantica Capital",
+  "careers_url": "https://www.quantica-capital.com/en/careers",
+  "offices_in_scope_confirmed": ["Zurich", "Schaffhausen"],
+  "offices_checked_not_found": ["London", "Singapore", "Hong Kong", "Shanghai", "Tokyo", "Geneva", "Zug", "Pfaffikon"],
+  "roles": [
+    {
+      "location": "Zurich",
+      "title": "Quantitative Researcher (on-site, full-time, mid-senior position)",
+      "track": "Research",
+      "url": "https://www.quantica-capital.com/publications/pdf/open_positions/2026_quantitative_researcher.pdf",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Posting header reads 'Quantitative Researcher (on-site, full-time, mid-senior position)'. Experience gate: '4+ years in a systematic trading environment, preferably within a hedge fund, asset management firm, or proprietary trading firm.' Education: 'MSc or PhD in a quantitative discipline'. Also: 'Full-time working permit in Switzerland required.' GATE RISK: this is a mid-senior req; the candidate will have ~18 months industry experience at a mid-2027 start, well under the stated 4+ years. Not a new-grad/junior role, contrary to the existing spreadsheet row.",
+      "requirements": "MSc or PhD in statistics, optimization, mathematics, physics, engineering, computer science or related | 4+ years in a systematic trading environment (hedge fund, asset manager, or prop firm) | Strong Python, with solid experience processing and conducting research on financial data | Strong background in statistical modelling, mathematical techniques and time series analysis | Skilled at translating theoretical quant finance concepts into real-world investment strategies; entrepreneurial, self-directed | Experience with futures markets and/or managed futures strategies",
+      "comp_local": "",
+      "notes": "PDF posting file is dated 2026 and the PDF metadata shows creation on 2026-04-01, so the req is current. Role is on-site in Zurich (Barengasse 29, 8001 Zurich) - the firm's HQ is actually Schaffhausen (Freier Platz 10, 8200). Systematic trend-following CTA on futures; ~11-50 employees (LinkedIn/jobs.ch), one source says 13. Research work is Python-centric, not C++/GPU - the candidate's ML-performance and kernel background is not what this req asks for. Duties include client meetings and business development contribution, which is unusual for a pure research seat. Applications go by email to recruitment@quantica-capital.com; there is no ATS (no Greenhouse/Lever/Workday), so no req ID and no application form. Swiss work permit requirement is satisfied by the candidate's CH residence permit."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Zurich",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "title-changed",
+      "detail": "A Quantitative Researcher req is genuinely open in Zurich (https://www.quantica-capital.com/en/careers -> https://www.quantica-capital.com/publications/pdf/open_positions/2026_quantitative_researcher.pdf), but the full posted title is 'Quantitative Researcher (on-site, full-time, mid-senior position)' and the existing row's eligibility verdict is wrong: the posting demands 4+ years in a systematic trading environment and is explicitly mid-senior, so it is NOT a 'new-grad/junior QR' with 'recent grads accepted' and the candidate does not clearly qualify. The 'CHF 110-160k' comp figure is unsourced - the posting only says 'Competitive salary and benefits package' - and should be cleared per the anti-fabrication rule. Office in Zurich is confirmed (Barengasse 29, 8001 Zurich)."
+    }
+  ],
+  "notes": "Small firm (founded 2003, ~11-50 staff) with exactly two offices, both in Switzerland: Schaffhausen (HQ, Freier Platz 10) and Zurich (Barengasse 29) - both confirmed on https://www.quantica-capital.com/en/contact. No London, Singapore, Hong Kong, Shanghai or Tokyo presence; the firm serves investors in North America, Europe and Asia but has no non-Swiss office. The careers page lists exactly one open position (verified by scraping the page HTML: a single 'Open Positions' entry, Quantitative Researcher). No C++, ML Performance or Trader reqs are open. There is no applicant tracking system - hiring runs through recruitment@quantica-capital.com, so openings are only visible as PDFs on the firm's own site and will not show on aggregators (jobs.ch currently shows zero listings for the firm). Because the firm is tiny and posts irregularly, speculative application is the realistic route for anything other than the one live QR seat. No compensation figure is published anywhere credible; comp_local left empty deliberately. No pages were blocked; the job PDF was unparseable by the fetch tool but was read directly and its full text was confirmed."
+}

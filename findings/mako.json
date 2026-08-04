@@ -1,0 +1,77 @@
+{
+  "firm": "Mako",
+  "careers_url": "https://www.mako.com/opportunities",
+  "offices_in_scope_confirmed": ["London", "Dublin", "Amsterdam", "Singapore"],
+  "offices_checked_not_found": ["Tokyo", "Hong Kong", "Shanghai"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Senior Software Engineer",
+      "track": "C++",
+      "url": "https://www.mako.com/opportunities/job-listing/8147024002?gh_jid=8147024002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"At least 5 years of hands-on C++ development on a latency-sensitive or high-throughput system running on Linux, with experience developing trading systems at a prop shop, market maker, hedge fund or similar.\" No graduation-year gate, but the seniority bar is well above the candidate's ~18 months of experience.",
+      "requirements": "5+ yrs C++ on latency-sensitive/high-throughput Linux systems, ideally at a prop shop/market maker/hedge fund | Exchange connectivity protocols (FIX, ITCH/OUCH, proprietary binary) and limit order book mechanics | Modern C++ with deterministic performance, lock-free concurrency, low-latency design patterns | Profiling the hot path: cache, allocations, contention, network stack | Mentoring and clear written design communication | Nice to have: options pricing/strategies, kernel bypass (Solarflare/Onload) or FPGA drivers, Python tooling",
+      "comp_local": "",
+      "notes": "Front Office Execution team, part of Software Development (Front Office Trading system): exchange connectivity, order state management, ultra-low-latency execution, pre-trade risk checks. Explicitly senior/mentoring-oriented — the candidate is a stretch on the 5-year line, though the llama.cpp GPU-kernel and production C++ evidence is on-point technically. Posting has been live since well before mid-2026 (Greenhouse job id 8147024002, oldest req on the board), which can mean a hard-to-fill or perpetually-open seat. No visa language in the posting; UK HPI route is self-sponsored so it costs Mako nothing. Contact for adjustments: hr@mako.com. Mako does not accept unsolicited recruiter CVs."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Options Trader - India",
+      "track": "Trader",
+      "url": "https://www.mako.com/opportunities/job-listing/8496069002?gh_jid=8496069002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"2+ years of systematic trading experience in options (Indian or other liquid Asian market is a plus)\" — listed under Preferred Qualifications, and the posting adds \"Not Sure You Meet Every Requirement? That's okay.\" No graduation-year gate.",
+      "requirements": "2+ yrs systematic options trading, Indian or other liquid Asian market a plus | Track record designing/implementing trading strategies via quantitative research | Bachelor's or higher in a STEM discipline | Proficiency in Python and/or C++ | Strong quantitative/analytical skills, mathematical and statistical modelling | Self-starter able to run independent research",
+      "comp_local": "",
+      "notes": "IMPORTANT location discrepancy: the Greenhouse record and the careers site tag this req as London, but the job body says \"join our market-making team in Singapore, with a focus on Index and Stock Options in the Indian market.\" Confirm the actual seat city with HR before applying — both London and Singapore are in scope for the candidate (Singapore would need sponsorship, London would not). This req does not appear in the visible list on the /opportunities page render but is live on Mako's Greenhouse board. Candidate has no prior trading experience, so the 2+ yrs systematic options trading line is the main gap."
+    },
+    {
+      "location": "Dublin",
+      "title": "Equity Analyst",
+      "track": "Research",
+      "url": "https://www.mako.com/opportunities/job-listing/8608667002?gh_jid=8608667002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's degree or equivalent\" plus \"Front office or markets-adjacent experience (US equities a plus, not required)\". No graduation-year or student gate; no minimum years stated.",
+      "requirements": "Excellent analytical skills, strong attention to detail | Clear, concise communicator | Genuine intellectual curiosity about equities | Bachelor's degree or equivalent | Front office or markets-adjacent experience (US equities a plus, not required) | Fundamental research: catalyst identification, scenario modelling, earnings analysis, financial models and proprietary datasets",
+      "comp_local": "",
+      "notes": "Equity delta one team. This is fundamental/discretionary equity research, not quantitative or ML research — a weak fit for the candidate's ML/systems profile despite the Research track label, and it asks for front-office experience the candidate does not have. Dublin is EU, so no sponsorship needed. Two distinct Equity Analyst reqs are open in Dublin; this is the delta one desk one."
+    },
+    {
+      "location": "Dublin",
+      "title": "Equity Analyst",
+      "track": "Research",
+      "url": "https://www.mako.com/opportunities/job-listing/8608699002?gh_jid=8608699002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor's degree or equivalent\" plus \"Front office or markets-adjacent experience (US equities a plus, not required)\". No graduation-year or student gate; no minimum years stated.",
+      "requirements": "Excellent analytical skills, strong attention to detail | Clear, concise communicator | Genuine intellectual curiosity about equities | Bachelor's degree or equivalent | Front office or markets-adjacent experience (US equities a plus, not required) | Deep-dive thesis work: industry mapping, variant perception, valuation frameworks, proprietary datasets",
+      "comp_local": "",
+      "notes": "Second, separate Dublin Equity Analyst req — this one sits with the long-term equity strategy and special situations desk. Same caveat as the other: discretionary fundamental research, not quant/ML research, so a poor match for the candidate's background. Dublin is EU, no sponsorship needed."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer",
+      "verdict": "title-changed",
+      "detail": "Mako's London office is confirmed real (Level 4, 88 Wood Street, EC2V 7DA, https://www.mako.com/contact) and there is one live C++-track London engineering req, but it is titled \"Senior Software Engineer\" (Front Office Execution), not \"Quantitative Developer\": https://www.mako.com/opportunities/job-listing/8147024002?gh_jid=8147024002. No role called Quantitative Developer exists on Mako's board."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer — eligibility gate claim",
+      "verdict": "could-not-verify",
+      "detail": "The existing row's gate note (\"New-grad OR entry-level req — recent grads accepted; you qualify\") is wrong for the live req, which demands \"At least 5 years of hands-on C++ development on a latency-sensitive or high-throughput system\" plus prior trading-systems experience. Mako does run a 12-month Graduate Software Engineer programme (https://www.mako.com/early-careers) but that is a student/new-grad track the candidate has aged out of; it is not the same role."
+    },
+    {
+      "location": "London",
+      "existing_title": "Quantitative Developer — source URL and comp",
+      "verdict": "could-not-verify",
+      "detail": "The cited source https://www.mako.com/careers returns HTTP 404; the live careers page is https://www.mako.com/opportunities. The £90-140k figure is not stated in any Mako posting or on Mako's site — no compensation is published on any of the seven live reqs, so treat that range as unsourced."
+    }
+  ],
+  "notes": "Mako (Mako Global Derivatives, options market maker since 1999) runs its hiring on Greenhouse under board token \"mako\"; the site's /opportunities page is a JS shell, so the reliable primary source is https://boards-api.greenhouse.io/v1/boards/mako/jobs (used here) with each req also viewable at www.mako.com/opportunities/job-listing/<id>. Entire board as of 2026-08-04 is 7 reqs: Equity Analyst x2 (Dublin), Financial Controller (London, out of scope), IT Operations Analyst (London, out of scope), Quantitative Options Trader - India (London/Singapore), Senior Software Engineer (London), Senior Trader (Sydney, out of scope location). Confirmed offices per https://www.mako.com/contact: London, Dublin, Amsterdam, Singapore, Sydney, Brisbane, Chengdu — so Amsterdam and Singapore are in-scope offices with nothing currently open, and there is NO Tokyo, Hong Kong or Shanghai office (Chengdu is Mako's only mainland China site and is out of the brief's scope). No ML Performance / GPU / research-engineering roles exist anywhere on the board. No compensation figures are published by Mako on any req; none found on a credible primary source, so all comp_local fields are empty. Early-careers programmes (18-month Graduate Trader, 12-month Graduate Software Engineer, 1-month July internship) are student/new-grad gated and out of fit for this candidate; the 1-month internship is also under the 6-month scope minimum."
+}

@@ -1,0 +1,107 @@
+{
+  "firm": "WizardQuant (宽德)",
+  "careers_url": "https://www.wizardquant.com/en/career",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["Singapore", "Tokyo", "London", "EU (any city)"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "Quantitative Researcher (量化研究员)",
+      "track": "Research",
+      "url": "https://www.wizardquant.com/en/career/quantitative-researcher",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Bachelor/Master/Ph. D students from top universities\" — posting is framed for students and recent graduates (full-time or internship); no explicit graduation-year cut-off stated, but the application format demands \"year of graduation\", which signals a campus-recruiting pipeline. Experienced-hire path is not described for this req.",
+      "requirements": "Bachelor/Master/PhD from a top university in ML, EECS, statistics, mathematics, physics, operations research, economics or finance | Strong mathematical and statistical foundation | Python / R / MATLAB with data-analysis and modelling experience | Generate alphas from large datasets, evaluate marginal effectiveness | Build predictive trading models and contribute to portfolio optimisation | Detail-oriented, curious, creative, collaborative with independent research ability",
+      "comp_local": "",
+      "notes": "Listed location on the Chinese careers page is 上海/北京/其他 (Shanghai/Beijing/other) — Beijing is out of scope. Compensation shown as 面议 (negotiable), no figure published. Mainland China seat: the primary careers site is Chinese, all postings are Chinese-first, and the machine-translated /en/ mirror is the only English surface — assume working Mandarin is required. Application is by email to hr@wizardquant.com with subject 'Name + position + graduation year + school/major'; there is no ATS, so no req ID or application tracking. Visa sponsorship for a foreign national into a mainland PRC private-fund manager is not mentioned anywhere and should be treated as unproven."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Machine Learning Researcher (机器学习研究员)",
+      "track": "Research",
+      "url": "https://www.wizardquant.com/en/career/machine-learning-researcher",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's/Master's/PhD from a top university; full-time or internship. No graduation-year gate stated verbatim, but the email subject line format requires graduation year.",
+      "requirements": "Degree from a top university in ML, EECS, statistics, mathematics, physics or operations research | Python / R / MATLAB plus data-analysis experience | Mainstream deep-learning frameworks (TensorFlow / PyTorch) | Understanding of mainstream ML algorithms (CNN, RNN, LSTM etc.) | Preferred: strong C/C++, ACM/IOI/NOI awards, Spark/Hadoop, active GitHub / open source | Preferred: papers at NeurIPS, ICML, IJCAI, CVPR etc.",
+      "comp_local": "",
+      "notes": "Best-fit req for this candidate's profile: the posting explicitly lists top-conference publications and open-source/GitHub contributions as preferred qualifications, and advanced C/C++ as a plus. Location 上海/北京/其他. 面议 (negotiable) — no published range. Mandarin should be assumed; postings are Chinese-first."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Machine Learning Performance Engineer (机器学习性能工程师)",
+      "track": "ML Performance",
+      "url": "https://www.wizardquant.com/en/career/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%80%A7%E8%83%BD%E5%B7%A5%E7%A8%8B%E5%B8%88",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Tagged 无境计划 (\"Wujing Programme\") on the careers page — per secondary sources (nowcoder, university career sites) this is WizardQuant's top-tier IT talent programme aimed at 应届毕业生 (current-year new graduates). The posting text itself states a bachelor's minimum from a top-tier institution and does not state a years-of-experience floor. Treat the new-grad framing as a possible gate for a 2026-graduated, 18-months-experience candidate.",
+      "requirements": "Bachelor's minimum from a top-tier school in CS, software engineering, electronics or mathematics | C/C++/Python with strong algorithms and data structures | Deep understanding of computer architecture and modern CPU/GPU microarchitecture | Linux systems programming and multicore parallel programming | At least one specialisation: GPU programming, parallel computing, distributed storage, high-performance networking, or DL compilers | Preferred: assembly-level optimisation, CUDA, HPC/ML open-source contributions, TVM/XLA, InfiniBand/RDMA",
+      "comp_local": "",
+      "notes": "Closest match on this sheet to the candidate's llama.cpp GPU-kernel work — the req names CUDA, assembly-level optimisation, DL compilers and open-source HPC/ML contributions as preferred. Location 上海/其他. 面议 (negotiable). Mainland seat, Mandarin-first; no visa language in the posting."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Machine Learning Platform Engineer (机器学习平台工程师)",
+      "track": "ML Performance",
+      "url": "https://www.wizardquant.com/en/career/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E5%B8%88",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Two explicit tracks in the posting: a recent-graduate track (bachelor's from a top university) and an experienced track requiring \"5 years or more of machine learning platform architecture and optimization experience\". With ~18 months of experience the candidate falls between the two. Also tagged 无境计划 (new-grad programme).",
+      "requirements": "Bachelor's from a top university in CS/software engineering or related STEM | Golang plus Python or C++ | Computer architecture, data structures, algorithms, OS and networking fundamentals | Kubernetes development experience; cloud-native and distributed systems | Experienced track: 5+ years of ML platform architecture/optimisation | Preferred: large-scale distributed systems, open-source contributions",
+      "comp_local": "",
+      "notes": "Go-heavy — weaker fit than the ML Performance Engineer req for a C++/CUDA profile. Location 上海/其他. 面议 (negotiable). Mandarin-first mainland seat."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Strategy Systems Engineer (策略系统工程师)",
+      "track": "C++",
+      "url": "https://www.wizardquant.com/en/career/%E7%AD%96%E7%95%A5%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Recent-graduate track (top-tier bachelor's in CS, software engineering or mathematics) and an experienced track requiring \"5+ years in relevant engineering work\". Tagged 无境计划 (new-grad programme). ~18 months of experience sits between the two tracks.",
+      "requirements": "Top-tier bachelor's in CS, software engineering or mathematics | Proficiency in C/C++ and Python with solid algorithmic foundations | Understanding of CPU microarchitecture and Linux systems programming | Build quant research platforms and tooling with compiler-optimisation techniques | Massive-scale financial data handling, backtesting and distributed computing | Preferred: real-time data engines, middleware, distributed systems, GPU computing, compiler optimisation",
+      "comp_local": "",
+      "notes": "Strong C++ / systems fit; the req explicitly names compiler optimisation and GPU computing. Location 上海/其他. 面议 (negotiable). Mandarin-first mainland seat; no visa language in the posting."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Trading Systems Engineer (交易系统工程师)",
+      "track": "C++",
+      "url": "https://www.wizardquant.com/en/career/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Split into campus hires (top-tier undergraduate degree) and experienced hires requiring \"5+ years professional software engineering experience\". Tagged 无境计划 (new-grad programme). ~18 months of experience meets neither track cleanly.",
+      "requirements": "Top-tier degree in CS, software engineering, electronics or mathematics | \"精通 C/C++或 python 编码能力与理论基础，精通 Linux平台高并发、多线程编程\" (mastery of C/C++/Python and Linux high-concurrency, multithreaded programming) | Low-latency system design on Linux; network programming and IPC | TCP/UDP network programming and framework design | FPGA design with HLS/Verilog, TCP/IP, DDR, PCIe/DMA | Preferred: middleware/kernel development, financial trading systems, market making, FPGA-based AI",
+      "comp_local": "",
+      "notes": "The most low-latency-flavoured C++ req at the firm, but FPGA/Verilog is listed as a core requirement rather than a bonus on the campus track. Covers both domestic and international markets. Location 上海/其他. 面议 (negotiable). Mandarin-first mainland seat."
+    },
+    {
+      "location": "Shanghai",
+      "title": "Platform Engineer (平台工程师)",
+      "track": "C++",
+      "url": "https://www.wizardquant.com/en/career/%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E5%B8%88",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Recent-graduate track (top-tier bachelor's in CS/engineering) and an experienced track requiring 5+ years. Tagged 无境计划 (new-grad programme).",
+      "requirements": "Top-tier bachelor's in CS or a related engineering field | C++/Python/Go server programming with strong coding standards | Computer architecture, TCP/IP, HTTP, WebSocket, Linux systems | Build risk-management, operations/monitoring, data-platform and settlement systems | Experienced track: Pandas/NumPy, distributed frameworks, numerical computing and statistical analysis | Preferred: MongoDB, ClickHouse, S3-style distributed storage",
+      "comp_local": "",
+      "notes": "Broader internal-platform / infrastructure role rather than latency-critical trading systems. Location 上海/其他. 面议 (negotiable). Mandarin-first mainland seat."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Hong Kong",
+      "existing_title": "Quantitative Researcher (offshore)",
+      "verdict": "could-not-verify",
+      "detail": "The Hong Kong entity is real: GLEIF's LEI register shows 'Wizardquant Capital Advisors Limited', LEI 254900RXM8QG5VYIDO14, legal address 1604-05, 16/F Prudential Tower, Harbour City, Canton Road, Kowloon, Hong Kong — entity status ACTIVE, registration ISSUED, last updated 2025-11-25 (https://api.gleif.org/api/v1/lei-records/254900RXM8QG5VYIDO14). But no Hong Kong role exists: the firm's own careers page (https://www.wizardquant.com/career) lists 15 openings and the string 香港 / 'Hong Kong' appears zero times across all of them — every posting is 上海/北京/其他 or 上海/其他. The only Hong Kong req ever traceable is a LinkedIn 'Trader' posting (https://hk.linkedin.com/jobs/view/trader-at-wizardquant-3829674978), posted ~2 years ago and marked 'No longer accepting applications' — and it required proficiency in both English AND Mandarin, contradicting the existing row's 'English-tolerant niche' claim. So: office/entity confirmed, but no offshore QR role is open there."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Est. Year-1 Total Comp HKD 1.0–1.6M / USD 130k–205k",
+      "verdict": "could-not-verify",
+      "detail": "No compensation figure is published by WizardQuant anywhere. Every one of the 15 postings on the firm's careers page shows 面议 ('negotiable'). The HKD 1.0–1.6M band in the existing sheet has no traceable source and should be treated as an extrapolation, not data."
+    }
+  ],
+  "notes": "Coverage: the firm's own careers page (https://www.wizardquant.com/career and the /en/ mirror) lists exactly 15 open positions; I read every in-scope one directly. Seven fall in the four target tracks, all in Shanghai. The remaining eight (Network Engineer, Data Center Operations Engineer, Management Trainee, Quant Trading Risk Manager, Private Fund Product Assistant, HR Recruitment Specialist, Private Fund Market Channel Assistant, Private Fund Compliance Specialist) are out of scope. There is no Trader-track opening anywhere on the site.\n\nOffices: the firm's own About Us page (https://www.wizardquant.com/en/about-us) lists only Shanghai (Lujiazui Financial Service Plaza Phase II, Pudong) and Beijing (Dinghao DH3, Haidian). LinkedIn adds Zhuhai, Shenzhen, Chengdu and New York. Of those, only Shanghai is in scope. Beijing, Shenzhen, Zhuhai, Chengdu and New York are out of scope for this pass.\n\nOnshore entity verification (AMAC, gs.amac.org.cn/amac-infodisc/api/pof/manager, primary source): two registered private-fund managers under the 宽德 name — 上海宽德私募基金管理中心（有限合伙）, registration no. P1005623, registered 2014-12, 531 funds, office at 上海市浦东新区东方路1267号陆家嘴金融服务广场二期13号楼15层1501-1502 (matches the address on the firm's own site); and 珠海宽德私募基金管理有限公司, registration no. P1031924, registered 2016-06, 96 funds, Hengqin, Zhuhai. Both are 私募证券投资基金管理人 (private securities fund managers). The onshore business is unambiguously real and large.\n\nHong Kong entity verification: I could NOT complete an SFC public-register check. The register's JSON endpoint (https://apps.sfc.hk/publicregWeb/searchByNameJson) accepted POSTs and returned well-formed JSON but responded {\"totalCount\":0,\"items\":[]} for every query including known-good controls such as 'Citadel Securities (Hong Kong) Limited' — i.e. the endpoint is bot-blocked or requires a token I could not reproduce, and the search UI itself is ExtJS/JS-only so WebFetch cannot drive it. Do not read my zero results as evidence of absence. Independent confirmation of the HK entity therefore rests on GLEIF (authoritative for LEI data), which shows Wizardquant Capital Advisors Limited as an ACTIVE Hong Kong entity as of 2025-11-25; HK Companies Registry number 2302849, incorporated 2015-11-03, per secondary directories (hkgbusiness, northdata). Secondary sources also claim a Type 9 (asset management) SFC licence obtained in 2016 — unverified, please check apps.sfc.hk manually in a browser before relying on it.\n\nMandarin, stated explicitly: every posting is authored in Chinese; the /en/ pages are a mirror of the Chinese originals and several English slugs are still Chinese-encoded. Applications go to hr@wizardquant.com with a Chinese-format subject line (姓名 + 岗位 + 毕业年份 + 学校/专业). The one Hong Kong req I found (now closed) demanded proficiency in English AND Mandarin. All seven in-scope roles should be assumed Mandarin-first; there is no evidence of an English-tolerant seat at this firm.\n\nProcess caveats: there is no ATS (no Greenhouse/Lever/Workday), so there are no per-req IDs, no application tracking, and no way to tell how long a posting has been live — the openings listed here are what the careers page served on 2026-08-04. Five of the seven engineering/research reqs are tagged 无境计划, which secondary sources (nowcoder, Fudan and Sichuan University careers pages) describe as a programme for 应届毕业生 (current-year new graduates); the same postings also carry a separate 5+ years experienced-hire track. A candidate with ~18 months of experience falls in the gap between the two tracks at this firm, which is a real friction point. No posting mentions visa sponsorship for foreign nationals into the mainland entities."
+}

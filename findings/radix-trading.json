@@ -1,0 +1,77 @@
+{
+  "firm": "Radix Trading",
+  "careers_url": "https://radixtrading.co/",
+  "offices_in_scope_confirmed": ["Amsterdam"],
+  "offices_checked_not_found": ["London", "Dublin", "Paris", "Zurich", "Frankfurt", "Singapore", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Technologist",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/radixexperienced/jobs/6629869002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Posted on the 'Radix Experienced' board (for candidates with prior work experience). No graduation-year gate in the posting text; the application form asks for graduation year/expected completion date and years of post-degree work experience. No stated minimum years.",
+      "requirements": "Low-level languages: C++ or C, understanding nuances of the language / modern C++ | Data structures, algorithmic complexity, numerical algorithms | Systems architecture: distributed systems and communication | Software architecture: experience in a large codebase | Development process: delivering and deploying software in production | Soft criteria stated verbatim: 'Persistent Drive to Improve', 'Creative Problem Solving and Probabilistic Thinking', 'Team Mindset', 'Mental Flexibility & Self Awareness', 'Orientation for Making Money'",
+      "comp_local": "",
+      "notes": "Best single fit on the experienced board for the candidate. Posting states only 'Competitive salary, plus quarterly bonus based on individual performance' - no figure given, so comp left empty. Application asks 'Do you require employer-sponsored work authorization?'; as an EU citizen the answer is no for Amsterdam. Req is multi-city (Chicago / New York / Amsterdam) on a single listing - confirm Amsterdam headcount with the recruiter, since the seat may be allocated to a US office. Radix has ~125 people total across Chicago, NY and Amsterdam, so the Amsterdam team is small."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/radixexperienced/jobs/6629844002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Experienced board. No explicit minimum-experience or graduation-year gate in the posting body; the form collects graduation year and years of post-degree work experience. Unofficial undergraduate transcript required, graduate transcript optional.",
+      "requirements": "Strong data analysis and intuition | 'Hacking' ability to identify empirical relationships in data | Classical and advanced statistical methods | Understanding of financial products and market microstructure | Programming: 'low-level computer languages like C++, or Python, Java, etc.'",
+      "comp_local": "",
+      "notes": "Radix explicitly recruits scientists (applied maths, physics, EE, CS) rather than finance backgrounds, so the candidate's ICLR/AAAI submissions and ISCA workshop paper are directly relevant. Posting says 'Competitive salary, plus quarterly bonus based on individual performance and contribution towards success of others and the firm' - no number stated. Transcript upload is mandatory; have the EPFL unofficial undergrad transcript ready. Multi-city req - confirm the Amsterdam seat exists."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Technologist (Full-Time - C++ Developer)",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500240002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Posted on the 'Radix University' board, which the firm's site describes as being for 'degree candidates, postdocs, and faculty members'. The posting body states no explicit graduation-year cutoff, but the application form requires expected graduation date and GPA. This is a new-grad channel - a poor fit for someone ~18 months into a job; use the experienced board req instead.",
+      "requirements": "Low-level languages C or C++; awareness of strength in a particular language | Data structures, algorithmic complexities, numerical algorithms | Systems architecture: distributed systems and communication | Software architecture: large codebase experience | Development processes: delivering and deploying software in production environments",
+      "comp_local": "",
+      "notes": "Listed for completeness only. Same substantive job description as the experienced Quantitative Technologist req; the difference is the hiring channel. Student/new-grad gated by channel, not by explicit wording."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Researcher (Full-Time - Master's/Bachelor's)",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8521642002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "University board (degree candidates / postdocs / faculty). Requires unofficial transcripts and GPA. New-grad channel - the candidate is past this stage; the experienced Quantitative Researcher req is the right door.",
+      "requirements": "Strong analytical background (maths, physics, CS, statistics, engineering) | Statistical expertise | Programming, C++ preferred | Data analysis and research framework experience | Interest in trading and financial markets (finance background not required)",
+      "comp_local": "",
+      "notes": "Listed for completeness only. There is a parallel 'Quantitative Researcher (Full-Time - PhD+)' req at https://job-boards.greenhouse.io/radixuniversity/jobs/7841874002, also Chicago/New York/Amsterdam, which the candidate does not qualify for (no PhD)."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Quantitative Technologist (Full-Time - DevOps & Systems Engineering)",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8521638002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "University board (new-grad channel). Did not open the full posting body; title and locations (Chicago / New York / Amsterdam) verified from the board listing.",
+      "requirements": "Not read in detail - infrastructure/DevOps and systems engineering flavoured Quantitative Technologist track; see the C++ Developer variant for the shared technologist criteria",
+      "comp_local": "",
+      "notes": "Borderline for the C++ track - this is the infra/DevOps variant of the technologist role rather than a trading-systems C++ seat. Included because it is core infrastructure at a firm with only one in-scope office, but it is a weaker fit than the experienced Quantitative Technologist req."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Chicago",
+      "existing_title": "Research Software Engineer",
+      "verdict": "title-changed",
+      "detail": "The Chicago office is real (353 N Clark St Ste 1600, per https://radixtrading.co/), but 'Research Software Engineer' is not a title Radix uses on either of its two Greenhouse boards. The closest live Chicago reqs are 'Quantitative Technologist' (https://job-boards.greenhouse.io/radixexperienced/jobs/6629869002) and 'HPC Systems Engineer' (https://job-boards.greenhouse.io/radixexperienced/jobs/8121869002, Chicago/New York only). Chicago is also out of scope for this pass (US), and the row's '$300-400k' figure is not stated anywhere on the postings - both boards say only 'competitive salary plus quarterly bonus'."
+    }
+  ],
+  "notes": "Radix Trading has exactly three offices - Chicago (HQ), New York, and Amsterdam (Strawinskylaan 1567) - confirmed on its own site at https://radixtrading.co/. Amsterdam is the only in-scope location; there is no London, Dublin, Singapore, Hong Kong, Shanghai or Tokyo presence. Amsterdam was reportedly chosen over London for post-Brexit regulatory reasons (secondary sourcing, not confirmed by the firm's site). The firm splits hiring across two Greenhouse boards linked from its homepage: radixexperienced (prior work experience) and radixuniversity (degree candidates, postdocs, faculty) - the candidate should use the experienced board. Every Amsterdam-tagged req is a multi-city listing shared with Chicago and New York, so the Amsterdam seat is not independently confirmed for any of them; the firm is only ~125 people total. No compensation figure is published on any posting, so all comp_local fields are empty - the existing sheet's $300-400k for Chicago should be treated as unsourced. No ML Performance or Trader roles are open in scope: the only ML/HPC-adjacent req, 'HPC Systems Engineer', is tagged Chicago and New York only, and Radix posts no trader titles at all (research and technologist are the two seat types). Out-of-scope Amsterdam reqs not listed: 'Quantitative Business Analyst' and 'Compliance Specialist - Amsterdam'."
+}

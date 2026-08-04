@@ -1,0 +1,16 @@
+{
+  "firm": "Quantedge Capital",
+  "careers_url": "https://www.quantedge.com/careers",
+  "offices_in_scope_confirmed": ["Singapore"],
+  "offices_checked_not_found": ["London", "Hong Kong", "Tokyo", "Shanghai", "Amsterdam", "Dublin", "Zurich", "Paris"],
+  "roles": [],
+  "existing_rows_audit": [
+    {
+      "location": "Singapore",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "no-longer-open",
+      "detail": "Singapore office is real and is the firm HQ (23 Church Street, 15th Floor, Capital Square, Singapore 049481, per https://www.quantedge.com/ ), but the firm's own careers page https://www.quantedge.com/careers currently lists exactly one opening — 'Legal & Compliance Counsel, Singapore' — and no Quantitative Researcher or any other in-scope role. A LinkedIn guest-API search for 'Quantedge' in Singapore returns the same single posting (https://sg.linkedin.com/jobs/view/legal-compliance-counsel-at-quantedge-4442018326). Additionally, the 'SGD 180-280k' comp figure and the 'recent grads accepted; you qualify' eligibility verdict in the existing row are not supported by anything Quantedge publishes — treat both as unsourced."
+    }
+  ],
+  "notes": "Quantedge Capital is a Singapore-headquartered systematic macro hedge fund (~USD 4-5bn AUM, ~120 staff) with exactly two offices: Singapore (HQ) and New York City. New York is out of scope for this pass, and there is no London, Hong Kong, Tokyo, Shanghai or EU office — the firm's own site lists only those two addresses. Careers page was loaded directly (server-rendered HTML, no JS wall) on 2026-08-04 and contains a single 'Job Opening(s)' block with one role: Legal & Compliance Counsel (Singapore), which is out of scope for all four tracks. Applications route through a Google Form (https://forms.gle/95VSpAdmBNYPYnRSA), not an ATS, so there is no Greenhouse/Lever/Workday board to enumerate additional hidden reqs. Cross-checks performed: (1) sitemap.xml at https://www.quantedge.com/sitemap.xml lists only 8 pages, with /careers the sole hiring page — a previously indexed https://www.quantedge.com/summer-2026-internship page now returns HTTP 404 and is no longer in the sitemap; (2) MyCareersFuture (Singapore government portal, api.mycareersfuture.gov.sg) returns 0 postings for 'Quantedge'; (3) LinkedIn guest job search returns only the Legal & Compliance Counsel req. Conclusion: Quantedge has zero in-scope openings as of 2026-08-04. The firm hires quantitative research and trading staff predominantly through its summer internship-to-full-time pipeline, which is student-gated and therefore a poor fit for this candidate regardless; experienced-hire QR/dev roles at Quantedge appear to be filled off-cycle and unadvertised, so a direct/networked approach would be needed rather than an application to a live req. Recommendation: keep Quantedge on a watch list rather than as an actionable row."
+}

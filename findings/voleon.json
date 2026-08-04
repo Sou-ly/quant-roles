@@ -1,0 +1,89 @@
+{
+  "firm": "The Voleon Group",
+  "careers_url": "https://voleon.com/jobs/",
+  "offices_in_scope_confirmed": ["London"],
+  "offices_checked_not_found": ["Tokyo", "Singapore", "Hong Kong", "Shanghai", "Paris", "Amsterdam", "Dublin", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Member of Research Staff (London)",
+      "track": "Research",
+      "url": "https://jobs.ashbyhq.com/voleon/54ed0675-c002-492c-9aa5-4e47a2ca0557",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Ph.D. level coursework is required, and a Ph.D. degree in a relevant field is preferred\". No graduation-year gate, no minimum years of experience stated. Posting says \"Relocation and work visa eligibility for qualified candidates\".",
+      "requirements": "Background in modern statistical methods and ML with a track record as an applied researcher | Evidence of strong mathematical abilities (publication record, graduate coursework, or competition placement) | Willingness to write production-level code (Python and/or R preferred) | Ability to solve large-scale computing problems | Interest in financial applications essential; prior finance industry experience not required | Ph.D.-level coursework required, Ph.D. preferred",
+      "comp_local": "",
+      "notes": "Newest London req, published 2026-08-03 (freshest of the set). Publication record is explicitly listed as evidence of mathematical ability, which fits the candidate's ICLR/AAAI submissions. The Ph.D.-preferred line is the main friction for an MSc candidate, but 'Ph.D. level coursework' is the hard requirement, not the degree. Note: a second, near-identical 'Member of Research Staff (London)' req is also live (see next row) — the two appear to be duplicate/parallel postings of the same role."
+    },
+    {
+      "location": "London",
+      "title": "Member of Research Staff (London)",
+      "track": "Research",
+      "url": "https://jobs.ashbyhq.com/voleon/c0c95062-dc61-4e13-98e8-012a86dd05c2",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Identical text to the other MoRS London req: \"Ph.D. level coursework is required, and a Ph.D. degree in a relevant field is preferred\". Visa/relocation support stated.",
+      "requirements": "Background in modern statistical methods and ML with applied-research track record | Strong mathematical ability evidenced by publications/graduate coursework/competitions | Production-level coding (Python and/or R preferred) | Large-scale computing problem solving | No prior finance experience required | Ph.D.-level coursework required",
+      "comp_local": "",
+      "notes": "Published 2026-04-17. Body text is word-for-word the same as the 2026-08-03 req; likely a duplicate listing kept open in parallel. Apply to the newer one unless a recruiter directs otherwise."
+    },
+    {
+      "location": "London",
+      "title": "Senior Member of Research Staff (London)",
+      "track": "Research",
+      "url": "https://jobs.ashbyhq.com/voleon/f9de4f71-c0f8-4de4-8f88-0ee8072d1e7a",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5-10+ years of related experience directing key research projects and mentoring colleagues\" — the candidate will have ~18 months by a mid-2027 start, so this is a hard experience gate and a poor fit. Visa/relocation support stated.",
+      "requirements": "5-10+ years directing research projects and mentoring colleagues | Ability to run multiple projects simultaneously with independent judgement on methods and evaluation criteria | Well-reasoned design decisions, anticipating tradeoffs/risks/abstraction level | Large-scope complex projects improving product performance and risk management | Productizing research and validating in live trading | Mentoring and technical guidance to other researchers",
+      "comp_local": "",
+      "notes": "Listed for completeness — experience gate rules it out for this candidate. Published 2026-04-17."
+    },
+    {
+      "location": "London",
+      "title": "Senior Member of Research Staff, Technical Lead (London)",
+      "track": "Research",
+      "url": "https://jobs.ashbyhq.com/voleon/8360c613-272a-4939-b183-207cbe4b2450",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of experience directing research projects and mentoring colleagues\" plus \"Ph.D. level coursework is required, and a Ph.D. degree in a relevant field is preferred\" — experience gate not met at a mid-2027 start.",
+      "requirements": "3+ years directing research projects and mentoring, balancing IC work with team leadership | Experience building and growing research teams | Expertise in modern statistical methods and ML | Strong mathematical foundations (publications, graduate coursework, competitions) | Capability to run multiple projects and operate large-scale compute infrastructure | Penchant for prototyping numerical software",
+      "comp_local": "",
+      "notes": "Published 2026-06-09. Lower experience bar than the plain Senior MoRS req (3+ vs 5-10+ years) but still above the candidate's level. Worth tracking rather than applying now."
+    },
+    {
+      "location": "London",
+      "title": "Data Scientist (London)",
+      "track": "Research",
+      "url": "https://jobs.ashbyhq.com/voleon/5c966855-af8b-4bf5-9f58-6701e1cc2238",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1+ years of applied end-to-end industry experience, including internships\"; Bachelor's in a quantitative discipline required, Master's preferred. No graduation-year gate — the candidate clears this comfortably.",
+      "requirements": "1+ years applied industry experience with complex datasets (curation, querying, aggregation, EDA, visualization) | Statistical methods for pattern identification and root-cause analysis | Fluency with SQL, polars and R for tabular data | Basic software development: bash, linux/unix, git | Ability to refine ambiguous requirements and write clear reports | Bachelor's in a quantitative discipline (Master's preferred)",
+      "comp_local": "",
+      "notes": "Analytics/production-monitoring role rather than alpha research — SQL/polars/R-centric, no C++ or GPU content. Eligibility is the easiest of the London set but the work is a step down from the candidate's ML-research profile. Published 2026-04-14."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trading Team Lead",
+      "track": "Trader",
+      "url": "https://jobs.ashbyhq.com/voleon/f3a20b19-e46e-4197-b63d-b663eab999d2",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ year experience in systematic trading operations\" plus leadership experience; Bachelor's in a scientific discipline. Experience gate not met.",
+      "requirements": "5+ years in systematic trading operations | Leadership/management experience mentoring junior traders | Process-oriented approach with zero tolerance for error | Technical background in Python, able to design production technology | Market microstructure expertise across regions and asset classes | Bachelor's in a scientific discipline",
+      "comp_local": "",
+      "notes": "Only in-scope Trader-track opening. It is a management req (leads a team of trading supervisors across listed and OTC desks), not a junior/associate trader seat — the equivalent Associate Quantitative Trader req is New York only, which is out of scope. Published 2026-07-27."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Berkeley",
+      "existing_title": "ML Researcher",
+      "verdict": "could-not-verify",
+      "detail": "Berkeley is out of scope for this pass (US), so the row was not researched on its merits. Two factual corrections apply regardless: Voleon has no job titled 'ML Researcher' — the Berkeley research titles on their own board are 'Member of Research Staff', 'Senior Member of Research Staff', 'Member of Research Staff, Optimization' and 'Member of Research Staff, Reinforcement Learning, Voleon Securities' (https://jobs.ashbyhq.com/voleon). And the existing eligibility note 'recent grads accepted; you qualify' is wrong: every Member of Research Staff posting states 'Ph.D. level coursework is required, and a Ph.D. degree in a relevant field is preferred'. The row's source link (https://voleon.com/) is also not a job posting."
+    }
+  ],
+  "notes": "Voleon's board runs on Ashby, embedded at https://voleon.com/jobs/ and served from https://jobs.ashbyhq.com/voleon; I enumerated all 54 live reqs via the firm's own Ashby posting API, so all role rows are verified-primary. Voleon publishes no offices/locations page — voleon.com only describes the Berkeley HQ near UC Berkeley — so office presence was inferred from posting locations on the firm's own board: Berkeley CA, New York City, Miami FL, and London. London is the only in-scope city, and it has 7 live reqs; no Tokyo, Singapore, Hong Kong, Shanghai or continental-EU postings exist anywhere on the board, so those offices appear not to exist. The London 'Systems Administrator (Corporate IT)' req was excluded as out of scope (IT support). No C++ or ML Performance track roles exist in London — all Voleon software/infrastructure engineering reqs are Berkeley, NYC or US-remote, and the stack described in postings is Python/R/SQL rather than C++, so the candidate's GPU-kernel and low-latency C++ background has no matching London seat. No compensation figures are stated on any London posting: the Ashby compensation fields are empty for all six, and Voleon's UK entity does not publish bands, so comp_local is empty throughout. Postings state 'Relocation and work visa eligibility for qualified candidates' on the research reqs; as an EU citizen the candidate would still need UK permission — the HPI visa route applies. jobs.lever.co/voleon returns an empty posting list (stale, migrated to Ashby) and 403s on direct fetch; voleon.com/careers/ is a 404 — the correct path is voleon.com/jobs/."
+}

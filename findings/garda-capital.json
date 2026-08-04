@@ -1,0 +1,71 @@
+{
+  "firm": "Garda Capital Partners",
+  "careers_url": "https://www.gardacp.com/careers/",
+  "offices_in_scope_confirmed": ["Geneva", "Zug", "Copenhagen", "Singapore"],
+  "offices_checked_not_found": ["London", "Paris", "Amsterdam", "Dublin", "Frankfurt", "Milan", "Warsaw", "Hong Kong", "Shanghai", "Tokyo"],
+  "roles": [
+    {
+      "location": "Geneva",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6008823004",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1 to 4 years of experience in quantitative research, systematic trading, or a related field\"; Bachelor's or Master's in statistics, financial engineering, applied math, computer science or comparable quantitative discipline. No graduation-year gate. Candidate's ~18 months by a mid-2027 start sits inside the band.",
+      "requirements": "BSc/MSc in stats, financial engineering, applied math, CS or comparable | 1-4 years in quantitative research or systematic trading | Exceptional quantitative and programming skills in Python | Full research lifecycle: data analysis, signal generation, backtesting | Partner with portfolio managers and technology teams | Preferred: fixed income market knowledge, execution/OMS familiarity, comfort with AI coding assistants such as Claude",
+      "comp_local": "",
+      "notes": "Posting is listed for both Geneva and Zug on a single req — one application covers both Swiss sites. Sits on the Quantitative Investment Research team. Firm is fixed-income relative value; Python is the stated language, no C++ requirement mentioned. Candidate needs no sponsorship (CH residence permit). This is the single best-fit opening at the firm."
+    },
+    {
+      "location": "Zug",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6008823004",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1 to 4 years of experience in quantitative research, systematic trading, or a related field\"; Bachelor's or Master's in a quantitative discipline. No graduation-year gate.",
+      "requirements": "BSc/MSc in stats, financial engineering, applied math, CS or comparable | 1-4 years in quantitative research or systematic trading | Exceptional quantitative and programming skills in Python | Full research lifecycle: data analysis, signal generation, backtesting | Partner with portfolio managers and technology teams | Preferred: fixed income market knowledge, execution/OMS familiarity, comfort with AI coding assistants such as Claude",
+      "comp_local": "",
+      "notes": "Same requisition as the Geneva listing (ID 6008823004) — the posting names Geneva and Zug together, it is not two separate headcounts. Do not apply twice."
+    },
+    {
+      "location": "Geneva",
+      "title": "Investment Analyst (Inflation)",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/5567377004",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1-2 years of experience at a top-tier bank or hedge fund\" — this is a sell-side/buy-side pedigree gate rather than a years gate, and the candidate's experience is in software/ML in Tokyo, not banking. Degree accepted in finance, economics, or comparable quantitative field.",
+      "requirements": "1-2 years at a top-tier bank or hedge fund | BSc/MSc in finance, economics or comparable quantitative field | Advanced quantitative and programming skills in Python and SQL | Knowledge of and interest in financial markets | Analyse inflation cash and derivative instruments, backtest and track performance | Willingness to work non-standard hours",
+      "comp_local": "",
+      "notes": "Desk-embedded seat next to a senior PM on the Inflation Trading Desk — closer to a junior trader/desk analyst than a systematic research seat. The 'top-tier bank or hedge fund' background requirement is the main obstacle; no fixed-income or markets background is evident in the candidate profile. Lower probability than the Quantitative Researcher req."
+    },
+    {
+      "location": "Geneva",
+      "title": "AI Intern",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/5843263004",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED — requires \"Pursuing a Bachelor's or Master's Degree in Computer Science, Engineering, Mathematics, Physics, or a related quantitative discipline\". Candidate graduated Feb 2026 and is not enrolled, so does not meet the gate. Duration is 6 months, starting as soon as the candidate is available.",
+      "requirements": "Currently enrolled in a BSc/MSc in CS, engineering, maths, physics or related | Strong CS fundamentals: data structures, algorithms, asynchronous programming | Python ecosystem: pandas, NumPy, PyTorch/TensorFlow | Build LLM and agentic-workflow solutions, ship MVPs and iterate on stakeholder feedback | Automate data extraction and reporting | Interest in financial markets and trading",
+      "comp_local": "",
+      "notes": "Listed only because it is the firm's sole ML-flavoured opening in scope and it clears the 6-month internship threshold. In practice it is a poor fit: it is an enrolled-student internship, and the work is LLM/agent application-building rather than GPU or kernel performance engineering. Posted for Geneva and Zug on one req (same ID)."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Geneva",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "A live 'Quantitative Researcher' req for Geneva is open on Garda's own Greenhouse board at https://job-boards.greenhouse.io/gardacp/jobs/6008823004, and the Geneva office is confirmed on https://www.gardacp.com/ (Rue de la Corraterie 5, 1204 Geneva). The title matches exactly. Caveat: the row's 'CHF 120-180k' comp figure is not stated anywhere in the posting or on the firm's site and should be treated as unverified; the row's verification status should be upgraded from 'Reported' to verified-primary."
+    },
+    {
+      "location": "Zug",
+      "existing_title": "Quantitative Researcher",
+      "verdict": "confirmed",
+      "detail": "Zug is a confirmed Garda office per https://www.gardacp.com/, and the same Quantitative Researcher req (https://job-boards.greenhouse.io/gardacp/jobs/6008823004) is posted for Zug as well as Geneva. Important correction to the sheet's framing: the row describes this as a 'Second Swiss seat', but Geneva and Zug are the same single requisition, not two separate headcounts — counting them as two openings overstates the firm's capacity by one. As with the Geneva row, the 'CHF 120-180k' figure is unverified."
+    }
+  ],
+  "notes": "Garda Capital Partners is a fixed-income relative value manager with eight offices; four are in scope for this pass (Geneva, Zug, Copenhagen, Singapore) and the remaining four (Wayzata MN, New York, Palm Beach Gardens FL, Scottsdale AZ) are US and excluded. There is no London, Paris, Amsterdam, Dublin, Frankfurt, Hong Kong, Shanghai or Tokyo office — the firm has no UK or Asia-ex-Singapore presence at all, which is unusual for a firm of this size and worth remembering if other sheet rows claim one.\n\nThe entire careers board was enumerated (10 live reqs total, both via https://www.gardacp.com/careers/ and the underlying Greenhouse board at https://job-boards.greenhouse.io/gardacp — the firm's own careers page is a mirror of the Greenhouse board, so both count as primary). Of those 10: four are Wayzata/New York US roles (Office Manager, Director of Accounting, Technology Project Manager, Technical Support Analyst, Software Engineer) and are out of scope by location; three are in-scope by location but out of scope by track (Cybersecurity Analyst - Geneva, Infrastructure Support Engineer - Singapore, both IT/infra support rather than trading systems or ML). No C++ or Trader track role is open at this firm anywhere in scope. Notably the only Singapore opening is IT support, and Copenhagen has zero live openings.\n\nCoverage gaps and cautions: (1) No compensation figure is stated on any Garda posting, and no credible Swiss-specific figure was found, so all comp_local fields are empty — the existing sheet's 'CHF 120-180k / USD 135-200k' band for the Swiss QR seats has no sourced basis and I could not substantiate it. (2) The firm also directs candidates to hr@gardacp.com and to its LinkedIn page for roles that may not appear on the public board, so unlisted openings are possible but unverifiable. (3) The Swiss seats are Python-first quant research; a candidate whose strengths are C++ and GPU kernels should expect to lead with the research/publication record rather than the systems work, and the QR posting's explicit nod to comfort with AI coding assistants is a genuine positive signal for this profile."
+}

@@ -1,0 +1,77 @@
+{
+  "firm": "Qianxiang Asset (千象) / Shanghai Qianxiang Asset Management Co., Ltd. 上海千象资产管理有限公司",
+  "careers_url": "https://lfd4p99lg4.jobs.feishu.cn/index",
+  "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+  "offices_checked_not_found": ["Singapore", "Tokyo", "London", "Amsterdam", "Paris", "Dublin", "Frankfurt", "Milan", "Warsaw", "Zurich"],
+  "roles": [
+    {
+      "location": "Shanghai",
+      "title": "量化开发工程师 (Quantitative Development Engineer)",
+      "track": "ML Performance",
+      "url": "https://lfd4p99lg4.jobs.feishu.cn/index/position/7386585977302862116/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "全职 (full-time). No graduation-year or student gate stated. No explicit years-of-experience minimum stated in the posting.",
+      "requirements": "精通 Linux 操作系统，对服务器硬件、GPU有深入理解 (expert Linux; deep understanding of server hardware and GPUs) | 对 Kubernetes、Docker 生态系统有深入了解，掌握 CRI/CNI/CSI/LB 部署优化实践 | 有 AI 相关项目经验，了解 AI 训练，熟悉模型部署和相关后端服务 | 熟悉 Java 或 Python 开发，有 QPS 1000 以上的后端服务开发经验 | 熟悉 C++ 开发，有实际的多线程高并发计算系统相关经验",
+      "comp_local": "",
+      "notes": "Best fit on the board for this candidate. Scope spans both tracks: the job description covers the trading platform (行情系统 market-data, 高性能计算 high-performance compute, 交易系统 trading systems) and the firm's own low-level frameworks (分布式训练框架 distributed training framework, 高性能数据框架 high-performance data framework), which maps to ML Performance, while requirement 5 is explicit C++ multithreaded high-concurrency. MANDARIN REQUIRED: posting is Chinese-only, as is the entire careers portal and application flow (Feishu/Lark ATS, no English site — enable_campus_jobs=0, only one website, the 社招官网 experienced-hire board). Shanghai seat requires work-permit sponsorship for a non-Chinese national; nothing in the posting addresses foreign hires. Firm is a CTA-heavy quant manager, AUM >RMB 100bn per AMAC, 64 full-time staff onshore."
+    },
+    {
+      "location": "Shanghai",
+      "title": "股票研究员/投资经理 (Equity Researcher / Portfolio Manager)",
+      "track": "Research",
+      "url": "https://lfd4p99lg4.jobs.feishu.cn/index/position/7153893629370517792/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Verbatim: 「1、985或海外知名高校，硕士及以上学历，特别优秀者可放宽至本科…3、有一年以上量化研究经验，特别优秀者可放宽至应届毕业生。」 — i.e. 985-tier Chinese or well-known overseas university, MSc+, and 1+ year of quantitative research experience, relaxable to new graduates for exceptional candidates. Not a student-gated req.",
+      "requirements": "985 or well-known overseas university, MSc or above (bachelor's accepted if exceptional) | Maths, statistics, physics, CS or other STEM major preferred | Competition medals (IMO/CMO/IPhO/CPhO/IOI/NOI/ACM-ICPC/MCM) or published papers in well-known journals/conferences preferred | 1+ year quantitative research experience, relaxable for new grads | Work: build/test/evaluate new factors, improve combined-factor algorithms with maths/statistics/ML, research portfolio optimisation",
+      "comp_local": "",
+      "notes": "EPFL should satisfy 海外知名高校. The 'published papers preferred' clause maps directly onto the candidate's ICLR/AAAI/ISCA record. MANDARIN REQUIRED — posting Chinese-only, applications via Chinese-language Feishu portal. Shanghai seat needs sponsorship; posting says nothing about foreign hires. Note the role is framed as working 在导师带领下 (under a mentor), so it is a junior-to-mid research seat."
+    },
+    {
+      "location": "Shanghai",
+      "title": "CTA研究员/投资经理 (CTA Researcher / Portfolio Manager)",
+      "track": "Research",
+      "url": "https://lfd4p99lg4.jobs.feishu.cn/index/position/7158692600390682887/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Verbatim: 「2、1年以上CTA实盘经验和优异业绩，有完整的策略体系和方法论。」 — 1+ year of LIVE CTA trading experience with a strong track record and a complete strategy framework/methodology. This is a hard gate the candidate does not meet.",
+      "requirements": "985 or well-known overseas university, MSc or above (bachelor's if exceptional) | Maths, physics, CS or other STEM preferred | 1+ year live (实盘) CTA trading experience with strong performance | Complete strategy system and methodology of their own | Responsible for implementing and running live high/mid/low-frequency CTA strategies",
+      "comp_local": "",
+      "notes": "POOR FIT despite being the firm's flagship strategy area — the live-CTA-P&L-track-record gate rules out a candidate coming from ML/systems rather than from a trading seat. Listed for completeness. MANDARIN REQUIRED; Chinese-only posting."
+    },
+    {
+      "location": "Shanghai",
+      "title": "量化交易工程师 (Quantitative Trading Engineer)",
+      "track": "Trader",
+      "url": "https://lfd4p99lg4.jobs.feishu.cn/index/position/7435939771246086439/detail",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "全职 (full-time). No degree, graduation-year or years-of-experience gate stated.",
+      "requirements": "承担股票、期货自动化交易的日盘、夜盘交易监控、风控处理 (day-session and night-session monitoring and risk handling for automated equity and futures trading) | 不断完善监控细节，确保交易稳定 (continuously improve monitoring to keep trading stable) | 细心、负责、解决问题能力突出 (careful, responsible, strong problem-solving) | 具备一定的编程能力（python，SQL等）(some programming ability — Python, SQL)",
+      "comp_local": "",
+      "notes": "BORDERLINE / likely a downgrade — this is a trade-monitoring and risk-ops shift seat (day and night sessions), not a discretionary or algo trader seat, and the only technical bar is 'some Python/SQL'. Included because it is the closest thing to a Trader-track opening the firm has posted; it is well below this candidate's level and arguably out of scope. MANDARIN REQUIRED."
+    },
+    {
+      "location": "Shanghai",
+      "title": "C++ 开发工程师 (C++ Development Engineer)",
+      "track": "C++",
+      "url": "https://m.liepin.com/company/8177652/",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Not established — the requirement text was not readable from the aggregator listing, and this req does not appear on the firm's own careers board.",
+      "requirements": "Not verified — no requirement text captured. Do not rely on this row for req detail; treat the title and salary band as the only data points.",
+      "comp_local": "RMB 25,000-50,000 per month (as displayed on the Liepin company page; roughly RMB 300k-600k/yr before bonus)",
+      "notes": "SECONDARY ONLY — listed on the firm's Liepin company page (two separate C++ 开发工程师 entries, one tagged Shanghai and one Shanghai-Pudong), but NOT on the firm's own Feishu careers board, which carries only the broader 量化开发工程师. Liepin company pages retain stale listings and show no post dates, so I cannot confirm this is currently open. Included because it is the only pure-C++ title anywhere associated with the firm and therefore the most direct match for the candidate's C++ track — but it should be confirmed by direct enquiry before it is treated as a live opening. MANDARIN REQUIRED. The same Liepin page shows the firm's full salary band structure (all monthly RMB, all Shanghai): 量化投资经理 / CTA投资经理 / 量化策略投资经理 40-70k; 量化投资经理/研究员 40-60k; CTA研究员 and 股票量化研究员 35-60k; CTA投资经理/研究员 and 投资经理 30-50k; C++ 开发工程师, 资深运维兼信息安全工程师, 股票研究员 25-50k; 运维工程师 25-40k; 运维开发 20-40k; 量化交易员 20-50k; 量化交易监控研究员 15-30k."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Hong Kong",
+      "existing_title": "Quantitative Researcher (offshore)",
+      "verdict": "could-not-verify",
+      "detail": "The Hong Kong entity is real but the role is not. VERIFIED on the SFC public register: 'QX Asset Management Limited 千象資產管理有限公司', CE ref BSV422, Type 9 (Asset Management) only, active, effective 21 Feb 2023 (https://apps.sfc.hk/publicregWeb/corp/BSV422/details); registered address Office 907, Sun House, 90 Connaught Road, Central, Hong Kong; contact infohk@qxinvest.com; only two Responsible Officers on record, MA Kechao 馬科超 (also the Shanghai entity's legal representative, per AMAC) and YIM Wing Yuk 嚴永旭. That profile — a single small suite, two ROs, licence-only Type 9 — reads as a licence-holding offshore vehicle, not a research office with headcount. The firm's own careers portal (https://lfd4p99lg4.jobs.feishu.cn/index) shows 8 live openings and EVERY ONE is Shanghai; there is no Hong Kong posting of any kind, and no quantitative researcher posting outside Shanghai. Four specific corrections to the existing row: (1) the source URL https://www.qxfund.com/ is DEAD — it now redirects to a GoDaddy 'for sale' parking page; the firm's actual site is https://www.qxinvest.com/ and its careers portal is the Feishu board above. (2) 'SFC licence 2024' is wrong — the licence is effective 21 Feb 2023. (3) 'English-tolerant niche' is unsupported — every posting, the whole careers portal and the application flow are Chinese-only, and the onshore site sits behind a Chinese qualified-investor gate. (4) The comp figure HKD 0.9–1.4M is not stated anywhere I could find on a primary source and should be treated as unsourced. Recommend the row be re-pointed to Shanghai or dropped. Three further supporting points from secondary sources: the firm's LinkedIn page lists HQ Shanghai, 51-200 employees, and its about-text funnels ALL applicants to the Shanghai Feishu board (「更多职位请关注：https://lfd4p99lg4.jobs.feishu.cn/index」) — a single Shanghai-only hiring funnel is what you would expect if HK carries no headcount; no HK posting exists on JobsDB HK, Indeed HK or eFinancialCareers under either name; and there is a second HK entity, QX Asset Management OFC 千象資產管理開放式基金型公司, which is an open-ended fund vehicle rather than an employer. UNRESOLVED ADDRESS CONFLICT: a search snippet of qxinvest.com gives an HK office at 金鐘夏慤道18號海富中心一座1503 (Rm 1503, Admiralty Centre Tower 1, Admiralty), which does not match the SFC-registered Office 907, Sun House, 90 Connaught Road, Central. The SFC address is the primary-source one; the discrepancy was not resolved and is worth checking if anyone pursues the HK entity."
+    }
+  ],
+  "notes": "Primary sources loaded personally: (a) the firm's own Feishu-hosted careers board https://lfd4p99lg4.jobs.feishu.cn/index and all 8 individual job-detail pages — the board is fully JavaScript-rendered and its /api/v1/search/job/posts endpoint refuses both GET and POST from a plain client, so I rendered it with headless Chrome to read the postings; (b) the SFC public register entry for BSV422 (licence details, addresses and responsible-officer tabs); (c) the AMAC manager registry entry https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000008238.html confirming the onshore entity — registration P1006930, registered 28 Jan 2015, AUM band '100 billion yuan and above', 64 full-time staff, legal rep Ma Kechao, address 8F Chengjianguo International Center, 500 Fushan Road, Pudong, Shanghai. FULL BOARD INVENTORY (8 live, all Shanghai): 量化开发工程师; 股票研究员/投资经理; CTA研究员/投资经理; 量化交易工程师; 资深运维兼信息安全工程师 (senior IT ops / infosec — out of scope); plus three internships — CTA实习生, AI实习生, 股票量化实习生（基本面方向）. The internships are out of scope on the <6-month rule (the equity one states 实习时间3个月以上，出勤四天及以上 — 3+ months, 4+ days a week; the AI one likewise 3个月以上); worth noting only because the AI internship is the sole LLM/agent-research-flavoured posting at the firm. The board's tenant config reports enable_campus_jobs=0 and a single website (社招官网 / 'Experienced Hire Official Website'), so there is no separate campus board hiding additional reqs. NO ROLES FOUND in Hong Kong, Singapore, Tokyo, the UK or the EU — the firm has no careers presence in any of them. A parallel sweep of Liepin, LinkedIn, BOSS直聘, Nowcoder, eFinancialCareers, JobsDB HK and Indeed HK returned ZERO 千象 / QX Asset postings in Hong Kong, Singapore, Tokyo, the UK or the EU — every posting attributable to the firm anywhere is Shanghai, which corroborates the primary board. Secondary only: a LinkedIn company page lists offices in Shanghai, Beijing, Guangzhou and Hong Kong; Beijing and Guangzhou are out of scope and I did not independently confirm them. The firm's Liepin company page (https://m.liepin.com/company/8177652/) carries 20 Shanghai listings with monthly RMB salary bands — the only comp data found anywhere; it is reproduced in the notes on the C++ 开发工程师 row. Liepin carries several titles absent from the firm's own board (two C++ 开发工程师, plus 股票研究员, 运维开发/运维工程师 and standalone 量化交易员), but shows no post dates and is known to retain stale reqs, so only the C++ one is carried here and it is marked reported-secondary. OVERALL READ FOR THIS CANDIDATE: this is a Mandarin-first mainland manager. Every in-scope opening is a Shanghai seat requiring a China work permit and Chinese-language application; there is no English-tolerant exception here, and the Hong Kong 'offshore' angle in the existing sheet does not correspond to any advertised headcount."
+}

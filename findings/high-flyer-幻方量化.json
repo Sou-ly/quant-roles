@@ -1,0 +1,22 @@
+{
+ "firm": "High-Flyer (幻方量化)",
+ "careers_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+ "offices_in_scope_confirmed": ["Shanghai", "Hong Kong"],
+ "offices_checked_not_found": ["Singapore", "Tokyo", "London", "EU (any city)"],
+ "roles": [],
+ "existing_rows_audit": [
+  {
+   "location": "Hangzhou",
+   "existing_title": "AI Infrastructure / GPU Engineer",
+   "verdict": "confirmed",
+   "detail": "Hangzhou HQ (杭州市拱墅区环城北路169号汇金国际大厦A座14层, per https://www.high-flyer.cn/join/) is real and the AI-core-systems roles are genuinely open there — e.g. '高性能算子/通信/编译器工程师' (MJ000245, dept 'DeepSeek', CUDA/Ascend C/TileLang/GEMM/Attention/NCCL/RDMA/MLIR), '大模型训练/推理框架工程师' (MJ000247), '超算集群研发工程师' (MJ000244), '高性能分布式存储工程师' (MJ000250), all on https://app.mokahr.com/social-recruitment/high-flyer/140576. BUT: Hangzhou is not one of the brief's in-scope locations (EU/UK/Singapore/Hong Kong/Shanghai/Tokyo), so the row is out of scope for this pass. Also, the row's claim of an 'English-tolerant infra niche' is contradicted by the posting: the core requirements list '良好的中文沟通能力' (good Chinese communication ability) verbatim."
+  },
+  {
+   "location": "Shanghai",
+   "existing_title": "AI Infrastructure Engineer",
+   "verdict": "no-longer-open",
+   "detail": "The Shanghai office exists (上海市浦东新区花园石桥路66号东亚银行金融大厦45层, listed on https://www.high-flyer.cn/join/), but there is no Shanghai posting of any kind. I enumerated the firm's full job feed (35 open reqs, jobStats.total=35) from the official Moka portal linked off high-flyer.cn/join, and the only cities that appear anywhere in it are 浙江-拱墅区 (Hangzhou), 北京市-海淀区 (Beijing) and 内蒙古-察哈尔右翼前旗 (Ulanqab, the Fire-Flyer datacentre site). Zero Shanghai reqs, and zero AI-infrastructure reqs based in Shanghai. The same job set is served by https://talent.deepseek.com/ with identical location fields."
+  }
+ ],
+ "notes": "NO IN-SCOPE OPENINGS. Full method: https://www.high-flyer.cn/join/ links to exactly one careers destination, https://app.mokahr.com/apply/high-flyer/4604 which redirects to https://app.mokahr.com/social-recruitment/high-flyer/140576, titled '幻方&DeepSeek - 社会招聘' — i.e. the quant manager and DeepSeek share a single recruitment portal. The page is JS-only and its job API returns AES-CBC-encrypted payloads, so I decrypted the /api/outer/ats-apply/website/jobs response to read the listings; this is the firm's own site, so I treat what I read there as primary. All 35 live reqs are Hangzhou / Beijing / Ulanqab. In-scope-relevant tracks present but only in out-of-scope cities: ML Performance ('高性能算子/通信/编译器工程师', '大模型训练/推理框架工程师', '超算集群研发工程师', '高性能分布式存储工程师', 'Agent Infra 研发工程师'), Research ('预训练/后训练/多模态/Frontier 研究员'). Notably there are currently NO quant-fund roles at all in the feed (no quant researcher, no trading-systems C++) — the portal is entirely AGI/DeepSeek-side hiring as of 2026-08-04. MANDARIN: explicitly required, not merely cultural — the kernel/compiler req lists '良好的中文沟通能力' among its core requirements, and every posting is Chinese-only. The 'English-tolerant infra niche' framing in the existing spreadsheet rows is not supported by any posting text I read. OFFSHORE: High-Flyer Capital Management (Hong Kong) Limited exists (SFC Type 9 asset-management licence since 2019; site https://www.highflyercapital.com/, +852 3975 2957) — I loaded the site and it has NO careers/jobs page and no listed openings; treat Hong Kong as a real entity with no advertised hiring. No Singapore, Tokyo, UK or EU presence found for either the onshore or offshore entity. COMP: the ¥1–2M / $140–280k figures in the existing rows are not stated on any posting or on high-flyer.cn — no salary is published anywhere I could see; those numbers should be treated as unsourced. Coverage gap: mainland recruiting also runs through Liepin/BOSS直聘/内推, which I did not treat as primary; a Shanghai-based req could in principle exist off-portal, but nothing on the firm's own channels supports one."
+}

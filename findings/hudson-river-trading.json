@@ -1,0 +1,239 @@
+{
+  "firm": "Hudson River Trading",
+  "careers_url": "https://www.hudsonrivertrading.com/careers/",
+  "offices_in_scope_confirmed": ["London", "Dublin", "Singapore", "Hong Kong", "Shanghai"],
+  "offices_checked_not_found": ["Tokyo", "Paris", "Amsterdam", "Zurich", "Frankfurt", "Milan", "Warsaw"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Software Engineer – C++",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7392942",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"1+ years of professional work experience\"; \"Bachelor's degree in Computer Science, Computer Engineering, or related field\". No graduation-year or student gate.",
+      "requirements": "1+ years professional work experience | Bachelor's in CS/CE or related | Superior design, debugging and problem solving skills | Advanced C++ experience is required, daily use preferred | Knowledge of UNIX (we use Linux), system/processor performance, and network communication",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\" (base only; sign-on and discretionary performance bonus on top)",
+      "notes": "This is the experienced-hire C++ req and the single best-fit London door for the candidate — explicitly NOT student-gated, unlike the 2027 Grads posting. Posted for Austin/Chicago/London/New York; London is the in-scope city. Comp figure is a USD base range with '(or local equivalent)' — the GBP number is not stated."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer - Distributed Compute",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's in CS/CE or related. No years-of-experience minimum and no graduation-year gate stated.",
+      "requirements": "Bachelor's in CS/CE or related | Strong C++ expertise (daily use preferred) | Python familiarity preferred | Experience collaborating closely with quantitative researchers and traders | Superior design, debugging and problem solving | Knowledge of UNIX/Linux, system/processor performance, network communication",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Compute-cluster / research-platform C++ rather than tick-to-trade. Good overlap with the candidate's GPU + HPC background. Posted London + New York; a separate Singapore-only copy of the same role also exists (gh_jid=7566004)."
+    },
+    {
+      "location": "London",
+      "title": "AI Research Engineer, Inference",
+      "track": "ML Performance",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Must have two or more years work experience building deep learning systems, for any domain\". No student/graduation gate. Candidate will be at ~18 months by a mid-2027 start — marginally under the stated 2-year bar.",
+      "requirements": "Strong engineering skills, especially CUDA/Triton/Pallas/CuTe DSL kernel development, lower-level PyTorch/JAX/XLA development, CUDA Graphs, FPGA/ASIC | 2+ years building deep learning systems (any domain) | Experience translating methods between areas of application highly valued | LLM experience valuable but not necessary | Finance experience not required",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 250,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Closest match on the whole board to the candidate's profile: merged llama.cpp GPU kernels + ISCA workshop paper map directly onto the CUDA/Triton kernel and inference-optimisation requirements. Explicitly says finance experience is not required. Posted London + New York."
+    },
+    {
+      "location": "London",
+      "title": "AI Research Engineer, Pre-Training",
+      "track": "ML Performance",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Must have two or more years work experience building deep learning systems, for any domain\". No student/graduation gate.",
+      "requirements": "CUDA/Triton/Pallas/CuTe DSL kernel development, lower-level PyTorch/JAX/XLA, CUDA Graphs, FPGA/ASIC | 2+ years building deep learning systems | Experience translating methods between application areas | LLM experience valuable but not necessary | Finance experience not required",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 250,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Sister req to the Inference role with an identical qualifications block; distributed-training rather than serving side. Posted London + New York."
+    },
+    {
+      "location": "London",
+      "title": "AI Researcher",
+      "track": "Research",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7024891",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Must have two or more years work experience in deep learning research, for any domain\". No student/graduation gate.",
+      "requirements": "2+ years deep learning research experience (any domain: robotics, biology, chemistry, physics, audio, video) | Experience translating methods between areas of application | LLM experience valuable but not necessary | Strong engineering skills valued: GPU kernel development, lower-level PyTorch/JAX, intermediate C++, FPGA/ASIC, HPC",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Research-track counterpart to the AI Research Engineer reqs — the ICLR/AAAI first-author submissions are the relevant evidence here, and the 'strong engineering skills valued' bullet reads as written for this candidate. Posted London + New York."
+    },
+    {
+      "location": "London",
+      "title": "AI Researcher, LLMs",
+      "track": "Research",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8000350",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Two or more years of hands-on experience training, post-training, or evaluating LLMs at scale\". No student/graduation gate.",
+      "requirements": "2+ years hands-on training/post-training/evaluating LLMs at scale | Direct experience with large-scale pretraining, post-training (SFT, RL), LLM evaluation design, or distributed training/inference systems | Research taste: design ablations that change decisions | Strong engineering skills valued: GPU kernel development, lower-level PyTorch internals, or published frontier-style LLM work",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Narrower LLM-specific req; the 2+ years is specifically LLM-at-scale, which is a harder bar for this candidate than the generic AI Researcher posting above. Posted London + New York."
+    },
+    {
+      "location": "London",
+      "title": "Research Engineer",
+      "track": "ML Performance",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Completed a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field. If you are currently pursuing your Bachelor's degree, please apply to [the campus posting]\" — i.e. this is the non-student version. No graduation-year gate.",
+      "requirements": "Completed Bachelor's or Master's in CS/Engineering | Previous experience at a top-tier finance or technology company | Hands-on experience with quant research and/or ML/Deep Learning platforms a bonus | Python numerical/ML libraries a big plus (pandas, scikit, pytorch) | Interviews in either Python or C++ | Strong data structures, algorithms and design fundamentals",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Builds and supports the internal quant-research / ML platform, supporting internal users. Explicitly language-agnostic at interview (Python or C++). Posted London + New York."
+    },
+    {
+      "location": "London",
+      "title": "GPU Systems Engineer",
+      "track": "ML Performance",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7162019",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"5+ years of experience in large-scale Linux systems engineering in HPC, AI or distributed infrastructure roles\" — well above the candidate's ~18 months. No student gate.",
+      "requirements": "5+ years large-scale Linux systems engineering in HPC/AI/distributed infra | Linux install, performance tuning, troubleshooting | Troubleshooting distributed GPU workloads; GPU optimization and performance | Python scripting; CUDA or C/C++ a plus | NVIDIA stack beyond CUDA: NCCL, GPUDirect RDMA, NVLink | Config management (Salt, Ansible, Puppet, Chef)",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 150,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "Infrastructure/SRE-flavoured GPU work (cluster operation) rather than kernel authoring — the 5+ year bar makes this a reach. Listed for completeness because it is the only explicit GPU-titled role in scope. Posted Austin/Chicago/London/New York."
+    },
+    {
+      "location": "London",
+      "title": "High Performance Compute (HPC) Storage Engineer",
+      "track": "ML Performance",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7353090",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3+ years of experience in HPC-like environments with large scale storage deployments greater than 1PB\" — above the candidate's experience. No student gate.",
+      "requirements": "Distributed file systems for large-scale cluster computing (Lustre, CephFS, GPFS) | 3+ years HPC-like environments, >1PB storage deployments | 3+ years scale-out enterprise storage (Isilon, VAST, NetApp, Pure) | Extensive Linux troubleshooting and NFS | Strong Linux, ZFS and other Linux filesystems | Python and shell scripting",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 150,000 to 250,000 USD per year (or local equivalent)\"",
+      "notes": "Storage-infrastructure role, not ML engineering — weak fit despite the HPC title. Included only so the parent sheet knows it exists. Posted Austin/Chicago/London/New York."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer (C++ or Python) – 2027 Grads",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED, verbatim: \"You are a full-time undergraduate or master's student studying computer science (or a related field) who is eligible for full-time roles in 2027\". The candidate graduated Feb 2026 and is employed — does not qualify. Apply to gh_jid=7392942 (Software Engineer – C++) instead.",
+      "requirements": "Full-time undergrad or master's student eligible for full-time roles in 2027 | Excellent design, debugging and problem solving skills | Working experience with C/C++ or Python required, plus good CS fundamentals | Knowledge of UNIX/Linux, system/processor performance, network communication | Interest in low-level architecture, logic design and/or verification a plus",
+      "comp_local": "Posting states: \"Base salary for US is $300,000. Other locations have similarly locally competitive base salaries.\"",
+      "notes": "This is the posting the existing spreadsheet rows quoted as the 'GRAD REQ STUDENT-GATED' language. Recorded here to document the gate, not as an application target. Posted Austin/Chicago/London/New York/Singapore."
+    },
+    {
+      "location": "London",
+      "title": "Algorithm Developer (Quant Research & Trading) – 2027 Grads",
+      "track": "Research",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "STUDENT-GATED, verbatim: \"You are a full-time undergraduate or masters student in a quantitative discipline (math, physics, computer science, statistics, or a related program) who is eligible for full-time roles in 2027\". Candidate does not qualify.",
+      "requirements": "Full-time undergrad/masters student in a quantitative discipline eligible for full-time roles in 2027 | Experience programming in Python and/or C++ | Statistical analysis, numerical programming or ML in Python, Pandas/Numpy, R and/or MATLAB | Brilliant analytical and problem-solving skills | Ability to work creatively and independently on long-term technical problems",
+      "comp_local": "Posting states: \"Base salary for US is $300,000. Other locations have similarly locally competitive base salaries.\"",
+      "notes": "Campus quant-research pipeline. A 2027 PhD variant also exists (gh_jid=8059845, same London/New York/Singapore footprint, gated on being a full-time PhD student). There is NO experienced-hire Algorithm Developer posting for London — the only open experienced Algo Developer req is New York + Singapore (gh_jid=96224). Posted London/New York/Singapore."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software Engineer - Low Level (C++)",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=1229082",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"You possess a bachelor's degree in Computer Science, Engineering or related field\". No years-of-experience minimum and no student/graduation gate.",
+      "requirements": "C++ experience required | Familiarity with UNIX operating systems and comfort at a command line | Must be fluent (reading, writing and conversing) in English | Adept at working independently and self-managing | Experience developing market data and order entry systems a plus | Bachelor's in CS/Engineering",
+      "comp_local": "",
+      "notes": "Owns market entry and exchange-connectivity work for APAC — market data and order entry systems. Singapore-only req, no grad-year gate, no stated minimum years: the most accessible experienced C++ door outside London. Requires Employment Pass sponsorship, routine at this level. No salary range stated on this posting."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software Engineer - Distributed Compute",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7566004",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's in CS/CE or related. No years-of-experience minimum and no graduation-year gate.",
+      "requirements": "Bachelor's in CS/CE or related | Strong C++ expertise (daily use preferred) | Python familiarity preferred | Experience collaborating with quantitative researchers and traders | Superior design, debugging and problem solving | Knowledge of UNIX/Linux, system/processor performance, network communication",
+      "comp_local": "",
+      "notes": "Singapore-only copy of the London/NY Distributed Compute req (gh_jid=6703954). No salary range stated on the Singapore version. Employment Pass sponsorship required."
+    },
+    {
+      "location": "Singapore",
+      "title": "Algo Developer",
+      "track": "Research",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=96224",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"You possess a bachelor's degree in Math, CS, Stats, Physics, or related field\". NOT student-gated and no minimum years stated — this is the experienced-hire Algo Developer req.",
+      "requirements": "Bachelor's in Math, CS, Stats, Physics or related | Capable of working independently as well as part of a team | Can analyze and fix problems quickly | Learns quickly and applies new skills effectively",
+      "comp_local": "Posting states: \"The estimated base salary range for this position is 200,000 to 300,000 USD per year (or local equivalent)\"",
+      "notes": "The experienced-hire quant research/algo seat. Posted New York + Singapore — Singapore is the in-scope city; there is no London variant of this experienced req. Requirements block is unusually short and generic. Employment Pass sponsorship required."
+    },
+    {
+      "location": "Singapore",
+      "title": "Fixed Income Trader",
+      "track": "Trader",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8082962",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"Minimum of 2 years trading experience in global fixed income products on the buy-side\" — a domain-experience gate the candidate does not meet. No student gate.",
+      "requirements": "Bachelor's degree or higher | Minimum 2 years buy-side trading experience in global fixed income | Experience with large trade sizes and trade counts | Ability to evaluate market technicals | Understanding of APAC fixed income market structure (FX, IRS, sovereign bonds, inflation swaps, bond futures, swaptions, cross-currency basis) | Experience building counterparty relationships",
+      "comp_local": "",
+      "notes": "The only in-scope Trader-track opening at HRT anywhere. It is a discretionary/relationship fixed-income seat requiring prior buy-side FI trading, not a quant-trader pipeline role — poor fit for this candidate's profile. Newest posting on the board (updated 2026-07-30)."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Software Engineer - Low Level (C++)",
+      "track": "C++",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6345536",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Bachelor's in CS/Engineering or related. No years-of-experience minimum and no student/graduation gate.",
+      "requirements": "C++ experience required | Familiarity with UNIX operating systems and comfort at a command line | Must be fluent (reading, writing and conversing) in English | Adept at working independently and in self-management | Experience developing market data and order entry systems a plus",
+      "comp_local": "",
+      "notes": "Hong Kong twin of the Singapore low-level C++ req. Language requirement is stated as ENGLISH fluency — no Mandarin/Cantonese requirement appears in the posting, so this is an English-tolerant APAC seat. Requires HK employment visa sponsorship, routine at this level. No salary range stated."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Dublin",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "no-longer-open",
+      "detail": "The Dublin office is real (1st Floor, 76 Sir John Rogerson's Quay — https://www.hudsonrivertrading.com/offices/), but HRT's live Greenhouse board (72 reqs, board slug 'wehrtyou') has NO C++ or software engineering role in Dublin. The only two Dublin postings are Electronic Trading Support Engineer (gh_jid=6575600) and Junior Electronic Trading Support Engineer (gh_jid=7116458), both support/ops rather than C++ development and both out of the four tracks. The row's comp figure (€120–180k) and the 'Reported' verification were not sourced to any posting."
+    },
+    {
+      "location": "London",
+      "existing_title": "Algo Developer",
+      "verdict": "no-longer-open",
+      "detail": "The experienced-hire 'Algo Developer' req (gh_jid=96224) is posted for New York and Singapore ONLY — not London. London's only Algorithm Developer openings are the student-gated campus reqs 'Algorithm Developer (Quant Research & Trading) – 2027 Grads' (gh_jid=8052050) and '– 2027 PhDs' (gh_jid=8059845). So an experienced London Algo Developer seat does not currently exist, and the row's £180–280k figure is not stated anywhere on HRT's site."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Software Engineer (C++)",
+      "verdict": "title-changed",
+      "detail": "Singapore does have a live experienced C++ req, but the exact posted title is 'Software Engineer - Low Level (C++)' (https://www.hudsonrivertrading.com/careers/job/?gh_jid=1229082). It is also NOT student-gated — the row's 'GRAD REQ STUDENT-GATED' verdict is wrong for this req; it requires only a bachelor's degree and C++ experience. A second Singapore C++ req, 'Software Engineer - Distributed Compute' (gh_jid=7566004), also exists. The SGD 300–420k figure is not stated on either posting."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Software Engineer (C++) — 2027 Grads",
+      "verdict": "confirmed",
+      "detail": "Out of scope for this pass (US), but for the record the req is live as 'Software Engineer (C++ or Python) – 2027 Grads' (gh_jid=8052122) covering Austin/Chicago/London/New York/Singapore, and the posting does state 'Base salary for US is $300,000', which supports the row's comp. The student gate is verbatim and real."
+    },
+    {
+      "location": "Austin",
+      "existing_title": "Core Software Engineer",
+      "verdict": "title-changed",
+      "detail": "Out of scope for this pass (US). No req titled 'Core Software Engineer' exists on HRT's board; the nearest live Austin C++ req is 'Software Engineer – C++' (gh_jid=7392942), which states a 200,000–300,000 USD base range, not the row's $380–470k."
+    },
+    {
+      "location": "Chicago",
+      "existing_title": "Core Software Engineer",
+      "verdict": "title-changed",
+      "detail": "Out of scope for this pass (US). Same finding as Austin — no 'Core Software Engineer' title exists on HRT's board; the live Chicago C++ req is 'Software Engineer – C++' (gh_jid=7392942)."
+    }
+  ],
+  "notes": "Method: https://www.hudsonrivertrading.com/careers/ renders its listings via JavaScript and returned 'no open positions' to a plain fetch, so I enumerated the full board through HRT's own Greenhouse feed (board slug 'wehrtyou'), which returned 72 live reqs, and read the full posting body for each in-scope one. All role URLs above are on hudsonrivertrading.com and return HTTP 200. Offices were confirmed against https://www.hudsonrivertrading.com/offices/ (14 offices).\n\nOffice findings: HRT has NO Tokyo office and no continental-EU office of any kind — Dublin is the firm's only EU seat, and it currently has zero in-track openings. Shanghai and Hong Kong offices both exist; Shanghai has ZERO postings on the board (so nothing to report there), while Hong Kong has exactly one, the low-level C++ req. There is no Mandarin requirement anywhere in the APAC postings I read — both the Hong Kong and Singapore low-level C++ reqs state 'Must be fluent (reading, writing and conversing) in English'.\n\nStudent gates: the '2027 Grads' / '2027 PhDs' postings are genuinely student-gated with verbatim language ('full-time undergraduate or masters student ... eligible for full-time roles in 2027'), which the candidate does not meet. Crucially, the existing spreadsheet applied that gate to every HRT row — that is wrong. The experienced-hire reqs (Software Engineer – C++, Software Engineer - Low Level (C++), Software Engineer - Distributed Compute, Algo Developer, all four AI reqs, Research Engineer) carry no graduation-year gate at all and are the correct application targets.\n\nComp: figures given are quoted verbatim from the postings and are USD BASE ranges with the caveat '(or local equivalent)' — HRT does not publish London/Singapore/Hong Kong local numbers, so do not treat these as GBP/SGD/HKD totals. The Singapore- and Hong Kong-only reqs carry no salary language at all, so comp_local is left empty for those.\n\nExcluded as out-of-track (documented so the gap is visible, not because I failed to find them): a family of London/Singapore Linux-sysadmin and network reqs — Trading Systems Engineer (7+ yrs), Junior Trading Systems Engineer, Systems Engineer - R&D (5+ yrs), Senior Network Engineer - Low Latency Trading (5–10 yrs), HPC Network Engineer (10+ yrs), Quantitative Latency Engineer (Python/data-analytics rather than systems), Data Production Engineer (data eng), Software Engineer - Python (London and Singapore), Fullstack Developer, and the Dublin/Singapore/London Electronic Trading Support Engineer roles. Also excluded: the Summer 2027 internships (under 6 months and student-gated) and the hardware reqs (Design Verification Engineer, Physical Design Engineer, Experienced Hardware Design Engineer), which are RTL/ASIC rather than C++ or ML."
+}

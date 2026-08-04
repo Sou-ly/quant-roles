@@ -1,0 +1,71 @@
+{
+  "firm": "Da Vinci Derivatives (now branded \"Da Vinci Trading\")",
+  "careers_url": "https://davincitrading.com/careers/",
+  "offices_in_scope_confirmed": ["Amsterdam", "Hong Kong"],
+  "offices_checked_not_found": ["London", "Singapore", "Shanghai", "Tokyo", "Paris", "Dublin"],
+  "roles": [
+    {
+      "location": "Amsterdam",
+      "title": "Experienced Quant",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4555960101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3 to 10 years of experience in a quantitative role (trading, research, or development)\". No graduation-year or student gate. Candidate at ~18 months by mid-2027 is below the stated 3-year floor, so this is a stretch application.",
+      "requirements": "Strong academic background in Maths, Physics, Engineering, CS or related | 3-10 yrs in a quantitative role at a prop firm or similar | Deep understanding of financial markets and/or algorithmic trading | Programming proficiency in Python and C++ | Analytical mindset, attention to detail | Proactive, entrepreneurial attitude, strong communication",
+      "comp_local": "Base EUR 100k; posting states total compensation \"expected to be 500k+ USD annually\" including performance bonus, plus shareholding for outstanding performance",
+      "notes": "Role is deliberately broad (trading/research/development), so ML-performance and C++ evidence is relevant. Relocation package offered (budget, flights, house-finding, expat support). EU citizen needs no sponsorship. This is the closest thing Da Vinci currently has to a quant-dev seat in Europe - there is no separate Amsterdam engineering req open."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Experienced Trader",
+      "track": "Trader",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4050868101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3 to 6 years of experience as a trader in volatility trading with a track record of profitability\" - requires an existing trading P&L record, which the candidate does not have. Poor fit.",
+      "requirements": "3-6 yrs volatility trading with proven profitability | Academic degree in a relevant field | Expertise in market making and risk management | Strong understanding of market mechanics | Strong interpersonal skills, entrepreneurial drive",
+      "comp_local": "Base EUR 100k plus variable pay; equity awards for exceptional performance",
+      "notes": "Listed for completeness of the Trader track; the profitability track-record gate makes it a non-starter for a non-trader. Relocation package available."
+    },
+    {
+      "location": "Amsterdam",
+      "title": "Graduate Trader",
+      "track": "Trader",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4043984101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "No explicit graduation-year gate found in the posting text. Framed for graduates with a technical background (Maths, Physics, Engineering, Econometrics, Quant Finance or similar). Someone ~18 months post-MSc is at the upper edge of but not formally excluded from this pipeline.",
+      "requirements": "Technical/quantitative degree | Strong numerical aptitude and analytical problem-solving | Genuine interest in trading; real or simulated trading experience preferred | Ability to decide under pressure, understanding of risk/reward | Communication skills and attention to detail | Competitive but cooperative, entrepreneurial mindset",
+      "comp_local": "EUR 20,000 sign-on bonus; EUR 100,000 base; \"excellent variable pay\"; shareholding for outstanding performance",
+      "notes": "Application form asks whether you require visa sponsorship - EU citizen answers no. Relocation package offered. This is the only genuinely entry-accessible Amsterdam seat, but it is a trading (not engineering) track: no credit for GPU/C++ work beyond the numerical screen."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Experienced Quant",
+      "track": "Research",
+      "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4570121101",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "\"3 to 10 years of experience in a quantitative role (trading, research, or development)\". No student/graduation-year gate; the 3-year floor is the binding constraint.",
+      "requirements": "Strong academic background in Maths, Physics, Engineering, CS or related | 3-10 yrs in a quantitative role | Deep understanding of financial markets and/or algorithmic trading | Python and C++ proficiency | Analytical mindset, attention to detail | Excellent communication and collaboration",
+      "comp_local": "Base HKD 1,000,000; total compensation expected \"500k+ USD annually\" including performance bonuses; shareholding for outstanding performance; 25 vacation days; meals provided",
+      "notes": "No Mandarin or Cantonese requirement stated - posting is English-only. The application form asks \"Do you require visa sponsorship to work in Hong Kong?\" but the posting makes no explicit sponsorship commitment; HK sponsorship is routine at this comp level but should be confirmed with the recruiter. Same req text as the Amsterdam Experienced Quant."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer",
+      "verdict": "no-longer-open",
+      "detail": "The Amsterdam office is real (Hildegard von Bingenstraat 12, 1081 LH Amsterdam, per https://davincitrading.com/careers/), but there is no \"Quantitative Developer\" or any C++/software-engineering req open in Amsterdam on the firm's own Greenhouse board (https://job-boards.eu.greenhouse.io/davinciderivatives, checked 2026-08-04). All 11 live reqs are: 5 Miami (Low Latency Engineer, Trading Systems Engineer, Trading Operations Engineer, Experienced Quant, HR Generalist), 4 Amsterdam (Experienced Quant, Experienced Trader, Graduate Trader, Quant Trading Intern), 1 Hong Kong (Experienced Quant), 1 Mumbai (Experienced Quant). Every low-latency/C++ engineering seat is currently in Miami, which is out of scope. The closest in-scope substitute is the Amsterdam \"Experienced Quant\" req, which explicitly asks for Python and C++."
+    },
+    {
+      "location": "Amsterdam",
+      "existing_title": "Quantitative Developer (comp and eligibility fields)",
+      "verdict": "title-changed",
+      "detail": "Two further errors in the existing row regardless of the title. (1) The comp estimate \"EUR 80-120k / USD 90-130k\" is far too low: Da Vinci publishes base EUR 100k on both the Graduate Trader and Experienced Quant Amsterdam reqs, with the Graduate Trader adding a EUR 20k sign-on and the Experienced Quant stating total comp \"expected to be 500k+ USD annually\". (2) The eligibility verdict \"New-grad OR entry-level req - recent grads accepted; you qualify\" does not match any live Amsterdam engineering posting; the only entry-level Amsterdam seat is Graduate Trader (Trader track, not C++). (3) The source URL https://davinciderivatives.com/ no longer resolves (DNS NXDOMAIN) - the firm now brands as Da Vinci Trading at davincitrading.com."
+    }
+  ],
+  "notes": "The firm has rebranded from \"Da Vinci Derivatives\" to \"Da Vinci Trading\"; davinciderivatives.com no longer resolves (DNS failure), while the Greenhouse board slug is still 'davinciderivatives'. Both the careers page and the Greenhouse board were loaded directly and agree on the same 11 live reqs, so coverage of live openings is complete as of 2026-08-04. Confirmed offices: Amsterdam, Miami, Hong Kong, Mumbai - the firm has no London, Singapore, Shanghai, Tokyo, Paris or Dublin presence, so Amsterdam and Hong Kong are the only in-scope cities. One further Amsterdam posting was excluded as out of scope: \"Quant Trading Intern (May 2027)\" (https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) - a student-gated internship. Key coverage gap for this candidate: Da Vinci currently has zero in-scope C++ or ML-Performance engineering openings; all such reqs (Low Latency Engineer, Trading Systems Engineer) sit in Miami. Both Experienced Quant reqs carry a 3-year minimum that the candidate will not meet at a mid-2027 start, so the realistic in-scope application is Graduate Trader, or a speculative approach to the Amsterdam Experienced Quant. No compensation figure here is extrapolated - every figure is quoted from the posting itself."
+}

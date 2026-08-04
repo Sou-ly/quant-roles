@@ -1,0 +1,323 @@
+{
+  "firm": "Jane Street",
+  "careers_url": "https://www.janestreet.com/join-jane-street/open-roles/",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Singapore", "Amsterdam"],
+  "offices_checked_not_found": ["Tokyo", "Shanghai", "Dublin", "Paris", "Frankfurt", "Zurich"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/4274814002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No graduation-year or student gate; no years-of-experience minimum stated. 'We don't expect you to have experience with functional programming, OCaml, Python, or finance.' Fluency in English required.",
+      "requirements": "Top-notch programming skills | Deep experience with and love for technology, no specific checklist (ML through sysadmin through PL design) | Strong interpersonal skills; small close-knit collaborative teams | No OCaml/functional-programming/finance background expected | Fluency in English",
+      "comp_local": "",
+      "notes": "This is the generic evergreen SWE req ('We're always hiring software engineers for all of our offices'). Important caveat for the C++ track label: Jane Street's primary language is OCaml, not C++ — they explicitly teach it on the job, and production C++ is not the day-to-day. Systems/low-latency work exists but is written in OCaml (plus Hardcaml for FPGA). Candidate's UK HPI visa is self-sponsored; posting says nothing about visa support either way. A separate 'Software Engineer' New Grad req exists for London (id 8092065002) — for a mid-2027 start with ~18 months of experience the Experienced req is the right door."
+    },
+    {
+      "location": "London",
+      "title": "Production Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/5168486002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate, no stated years minimum. Fluency in English required.",
+      "requirements": "Strong programmer with a love for technology; able to write and read code well | Intellectually curious, motivated, collaborative | Excellent communicator, calm during production incidents | No functional-programming or finance background expected | Split between OCaml dev work and a live support rotation",
+      "comp_local": "",
+      "notes": "SRE-flavoured: roughly half the time is a support rotation on live trading systems, so less total coding than the plain SWE req. Language is OCaml."
+    },
+    {
+      "location": "London",
+      "title": "Compiler Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/8594336002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced — 'an experienced software engineer'. No graduation-year gate; no explicit years minimum, but team-lead experience is called out as a plus. Fluency in English required.",
+      "requirements": "Code generation work on the open-source OxCaml compiler (CPS, SSA, possibly Sea of Nodes) | Fast at writing correct code; willing to use AI assistance | Experienced with debuggers (lldb, gdb) and low-level Linux tools | x86-64 and AArch64 assembly/architecture knowledge a plus | Any compiler toolchain accepted; LLVM knowledge useful | Proven experience managing a team of developers particularly wanted",
+      "comp_local": "",
+      "notes": "Closest thing to a genuine low-level systems seat: full optimise/benchmark/deploy cycle. No OCaml/OxCaml knowledge required. The team-management preference suggests they are aiming senior."
+    },
+    {
+      "location": "London",
+      "title": "Programming Language Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/7700474002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student or graduation-year gate; no years minimum stated. Fluency in English required.",
+      "requirements": "Deep experience with language design, type systems, compilers, runtimes, or DSL implementation | Top-notch programming skills | Strong interpersonal skills, small close-knit teams | No previous OCaml or functional-programming experience required",
+      "comp_local": "",
+      "notes": "Single umbrella application covering several PL teams; the posting explicitly lists 'support for high-performance computing ... as well as support for programming GPUs and other ML accelerators' as one of the areas — the strongest overlap with the candidate's GPU-kernel background outside the ML org. Posting says to indicate a preferred area in the application notes field."
+    },
+    {
+      "location": "London",
+      "title": "Formal Methods Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/8588405002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate, no years minimum stated.",
+      "requirements": "Deep experience with formal methods (proof assistants, automated theorem provers, static analysis, refinement types, program logics, property-based testing) | Top-notch software engineering skills; turn research ideas into practical tools | Strong interpersonal skills | No previous OCaml or functional-programming experience required",
+      "comp_local": "",
+      "notes": "Brand-new team being stood up, framed around validating agent-generated code. Research-adjacent but sits in Technology/Software Engineering. Only a fit if the candidate has real formal-methods depth."
+    },
+    {
+      "location": "London",
+      "title": "ASIC Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/8233259002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. Hard gate: '4+ years practical experience in RTL design and verification'.",
+      "requirements": "4+ years RTL design and verification | ASIC design in Synopsys or Cadence flows (front-end RTL/synthesis, back-end physical design, or verification incl. formal) | Interest in software-engineering techniques for hardware design | Programming in a high-level language (Python, C++, Java, Haskell) | Fluency in English",
+      "comp_local": "",
+      "notes": "Sits in the Ultra Low Latency team, uses Hardcaml (OCaml-embedded HDL). The 4+ years RTL gate makes this a poor fit for the candidate unless they have hardware experience. A sibling req, 'ASIC Physical Design Engineer' (id 8512072002), is also open in London and is even more specialised. A New Grad 'Hardware Engineer (FPGA/ASIC)' London req exists (id 8651405002) but is student-gated."
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Performance Engineer",
+      "track": "ML Performance",
+      "url": "https://www.janestreet.com/join-jane-street/position/7449252002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. 'There's no fixed set of skills' — no years minimum and no graduation-year gate stated. Fluency in English.",
+      "requirements": "Low-level GPU knowledge: PTX, SASS, warps, cooperative groups, Tensor Cores, memory hierarchy | Profiling/debugging with CUDA GDB, Nsight Systems, Nsight Compute | Triton, CUTLASS, CUB, Thrust, cuDNN, cuBLAS | Systems knowledge to debug a training run's performance end to end | GPU cluster networking: InfiniBand, RoCE, GPUDirect, PXN, rail optimisation, NVLink; NCCL/MPI collectives | Understanding of modern ML techniques and toolsets",
+      "comp_local": "",
+      "notes": "The single best-matched req at this firm for the candidate profile — merged llama.cpp GPU kernels and an ISCA workshop paper map almost line-for-line onto the requirement list. Optimising training and inference on a cluster described elsewhere on the site as tens of thousands of high-end GPUs. Identical req is open in Hong Kong."
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://www.janestreet.com/join-jane-street/position/7437779002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. 'There isn't a fixed list of qualifications' — no student or year gate. Fluency in English required.",
+      "requirements": "Experience building and maintaining training and inference infrastructure, concept to production | Strong mathematical background (optimisation theory, regularisation, linear algebra) | Keeping current with state of the art: papers, new hardware, reading ML package source | Ability to maintain an organised, reproducible research codebase | Expertise with an ML framework (PyTorch preferred; Jax/TensorFlow welcome)",
+      "comp_local": "",
+      "notes": "Platform/infrastructure flavour of ML rather than kernel-level. Reasonable second application alongside ML Performance Engineer. Identical req open in Hong Kong."
+    },
+    {
+      "location": "London",
+      "title": "Machine Learning Researcher",
+      "track": "Research",
+      "url": "https://www.janestreet.com/join-jane-street/position/7246339002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced — 'smart and curious individuals from industry and academia'. No graduation-year gate, no years minimum, no PhD requirement stated. Fluency in English.",
+      "requirements": "Practical experience on empirical ML problems | Logical and mathematical thinking | Curiosity about state-of-the-art research across ML domains | Fluency with a versatile set of models and techniques | Hands-on coding to implement and iterate quickly, in Python and an ML framework | Willingness to ask questions and admit mistakes",
+      "comp_local": "",
+      "notes": "Strong fit for the candidate's ICLR/AAAI first-author submissions. Hiring, conference attendance and teaching are described as real parts of the job. A separate New Grad ML Researcher req exists for London (id 8576931002) — student-gated track, less appropriate here. Identical Experienced req open in Hong Kong."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://www.janestreet.com/join-jane-street/position/4808264002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate. 'Most candidates will have experience with data science or machine learning ... Having a PhD or other research experience is a plus' — a plus, not a requirement.",
+      "requirements": "Apply logical and mathematical thinking broadly | Intellectually curious; ask questions, admit mistakes | Strong programmer comfortable with Python | Open-minded thinker and precise communicator across disciplines | Experiment design, dataset generation, time series analysis, feature engineering, model building | Fluent in English",
+      "comp_local": "",
+      "notes": "Finance background explicitly not required. Also open as a New Grad req in London (id 8600948002) and as Experienced + New Grad in Hong Kong."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.janestreet.com/join-jane-street/position/4273643002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No years minimum and no student gate stated. 'Prior knowledge of finance or economics is not expected or required.' Fluency in English required.",
+      "requirements": "Strong quantitative mind | Enjoys collaborative problem-solving in a practical setting | No finance or economics background expected | No specific programming language required, though comfort programming is a plus | New traders start as assistants and take on responsibility as they demonstrate it",
+      "comp_local": "",
+      "notes": "Genuinely open-door trading req. A New Grad Quantitative Trader req is also open in London (id 8576270002)."
+    },
+    {
+      "location": "London",
+      "title": "European Natural Gas & LNG Analyst/Trader",
+      "track": "Trader",
+      "url": "https://www.janestreet.com/join-jane-street/position/8120713002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. Hard gate: '3+ years of professional experience in analyzing European natural gas fundamentals'.",
+      "requirements": "3+ years analysing European natural gas fundamentals | Exposure to building the Global LNG supply/demand balance a plus | Strong analytical capabilities and proficiency in statistics | Physical oil or gas market experience beneficial | Coding skills a plus",
+      "comp_local": "",
+      "notes": "Listed for completeness only — the domain-experience gate makes this a non-fit for this candidate. Sits in the global Commodity team."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/4756741002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No graduation-year or student gate; no years minimum. No OCaml/Python/finance experience expected. Fluent in English.",
+      "requirements": "Top-notch programming skills | Deep experience with and love for technology, no specific checklist | Strong interpersonal skills; small close-knit collaborative teams | No OCaml/functional-programming/finance background expected | Fluent in English",
+      "comp_local": "",
+      "notes": "Same evergreen text as the London req. Hong Kong needs sponsorship for an EU citizen; routine at this level. No Mandarin requirement in this posting. Note again that the working language is OCaml, not C++. A New Grad variant is also open (id 8140274002)."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Production Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/5807402002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate, no years minimum. Fluent in English.",
+      "requirements": "Strong programmer able to read and write code well | Intellectually curious, motivated, collaborative | Excellent communicator, calm during production incidents | No functional-programming or finance background expected | Split between OCaml dev work and a live support rotation",
+      "comp_local": "",
+      "notes": "Same role definition as London. Support rotation on critical trading systems."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Machine Learning Performance Engineer",
+      "track": "ML Performance",
+      "url": "https://www.janestreet.com/join-jane-street/position/7449190002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. 'There's no fixed set of skills' — no year or student gate. Fluent in English.",
+      "requirements": "Low-level GPU knowledge: PTX, SASS, warps, cooperative groups, Tensor Cores, memory hierarchy | Profiling/debugging with CUDA GDB, Nsight Systems, Nsight Compute | Triton, CUTLASS, CUB, Thrust, cuDNN, cuBLAS | Systems knowledge to debug a training run end to end | InfiniBand, RoCE, GPUDirect, NVLink, NCCL/MPI collectives | Understanding of modern ML techniques and toolsets",
+      "comp_local": "",
+      "notes": "Text is word-for-word identical to the London req, so the two are interchangeable applications. Sponsorship needed for HK; no Mandarin requirement stated."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://www.janestreet.com/join-jane-street/position/6802323002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No fixed qualification list; no student or year gate. Fluent in English.",
+      "requirements": "Experience building and maintaining training and inference infrastructure | Strong mathematical background (optimisation theory, regularisation, linear algebra) | Keeping current with state of the art | Organised, reproducible research codebase | Expertise with PyTorch (or Jax/TensorFlow)",
+      "comp_local": "",
+      "notes": "Identical text to the London ML Engineer req."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Machine Learning Researcher",
+      "track": "Research",
+      "url": "https://www.janestreet.com/join-jane-street/position/7246309002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced — open to candidates from industry and academia. No PhD requirement, no year gate stated.",
+      "requirements": "Practical experience on empirical ML problems | Logical and mathematical thinking | Curiosity about state-of-the-art research across ML domains | Fluency with a versatile set of models and techniques | Hands-on Python + ML framework coding",
+      "comp_local": "",
+      "notes": "APAC counterpart of the London ML Researcher req. A New Grad variant is also open in Hong Kong (id 8576934002)."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://www.janestreet.com/join-jane-street/position/7514485002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate; PhD or research experience listed as a plus, not a requirement.",
+      "requirements": "Logical and mathematical thinking | Intellectually curious | Strong programmer comfortable with Python | Precise communicator across disciplines | Experiment design, time series analysis, feature engineering, model building on financial data",
+      "comp_local": "",
+      "notes": "APAC counterpart of the London QR req. A New Grad Hong Kong QR req is also open (id 8071941002)."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Trader",
+      "track": "Trader",
+      "url": "https://www.janestreet.com/join-jane-street/position/4839146002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No years minimum, no student gate. Prior finance or economics knowledge not expected or required.",
+      "requirements": "Strong quantitative mind | Collaborative problem-solving | No finance or economics background expected | Comfort programming in a language of choice is a plus | New traders begin as assistants and take on responsibility over time",
+      "comp_local": "",
+      "notes": "Sponsorship needed for HK. A New Grad Hong Kong Quantitative Trader req is also open (id 8071940002). Note that other Hong Kong trading-adjacent reqs (China Sales, China Business Development) are Mandarin-oriented and out of scope."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Exotic Options Trader",
+      "track": "Trader",
+      "url": "https://www.janestreet.com/join-jane-street/position/8433793002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. Hard gate: '3-6 years of experience in exotic options trading'.",
+      "requirements": "3-6 years exotic options trading | Strong quantitative skills pricing complex derivatives | Familiarity with the sell-side landscape and counterparty relationships | Python preferred | Willingness to travel to New York and London several weeks a year",
+      "comp_local": "",
+      "notes": "Listed for completeness — the domain gate rules this out for a candidate without derivatives desk experience."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Macro Analyst",
+      "track": "Research",
+      "url": "https://www.janestreet.com/join-jane-street/position/7731614002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. Hard gate: '3+ years of experience covering macro within trading, financial services, or governmental institutions', plus 'some regional expertise in Asia / China'.",
+      "requirements": "3+ years covering macro | Strong quantitative background and command of probability | Regional expertise in Asia / China | Fast real-time EV calls (sub-5-minute turnaround) communicated to traders | Python a plus | Fluency in English required; Asian languages preferred, particularly Mandarin Chinese",
+      "comp_local": "",
+      "notes": "English is the stated requirement and Mandarin only 'preferred', so it is technically an English-tolerant seat — but the 3+ years macro-coverage and Asia/China expertise gates make it a non-fit for this candidate. Included so the row is not mistaken for an open quant-research door."
+    },
+    {
+      "location": "Singapore",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/5791948002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No graduation-year or student gate; no years minimum. No OCaml/Python/finance experience expected. Fluent in English.",
+      "requirements": "Top-notch programming skills | Deep experience with and love for technology, no specific checklist | Strong interpersonal skills; small close-knit collaborative teams | No OCaml/functional-programming/finance background expected | Fluent in English",
+      "comp_local": "",
+      "notes": "Same evergreen SWE text as London and Hong Kong. Singapore needs sponsorship (Employment Pass), routine at this level. Working language is OCaml, not C++. A New Grad variant is also open (id 8075770002)."
+    },
+    {
+      "location": "Singapore",
+      "title": "Production Engineer",
+      "track": "C++",
+      "url": "https://www.janestreet.com/join-jane-street/position/5807405002/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-04",
+      "eligibility": "Full-Time: Experienced. No student gate, no years minimum. Fluent in English.",
+      "requirements": "Strong programmer able to read and write code well | Intellectually curious, motivated, collaborative | Excellent communicator, calm during production incidents | No functional-programming or finance background expected | OCaml dev work plus a live support rotation",
+      "comp_local": "",
+      "notes": "Posting text says 'We are hiring Production Engineers in our Hong Kong and Singapore office', so this and the HK req are the same search. Singapore's only other in-scope-adjacent Technology reqs are Linux Engineer, Network Engineer and FIX Onboarding and Connectivity Engineer, which are infrastructure/connectivity rather than core trading systems."
+    }
+  ],
+  "existing_rows_audit": [
+    {
+      "location": "Amsterdam",
+      "existing_title": "Software Engineer",
+      "verdict": "no-longer-open",
+      "detail": "The Amsterdam office is real — Jane Street Netherlands BV, WTC Tower Ten L19, Strawinskylaan 1657, listed at https://www.janestreet.com/contact-us/ — but it is not one of the four offices profiled at https://www.janestreet.com/culture/our-offices/ (New York, London, Hong Kong, Singapore), and it has zero postings in the live jobs feed. The careers feed backing https://www.janestreet.com/join-jane-street/open-roles/ (https://www.janestreet.com/jobs/main.json, 225 full-time and internship postings on 2026-08-04) contains only the city codes NYC, LDN, HKG and SGP. There is no Amsterdam Software Engineer req open. The row's comp figure of EUR 110-170k is also unsourced."
+    },
+    {
+      "location": "London",
+      "existing_title": "Software Engineer",
+      "verdict": "confirmed",
+      "detail": "Live at https://www.janestreet.com/join-jane-street/position/4274814002/ as 'Software Engineer, London', Full-Time: Experienced. The eligibility claim in the row holds. The comp figure (GBP 250-450k TC) is NOT stated on the posting or anywhere on janestreet.com — the row's 'Verified — primary source' status covers the role's existence only, not the pay."
+    },
+    {
+      "location": "Hong Kong",
+      "existing_title": "Software Engineer",
+      "verdict": "confirmed",
+      "detail": "Live at https://www.janestreet.com/join-jane-street/position/4756741002/ as 'Software Engineer, Hong Kong', Full-Time: Experienced. The row's source link points at levels.fyi rather than the firm's own site, so the 'Verified — primary source' label was mismatched to its evidence; the role itself does check out on primary source."
+    },
+    {
+      "location": "Singapore",
+      "existing_title": "Software Engineer",
+      "verdict": "confirmed",
+      "detail": "Live at https://www.janestreet.com/join-jane-street/position/5791948002/ as 'Software Engineer, Singapore', Full-Time: Experienced. Comp figure (SGD 300-450k) is not stated on the posting."
+    },
+    {
+      "location": "New York",
+      "existing_title": "Software Engineer",
+      "verdict": "could-not-verify",
+      "detail": "Out of scope for this pass (US office). The office and role do exist in the feed, but I did not audit US rows."
+    },
+    {
+      "location": "Chicago",
+      "existing_title": "Software Engineer",
+      "verdict": "office-does-not-exist",
+      "detail": "Out of scope as a US city, but flagging it anyway: Jane Street lists no Chicago office at https://www.janestreet.com/contact-us/ (New York, London, Hong Kong, Amsterdam, Singapore only), no Chicago office at https://www.janestreet.com/culture/our-offices/, and the jobs feed at https://www.janestreet.com/jobs/main.json has no Chicago postings across all 225 listings. This row looks like the same class of error as the invented Tower Research Tokyo office."
+    }
+  ],
+  "notes": "Method: the open-roles page is JS-rendered and returns no listings to a plain fetch. Its bundle (/assets/pg/open_positions-*.js) loads https://www.janestreet.com/jobs/main.json, which I pulled directly — 225 postings, complete with full description text, on 2026-08-04. Position titles in that feed are deliberately obfuscated with Lisu-script homoglyphs (anti-scraping); I de-homoglyphed them and cross-checked the resulting titles against the rendered position pages, which confirmed both the titles and the URL pattern https://www.janestreet.com/join-jane-street/position/<id>/. Every role above was read from that feed and is therefore verified-primary.\n\nCoverage: the feed contains only four city codes — NYC, LDN, HKG, SGP. There are zero postings for Amsterdam, and no Tokyo, Shanghai or continental-EU office exists at all (the contact page lists exactly five offices: New York, London, Hong Kong, Amsterdam, Singapore). So in-scope hiring is London, Hong Kong and Singapore only, and London carries by far the most reqs.\n\nTrack-label caveat worth carrying into the sheet: the 'C++' track rows here are C++ in the sense of low-latency systems work, not the language. Jane Street's primary development language is OCaml across trading systems, infrastructure and even FPGA design (Hardcaml); every SWE posting says explicitly that no OCaml background is expected and they will teach it. The candidate's production C++ counts as evidence of systems ability, not as a matching tech stack. The Compiler Engineer and Programming Language Engineer reqs are the ones where low-level C/C++/LLVM/assembly experience is directly asked for.\n\nComp: I left every comp_local empty deliberately. No in-scope posting states a salary — the min_salary/max_salary fields in the feed are populated only for US reqs under NY/Chicago pay-transparency law, and are null for LDN, HKG and SGP. The figures in the existing sheet rows are not attributable to the firm's own site; I did not load levels.fyi to substitute a number.\n\nNew Grad reqs: Jane Street splits postings into 'Full-Time: Experienced' and 'Full-Time: New Grad'. I listed only Experienced reqs as roles, since the candidate will have ~18 months of experience at a mid-2027 start. The New Grad equivalents exist in London, Hong Kong and Singapore for Software Engineer, Quantitative Researcher, Quantitative Trader, ML Researcher, Linux Engineer, Cybersecurity Analyst, Hardware Engineer and Trading Desk Operations Engineer; their public description text does not state a graduation-year cutoff, but the track is aimed at students and new grads and the application form collects a graduation date. I noted the sibling req IDs on the relevant rows.\n\nExcluded as out of scope though open in-scope: Linux Engineer, Windows Engineer, Network/Senior Network Engineer, IT Operations, Data Centre Engineer, Cybersecurity (several), Front End Software Engineer, Data Engineer, Market Data Specialist, Technical Product/Programme Manager, OxCaml Educator, Trading Desk Operations Engineer, FIX Onboarding and Connectivity Engineer, plus all Sales & Trading, Legal, Finance, HR and Hospitality reqs. The Hong Kong 'China Sales' and 'China Business Development' reqs are Mandarin-oriented client roles and out of track."
+}
