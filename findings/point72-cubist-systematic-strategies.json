@@ -1,0 +1,96 @@
+{
+  "firm": "Point72 / Cubist Systematic Strategies",
+  "careers_url": "https://careers.point72.com/?business=Cubist",
+  "offices_in_scope_confirmed": [
+    "New York, NY",
+    "Chicago, IL"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Point72: 65 LCAs FY2025; Cubist: 55 LCAs FY2025, median $175K; ellis.com/visa-sponsors/cubist-systematic-strategies-llc",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer (Cubist - Early Career)",
+      "track": "C++",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013413",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career; Bachelor's+",
+      "requirements": "Bachelor's+ in CS or STEM; advanced Python (numpy, pandas, scikit-learn); Linux; C/C++ a plus",
+      "comp_local": "$200,000-$300,000 base + discretionary bonus",
+      "notes": "Known H-1B sponsor. 120+ LCAs combined (Point72+Cubist) FY2025. Cubist Software Engineer Program provides training."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Software Developer (Cubist KEPL - 1-3 YoE)",
+      "track": "ML Performance",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer&jobCode=CSS-0012945",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "1-3 years professional experience",
+      "requirements": "Master's/PhD in Math, CS, Engineering; Python, SQL, pandas; 1-3 years software dev or data science",
+      "comp_local": "$200,000-$300,000 base + discretionary bonus",
+      "notes": "Known H-1B sponsor. Apply via kepl-talent@cubistsystematic.com with '2026 KEPL QD Application' subject."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Developer (Cubist - Chicago)",
+      "track": "C++",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013527&location=Chicago",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2+ years or demonstrated excellent skills",
+      "requirements": "Undergrad/grad in CS; Python, SQL, JavaScript; Linux; 2+ years or equivalent skills",
+      "comp_local": "Not published (NYC range $200K-$300K base)",
+      "notes": "Known H-1B sponsor. Systematic credit and related asset classes."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Fund Flow Quantitative Developer",
+      "track": "C++",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=fund-flow-quantitative-developer&jobCode=CSS-0014322&location=New+York+%7C+Stamford",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career",
+      "requirements": "Quantitative development skills",
+      "comp_local": "Not published (range likely $200K-$300K base)",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer - 2026 Grad",
+      "track": "C++",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=software-engineer-2026-grad&jobCode=IVS-0013868&location=New+York",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2026 grad; Bachelor's expected Fall 2025-Spring 2026",
+      "requirements": "Bachelor's in CS or related; Python, Java, C++; Git, JIRA",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. General SWE role supporting trading systems, research platforms, AI/ML."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer - Data",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8544800002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Data engineering; SQL, Python",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Data Engineer, Technology",
+      "track": "C++",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=data-engineer-technology&jobCode=PIT-0013405",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Data engineering; pipeline design",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

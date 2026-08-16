@@ -1,0 +1,21 @@
+{
+  "firm": "Talos Trading",
+  "careers_url": "https://www.talos.com/working/open-roles",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Software Engineer, Algorithmic Trading, London",
+      "track": "C++",
+      "url": "https://jobs.ashbyhq.com/Talos-Trading/67ad4e74-212d-4bb3-9882-333473d43ec5",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Algorithmic trading systems; digital assets infrastructure",
+      "comp_local": "GBP 70,000-120,000+ total (est.)",
+      "notes": "Institutional digital assets trading infrastructure. London office."
+    }
+  ]
+}

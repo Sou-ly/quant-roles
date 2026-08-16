@@ -1,8 +1,22 @@
 {
   "firm": "Virtu Financial",
   "careers_url": "https://job-boards.greenhouse.io/virtu",
-  "offices_in_scope_confirmed": ["Dublin", "London", "Paris", "Singapore", "Hong Kong"],
-  "offices_checked_not_found": ["Tokyo", "Shanghai", "Amsterdam", "Frankfurt", "Zurich", "Milan", "Warsaw"],
+  "offices_in_scope_confirmed": [
+    "Dublin",
+    "London",
+    "Paris",
+    "Singapore",
+    "Hong Kong"
+  ],
+  "offices_checked_not_found": [
+    "Tokyo",
+    "Shanghai",
+    "Amsterdam",
+    "Frankfurt",
+    "Zurich",
+    "Milan",
+    "Warsaw"
+  ],
   "roles": [
     {
       "location": "Singapore",
@@ -123,6 +137,54 @@
       "requirements": "5+ yrs Linux/Unix administration | Kernel tuning | Strong networking and topology (NFS, DHCP, IP, TCP, UDP, TFTP, NTP) | Kickstart, Ansible, Yum, Git, SVN; NAS environments | Bash and Python scripting; BIOS configuration | 'Understanding of what milli-, nano-, and micro-seconds are and why they're important'",
       "comp_local": "",
       "notes": "TRACK CAVEAT: filed under C++ only because it is the low-latency infrastructure seat in scope, but the work is Linux system administration - no C++ development in the requirements. 5+ years sysadmin gate makes it a poor fit. One req covers both Dublin and London (same posting). Screening includes an online system administration assessment. Both EU and UK are workable for the candidate without employer-funded sponsorship."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Machine Learning Researcher",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8477580002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2+ years applied deep learning experience",
+      "requirements": "Python, PyTorch, TensorFlow; C++ exposure valued; rapid prototyping skills",
+      "comp_local": "$200,000-$300,000 base (excludes bonus)",
+      "notes": "Known H-1B sponsor. Application asks about sponsorship need (optional). Strong PyTorch/CUDA fit."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Machine Learning Engineer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8457186002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "5+ years ML engineering / HPC (senior role)",
+      "requirements": "Python, C++, distributed training, Linux; HPC/research infrastructure",
+      "comp_local": "$200,000-$300,000 base (excludes bonus)",
+      "notes": "Known H-1B sponsor. Senior role but strong CUDA/C++/ML perf fit. May be stretch on YoE."
+    },
+    {
+      "location": "New York, NY / Austin, TX",
+      "title": "Quantitative Strategist (PhD)",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/4205353002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "PhD required",
+      "requirements": "PhD in quantitative field; algorithmic trading modeling",
+      "comp_local": "~$150,000+ base",
+      "notes": "Known H-1B sponsor. PhD-level quant research role."
+    },
+    {
+      "location": "New York, NY",
+      "title": "2027 Internship - Quantitative Researcher (Undergrad)",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Intern (convert to full-time)",
+      "requirements": "Quantitative analysis; programming (Python, SQL, Java, C++)",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. Intern-to-hire pipeline."
     }
   ],
   "existing_rows_audit": [

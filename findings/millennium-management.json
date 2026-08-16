@@ -1,0 +1,179 @@
+{
+  "firm": "Millennium Management",
+  "careers_url": "https://career.mlp.com/careers",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Historical H1B sponsorship; Millennium Management Inc LCA filings; visadoor.com/companies/millennium-management-inc",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer (Python) - Central Liquidity Strategies",
+      "track": "C++",
+      "url": "https://career.mlp.com/careers/job/755954183338-quantitative-developer-python-central-liquidity-strategies-new-york-new-york-united-states-of-america",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior to mid-level",
+      "requirements": "Python; research infrastructure, data systems, signal deployment",
+      "comp_local": "$150,000-$200,000 base + discretionary bonus",
+      "notes": "Known H-1B sponsor. Hands-on role at intersection of tech, data, research, trading. Apply via QuantTalentUS@mlp.com."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer, Fixed Income",
+      "track": "C++",
+      "url": "https://career.mlp.com/careers/job/755930336915",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior to mid-level",
+      "requirements": "Quantitative development; fixed income trading systems",
+      "comp_local": "$150,000-$200,000 base",
+      "notes": "Known H-1B sponsor. Multi-manager hedge fund with pod structure."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Analyst, Quantitative Strategies",
+      "track": "Research",
+      "url": "https://career.mlp.com/careers/job/755956329760-quantitative-analyst-quantitative-strategies-new-york-new-york-united-states-of-america?domain=mlp.com",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior to mid-level",
+      "requirements": "Quantitative analysis; systematic strategies",
+      "comp_local": "$150,000-$200,000 base",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer Intern (convert to full-time)",
+      "track": "C++",
+      "url": "https://www.mlp.com/careers/students/",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Bachelor's/Master's in CS, graduating Dec 2026-Jun 2027; GPA 3.5+",
+      "requirements": "Java, C#, Python, JavaScript; web dev frameworks; $80/hr intern, $150K+ base full-time",
+      "comp_local": "$150,000+ base (full-time conversion)",
+      "notes": "Known H-1B sponsor. LEaD rotational program for early career SWE."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer, Research & ML Engineering, Systematic Macro",
+      "track": "ML Performance",
+      "url": "https://career.mlp.com/careers/job/755957812756-quantitative-developer-research-ml-engineering-systematic-macro-london-united-kingdom?domain=mlp.com",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "ML engineering for systematic macro strategies",
+      "comp_local": "GBP 100,000-180,000+ total (est.)",
+      "notes": "Research & ML Engineering focus - excellent fit for candidate profile. Multi-PM pod structure."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher, Systematic Equities",
+      "track": "Research",
+      "url": "https://career.mlp.com/careers/job/755954362828-quantitative-researcher-systematic-equities-london-united-kingdom",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Alpha research; systematic equity strategies",
+      "comp_local": "GBP 100,000-200,000+ total (est.)",
+      "notes": "Systematic equities research in London pod"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher - FX",
+      "track": "Research",
+      "url": "https://career.mlp.com/careers/job/755953399441-quantitative-researcher-fx-london-united-kingdom",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "FX systematic research",
+      "comp_local": "GBP 100,000-200,000+ total (est.)",
+      "notes": "FX quant research"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher - Rates",
+      "track": "Research",
+      "url": "https://career.mlp.com/careers/job/755953450082-quantitative-researcher-rates-london-united-kingdom",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Rates systematic research",
+      "comp_local": "GBP 100,000-200,000+ total (est.)",
+      "notes": "Rates quant research"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://career.mlp.com/careers/job/755940085999-quantitative-developer-london-united-kingdom",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Quant dev infrastructure for systematic trading",
+      "comp_local": "GBP 90,000-160,000+ total (est.)",
+      "notes": "General quant developer role in London"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer, Index Rebalance",
+      "track": "C++",
+      "url": "https://career.mlp.com/careers/job/755954852499-quantitative-developer-index-rebalance-london-united-kingdom?domain=mlp.com",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Index rebalance strategy infrastructure",
+      "comp_local": "GBP 90,000-160,000+ total (est.)",
+      "notes": "Specialized index rebalance quant dev"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Developer/Trader, Systematic Equities",
+      "track": "ML Performance",
+      "url": "https://career.mlp.com/careers/job/755942215829-quantitative-developer-trader-systematic-equities-hong-kong-hong-kong?domain=mlp.com",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Alpha research; model implementation; backtesting; Python-based tools",
+      "comp_local": "HKD 800,000-1,500,000+ total (est.)",
+      "notes": "Works alongside Senior PM on systematic equity strategies"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Developer, Systematic Trading",
+      "track": "C++",
+      "url": "https://career.mlp.com/careers/job/755954448592-quantitative-developer-hong-kong-hong-kong",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Trading infrastructure; market data; order execution tools",
+      "comp_local": "HKD 800,000-1,400,000+ total (est.)",
+      "notes": "Building critical trading infrastructure for systematic team"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Execution Trader, Systematic Equities",
+      "track": "Trader",
+      "url": "https://career.mlp.com/careers/job/755930337511-quantitative-execution-trader-systematic-equities-central-hong-kong-hong-kong-island-hong-kong?domain=mlp.com",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Execution trading; systematic equities",
+      "comp_local": "HKD 800,000-1,500,000+ total (est.)",
+      "notes": "Execution trader for systematic equity strategies in HK"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Data Scientist/Analyst, Systematic Data Platform",
+      "track": "ML Performance",
+      "url": "https://career.mlp.com/careers/job/755954651418-data-scientist-analyst-systematic-data-platform-hong-kong-hong-kong",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Data science; systematic data platform",
+      "comp_local": "HKD 600,000-1,200,000+ total (est.)",
+      "notes": "Data platform for systematic trading in HK"
+    }
+  ]
+}

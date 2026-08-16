@@ -1,0 +1,80 @@
+{
+  "firm": "Intropic",
+  "careers_url": "https://jobs.lever.co/intropic",
+  "offices_in_scope_confirmed": ["London"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://jobs.lever.co/intropic/e7f90e06-05e2-40d8-b9f5-df4c96792dd2",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate. Start H1 2026.",
+      "requirements": "Python | SQL | Financial data | Production-grade code | Cloud infrastructure",
+      "comp_local": "",
+      "notes": "Financial information and software company. Canary Wharf London. Agentic AI systems for capital markets."
+    },
+    {
+      "location": "London",
+      "title": "Quantrepreneur - Quantitative Developer",
+      "track": "C++",
+      "url": "https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Quantrepreneur programme — early career / graduate.",
+      "requirements": "Quantitative development | Python | Financial data | Trading systems",
+      "comp_local": "",
+      "notes": "Quantrepreneur programme — graduate/early career path."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst (Client Solutions)",
+      "track": "Research",
+      "url": "https://jobs.lever.co/intropic/41cb2a0a-4c31-4fa8-a042-720adba0e03b",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Quantitative analysis | Client solutions | Financial markets | Python",
+      "comp_local": "",
+      "notes": "Client-facing quant analysis."
+    },
+    {
+      "location": "London",
+      "title": "Python AI Agent Engineer",
+      "track": "ML Performance",
+      "url": "https://jobs.lever.co/intropic/169f9ec5-9776-49e5-9356-230f81db763b",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Python | AI agents | LLMs | Financial data | Agentic AI systems",
+      "comp_local": "",
+      "notes": "AI agent engineer for capital markets. Agentic AI with LLMs."
+    },
+    {
+      "location": "London",
+      "title": "Quantrepreneur - Research Analyst",
+      "track": "Research",
+      "url": "https://jobs.lever.co/intropic/a4a5fb03-4a97-4f18-a680-7dd5663955a2",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Quantrepreneur programme — early career.",
+      "requirements": "Research analysis | Financial markets | Quantitative methods",
+      "comp_local": "",
+      "notes": "Graduate research analyst programme."
+    },
+    {
+      "location": "London",
+      "title": "Research Analyst (Markets)",
+      "track": "Research",
+      "url": "https://jobs.lever.co/intropic/583880f1-0208-46c2-b91a-a6f8ab7ef691",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Markets research | Quantitative analysis | Financial data",
+      "comp_local": "",
+      "notes": "Markets research analyst."
+    }
+  ],
+  "notes": "Intropic is a London-based financial information and software company using agentic AI for capital markets. Canary Wharf HQ."
+}

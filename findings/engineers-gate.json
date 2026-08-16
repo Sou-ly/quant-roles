@@ -1,0 +1,47 @@
+{
+  "firm": "Engineers Gate",
+  "careers_url": "https://builtin.com/company/engineers-gate/jobs",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "5 LCAs FY2022-2024; myvisajobs.com/employer/engineers-gate-manager/",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://www.builtinnyc.com/job/quantitative-developer/6223758",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2+ years experience",
+      "requirements": "2+ years supporting systematic trading teams; Python, SQL; trading system architecture, data pipelines",
+      "comp_local": "Not published (industry range $200K-$400K+ total)",
+      "notes": "Known H-1B sponsor. Small quant fund focused on computer-driven trading. Open to international candidates per reports."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/engineersgate/jobs/5775150",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Scalable research infrastructure; backtesting platforms; live trading systems; data pipelines",
+      "comp_local": "GBP 80,000-140,000+ total (est.)",
+      "notes": "Computer-driven trading firm. Primarily NYC but some roles may be London/remote."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Systematic equity strategies; data analysis; backtesting; strategy deployment",
+      "comp_local": "GBP 90,000-160,000+ total (est.)",
+      "notes": "Mid-frequency systematic equity strategies in US and EU markets"
+    }
+  ]
+}

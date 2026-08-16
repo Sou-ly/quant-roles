@@ -1,0 +1,69 @@
+{
+  "firm": "Morgan Stanley",
+  "careers_url": "https://morganstanley.eightfold.ai/careers/quantitative_strategies?domain=morganstanley.com",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "2026 Quantitative Finance Off-Cycle Internship (London)",
+      "track": "Research",
+      "url": "https://morganstanley.eightfold.ai/careers?location=London%2C+United+Kingdom%2C+United+Kingdom&pid=549770828659&domain=morganstanley.com&sort_by=relevance",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Students required to complete long-term internship or already graduated",
+      "requirements": "Quantitative degree; programming skills; 6 or 9 month programme with rotation across Electronic Trading, Desk, Modelling, Data Strategists",
+      "comp_local": "~GBP 55-70k pro-rata (est.)",
+      "notes": "Rotational across Electronic Trading Strategists, Modelling Strategists, Data Strategists"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst (Macroeconomic Scenario Design)",
+      "track": "Research",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549797060373?sourcemscom=",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate visible",
+      "requirements": "Quantitative degree; macro modelling; programming",
+      "comp_local": "~GBP 70-90k+ (est. Associate level)",
+      "notes": "London-based quant analyst role in risk/scenario design"
+    },
+    {
+      "location": "London",
+      "title": "ALM Quantitative Developer",
+      "track": "C++",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549797100510?domain=morganstanley.com&triggerGoButton=false",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Python developer; core Python with scientific stack/ecosystem; ALM modelling",
+      "comp_local": "~GBP 70-100k+ (est.)",
+      "notes": "Asset-Liability Management quant developer"
+    },
+    {
+      "location": "London",
+      "title": "Risk Analytics Quantitative Associate",
+      "track": "Research",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549796890118?-=",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level",
+      "requirements": "Risk models; econometric analyses; backtests; stress tests",
+      "comp_local": "~GBP 65-90k+ (est.)",
+      "notes": "Risk analytics quantitative modelling"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative AI and Data Analyst - Executive Director",
+      "track": "ML Performance",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549796856133",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Senior level - may be too senior",
+      "requirements": "ML and LLM models for data analytics",
+      "comp_local": "~GBP 120-180k+ (est.)",
+      "notes": "Executive Director level - likely too senior for early career. ML/AI focus."
+    }
+  ]
+}

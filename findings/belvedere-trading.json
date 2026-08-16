@@ -1,8 +1,19 @@
 {
   "firm": "Belvedere Trading",
   "careers_url": "https://www.belvederetrading.com/careers",
-  "offices_in_scope_confirmed": ["Singapore"],
-  "offices_checked_not_found": ["London", "Amsterdam", "Dublin", "Paris", "Frankfurt", "Hong Kong", "Shanghai", "Tokyo"],
+  "offices_in_scope_confirmed": [
+    "Singapore"
+  ],
+  "offices_checked_not_found": [
+    "London",
+    "Amsterdam",
+    "Dublin",
+    "Paris",
+    "Frankfurt",
+    "Hong Kong",
+    "Shanghai",
+    "Tokyo"
+  ],
   "roles": [
     {
       "location": "Singapore",
@@ -15,6 +26,54 @@
       "requirements": "1+ years options trading or related | Bachelor's or higher in finance, econ, maths, engineering or CS | Strong understanding of equity market structure, pricing and trading dynamics | Proficiency in Python, R or SQL, able to work with large datasets and build models | Exceptional problem-solving, synthesise complex data quickly | Strong interpersonal/collaboration skills, team environment",
       "comp_local": "",
       "notes": "Growth seat: \"seeking an Options Trader to help scale the Singapore office\" — build out the Singapore trading presence across Belvedere's core market-making desks (equity index and commodity options), partner with devs and quants. Singapore entity is BELVEDERE TRADING SG PRIVATE LIMITED, registered 14 Jul 2022, 1 Marina Boulevard (secondary source: recordowl company registry). Posting says nothing about visa sponsorship either way — candidate would need an EP; routine at this level but worth asking early. Firm is a Chicago options market maker; the APAC office trades the US night-desk products, so expect evening/overnight-leaning hours. Two other Singapore reqs seen in search results (\"Options Trader – Singapore Office\" and \"Trade Operations Analyst – Singapore Office\") are no longer in the live Lever feed and were excluded as closed."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Trader - Entry Level 2026",
+      "track": "Research",
+      "url": "https://jobs.lever.co/belvederetrading/7a15eeab-69ce-489e-bdb6-122dd0360b40",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry-level 2026",
+      "requirements": "Strong quantitative problem-solving; BTU training program provided",
+      "comp_local": "Not published",
+      "notes": "H-1B sponsor historically (pre-2019). No recent LCA filings - confirm sponsorship directly. Proprietary trading."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Software Engineer",
+      "track": "C++",
+      "url": "https://jobs.lever.co/belvederetrading/2f915976-b1e1-4e3e-81da-1116dcbb2344",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "1-3 years experience",
+      "requirements": "1-3 years professional software development; full SDLC experience",
+      "comp_local": "Not published",
+      "notes": "H-1B sponsor historically. Ideal for early-career engineers. Close collaboration with quant traders."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Researcher",
+      "track": "Research",
+      "url": "https://jobs.lever.co/belvederetrading/0a19afb2-27d3-4a06-8600-5e4cd9b9744e",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career researcher",
+      "requirements": "Quantitative research skills",
+      "comp_local": "Not published",
+      "notes": "H-1B sponsor historically. Confirm current sponsorship policy."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Trading Analyst",
+      "track": "Research",
+      "url": "https://jobs.lever.co/belvederetrading/6455c054-684c-40ea-a564-daf07fb241b3",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career",
+      "requirements": "Quantitative trading analysis",
+      "comp_local": "Not published",
+      "notes": "H-1B sponsor historically."
     }
   ],
   "existing_rows_audit": [

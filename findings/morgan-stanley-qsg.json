@@ -1,0 +1,47 @@
+{
+  "firm": "Morgan Stanley (QSG)",
+  "careers_url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Major H-1B sponsor; 115 Financial Quantitative Analysts sponsored historically; h1bgrader.com/h1b-sponsors/morgan-stanley-and-co-llc-n60eoz9n2z",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "2026 Technology Full-Time Analyst Program",
+      "track": "C++",
+      "url": "https://morganstanley.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/1/opp/19146-2026-Technology-Full-Time-Analyst-Program-New-York/en-GB",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad; 8-week global training program",
+      "requirements": "CS, Math, Physics, Engineering degree; programming skills",
+      "comp_local": "Not published (analyst ~$100K-$140K base)",
+      "notes": "Known H-1B sponsor. Preplaced to division within Technology. Training starts Feb/Aug."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://www.themuse.com/jobs/morganstanley/quantitative-analyst-87d2f4",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry to mid level",
+      "requirements": "BSc/MSc/PhD in CS, Math, Physics, Engineering; Python, C++, Java; Monte Carlo simulations, ML",
+      "comp_local": "$100,000-$140,000 base (analyst); $175K median for associate H1B filings",
+      "notes": "Known H-1B sponsor. Build pricing/risk models, ML trading bots, monitoring web apps."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Analyst - Macroeconomic Scenario Design",
+      "track": "Research",
+      "url": "https://www.theladders.com/job/quantitative-analyst-macroeconomic-scenario-design-morganstanley-new-york-ny_86576286",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career",
+      "requirements": "Quantitative analysis; scenario modeling",
+      "comp_local": "$100,000-$140,000 base",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

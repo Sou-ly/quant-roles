@@ -1,0 +1,21 @@
+{
+  "firm": "Lansdowne Partners",
+  "careers_url": "https://uk.linkedin.com/company/lansdowne-partners",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Graduate Research Analyst",
+      "track": "Research",
+      "url": "https://jobs.weekday.works/lansdowne-partners-graduate-research-analyst",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Research analysis; quantitative skills; equity strategies",
+      "comp_local": "GBP 50,000-70,000+ base (est.)",
+      "notes": "London-based equity hedge fund. Quant developer is among highest-paid roles."
+    }
+  ]
+}

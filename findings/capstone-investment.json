@@ -1,0 +1,45 @@
+{
+  "firm": "Capstone Investment Advisors",
+  "careers_url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors",
+  "offices_in_scope_confirmed": ["London", "Hong Kong", "Amsterdam", "Tokyo"],
+  "offices_checked_not_found": [],
+  "roles": [
+    {
+      "location": "London",
+      "title": "AI Engineer",
+      "track": "ML Performance",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8535978002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate from search results.",
+      "requirements": "AI engineering | Machine learning | Python | Trading systems",
+      "comp_local": "",
+      "notes": "Capstone is a $10B+ vol-arb fund. NY/London/Amsterdam/HK/Tokyo. AI engineer role."
+    },
+    {
+      "location": "London",
+      "title": "Data Scientist",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8631188002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Data science | Quantitative analysis | Python | ML | Statistics",
+      "comp_local": "",
+      "notes": "Data science for trading."
+    },
+    {
+      "location": "London",
+      "title": "Software Engineer, Treasury",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8487462002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Software engineering | Treasury systems | Python/Java | Financial systems",
+      "comp_local": "",
+      "notes": "Treasury systems engineering."
+    }
+  ],
+  "notes": "Capstone is a $10B+ volatility arbitrage hedge fund. HQ NYC with offices in London, Amsterdam, Hong Kong, Tokyo."
+}

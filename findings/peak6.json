@@ -1,0 +1,35 @@
+{
+  "firm": "Peak6",
+  "careers_url": "https://peak6.com/careers/",
+  "offices_in_scope_confirmed": [
+    "Chicago, IL"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Historical H1B sponsorship for Trader, Software Developer, Financial Analyst roles; myvisajobs.com/Visa-Sponsor/Peak6-Investments/416455.htm",
+  "roles": [
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://www.jointaro.com/jobs/peak6-capital-management/quantitative-developer-429056f6/",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2-3 years experience in quant research/ML/trading",
+      "requirements": "Bachelor's/Master's/PhD in Math, Stats, Physics, Financial Engineering; Python; derivatives pricing models",
+      "comp_local": "$103K-$145K base (Glassdoor estimate for senior level)",
+      "notes": "Known H-1B sponsor (historical). Options trading firm in Chicago Board of Trade. 2-3 YoE requirement may be negotiable for strong candidates."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Researcher - Execution",
+      "track": "Research",
+      "url": "https://builtin.com/job/quantitative-researcher-execution/8195719",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early-mid career",
+      "requirements": "Quantitative background; execution research",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor (historical). Options market making."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "firm": "DV Trading",
+  "careers_url": "https://job-boards.greenhouse.io/dvtrading",
+  "offices_in_scope_confirmed": ["Chicago"],
+  "offices_checked_not_found": ["London"],
+  "roles": [
+    {
+      "location": "Chicago",
+      "title": "Quantitative Developer (DV Equities)",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4694127005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Expected to graduate by Summer 2026. Recent grad — you fit.",
+      "requirements": "CS/CE degree | Quantitative trading tools | Proprietary trading | C++/Python",
+      "comp_local": "",
+      "notes": "DV Equities quant dev. New grad. H-1B sponsorship status: check — DV Trading is a known Chicago prop shop."
+    },
+    {
+      "location": "Chicago",
+      "title": "Quantitative Trading Developer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4637651005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Quantitative trading platform | C++ | Options volatility modeling | Stochastic calculus",
+      "comp_local": "",
+      "notes": "Working directly with PM on trading platform."
+    },
+    {
+      "location": "Chicago",
+      "title": "Algo Quant/Developer, Trading Research",
+      "track": "Research",
+      "url": "https://boards.greenhouse.io/dvtrading/jobs/4413681005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Algo trading research | Quantitative development | C++/Python | Statistical analysis",
+      "comp_local": "",
+      "notes": "Algo quant trading research."
+    }
+  ],
+  "notes": "DV Trading is a proprietary trading firm. DV Commodities and DV Equities. Chicago-based."
+}

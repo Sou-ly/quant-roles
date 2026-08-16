@@ -1,0 +1,21 @@
+{
+  "firm": "Amber Group",
+  "careers_url": "https://www.ambergroup.io/careers",
+  "offices_in_scope_confirmed": [
+    "Hong Kong"
+  ],
+  "roles": [
+    {
+      "location": "Hong Kong",
+      "title": "Quant Researcher - Statistical Arbitrage",
+      "track": "Research",
+      "url": "https://www.crypto-careers.com/jobs/543800708-quant-researcher-statistical-arbitrage-at-amber-group",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Statistical arbitrage research; quantitative strategies; digital assets",
+      "comp_local": "HKD 600,000-1,200,000+ total (est.)",
+      "notes": "Crypto/digital assets trading firm. Quantitative strategies and liquidity provision."
+    }
+  ]
+}

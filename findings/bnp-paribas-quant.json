@@ -1,0 +1,81 @@
+{
+  "firm": "BNP Paribas",
+  "careers_url": "https://group.bnpparibas/en/careers",
+  "offices_in_scope_confirmed": ["London", "Paris"],
+  "offices_checked_not_found": [],
+  "roles": [
+    {
+      "location": "Paris",
+      "title": "Quantitative Research Graduates' Programme 2026",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/quantitative-research-graduates-programme-2026",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduate programme starting 17 August 2026. 12-month rotational across 2 GM Quant Research teams. Recruits one graduate per intake.",
+      "requirements": "Quantitative research | Pricing and risk management models | Python, C++ | Mathematics, statistics | MSc/PhD in quantitative field",
+      "comp_local": "",
+      "notes": "Global Markets Front Office Quantitative Research. 12-month programme with 2 rotations. French national — no sponsorship needed in Paris."
+    },
+    {
+      "location": "London",
+      "title": "Graduate Associate Programme 2026 - Global Markets Quantitative Research",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-graduate-associate-programme-2026-global-markets-quantitative-research",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduate programme 2026. 3-week induction then full-time in a Quant team.",
+      "requirements": "Quantitative research | Pricing models | Risk management | Python, C++ | MSc/PhD quantitative field",
+      "comp_local": "",
+      "notes": "London quant research graduate programme. 3-week induction then placement."
+    },
+    {
+      "location": "London",
+      "title": "2026 Global Markets Graduate Analyst - Research",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-2026-global-markets-graduate-analyst-research",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2026 graduate analyst. Recent graduates.",
+      "requirements": "Quantitative and qualitative analysis | Global markets | Research",
+      "comp_local": "",
+      "notes": "Global Markets research analyst graduate role."
+    },
+    {
+      "location": "London",
+      "title": "Long Term Internship 2026 - Global Markets Quantitative Research",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-long-term-internship-2026-global-markets-quantitative-research",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Internship 2026. Quant teams supporting Business Lines.",
+      "requirements": "Quantitative research | Pricing and risk management models | Python, C++",
+      "comp_local": "",
+      "notes": "Long-term internship in London quant research."
+    },
+    {
+      "location": "London",
+      "title": "Front Office Quantitative Research - Compute",
+      "track": "C++",
+      "url": "https://group.bnpparibas/en/careers/job-offer/senior-associate-front-office-quantitative-research-compute-1",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Senior Associate level — may be above band.",
+      "requirements": "Front Office Quant Research | Compute infrastructure | C++ | Python | HPC | GPU computing",
+      "comp_local": "",
+      "notes": "Quant Research Compute team. HPC/GPU focus — directly relevant to profile. Global team across London, Paris, Asia, NY."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-4",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate from search results.",
+      "requirements": "Quantitative analysis | Pricing models | Risk | Python, C++",
+      "comp_local": "",
+      "notes": "General quant analyst role."
+    }
+  ],
+  "notes": "BNP Paribas is the largest French bank and one of the largest globally. Fortune Global 50. Strong quantitative research division across London and Paris."
+}

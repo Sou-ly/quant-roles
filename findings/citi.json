@@ -1,0 +1,131 @@
+{
+  "firm": "Citi",
+  "careers_url": "https://jobs.citi.com",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "1,445 LCAs FY2025; 575 LCAs FY2026 (570 approved); 339 Financial Quantitative Analyst positions; h1bgrader.com/h1b-sponsors/citibank-na-370o63pr0z",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Markets - Quantitative Analysis, Full-Time Analyst 2027",
+      "track": "Research",
+      "url": "https://jobs.citi.com/job/new-york/markets-quantitative-analysis-full-time-analyst-new-york-usa-2027/287/97890231744",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Fall 2026-Spring 2027; GPA 3.3+",
+      "requirements": "Bachelor's/Master's in Quant Finance, CS, Engineering, Math; Python, SQL, C++; AI/ML experience",
+      "comp_local": "$110,000-$125,000 base + benefits",
+      "notes": "Known H-1B sponsor. 1,445 LCAs FY2025. 2.5-year structured analyst program. Hybrid (2 remote days/week)."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Technology, Application Development, Full-Time Analyst 2026",
+      "track": "C++",
+      "url": "https://jobs.citi.com/job/jersey-city/technology-application-development-full-time-analyst-new-york-new-jersey-usa-2026-pursuit/287/88527928592",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad; 2-year program starting July",
+      "requirements": "CS or related degree; agile development",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. Rotational program across Software Development teams."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://jobs.citi.com/job/new-york/quantitative-analyst/287/92916058368",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Quantitative analysis",
+      "comp_local": "Not published (median H1B salary $145K)",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Investments Lab Quantitative Analyst",
+      "track": "Research",
+      "url": "https://jobs.citi.com/job/new-york/investments-lab-quantitative-analyst/287/91410716080",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Quantitative analysis; investments",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analysis, Placement Analyst, London (EMEA)",
+      "track": "Research",
+      "url": "https://jobs.citi.com/job/london/quantitative-analysis-placement-analyst-london-europe-middle-east-and-africa/287/35515180512",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Masters or PhD in Engineering, Maths, Physics, CS or scientific disciplines",
+      "requirements": "3-6 month placement; Quantitative Analysis, Structuring or Exotics Trading",
+      "comp_local": "~GBP 50-65k pro-rata (est.)",
+      "notes": "Successful analysts considered for full-time program. Flexible start dates."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst - Capital Analytics, AVP",
+      "track": "Research",
+      "url": "https://jobs.citi.com/job/london/quantitative-analyst-capital-analytics-avp/287/92452079168",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "AVP level - may require some experience but no explicit years gate",
+      "requirements": "Markets Quantitative Analytics (MQA); Capital Analytics team",
+      "comp_local": "GBP 70-100k+ total (est.)",
+      "notes": "Posted March 2026. Within MQA division."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst FX Electronic Trading",
+      "track": "ML Performance",
+      "url": "https://jobs.citi.com/job/london/quantitative-analyst-fx-electronic-trading/287/96604498272",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "FX electronic market making and algorithmic execution",
+      "comp_local": "GBP 80-110k+ total (est.)",
+      "notes": "Posted June 2026. Heart of electronic market making business."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Analyst - C13 - Hong Kong",
+      "track": "C++",
+      "url": "https://jobs.citi.com/job/hong-kong/quantitative-analyst-c13-hong-kong/287/86465386000",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "C13 level (Analyst/Associate equivalent)",
+      "requirements": "Equities Cash Quantitative Analytics; Java development; algorithmic execution",
+      "comp_local": "HKD 500,000-800,000+ total (est.)",
+      "notes": "Equities Cash quant team in HK. Algorithmic execution business logic."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Markets - Sales and Trading, Summer Analyst, Hong Kong 2026",
+      "track": "Trader",
+      "url": "https://jobs.citi.com/job/hong-kong/markets-sales-and-trading-summer-analyst-hong-kong-2026/287/84985362512",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Student/penultimate year",
+      "requirements": "Markets division; sales and trading",
+      "comp_local": "HKD 300,000-400,000 pro-rata (est.)",
+      "notes": "2026 summer analyst programme in HK Markets"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst - Rates Options Desk Quant (VP)",
+      "track": "C++",
+      "url": "https://jobs.citi.com/job/london/quantitative-analyst-rates-options-desk-quant-vice-president/287/96463795840",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "VP level - may require experience",
+      "requirements": "Interest Rate Derivatives; pricing model development",
+      "comp_local": "GBP 100,000-150,000+ total (est.)",
+      "notes": "VP level rates options desk quant. Posted June 2026. May be senior."
+    }
+  ]
+}

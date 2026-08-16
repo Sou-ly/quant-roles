@@ -1,0 +1,21 @@
+{
+  "firm": "Castleton Commodities International",
+  "careers_url": "https://www.cci.com/careers/students/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "European Renewable Quantitative Analyst",
+      "track": "Research",
+      "url": "https://builtinlondon.uk/job/european-renewable-data-analyst/3995088",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Quantitative analysis for weather and power groups; commodity trading",
+      "comp_local": "GBP 60,000-90,000+ total (est.)",
+      "notes": "Global energy commodity merchant. Quant role across weather and power trading."
+    }
+  ]
+}

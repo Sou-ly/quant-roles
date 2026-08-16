@@ -1,0 +1,59 @@
+{
+  "firm": "JPMorgan Chase (Strats / Quant Finance)",
+  "careers_url": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "1,500-3,500 H1B petitions annually; major sponsor; migratemate.co/companies-that-sponsor/h1b/jpmorganchase",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "2026 Quantitative Finance Analyst & Associate Program",
+      "track": "Research",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658044",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Dec 2026-Aug 2027; Bachelor's/Master's/PhD",
+      "requirements": "Degree in math, stats, physics, engineering, CS, economics, or ML; Python, C++, or Java proficiency",
+      "comp_local": "$105,000-$150,000 base",
+      "notes": "Known H-1B sponsor. Athena platform (35M lines Python, C++ underneath). Strats role is hybrid quant/developer."
+    },
+    {
+      "location": "New York, NY",
+      "title": "2026 Software Engineer Program - Full-time (July Start)",
+      "track": "C++",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad; 2-year development program",
+      "requirements": "CS or related degree; software engineering skills",
+      "comp_local": "$95,000-$125,000 base (NYC)",
+      "notes": "Known H-1B sponsor. Global two-year SEP career development journey."
+    },
+    {
+      "location": "New York, NY",
+      "title": "2026 Software Engineer Program - Full-time (February Start)",
+      "track": "C++",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649942",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad; Feb start option",
+      "requirements": "CS or related degree",
+      "comp_local": "$95,000-$125,000 base (NYC)",
+      "notes": "Known H-1B sponsor. February start date option."
+    },
+    {
+      "location": "New York, NY",
+      "title": "2026 Commercial & Investment Bank Markets Full-Time Analyst Program",
+      "track": "Research",
+      "url": "https://www.builtinnyc.com/job/2026-commercial-investment-bank-markets-full-time-analyst-program-research/6661146",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad analyst program",
+      "requirements": "Undergraduate or graduate degree",
+      "comp_local": "Not published (analyst range ~$105K-$150K base)",
+      "notes": "Known H-1B sponsor. Markets research analyst program."
+    }
+  ]
+}

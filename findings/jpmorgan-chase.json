@@ -1,0 +1,46 @@
+{
+  "firm": "JPMorgan Chase",
+  "careers_url": "https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Paris"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "2026 Quantitative Finance Analyst & Associate Internship - London",
+      "track": "Research",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210658290",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Jan 2025 - Dec 2026; BSc/MSc in maths, stats, physics, engineering, CS, economics, DS/ML",
+      "requirements": "Python, C++, or Java proficiency; strong analytical skills",
+      "comp_local": "~GBP 65-80k base (est. Analyst level)",
+      "notes": "Off-Cycle Programme starts Spring/Summer/Autumn. Analyst or Associate level based on academic experience."
+    },
+    {
+      "location": "Paris",
+      "title": "2026 Quantitative Finance Analyst Program - Paris",
+      "track": "Research",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661749",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Jan 2025 - Dec 2026; BSc/MSc in quantitative field",
+      "requirements": "Python, C++, or Java; strong quantitative and research skills",
+      "comp_local": "~EUR 55-70k base (est.)",
+      "notes": "Paris-based QF program. French national - no visa issues."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Research - London - 2026 ReEntry Program",
+      "track": "Research",
+      "url": "https://talents.studysmarter.co.uk/companies/jpmorgan-chase-co/london/quantitative-research-london-2026-reentry-program-22446510/",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Returnship programme - career break candidates",
+      "requirements": "Advanced maths and coding; quantitative research; financial modelling",
+      "comp_local": "GBP 55,000-80,000 base (est.)",
+      "notes": "ReEntry Programme for those with career breaks. Also applicable for recent grads with gaps."
+    }
+  ]
+}

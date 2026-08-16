@@ -1,0 +1,23 @@
+{
+  "firm": "GSA Capital",
+  "careers_url": "https://www.gsacapital.com/careers",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "1 LCA FY2022-2024, certified; myvisajobs.com/employer/gsa-capital-partners-new-york/",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Check careers page for current quant dev / ML openings",
+      "track": "Research",
+      "url": "https://www.gsacapital.com/careers",
+      "verification": "unverified",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career",
+      "requirements": "Quantitative research or development background",
+      "comp_local": "Not published",
+      "notes": "Minimal H-1B filing history (1 LCA). London-headquartered systematic fund with NYC office. Limited US openings - check directly."
+    }
+  ]
+}

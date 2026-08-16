@@ -1,0 +1,59 @@
+{
+  "firm": "Two Sigma (ML Roles)",
+  "careers_url": "https://careers.twosigma.com/careers/SearchJobs",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Major H-1B sponsor in quant finance; hundreds of LCA filings annually",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Software Engineering - Full-Time Campus Hire NYC",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/13355",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Campus hire / new grad",
+      "requirements": "CS or related degree; matched to specific team 2-3 months before start",
+      "comp_local": "Not published (industry reports ~$200K-$300K+ total for new grad)",
+      "notes": "Known H-1B sponsor. NewTS onboarding program. Scalable tools for data exploration."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Software Engineer: Generative AI",
+      "track": "ML Performance",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-City-United-States-Quantitative-Software-Engineer-Generative-AI/13079",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "NLP, LLMs; machine learning; unstructured data (news, social media, regulatory filings)",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. News Engineering team. Strong NLP/LLM background required."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Software Engineer: Quantitative Components",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-City-United-States-Quantitative-Software-Engineer-Quantitative-Components/13083",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Core forecasting, simulation, optimization components",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. Heart of Two Sigma's portfolio construction."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Software Engineer",
+      "track": "C++",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-City-United-States-Quantitative-Software-Engineer/13045",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "General quantitative software engineering",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

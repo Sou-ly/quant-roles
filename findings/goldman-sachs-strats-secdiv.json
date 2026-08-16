@@ -1,0 +1,71 @@
+{
+  "firm": "Goldman Sachs (Strats / SecDiv)",
+  "careers_url": "https://higher.gs.com",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "1,500-3,500 H1B petitions annually; 88-95% approval rate; h1bvisajobs.com/goldman-sachs-h1b-sponsorship",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "2026 FICC and Equities Quantitative Strats - New Analyst",
+      "track": "Research",
+      "url": "https://higher.gs.com/roles/153178",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Final year undergrad/grad, graduating Dec 2026-Jul 2027",
+      "requirements": "Advanced math, programming (Python, Java, C++), logical thinking; quantitative modeling",
+      "comp_local": "$115,000-$145,000 base for analyst (industry reports)",
+      "notes": "Known H-1B sponsor. 8,000+ people in Strats globally. Hybrid quant analyst/developer/engineer role."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Strategist - FICC Resource Management",
+      "track": "Research",
+      "url": "https://higher.gs.com/roles/162274",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Analyst/Associate level",
+      "requirements": "Quantitative modeling; programming; risk and capital management",
+      "comp_local": "$115,000-$145,000 base (analyst level)",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Strategist - Global Currency and Emerging Markets",
+      "track": "Research",
+      "url": "https://higher.gs.com/roles/156138",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Analyst/Associate level",
+      "requirements": "Quantitative strategies for GCEM",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "2026 Wealth Management Quantitative Finance - New Analyst",
+      "track": "Research",
+      "url": "https://higher.gs.com/roles/151033",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Final year undergrad/grad",
+      "requirements": "Quantitative finance; programming",
+      "comp_local": "$115,000-$145,000 base",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Engineering Analyst - Global Banking & Markets",
+      "track": "C++",
+      "url": "https://higher.gs.com/roles/138629",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Analyst level",
+      "requirements": "Quantitative engineering; software development",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

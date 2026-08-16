@@ -1,0 +1,22 @@
+{
+  "firm": "Bluefin (Europe)",
+  "careers_url": "https://www.bfcm.com/careers/",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Hong Kong"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer / Trader (check careers page)",
+      "track": "C++",
+      "url": "https://www.bfcm.com/careers/",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Check directly",
+      "requirements": "Equities, derivatives, commodities, FI, FX trading; quantitative modelling",
+      "comp_local": "GBP 70,000-120,000+ total (est.)",
+      "notes": "Prop trading group with London and HK offices. Bluefin Europe LLP is London entity."
+    }
+  ]
+}

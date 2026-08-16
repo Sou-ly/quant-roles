@@ -1,0 +1,143 @@
+{
+  "firm": "Barclays",
+  "careers_url": "https://search.jobs.barclays",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "Major bank H-1B sponsor; specific programs accept visa sponsorship candidates",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Analytics Associate Graduate Program 2026",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-graduate-program-2026-new-york/13015/84831649056",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Final year grad/postgrad; GPA 3.2+",
+      "requirements": "Physics, Math, Quant Finance, CS, or STEM; Java, C++, or Python",
+      "comp_local": "$85,000-$105,000 base + $10K-$20K signing bonus",
+      "notes": "H-1B sponsorship: CHECK POSTING - Barclays sponsors for some quant programs (confirmed for Quant Finance Risk) but not all. Ask recruiter."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Finance Risk Associate Graduate Program 2026",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-finance-risk-associate-graduate-program-2026-new-york/13015/86813674272",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Final year grad/postgrad",
+      "requirements": "Quantitative/STEM background",
+      "comp_local": "$85,000-$105,000 base + signing bonus",
+      "notes": "CONFIRMED: Barclays will accept applications from candidates who require visa sponsorship for this specific program."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Connecting Quants Program",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/new-york/connecting-quants-program-new-york/13015/85560168704",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career quants",
+      "requirements": "Quantitative background",
+      "comp_local": "Not published",
+      "notes": "Quant networking/pipeline program at Barclays."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Finance Risk Associate Graduate Programme 2026 London",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/london/quantitative-finance-risk-associate-graduate-programme-2026-london/13015/86701728192",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Final year or completed UG/PG in technical STEM discipline",
+      "requirements": "Physics, maths, quant finance, economics, stats, CS or other STEM; statistical methods, AI, coding",
+      "comp_local": "GBP 69,000 - 75,000 total (est.)",
+      "notes": "Risk Quantitative Analytics graduate programme. Uses statistical methods, AI, and coding."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst - Equity Derivatives",
+      "track": "C++",
+      "url": "https://search.jobs.barclays/job/london/quantitative-analyst-equity-derivatives/13015/89634457392",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate in listing",
+      "requirements": "Quantitative degree; derivatives knowledge; programming",
+      "comp_local": "GBP 70-100k+ (est.)",
+      "notes": "Front-office quant role in equity derivatives"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst - Equities and Hybrid",
+      "track": "C++",
+      "url": "https://search.jobs.barclays/en/job/london/quantitative-analyst-equities-and-hybrid/13015/89194094176",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Equities and hybrid derivatives; C++ programming; Python",
+      "comp_local": "GBP 70-100k+ (est.)",
+      "notes": "Front-office equities and hybrid quant role"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Investment Strategies (QIS) Platform Developer",
+      "track": "ML Performance",
+      "url": "https://search.jobs.barclays/job/london/quantitative-investment-strategies-qis-platform-developer/13015/89194115776",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Python; QIS platform tooling; deep Python knowledge and core libraries",
+      "comp_local": "GBP 70-100k+ (est.)",
+      "notes": "QIS platform development - creating and enhancing tooling"
+    },
+    {
+      "location": "London",
+      "title": "Front Office Quant Developer - XVA",
+      "track": "C++",
+      "url": "https://search.jobs.barclays/en/job/london/front-office-quant-developer-xva/13015/82914082320",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "XVA desk; front office quant development; C++",
+      "comp_local": "GBP 80-120k+ (est.)",
+      "notes": "Front office XVA quant development"
+    },
+    {
+      "location": "London",
+      "title": "Banking Book Capital - Quant Developer",
+      "track": "C++",
+      "url": "https://search.jobs.barclays/job/london/banking-book-capital-quant-developer/13015/37809320208",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "C++/Python; pricing, risk, scenario and capital calculation libraries",
+      "comp_local": "GBP 65-95k+ (est.)",
+      "notes": "Loan portfolio management quant dev"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Analytics Analyst Off Cycle Internship 2026 Hong Kong",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/hong-kong/quantitative-analytics-analyst-off-cycle-internship-2026-hong-kong/13015/83218066384",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Dec 2026 - Jun 2027; GPA 3.2+",
+      "requirements": "Physics, Maths, OR, Quant Finance, CS; Python, C++, or Java",
+      "comp_local": "HKD 350,000-500,000 pro-rata (est.)",
+      "notes": "Off-cycle internship in HK Quant Analytics"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Analytics Associate Off Cycle Internship 2026 Hong Kong",
+      "track": "Research",
+      "url": "https://search.jobs.barclays/job/hong-kong/quantitative-analytics-associate-off-cycle-internship-2026-hong-kong/13015/83218065840",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Postgraduate; graduating Dec 2026 - Jun 2027",
+      "requirements": "Postgraduate qualification; Python, C++, or Java; STEM subject",
+      "comp_local": "HKD 400,000-600,000 pro-rata (est.)",
+      "notes": "Associate level off-cycle in HK - ideal for MSc graduates"
+    }
+  ]
+}

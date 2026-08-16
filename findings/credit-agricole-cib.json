@@ -1,0 +1,58 @@
+{
+  "firm": "Credit Agricole CIB",
+  "careers_url": "https://jobs.ca-cib.com/homepage.aspx?LCID=2057",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Paris"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "12 Month Internship - Quantitative Analyst",
+      "track": "Research",
+      "url": "https://jobs.ca-cib.com/job/job-12-month-internship-quantitative-analyst_107250.aspx",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Student/recent graduate",
+      "requirements": "Quantitative analysis; model development",
+      "comp_local": "~GBP 40-55k pro-rata (est.)",
+      "notes": "Posted June 2026. 12-month internship in London."
+    },
+    {
+      "location": "London",
+      "title": "XVACCR Quantitative Analyst",
+      "track": "C++",
+      "url": "https://jobs.ca-cib.com/job/job-xvaccr-quantitative-analyst_105227.aspx?LCID=2057",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "XVA and risk management models; C++, SQL; innovative quantitative models",
+      "comp_local": "GBP 60-90k+ (est.)",
+      "notes": "XVA/CCR quant modelling in London"
+    },
+    {
+      "location": "Paris",
+      "title": "Quantitative Analyst FI NL H/F",
+      "track": "C++",
+      "url": "https://jobs.ca-cib.com/job/job-quantitative-analyst-fi-nl-h-f_112874.aspx",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Fixed Income Non-Linear team; numerical models for valuation and risk management",
+      "comp_local": "EUR 50-75k+ (est.)",
+      "notes": "Paris Quantitative Research team in Global Markets Division. French national - ideal."
+    },
+    {
+      "location": "London",
+      "title": "Collateral & XVA Quantitative Analyst",
+      "track": "C++",
+      "url": "https://jobs.ca-cib.com/job/job-collateral-xva-quantitative-analyst_66952.aspx",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Collateral management and XVA quantitative modelling",
+      "comp_local": "GBP 60-90k+ (est.)",
+      "notes": "XVA desk quantitative analyst"
+    }
+  ]
+}

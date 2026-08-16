@@ -1,0 +1,60 @@
+{
+  "firm": "Chicago Trading Company (CTC)",
+  "careers_url": "https://job-boards.greenhouse.io/chicagotradingcampus",
+  "offices_in_scope_confirmed": [
+    "Chicago, IL",
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "33 LCAs FY2025; 96.43% approval rate; 189 total H1B employees; h1bgrader.com/h1b-sponsors/ctc-trading-group-llc-8r0vxy7jk1",
+  "roles": [
+    {
+      "location": "Chicago, IL / New York, NY",
+      "title": "Associate Engineer - 2027 Start",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad / early career",
+      "requirements": "Bachelor's or Master's in CS, Engineering, or related field; Java, C++, Python",
+      "comp_local": "Not published (competitive prop trading comp)",
+      "notes": "Known H-1B sponsor. 33 LCAs FY2025. Options market-making firm. Free housing for interns."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Quant Trading Associate - 2027 Start",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad / early career",
+      "requirements": "Strong quantitative background",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. Proprietary options market making."
+    },
+    {
+      "location": "Chicago, IL / New York, NY",
+      "title": "Systematic Quantitative Researcher - PhD",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645631005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "PhD preferred",
+      "requirements": "PhD in quantitative field; systematic trading research",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. More senior but included for PhD candidates."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Software Engineering Internship - Summer 2027",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Intern (convert to full-time)",
+      "requirements": "CS or related major; programming skills",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor. Intern-to-hire pipeline."
+    }
+  ]
+}

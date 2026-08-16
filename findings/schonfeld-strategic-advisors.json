@@ -1,0 +1,59 @@
+{
+  "firm": "Schonfeld Strategic Advisors",
+  "careers_url": "https://job-boards.greenhouse.io/schonfeld",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "27 LCAs, 11 green card LCs FY2025, all certified; h1bgrader.com/h1b-sponsors/schonfeld-strategic-advisors-inc-dvk4eqyv0w",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer - Fundamental Equities",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7957507",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2-5 years experience",
+      "requirements": "2-5 years quant dev/analytics engineering; Python, SQL, FastAPI, AI/LLM integration, AWS, Docker/K8s",
+      "comp_local": "$150,000-$175,000 base + performance bonus",
+      "notes": "Known H-1B sponsor. Application asks about sponsorship need. ~$19B AUM hedge fund."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer - Business Analytics",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7958235",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "2-5 years experience",
+      "requirements": "Bachelor's/Master's in CS, Engineering, Math; 2-5 years; Python, SQL, Linux, Git, cloud computing",
+      "comp_local": "$150,000-$180,000 base + performance bonus",
+      "notes": "Known H-1B sponsor. Application asks about future sponsorship need."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Full Stack Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843972",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Full stack development skills",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Java Software Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6583549",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Java; financial systems development",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

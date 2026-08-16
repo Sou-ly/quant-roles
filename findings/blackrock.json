@@ -1,0 +1,59 @@
+{
+  "firm": "BlackRock",
+  "careers_url": "https://careers.blackrock.com/students-and-graduates-emea",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Zurich",
+    "Paris"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "2026 Full-Time Analyst Programme - EMEA",
+      "track": "Research",
+      "url": "https://careers.blackrock.com/job/london/2026-full-time-analyst-program-emea/45831/83233338736",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Graduating Jun 2025 - Jul 2026; any degree subject",
+      "requirements": "2-year analyst programme; multiple tracks including Aladdin, Quant Investing, Analytics & Modelling",
+      "comp_local": "GBP 55,000 - 65,000 base",
+      "notes": "Available across London, Amsterdam, Paris, Zurich and more. Quant Investing track is most relevant."
+    },
+    {
+      "location": "London",
+      "title": "Associate, Quantitative Researcher - Systematic Active Equity",
+      "track": "ML Performance",
+      "url": "https://careers.blackrock.com/job/london/associate-quantitative-researcher-systematic-active-equity/45831/99017512480",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level - suitable for MSc/PhD grads with some experience",
+      "requirements": "Alpha research; ML/AI; large dataset analysis; translate research to live investment strategies",
+      "comp_local": "GBP 75-110k+ total (est.)",
+      "notes": "Systematic Active Equity team. Research hubs in London, NYC, SF. Cutting-edge ML/AI research."
+    },
+    {
+      "location": "London",
+      "title": "Associate, Aladdin Value Engineering",
+      "track": "Research",
+      "url": "https://careers.blackrock.com/job/london/associate-aladdin-value-engineering/45831/93241777760",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level",
+      "requirements": "Quantitative and qualitative analyses; Aladdin technology platform; client-facing",
+      "comp_local": "GBP 65-90k+ total (est.)",
+      "notes": "Aladdin Value Engineering - assessing value creation potential. Posted Mar 2026."
+    },
+    {
+      "location": "London",
+      "title": "Full Stack Developer, Aladdin Trading Engineering, Associate",
+      "track": "C++",
+      "url": "https://careers.blackrock.com/job/london/full-stack-developer-aladdin-trading-engineering-associate/45831/92643036192",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level",
+      "requirements": "Full stack development; Aladdin trading engineering platform",
+      "comp_local": "GBP 70-100k+ total (est.)",
+      "notes": "Aladdin Trading Engineering. Full stack developer."
+    }
+  ]
+}

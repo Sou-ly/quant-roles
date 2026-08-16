@@ -1,0 +1,22 @@
+{
+  "firm": "Pictet Asset Management",
+  "careers_url": "https://am.pictet.com/ch/en/careers",
+  "offices_in_scope_confirmed": [
+    "Geneva",
+    "Zurich"
+  ],
+  "roles": [
+    {
+      "location": "Geneva",
+      "title": "Quantitative Equity & Solutions (Quest) - check careers page",
+      "track": "Research",
+      "url": "https://am.pictet.com/ch/en/careers",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Check directly",
+      "requirements": "Quantitative equity strategies; systematic and hybrid approaches",
+      "comp_local": "CHF 100,000-150,000+ total (est.)",
+      "notes": "Quest team managing innovative quant strategies since 1999. Private bank - prestigious Swiss institution."
+    }
+  ]
+}

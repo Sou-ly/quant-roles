@@ -3,7 +3,7 @@ import json, os, sys, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from xlsx_write import Sheet, write
 
-BASE = '/home/mujin/workspaces/quant'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FIND = f'{BASE}/findings'
 
 TRACK_ORDER = {'ML Performance': 0, 'C++': 1, 'Research': 2, 'Trader': 3}
@@ -217,6 +217,54 @@ FIRM_TIER = {
     # D -- small or opaque; include for completeness.
     'Qianxiang Asset (千象)': 'D', 'Blackwing Asset (黑翼)': 'D',
     'Chengqi Asset (诚奇)': 'D', 'Mingshi Investment (鸣石)': 'D',
+
+    # US banks and finance -- added 2026-08-16
+    'JPMorgan Chase (Strats / Quant Finance)': 'B', 'JPMorgan': 'B',
+    'Goldman Sachs (Strats / SecDiv)': 'B', 'Goldman Sachs': 'B',
+    'Morgan Stanley (QSG)': 'B', 'Morgan Stanley': 'B',
+    'Barclays': 'C', 'Citi': 'C', 'Bank of America (Quant)': 'C',
+    'Bloomberg (Quant Research)': 'C', 'Bloomberg': 'C',
+    'Bridgewater Associates': 'B', 'AQR Capital Management': 'B',
+    'Susquehanna International Group (SIG)': 'A',
+    'Chicago Trading Company (CTC)': 'B',
+    'Point72 / Cubist Systematic Strategies': 'A',
+    'Millennium Management': 'A', 'Balyasny Asset Management': 'A',
+    'Schonfeld Strategic Advisors': 'B', 'Voleon Group': 'A',
+    'Engineers Gate': 'B', 'Peak6': 'C', 'Group One Trading': 'C',
+    'Talos': 'C', 'GSA Capital': 'B',
+    # European/Asian additions
+    'Capula Investment Management': 'A', 'Aspect Capital': 'B',
+    'Rokos Capital': 'A', 'Eisler Capital': 'B',
+    'BlueCrest Capital': 'A', 'Lansdowne Partners': 'B',
+    'Element Capital': 'A', 'Marble Bar Asset Management': 'B',
+    'BNP Paribas': 'C', 'Societe Generale': 'C',
+    'Deutsche Bank': 'C', 'UBS': 'C', 'HSBC': 'C',
+    'Credit Agricole CIB': 'C', 'Natixis': 'C',
+    'BlackRock': 'B', 'Pictet': 'C', 'Partners Group': 'C',
+    'Pictet Asset Management': 'C', 'GAM Investments': 'C', 'GAM': 'C',
+    'LGT Capital Partners': 'C', 'Vontobel': 'C',
+    'Rothschild & Co Asset Management': 'C',
+    'BlueCrest Capital Management': 'A', 'BlueCrest': 'A',
+    'Tibra': 'B', 'Chenavari Investment Managers': 'C',
+    'Castleton Commodities International': 'B',
+    'Talos Trading': 'C', 'Amber Group': 'C',
+    'PIMCO': 'B', 'Dimensional Fund Advisors': 'B',
+    'Natixis CIB': 'C', 'Hartree Partners': 'B',
+    'Lansdowne Partners': 'B', 'TransMarket Group': 'B',
+    'Marble Bar Asset Management': 'B',
+    'Pinpoint Asset Management': 'B',
+    'Element Capital Management': 'A',
+    'Bluefin Europe': 'B',
+    'Abu Dhabi Investment Authority (ADIA)': 'B',
+    'Capstone Investment Advisors': 'B', 'Capstone': 'B',
+    'DV Trading': 'C', 'Intropic': 'C',
+    'Peak6': 'C', 'Group One Trading': 'C',
+    'JPMorgan Chase': 'B', 'Morgan Stanley': 'B',
+    'Deutsche Bank': 'C', 'UBS': 'C', 'HSBC': 'C',
+    'Credit Agricole CIB': 'C', 'BNP Paribas': 'C',
+    'Societe Generale': 'C',
+    'Rokos Capital Management': 'A', 'Capula Investment Management': 'A',
+    'Aspect Capital': 'B',
 }
 
 def firm_tier(firm):

@@ -1,0 +1,21 @@
+{
+  "firm": "Natixis CIB",
+  "careers_url": "https://www.efinancialcareers.com/jobs/quantitative-analyst/at-natixis/in-paris",
+  "offices_in_scope_confirmed": [
+    "Paris"
+  ],
+  "roles": [
+    {
+      "location": "Paris",
+      "title": "Quantitative Analyst - Market Stress Tests (Alternance 1 year)",
+      "track": "Research",
+      "url": "https://lensa.com/job-v1/natixis-corporate-investment-banking/remote/quantitative-analyst/3c3cf03c1cd42e1dd30df4234bc60c57",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Student or recent graduate (alternance contract)",
+      "requirements": "Risk metrics research; derivative pricing models; ML algorithms for stress testing",
+      "comp_local": "EUR 30,000-45,000 (alternance) (est.)",
+      "notes": "Starting Sep 2026. Paris-based. French national - ideal for alternance."
+    }
+  ]
+}

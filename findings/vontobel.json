@@ -1,0 +1,21 @@
+{
+  "firm": "Vontobel",
+  "careers_url": "https://www.vontobel.com/en-ch/about-vontobel/careers/open-positions/",
+  "offices_in_scope_confirmed": [
+    "Zurich"
+  ],
+  "roles": [
+    {
+      "location": "Zurich",
+      "title": "Quant Research Analyst - Macro & Portfolio Solutions",
+      "track": "Research",
+      "url": "https://www.vontobel.com/en-ch/about-vontobel/careers/open-positions/8314-quant-research-analyst-macro-portfolio-solutions/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Quantitative tools for TAA, portfolio construction, macro analysis; business cycle modelling; English required, German useful",
+      "comp_local": "CHF 111,000-150,000 total (est.)",
+      "notes": "CHF 22bn Quantitative Investment boutique. Hybrid strategies combining human and machine."
+    }
+  ]
+}

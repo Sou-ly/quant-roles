@@ -1,0 +1,21 @@
+{
+  "firm": "TransMarket Group",
+  "careers_url": "https://www.transmarketgroup.com/quantitative-trading-interview-prep",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Junior Quantitative Trader",
+      "track": "Trader",
+      "url": "https://openquant.co/job/junior-quantitative-trader-transmarket-group/2727",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior level",
+      "requirements": "Quantitative and algorithmic trading; derivatives",
+      "comp_local": "GBP 80,000-150,000+ total (est.)",
+      "notes": "Founded 1980. Prop trading in global derivatives. Primarily Chicago but global offices."
+    }
+  ]
+}

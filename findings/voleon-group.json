@@ -1,0 +1,35 @@
+{
+  "firm": "Voleon Group",
+  "careers_url": "https://jobs.lever.co/voleon",
+  "offices_in_scope_confirmed": [
+    "Berkeley, CA"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "2 H-1B petitions approved FY2025; 18 total H1B employees; h1bgrader.com/h1b-sponsors/voleon-capital-management-lp-pg27pmj725",
+  "roles": [
+    {
+      "location": "Berkeley, CA",
+      "title": "Software Engineer - University Hire 2026",
+      "track": "ML Performance",
+      "url": "https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "University hire, graduating class of 2026; Bachelor's in CS",
+      "requirements": "Bachelor's in CS (class of 2026); Python, Go, C++; Linux; backend engineering, databases, large-scale data",
+      "comp_local": "$160,000-$170,000 base (total comp $255K-$328K per Levels.fyi)",
+      "notes": "Known H-1B sponsor. AI/ML-driven quantitative fund. Requires US work authorization - confirm sponsorship directly. Multibillion-dollar AUM."
+    },
+    {
+      "location": "Berkeley, CA",
+      "title": "Software Engineer, DevOps",
+      "track": "C++",
+      "url": "https://jobs.lever.co/voleon/9508bdf5-2ab1-44c3-bd80-2a7b58c6a1d0",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "DevOps/infrastructure engineering",
+      "comp_local": "$160K-$190K base range",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

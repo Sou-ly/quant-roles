@@ -1,0 +1,21 @@
+{
+  "firm": "Aspect Capital",
+  "careers_url": "https://www.aspectcapital.com/careers/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Developer - Python",
+      "track": "ML Performance",
+      "url": "https://jobs.workable.com/view/vNfXJafZ899DvmPQEc4tXy/quantitative-developer---python-in-london-at-aspect-capital",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "MSc or PhD with analytical scientific/engineering content (physics, stats, signal processing)",
+      "requirements": "Python; systematic investment; mathematical investment models for Signal Generation, Portfolio Construction, Market Execution",
+      "comp_local": "GBP 75,000-100,000+ total (est.)",
+      "notes": "$8bn+ systematic hedge fund. Technology integral to business. Collegiate research atmosphere."
+    }
+  ]
+}

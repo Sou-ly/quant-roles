@@ -1,0 +1,59 @@
+{
+  "firm": "Bloomberg (Quant Research)",
+  "careers_url": "https://bloomberg.avature.net/careers",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "160 LCAs FY2026 (100% approval); median H1B salary $141K; h1bgrader.com/h1b-sponsors/bloomberg-lp-g101g5ov07",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "2026 Software Engineer - New York",
+      "track": "C++",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/2026-Software-Engineer-New-York/13613",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad Dec 2025-May 2026",
+      "requirements": "CS degree; software engineering skills",
+      "comp_local": "Not published (industry avg ~$196K total for Bloomberg QD)",
+      "notes": "Known H-1B sponsor. 160 LCAs FY2026, 100% approved. Major tech-finance employer."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer - C++ Infrastructure for Quant Analytics (ID: 8543)",
+      "track": "C++",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/Quantitative-Developer-NYC-DT/8543",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "7+ years (senior role - stretch)",
+      "requirements": "7+ years software dev; strong C++; financial products knowledge; CMake, Linux, Docker, Python",
+      "comp_local": "$155,000-$285,000 base",
+      "notes": "Known H-1B sponsor. Senior role but perfect C++ / quant analytics fit. QLA team builds C++ libraries for pricing/risk."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Developer - C++ Infrastructure for Quant Analytics (ID: 19896)",
+      "track": "C++",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/Quantitative-Developer-C-Infrastructure-for-Quant-Analytics/19896",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "May have different seniority requirements",
+      "requirements": "C++; financial mathematics; quant infrastructure",
+      "comp_local": "$155,000-$285,000 base",
+      "notes": "Known H-1B sponsor. Second posting for same team - may have different seniority level."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Senior Software Engineer - Fixed Income and Derivatives",
+      "track": "C++",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Fixed-Income-and-Derivatives/9344",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Mid to senior (stretch for early career)",
+      "requirements": "C++/Python; fixed income/derivatives domain",
+      "comp_local": "$155,000-$285,000 base",
+      "notes": "Known H-1B sponsor. Domain-specific SWE role."
+    }
+  ]
+}

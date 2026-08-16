@@ -1,0 +1,21 @@
+{
+  "firm": "Hartree Partners",
+  "careers_url": "https://www.hartreepartners.com/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://www.glassdoor.com/Salary/Hartree-Partners-Quantitative-Research-Analyst-1153817-Salaries-EJI_IE374358.0,16_KO17,46_IL.47,54_IC1153817.htm",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate; check careers page directly",
+      "requirements": "Quantitative analysis; financial modelling; energy/commodities focus",
+      "comp_local": "GBP 80,000-130,000+ total (est. based on $148-228k USD range)",
+      "notes": "Energy/commodities trading. London Quant Research division confirmed active in 2026."
+    }
+  ]
+}

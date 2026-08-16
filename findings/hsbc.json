@@ -1,0 +1,34 @@
+{
+  "firm": "HSBC",
+  "careers_url": "https://www.hsbc.com/careers/students-and-graduates/graduate-programmes",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Hong Kong"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quant Trading and Machine Learning Associate 2026",
+      "track": "ML Performance",
+      "url": "https://www.brightnetwork.co.uk/graduate-jobs/hsbc/quant-trading-and-machine-learning-associate-2026",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "MSc or PhD in Mathematical/Quantitative subject (Maths, Physics, CS, Engineering, Quant Finance)",
+      "requirements": "Object-oriented programming (Python, C++, Java); 1-year programme with two 6-month rotations in Markets Front Office",
+      "comp_local": "GBP 55-70k+ base (est.)",
+      "notes": "Collaborating with traders on risk assessments, strategies, trading ideas. Bloomberg/Reuters/proprietary tools training."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "2026 HSBC Hong Kong Global Graduate Programme",
+      "track": "Research",
+      "url": "https://hk.gradconnection.com/employers/hsbc/jobs/hsbc-2026-hsbc-hong-kong-global-graduate-programmes/",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Less than 2 years full-time experience; graduated by July 2026",
+      "requirements": "2-year rotation programme; quantitative finance stream available",
+      "comp_local": "HKD 350,000-450,000 base (est.)",
+      "notes": "Deadline was 31 Oct 2025. Start Jul 2026+. Multiple streams including quant finance."
+    }
+  ]
+}

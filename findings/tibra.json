@@ -1,0 +1,21 @@
+{
+  "firm": "Tibra",
+  "careers_url": "https://www.tibra.com/careers/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quant Trader Developer (QTD) - Accelerator Program",
+      "track": "ML Performance",
+      "url": "https://www.tibra.com/job-vacancies/job-detail/?title=Quant+Trader+Developer",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent university graduates, up to 5 years experience, or post-doctoral academics",
+      "requirements": "Quant + Trader + Developer skills; enrolled in Tibra Uni in-house training",
+      "comp_local": "GBP 60,000-100,000+ total (est.)",
+      "notes": "Can work from City of London office. Free meals, gym, generous leave. Prop trading firm."
+    }
+  ]
+}

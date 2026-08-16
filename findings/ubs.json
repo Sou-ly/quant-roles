@@ -1,0 +1,82 @@
+{
+  "firm": "UBS",
+  "careers_url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/data-science.html",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Zurich"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "2026 Off-Cycle Internship - Investment Bank Quants - London",
+      "track": "Research",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=333350",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Students/recent graduates interested in global market trends",
+      "requirements": "Strong analytical and mathematical skills; quant finance focus",
+      "comp_local": "~GBP 50-65k pro-rata (est.)",
+      "notes": "Investment Bank Quants off-cycle internship"
+    },
+    {
+      "location": "London",
+      "title": "2026 Graduate Talent Program - Global Research Evidence Lab - London",
+      "track": "Research",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=333465",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduates; interest in alternative data and finance",
+      "requirements": "Quantitative skills; data analysis; research capabilities",
+      "comp_local": "~GBP 55-70k base (est.)",
+      "notes": "Evidence Lab uses alternative data for investment research"
+    },
+    {
+      "location": "Zurich",
+      "title": "2026 Summer Internship - Tech - AI & Data Analyst - Zurich",
+      "track": "ML Performance",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=343017",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Students in analytics, CS, engineering, maths or quantitative master's",
+      "requirements": "AI and data analysis skills; graduating Aug 2026 - Jul 2027 with >=1yr experience",
+      "comp_local": "~CHF 70-85k pro-rata (est.)",
+      "notes": "Tech AI & Data role in Zurich"
+    },
+    {
+      "location": "London",
+      "title": "QIS Quantitative Analyst",
+      "track": "Research",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343997&codes=IINDD",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Director level - may be senior",
+      "requirements": "QIS design, development, implementation",
+      "comp_local": "GBP 120,000-200,000+ total (est.)",
+      "notes": "Quantitative Investment Strategies. May be too senior."
+    },
+    {
+      "location": "London",
+      "title": "Global Markets - Quants - Quantitative Analyst",
+      "track": "C++",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=330056",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Global Markets quant team",
+      "comp_local": "GBP 70-110k+ total (est.)",
+      "notes": "Core Global Markets quant analyst role"
+    },
+    {
+      "location": "London",
+      "title": "Algorithms and Analytics Quantitative Analyst",
+      "track": "ML Performance",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=325150",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Algorithmic trading analytics",
+      "comp_local": "GBP 80-120k+ total (est.)",
+      "notes": "Algo analytics quant - electronic trading focus"
+    }
+  ]
+}

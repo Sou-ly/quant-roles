@@ -1,0 +1,57 @@
+{
+  "firm": "Deutsche Bank",
+  "careers_url": "https://careers.db.com/students-graduates/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Deutsche Bank Quantitative GSA Internship Programme - London 2026",
+      "track": "Research",
+      "url": "https://db.recsolu.com/jobs/06QH2Bv1dcqan-KaKuS6EA?job_board_id=DT5zqeU-qZM-ltrVsIvR9Q",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Penultimate year or recent graduate; <=12 months full-time experience",
+      "requirements": "STEM degree; quantitative skills; completing studies Jan 2025 - Jul 2026",
+      "comp_local": "~GBP 50-60k pro-rata (est.)",
+      "notes": "GSA = Global Strategies & Analytics. Quant internship."
+    },
+    {
+      "location": "London",
+      "title": "Deutsche Bank Quantitative FIC Internship Programme - London 2026",
+      "track": "C++",
+      "url": "https://db.recsolu.com/external/requisitions/wElWyJuzaQsSuznKnmGHuQ",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Penultimate year or recent graduate; <=12 months full-time experience",
+      "requirements": "STEM degree; fixed income & currencies quant focus",
+      "comp_local": "~GBP 50-60k pro-rata (est.)",
+      "notes": "FIC = Fixed Income & Currencies quant desk"
+    },
+    {
+      "location": "London",
+      "title": "Graduate Analyst Programme - Investment Bank: FIC - London 2026",
+      "track": "Research",
+      "url": "https://db.recsolu.com/jobs/Z5efeBrSTtdG62A7q5lIfg?job_board_id=DT5zqeU-qZM-ltrVsIvR9Q",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Completing studies Jan 2025 - Jul 2026; <=12 months experience",
+      "requirements": "Strong academics; quantitative aptitude",
+      "comp_local": "GBP 55-65k base (est.)",
+      "notes": "Full graduate analyst programme with quant rotation possible"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer (London) - Group Strategic Analytics",
+      "track": "C++",
+      "url": "https://www.itjobswatch.co.uk/jv/Deutsche-Bank/Quantitative-Developer-London-Job-London-UK-4sf2vt",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate specified",
+      "requirements": "Quantitative and modelling expertise; group-wide model development",
+      "comp_local": "GBP 65,000-100,000+ total (est.)",
+      "notes": "Group Strategic Analytics quant developer. Model development responsibility."
+    }
+  ]
+}

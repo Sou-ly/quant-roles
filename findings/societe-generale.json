@@ -1,0 +1,95 @@
+{
+  "firm": "Societe Generale",
+  "careers_url": "https://careers.societegenerale.com/en/students-graduates/graduate-programmes",
+  "offices_in_scope_confirmed": [
+    "Paris",
+    "London",
+    "Hong Kong"
+  ],
+  "roles": [
+    {
+      "location": "Paris",
+      "title": "Graduate Program - Business Analyst - AI Office - Global Markets",
+      "track": "ML Performance",
+      "url": "https://careers.societegenerale.com/en/job-offers/graduate-program-business-analyst-ai-office-global-markets-26000F90-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate (0-2 years post-graduation)",
+      "requirements": "AI/ML focus within Global Markets; quantitative degree",
+      "comp_local": "EUR 45-60k base (est.)",
+      "notes": "AI Office in Global Markets - strong ML fit. French proficiency essential for Paris."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "R&D - Fixed Income and Currencies Derivatives Quantitative Analyst",
+      "track": "C++",
+      "url": "https://careers.societegenerale.com/en/job-offers/rd-fixed-income-and-currencies-derivatives-quantitative-analyst-25000M07-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Pricing and marking services for FI derivatives (flow, exotic, hybrid); software engineering",
+      "comp_local": "HKD 500-800k+ (est.)",
+      "notes": "R&D quant for FIC derivatives in HK office"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Quantitative Analyst",
+      "track": "C++",
+      "url": "https://careers.societegenerale.com/en/job-offers/quantitative-analyst-260004FL-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "24-month agency-temp contractor; MSc in CS, Maths or related",
+      "requirements": "Software engineering; industrialization of global software library",
+      "comp_local": "HKD 500-700k (est.)",
+      "notes": "Collaborates daily with Paris-based counterparts"
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Graduate Analyst, Global Markets (Hong Kong)",
+      "track": "Research",
+      "url": "https://careers.societegenerale.com/en/job-offers/graduate-analyst-global-markets-hong-kong-26000D2A-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Global Markets desk placement",
+      "comp_local": "HKD 400-600k (est.)",
+      "notes": "2026 graduate programme in HK Global Markets"
+    },
+    {
+      "location": "London",
+      "title": "Markets Graduate Programme (UK Early Careers)",
+      "track": "Research",
+      "url": "https://careers.societegenerale.com/en/ukearlycareers",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate; 2-year rotational programme",
+      "requirements": "8-week training + real-world experience in Global Markets",
+      "comp_local": "GBP 50,000-65,000 base (est.)",
+      "notes": "Two-year rotational graduate programme in London. Global Markets or Global Banking."
+    },
+    {
+      "location": "Hong Kong",
+      "title": "Graduate Analyst, Global Banking and Advisory (Hong Kong)",
+      "track": "Research",
+      "url": "https://careers.societegenerale.com/en/job-offers/graduate-analyst-global-banking-and-advisory-hong-kong-26000D1S-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Global Banking & Advisory desk placement",
+      "comp_local": "HKD 400,000-600,000 (est.)",
+      "notes": "2026 graduate analyst in HK GBA"
+    },
+    {
+      "location": "London",
+      "title": "Trainee Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000H1F-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Trainee level - suitable for early career",
+      "requirements": "Quantitative research; model development",
+      "comp_local": "GBP 45,000-60,000 base (est.)",
+      "notes": "Trainee quant research analyst in London. Strong entry point for early career."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "firm": "Talos",
+  "careers_url": "https://www.ziprecruiter.com/co/Talos-Trading/Jobs",
+  "offices_in_scope_confirmed": [
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "3 LCAs FY2022-2024; Software Engineer and Financial Planning roles; myvisajobs.com/employer/talos-trading/",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Software Engineer Intern, Backend (Dealer team)",
+      "track": "C++",
+      "url": "https://www.tealhq.com/job/software-engineer-intern-backend-dealer_7ea1af86da027953657e1ec4627bf8c1b1dea",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Intern / early career",
+      "requirements": "Backend engineering; high-performance trading systems",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor (limited filings). Digital asset trading infrastructure firm founded 2018. Confirm full-time roles on careers page."
+    }
+  ]
+}

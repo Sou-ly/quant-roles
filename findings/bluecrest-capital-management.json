@@ -1,0 +1,81 @@
+{
+  "firm": "BlueCrest Capital Management",
+  "careers_url": "https://boards.greenhouse.io/bluecrestcapitalmanagement",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Junior Quant Developer",
+      "track": "C++",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/5546892003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior level - suitable for early career",
+      "requirements": "Front Office Technology; pricing platform, PNL and risk systems; C++/Python",
+      "comp_local": "GBP 60,000-90,000+ total (est.)",
+      "notes": "Reports to Head of Risk Technology. Building in-house pricing platform."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer (AI)",
+      "track": "ML Performance",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/6585476003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "AI toolkit for rates and commodity trading desks; Python; desk strat team",
+      "comp_local": "GBP 80,000-120,000+ total (est.)",
+      "notes": "Building AI-powered financial analysis toolkit for traders. Strong ML/AI focus."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Analyst (Rates)",
+      "track": "Research",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/6296975003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Signal-generative models; market monitors; Python; trade idea generation",
+      "comp_local": "GBP 80,000-120,000+ total (est.)",
+      "notes": "Rates quant research at private hedge fund (~$10bn+ family office)"
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Developer",
+      "track": "C++",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/5981379003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Requires 5yr C# experience (may be senior)",
+      "requirements": "C#, Python, C++; commodities desk; front office",
+      "comp_local": "GBP 100,000-150,000+ total (est.)",
+      "notes": "Commodities desk quant dev. May be too senior for early career."
+    },
+    {
+      "location": "London",
+      "title": "RAD Quantitative Developer",
+      "track": "C++",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/5850836003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "Rapid Application Development team; quant tools",
+      "comp_local": "GBP 70,000-100,000+ total (est.)",
+      "notes": "RAD team within Front Office Technology group"
+    },
+    {
+      "location": "London",
+      "title": "C++ Software Developer",
+      "track": "C++",
+      "url": "https://boards.greenhouse.io/bluecrestcapitalmanagement/jobs/5728173003",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate",
+      "requirements": "C++ development for trading systems",
+      "comp_local": "GBP 80,000-120,000+ total (est.)",
+      "notes": "Core C++ systems development at BlueCrest"
+    }
+  ]
+}

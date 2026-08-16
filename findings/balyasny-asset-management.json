@@ -1,0 +1,36 @@
+{
+  "firm": "Balyasny Asset Management",
+  "careers_url": "https://www.bamfunds.com/careers",
+  "offices_in_scope_confirmed": [
+    "New York, NY",
+    "Chicago, IL"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "111 LCAs FY2025; ranked #599 among all sponsors; 22 green card LCs; h1bgrader.com/h1b-sponsors/balyasny-asset-management-lp-101zyxp827",
+  "roles": [
+    {
+      "location": "New York, NY / Chicago, IL",
+      "title": "Technology Academy - Software Engineer (Early Career Rotational)",
+      "track": "C++",
+      "url": "https://www.bamfunds.com/careers/early-career",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career / new grad; rotational first year",
+      "requirements": "CS or related degree; first year rotation across technology teams",
+      "comp_local": "~$167K base average for QD roles (Glassdoor); $245K-$390K total",
+      "notes": "Known H-1B sponsor. 111 LCAs FY2025 - very active sponsor. Technology Academy rotational program. $20B+ AUM."
+    },
+    {
+      "location": "New York, NY / Chicago, IL",
+      "title": "Catalyst Program - Investment Analyst (Early Career)",
+      "track": "Research",
+      "url": "https://www.bamfunds.com/careers/early-career",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "1-5 years financial experience",
+      "requirements": "Six-month development program; modeling, valuation, Python, AI training",
+      "comp_local": "$128K base for junior quant analyst",
+      "notes": "Known H-1B sponsor. Bridges into buy-side investment analyst roles."
+    }
+  ]
+}

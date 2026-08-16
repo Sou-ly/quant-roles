@@ -1,0 +1,21 @@
+{
+  "firm": "Societe Generale",
+  "careers_url": "https://careers.societegenerale.com/en",
+  "offices_in_scope_confirmed": ["London", "Paris"],
+  "offices_checked_not_found": [],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Trainee Quantitative Research Analyst",
+      "track": "Research",
+      "url": "https://careers.societegenerale.com/en/job-offers/trainee-quantitative-research-analyst-26000H1F-en",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Trainee level — early career / graduate friendly.",
+      "requirements": "Quantitative Research | Quant, Index & ETF Research team | Systematic investment strategies | Quantitative models | Cross-asset research",
+      "comp_local": "",
+      "notes": "Award-winning Quant, Index & ETF Research team. Developing systematic investment strategies and quantitative models. London."
+    }
+  ],
+  "notes": "Major French bank. Fortune Global 500. Strong Cross Asset Quant Research team. French national — no sponsorship needed in Paris."
+}

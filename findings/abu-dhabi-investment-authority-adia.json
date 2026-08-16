@@ -1,0 +1,21 @@
+{
+  "firm": "Abu Dhabi Investment Authority (ADIA)",
+  "careers_url": "https://www.adia.ae/",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Researchers & Developers",
+      "track": "ML Performance",
+      "url": "https://jobs.adia.ae/_/j/4CFA7E24F7/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate visible",
+      "requirements": "Advanced DSA, factor modelling, GARCH, ML/AI in investments; Python, C++",
+      "comp_local": "GBP 100,000-200,000+ total (est. - sovereign wealth fund comp)",
+      "notes": "$870bn sovereign wealth fund. QRD team of 100+ people. ADIA Lab for applied research. Rigorous interview process."
+    }
+  ]
+}

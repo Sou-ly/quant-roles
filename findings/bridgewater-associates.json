@@ -1,0 +1,72 @@
+{
+  "firm": "Bridgewater Associates",
+  "careers_url": "https://job-boards.greenhouse.io/bridgewater89",
+  "offices_in_scope_confirmed": [
+    "Westport, CT",
+    "New York, NY"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "47 LCAs FY2025; 435 total LCA filings; median $125,923; h1bgrader.com/h1b-sponsors/bridgewater-associates-lp-1kznn7pjkm",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Research Associate, Commodities Data Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level (early career)",
+      "requirements": "Data engineering; commodities research",
+      "comp_local": "~$135K base + $39K additional (Glassdoor)",
+      "notes": "Known H-1B sponsor. 47 LCAs FY2025. World's largest hedge fund."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Research Associate, Equities Data Engineer",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8642664002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level (early career)",
+      "requirements": "Data engineering; equities research",
+      "comp_local": "~$135K base",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Client Investment Research Associate",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level",
+      "requirements": "Investment research; client-facing analytics",
+      "comp_local": "~$135K base",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "Westport, CT",
+      "title": "Data Associate",
+      "track": "C++",
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8228699002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level (early career)",
+      "requirements": "Data analysis and engineering",
+      "comp_local": "~$132K median total (Glassdoor Tech Associate)",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "Westport, CT",
+      "title": "Data Sourcing & Strategy Associate",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8490001002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level (early career)",
+      "requirements": "Data sourcing and strategy",
+      "comp_local": "~$132K median total",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

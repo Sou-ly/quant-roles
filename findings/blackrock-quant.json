@@ -1,0 +1,44 @@
+{
+  "firm": "BlackRock",
+  "careers_url": "https://careers.blackrock.com/",
+  "offices_in_scope_confirmed": ["London", "San Francisco", "New York"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "2026 Quantitative Masters Internship Program",
+      "track": "Research",
+      "url": "https://careers.blackrock.com/job/london/2026-quantitative-masters-internship-program-london/45831/83232695472",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Students in analytics, CS, engineering, mathematics, or quantitative master's programs graduating Aug 2026 - Jul 2027. Minimum 1 year relevant work experience.",
+      "requirements": "Quantitative research | Python, R, MATLAB | Statistics | Financial modeling | Analytics/CS/Engineering/Math master's",
+      "comp_local": "",
+      "notes": "BlackRock quantitative masters internship 2026. London. World's largest asset manager ($10T+ AUM)."
+    },
+    {
+      "location": "London",
+      "title": "Associate, Quantitative Researcher - Systematic Active Equity",
+      "track": "Research",
+      "url": "https://careers.blackrock.com/job/london/associate-quantitative-researcher-systematic-active-equity/45831/99017512480",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level — typically 0-3 years experience.",
+      "requirements": "Systematic active equity | Quantitative research | Alpha signals | Factor models | Python | Statistics",
+      "comp_local": "",
+      "notes": "Systematic Active Equity (SAE) quant research. Associate level. London."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Investment Researcher, BlackRock Investment Institute, Associate",
+      "track": "Research",
+      "url": "https://careers.blackrock.com/job/london/quantitative-investment-researcher-blackrock-investment-institute-associate/45831/93763593040",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level — 0-3 years.",
+      "requirements": "Quantitative investment research | Economics | Statistics | Python | Financial markets",
+      "comp_local": "",
+      "notes": "BlackRock Investment Institute (BII) — the firm's think tank. Associate level."
+    }
+  ],
+  "notes": "BlackRock is the world's largest asset manager ($10T+ AUM). Aladdin platform. Systematic Active Equity and Multi-Asset quant teams. London, NYC, SF."
+}

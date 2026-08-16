@@ -1,9 +1,58 @@
 {
   "firm": "Wolverine Trading",
   "careers_url": "https://careers.wolve.com/",
-  "offices_in_scope_confirmed": ["London"],
-  "offices_checked_not_found": ["Hong Kong", "Singapore", "Tokyo", "Shanghai", "Amsterdam", "Dublin", "Paris", "Frankfurt", "Zurich"],
-  "roles": [],
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "offices_checked_not_found": [
+    "Hong Kong",
+    "Singapore",
+    "Tokyo",
+    "Shanghai",
+    "Amsterdam",
+    "Dublin",
+    "Paris",
+    "Frankfurt",
+    "Zurich"
+  ],
+  "roles": [
+    {
+      "location": "Chicago, IL",
+      "title": "Quantitative Analyst",
+      "track": "Research",
+      "url": "https://builtin.com/job/quantitative-analyst/8313177",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry-level; Bachelor's+ in quant field",
+      "requirements": "Bachelor's+ in Math, Statistics, Physics, CS, Engineering; strong probability/statistics foundation",
+      "comp_local": "$70,000-$110,000 base + discretionary bonus",
+      "notes": "Known H-1B sponsor (historical). Posting may have closed June 2026 - check directly. Wolverine Asset Management arm."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Execution Quantitative Researcher",
+      "track": "Research",
+      "url": "https://builtin.com/job/execution-quantitative-researcher/9016557",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early career researcher",
+      "requirements": "Quantitative background; execution/microstructure research",
+      "comp_local": "$100,000-$140,000 base",
+      "notes": "Known H-1B sponsor (historical). Derivatives valuation and trading."
+    },
+    {
+      "location": "Chicago, IL",
+      "title": "Trading Systems Analyst",
+      "track": "C++",
+      "url": "https://builtin.com/job/trading-systems-support-engineer/3196443",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry to mid career",
+      "requirements": "Trading systems support; technical analysis",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor (historical)."
+    }
+  ],
   "existing_rows_audit": [
     {
       "location": "Chicago",

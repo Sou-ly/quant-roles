@@ -1,0 +1,22 @@
+{
+  "firm": "GAM Investments",
+  "careers_url": "https://www.gam.com/",
+  "offices_in_scope_confirmed": [
+    "Zurich",
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Systematic Investment Strategies - check directly",
+      "track": "Research",
+      "url": "https://www.gam.com/en/our-capabilities/gam-cantab",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Check directly",
+      "requirements": "Systematic/quantitative investment strategies (GAM Cantab)",
+      "comp_local": "GBP 60,000-100,000+ total (est.)",
+      "notes": "GAM Cantab is the systematic investment arm. Dedicated teams in London and Zurich. ~294 employees total."
+    }
+  ]
+}

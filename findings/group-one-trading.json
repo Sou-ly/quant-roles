@@ -1,0 +1,23 @@
+{
+  "firm": "Group One Trading",
+  "careers_url": "https://group1.com/careers/",
+  "offices_in_scope_confirmed": [
+    "Chicago, IL"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "3 LCAs FY2025, all certified; Software Developer, Financial Analyst roles; h1bgrader.com/h1b-sponsors/group-one-trading-lp-dvk4drdpkw",
+  "roles": [
+    {
+      "location": "Chicago, IL",
+      "title": "Trading Analyst (entry-level)",
+      "track": "Research",
+      "url": "https://group1.applicantpro.com/jobs/",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry-level; internship-to-hire pipeline",
+      "requirements": "Quantitative research and analysis background",
+      "comp_local": "$100,000-$120,000 base",
+      "notes": "Known H-1B sponsor. 3 LCAs FY2025 all certified. Small firm - check careers page for current openings."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "firm": "Susquehanna International Group (SIG)",
+  "careers_url": "https://careers.sig.com/recent-graduate/jobs",
+  "offices_in_scope_confirmed": [
+    "Bala Cynwyd, PA (Philadelphia)"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "46 LCAs filed FY2025; 384 total H1B employees as of 2023; h1bgrader.com/h1b-sponsors/susquehanna-international-group-llp-8r0vp7zq01",
+  "roles": [
+    {
+      "location": "Bala Cynwyd, PA",
+      "title": "Quantitative Strategy Developer - New Grad",
+      "track": "C++",
+      "url": "https://careers.sig.com/technology-recent-graduate/jobs/9531?lang=en-us",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad, Bachelor's/MS/PhD in CS, Math, or related",
+      "requirements": "Bachelor's degree minimum; intention to begin full-time by Aug 2026",
+      "comp_local": "$80K-$120K base (Levels.fyi reports $210K-$406K total for QD role)",
+      "notes": "Known H-1B sponsor. 46 LCAs FY2025. Training program for new grads with customized first-year learning plan."
+    },
+    {
+      "location": "Bala Cynwyd, PA",
+      "title": "Quantitative Research - New Grad",
+      "track": "Research",
+      "url": "https://careers.sig.com/quantitative-research/jobs",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "New grad",
+      "requirements": "Strong quantitative background; math, stats, CS",
+      "comp_local": "Not published (competitive prop trading comp)",
+      "notes": "Known H-1B sponsor. Check careers page for specific new grad quant research openings."
+    }
+  ]
+}

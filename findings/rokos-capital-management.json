@@ -1,0 +1,21 @@
+{
+  "firm": "Rokos Capital Management",
+  "careers_url": "https://www.rokoscapital.com/careers",
+  "offices_in_scope_confirmed": [
+    "London"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Technology Graduate Programme 2026",
+      "track": "C++",
+      "url": "https://www.brightnetwork.co.uk/graduate-jobs/rokos-capital-management/technology-graduate-programme-2026",
+      "verification": "reported-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "A*/A at A-level or equiv; on track for 1st in STEM at leading university",
+      "requirements": "Three 6-month rotations across technology teams; excellent OOP programming skills",
+      "comp_local": "GBP 60,000-80,000+ base (est.)",
+      "notes": "Deadline 14 Oct 2025. Supports investment, research, and quant professionals. $17bn+ macro fund."
+    }
+  ]
+}

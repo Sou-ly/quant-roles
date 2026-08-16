@@ -1,0 +1,59 @@
+{
+  "firm": "AQR Capital Management",
+  "careers_url": "https://careers.aqr.com/jobs",
+  "offices_in_scope_confirmed": [
+    "Greenwich, CT"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "50 LCAs FY2024; 163 LCAs FY2022-2024; median $140K; 19 green card LCs; h1bgrader.com/h1b-sponsors/aqr-capital-management-llc-101z44qp27",
+  "roles": [
+    {
+      "location": "Greenwich, CT",
+      "title": "Research & Portfolio Management Engineering - Associate",
+      "track": "C++",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8088187",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Associate level (early career)",
+      "requirements": "Engineering for research and portfolio management systems",
+      "comp_local": "~$120K-$135K base (AQR SWE range); ~$205K total (associate avg)",
+      "notes": "Known H-1B sponsor. 50 LCAs FY2024. Systematic quant fund founded by Cliff Asness."
+    },
+    {
+      "location": "Greenwich, CT",
+      "title": "Global Stock Selection Research - Analyst/Associate",
+      "track": "Research",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7558085",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Analyst/Associate level",
+      "requirements": "Stock selection research; quantitative methods",
+      "comp_local": "~$140K base (median H1B)",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "Greenwich, CT",
+      "title": "Research Analyst - Discretionary Macro",
+      "track": "Research",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7979589",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Analyst level",
+      "requirements": "Macro research; quantitative analysis",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor."
+    },
+    {
+      "location": "Greenwich, CT",
+      "title": "Software Engineer - Quantitative Research",
+      "track": "C++",
+      "url": "https://www.ziprecruiter.com/c/AQR/Job/Software-Engineer-Quantitative-Research/-in-Greenwich,CT?jid=4d83e57e9d90d43c",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Early to mid career",
+      "requirements": "Software engineering for Global Stock Selection Quant Research",
+      "comp_local": "$120,000-$135,000 base",
+      "notes": "Known H-1B sponsor."
+    }
+  ]
+}

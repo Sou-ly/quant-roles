@@ -1,0 +1,68 @@
+{
+  "firm": "ExodusPoint Capital Management",
+  "careers_url": "https://boards.greenhouse.io/exoduspoint",
+  "offices_in_scope_confirmed": ["London", "New York"],
+  "roles": [
+    {
+      "location": "London",
+      "title": "Quantitative Researcher (London)",
+      "track": "Research",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=exoduspoint&token=7839186002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "No explicit years gate.",
+      "requirements": "Quantitative research | Trading models | Alpha signals | Python | Statistics",
+      "comp_local": "",
+      "notes": "Building trading models and alpha signals under a portfolio manager. London."
+    },
+    {
+      "location": "London",
+      "title": "Junior Quantitative Modeler",
+      "track": "Research",
+      "url": "https://boards.greenhouse.io/exoduspoint/jobs/6988611002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Junior level — early career friendly.",
+      "requirements": "Quantitative modeling | Valuation models | Risk models | Python/C++ | MSc/PhD quantitative field",
+      "comp_local": "",
+      "notes": "Junior quant modeler. Early career."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Modeling Intern - London",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/xpcampus/jobs/8443727002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry-level internship. BSc/MSc/PhD in technical subject.",
+      "requirements": "Quantitative modeling | Valuation and risk models | Financial securities | Cross-asset",
+      "comp_local": "",
+      "notes": "ExodusPoint Campus. Entry-level quant modeling intern."
+    },
+    {
+      "location": "London",
+      "title": "Quantitative Research Intern (Equity)",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/7659163002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Intern. Equity quant team.",
+      "requirements": "Quantitative research | Equity | Python | Statistics",
+      "comp_local": "",
+      "notes": "Equity quant research intern."
+    },
+    {
+      "location": "London",
+      "title": "Fixed Income Internship - Summer 2026",
+      "track": "Research",
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8209528002",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Summer 2026 internship.",
+      "requirements": "Fixed income | Trading technology | Quantitative analytics | Python/C++",
+      "comp_local": "",
+      "notes": "Fixed income internship summer 2026."
+    }
+  ],
+  "notes": "ExodusPoint is a $15B+ multi-strategy fund founded by Michael Gelband (ex-Millennium CIO). London and NYC."
+}

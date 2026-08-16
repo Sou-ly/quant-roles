@@ -1,0 +1,82 @@
+{
+  "firm": "BNP Paribas",
+  "careers_url": "https://group.bnpparibas/en/careers",
+  "offices_in_scope_confirmed": [
+    "London",
+    "Paris"
+  ],
+  "roles": [
+    {
+      "location": "London",
+      "title": "London Graduate Associate Programme 2026 - Global Markets Quantitative Research",
+      "track": "C++",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-graduate-associate-programme-2026-global-markets-quantitative-research",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "MSc or PhD in CS, Maths, Physics, Quant Finance, Engineering",
+      "requirements": "C++, Python, Java, R or equivalent; 3-week induction then full-time in Rates, Credit, FX, Repo, or Prime Services quant team",
+      "comp_local": "GBP 60-80k base (est.)",
+      "notes": "Graduate programme with immediate desk responsibility. Strong C++ emphasis."
+    },
+    {
+      "location": "London",
+      "title": "London 2026 Global Markets Graduate Analyst - Research",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-2026-global-markets-graduate-analyst-research",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Join a specific desk from Day 1",
+      "comp_local": "GBP 55-70k base (est.)",
+      "notes": "Global Markets research desk placement"
+    },
+    {
+      "location": "Paris",
+      "title": "Quantitative Research Graduates' Programme 2026",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/quantitative-research-graduates-programme-2026",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate; MSc/PhD in quantitative field",
+      "requirements": "6-month rotation in QR Team Architecture + 3-month rotation in LAB Data Science",
+      "comp_local": "EUR 50-65k base (est.)",
+      "notes": "Starts 17 August 2026. Paris-based QR programme. French national - ideal fit."
+    },
+    {
+      "location": "Paris",
+      "title": "Macro Quant & Derivatives Strategy Graduates' Programme 2026",
+      "track": "Research",
+      "url": "https://group.bnpparibas/en/careers/job-offer/quantitative-research-graduates-programme-2026-1",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Macro quant research; evidence-based research on macroeconomics and major asset classes; client-facing",
+      "comp_local": "EUR 50-65k base (est.)",
+      "notes": "Part of Markets 360. Generates trade ideas and market analysis for publications."
+    },
+    {
+      "location": "London",
+      "title": "London Graduate Associate Programme 2026 - Automated Market Making ETF",
+      "track": "ML Performance",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-graduate-associate-programme-2026-automated-market-making-etf",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Recent graduate",
+      "requirements": "Automated/algorithmic market making for ETFs",
+      "comp_local": "GBP 60-80k base (est.)",
+      "notes": "Automated market making - strong ML/systems fit"
+    },
+    {
+      "location": "London",
+      "title": "London Long Term Internship 2026 - Cash Equities Quantitative Research",
+      "track": "ML Performance",
+      "url": "https://careers.cib.bnpparibas/jobs/london-long-term-internship-2026-cash-equity-electronic-equities/",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Student or recent graduate",
+      "requirements": "Cash equities execution platform; quantitative models; algorithmic techniques",
+      "comp_local": "GBP 40,000-55,000 pro-rata (est.)",
+      "notes": "Long-term internship in cash equities electronic trading quant research"
+    }
+  ]
+}

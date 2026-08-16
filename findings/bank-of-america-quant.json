@@ -1,0 +1,48 @@
+{
+  "firm": "Bank of America (Quant)",
+  "careers_url": "https://careers.bankofamerica.com/en-us/students/programs/quantitative-data-analytics",
+  "offices_in_scope_confirmed": [
+    "New York, NY",
+    "Charlotte, NC"
+  ],
+  "h1b_verified": true,
+  "h1b_evidence": "67 LCAs FY2026 (100% approval); 88 Financial Quantitative Analyst positions historically; h1bgrader.com/h1b-sponsors/bank-of-america-na-370o5m9xkz",
+  "roles": [
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Finance Analyst (ID: 26017245)",
+      "track": "Research",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017245/quantitative-finance-analyst-multiple-locations",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry level",
+      "requirements": "Develop new models, analytic processes, systems; technical documentation",
+      "comp_local": "$70K-$116K base (ZipRecruiter range)",
+      "notes": "Known H-1B sponsor (case-by-case). 67 LCAs FY2026 all approved."
+    },
+    {
+      "location": "Multiple locations",
+      "title": "Quantitative Finance Analyst (ID: 26016423)",
+      "track": "Research",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26016423/quantitative-finance-analyst-multiple-locations",
+      "verification": "verified-primary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry level",
+      "requirements": "Quantitative modeling; programming",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor (case-by-case)."
+    },
+    {
+      "location": "New York, NY",
+      "title": "Quantitative Finance Analyst (Built In NYC)",
+      "track": "Research",
+      "url": "https://www.builtinnyc.com/job/quantitative-finance-analyst/6274566",
+      "verification": "verified-secondary",
+      "live_as_of": "2026-08-16",
+      "eligibility": "Entry level",
+      "requirements": "Quantitative finance; New York location",
+      "comp_local": "Not published",
+      "notes": "Known H-1B sponsor (case-by-case)."
+    }
+  ]
+}
